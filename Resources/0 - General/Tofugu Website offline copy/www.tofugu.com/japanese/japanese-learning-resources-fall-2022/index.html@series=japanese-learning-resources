@@ -1,0 +1,837 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='David Honeycutt' name='author'>
+<meta content='Ian J. Battaglia' name='author'>
+<meta content='Rachel Grant' name='author'>
+<meta content='Get the best new Japanese study tools. This fall: a site to train pitch accent, a podcast for foodies, a book for business japanese, and more!' name='description'>
+<meta content='japanese learning, apps, tools, resources' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Get the best new Japanese study tools. This fall: a site to train pitch accent, a podcast for foodies, a book for business japanese, and more!' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2022-09-30-japanese-learning-resources-fall-2022/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='New Japanese Learning Resources: Fall 2022' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2022/' property='og:url'>
+<meta content='https://www.tofugu.com/japanese/tofugu-learn-kana-quiz/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-winter-2022/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-summer-2022/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-spring-2022/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kedo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-winter-2021/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kosoado/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/todai-easy-japanese-news-app/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2021/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/futokoro/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/akeru-aku-hirakeru-hiraku/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/ni-vs-de/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-summer-2021/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/naka-vs-uchi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-spring-2021/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-books-for-upper-beginners/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/anata/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-winter-2020/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/what-should-i-call-you/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2020/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/sasuga/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-summer-2020/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-spring-2020/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-summer-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-may-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-april-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-march-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-february-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-january-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-november-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-october-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-september-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-august-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-july-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-may-june-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-april-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-march-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-january-february-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-awards-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-december-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-november-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-matthew-chozick/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-october-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-loretta-kemushichan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-september-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-august-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-july-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-jonathan-kirk/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-michael/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-june-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-james/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-adam/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-may-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-dogen/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-dan-bornstein/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-april-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-particle-monono/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-particle-kana/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/japanese-from-zero/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/best-kanji-learning-programs/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/best-hiragana-and-katakana-learning-resources/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-koichi/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='David Honeycutt' property='article:author'>
+<meta content='Ian J. Battaglia' property='article:author'>
+<meta content='Rachel Grant' property='article:author'>
+<meta content='2022-09-30T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japanese' property='article:section'>
+<meta content='japanese learning' property='article:tag'>
+<meta content='apps' property='article:tag'>
+<meta content='tools' property='article:tag'>
+<meta content='resources' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@JPKid888' name='twitter:creator'>
+<meta content='Get the best new Japanese study tools. This fall: a site to train pitch accent, a podcast for foodies, a book for business japanese, and more!' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2022-09-30-japanese-learning-resources-fall-2022/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='New Japanese Learning Resources: Fall 2022' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#d33682' name='twitter:widgets:link-color'>
+<meta content='#d33682' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": [
+    {
+      "@type": "Person",
+      "image": "https://www.tofugu.com/images/about/people/avatar-david-honeycutt-af7d879d.jpg",
+      "jobTitle": "Writer",
+      "name": "David Honeycutt",
+      "sameAs": [
+        "https://www.twitter.com/JPKid888",
+        "https://www.instagram.com/dahoneycutt/"
+      ],
+      "url": "https://www.tofugu.com/about/people/david-honeycutt/",
+      "description": "David Honeycutt is Japanophile, author, graduate researcher, language teacher, and husband to the world's most supportive wife. His research focuses on spaced-repetition methods related to kanji learning by learners of Japanese. Hobbies include teaching Japanese (amongst other languages), hoarding learning resources, and acquiring knowledge however he can. And while Japanese takes up the majority of his interest in languages, he also has interest and experience in American Sign Language, Esperanto, French, some Mandarin, and a little Korean.",
+      "email": "hanikatto@icloud.com"
+    },
+    {
+      "@type": "Person",
+      "image": "https://www.tofugu.com/images/about/people/avatar-ian-j-battaglia-378d8bf5.jpg",
+      "jobTitle": "Writer",
+      "name": "Ian J. Battaglia",
+      "sameAs": [
+        "https://www.twitter.com/IanJBattaglia",
+        "https://mnchrm.co/"
+      ],
+      "url": "https://www.tofugu.com/about/people/ian-j-battaglia/",
+      "description": "Ian J. Battaglia is a writer and photographer based out of Chicago. He is one of the editors of The Chicago Review of Books, and his work has appeared in The LA Review of Books, Input Magazine, The Kenyon Review, and Chicago Reader, among others. He is currently working on a novel. He loves Japanese culture and learning more about the language! Follow him on Twitter <a href="https://www.tofugu.com/japanese/japanese-learning-resources-fall-2022/\&quot;https://www.twitter.com/IanJBattaglia\&quot;">@IanJBattaglia.</a>",
+      "email": "ianbattaglia@gmail.com"
+    },
+    {
+      "@type": "Person",
+      "image": "https://www.tofugu.com/images/about/people/avatar-rachel-grant-60d88532.jpg",
+      "jobTitle": "Customer Support Specialist",
+      "name": "Rachel Grant",
+      "sameAs": [
+
+      ],
+      "url": "https://www.tofugu.com/about/people/rachel-grant/",
+      "description": "Rachel is the Customer Support Specialist at Tofugu, and as the job description states, she loves working with customers and talking to people in general. She has a long history with learning Japanese. She began in kindergarten at an immersion program in Portland and continued through university where she studied Economics and Japanese Language. She was on the JET Program for three years as an ALT and PA in Sapporo, Japan. In her free time, she loves exercising, cafe hopping, and long sauna sessions.",
+      "email": "rachel.grant@tofugu.com"
+    }
+  ],
+  "datePublished": "2022-09-30T00:00:00Z",
+  "description": "Get the best new Japanese study tools. This fall: a site to train pitch accent, a podcast for foodies, a book for business japanese, and more!",
+  "headline": "New Japanese Learning Resources: Fall 2022",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japanese/2022-09-30-japanese-learning-resources-fall-2022/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japanese/2022-09-30-japanese-learning-resources-fall-2022/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "japanese learning, apps, tools, resources",
+  "name": "New Japanese Learning Resources: Fall 2022",
+  "url": "https://www.tofugu.com/japanese/japanese-learning-resources-fall-2022/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2022-09-30T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japanese/japanese-learning-resources-fall-2022/"
+}
+</script>
+
+<title>New Japanese Learning Resources: Fall 2022</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2022/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='https://www.tofugu.com/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://www.tofugu.com/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://www.tofugu.com/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://www.tofugu.com/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://www.tofugu.com/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='https://www.tofugu.com/favicon.png' rel='shortcut icon'>
+<link href='https://www.tofugu.com/favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japanese japanese_japanese-learning-resources-fall-2022 japanese_japanese-learning-resources-fall-2022_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='https://www.tofugu.com/'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japanese/' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='https://www.tofugu.com/japanese/' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.1' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-learning-resources-database/' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japan/' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='https://www.tofugu.com/japan/' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/series/' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/travel/' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/reviews/' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/interviews/' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='https://www.tofugu.com/podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=japanese-learning-resources#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japanese/2022-09-30-japanese-learning-resources-fall-2022/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japanese/2022-09-30-japanese-learning-resources-fall-2022/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+New Japanese Learning Resources: Fall 2022
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+This season's best tools to help you learn Japanese
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2022-09-30T00:00:00Z">September 30, 2022</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/david-honeycutt/index.html" rel="author">David Honeycutt</a>, <a href="https://www.tofugu.com/about/people/ian-j-battaglia/" rel="author">Ian J. Battaglia</a>, and <a href="../../about/people/rachel-grant.1" rel="author">Rachel Grant</a>
+•
+Art by
+<a href="https://www.tofugu.com/about/people/aya-francisco/">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japanese/2022-09-30-japanese-learning-resources-fall-2022/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+<p class='article-series series-japanese-learning-resources hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="https://www.tofugu.com/series/japanese-learning-resources/">Japanese Learning Resources
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>Changing leaves, cooler weather, the scent of pumpkin spice — break out the flannel, Autumn's here! For many, that might mean back to school, but even if not, it's a great time to refocus your Japanese studies. Here's some of the best Japanese learning resources that were new to us over the past few months. So get cozy and get studying!</p>
+
+<ul id="markdown-toc">
+  <li><a href="index.html@series=japanese-learning-resources#migaku-pitch-trainer" id="markdown-toc-migaku-pitch-trainer">Migaku Pitch Trainer</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#pokmon-kids-tv-japan" id="markdown-toc-pokmon-kids-tv-japan">Pokémon Kids TV Japan</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#jlpt-grammar-list-and-example-sentences-by-chika-senseis-japanese-academy" id="markdown-toc-jlpt-grammar-list-and-example-sentences-by-chika-senseis-japanese-academy">JLPT Grammar List and Example Sentences by Chika Sensei's Japanese Academy</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#jpdbio" id="markdown-toc-jpdbio">JPDB.io</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#immersion-kit" id="markdown-toc-immersion-kit">Immersion Kit</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#speak-japanese-naturally" id="markdown-toc-speak-japanese-naturally">Speak Japanese Naturally</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#brutus" id="markdown-toc-brutus">週末の酒がうまい、BRUTUSの聞くレシピ</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#axtongue" id="markdown-toc-axtongue">AxTongue</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#section" id="markdown-toc-section">にほんごで働く！ビジネス日本語30時間</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#riceburger-studios" id="markdown-toc-riceburger-studios">RiceBurger Studios</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#lets-learn-japanese-with-movies-podcast" id="markdown-toc-lets-learn-japanese-with-movies-podcast">Let’s Learn Japanese with Movies Podcast</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#kanji-adventures-for-gamers-and-vtuber-fans-by-nihongo-picnic" id="markdown-toc-kanji-adventures-for-gamers-and-vtuber-fans-by-nihongo-picnic">Kanji Adventures for Gamers and Vtuber Fans by Nihongo Picnic</a></li>
+</ul>
+
+<h2 id="migaku-pitch-trainer">Migaku Pitch Trainer</h2>
+
+<figure class="figure-middle"><img alt="migaku pitch trainer" src="https://files.tofugu.com/japanese-learning-resources-database/migaku-pitch-trainer/migaku-pitch-trainer.jpg" /></figure>
+
+<p>Have trouble getting the pitch of that word just right? This is where Migaku Pitch Trainer comes in! With both a free and paid version, users can take lessons and practice training their ears to distinguish between different types of pitch accents used when pronouncing Japanese words. Unlike some other apps with fantasy words to focus on pitch or computer-generated recordings, Migaku Pitch Trainer uses real Japanese words, and has recordings by native speakers.</p>
+
+<p>The home page contains four main areas: <em>Learn</em>, <em>Train Now</em>, <em>Custom Session</em>, and <em>Achievements</em>. Near the bottom are links to a placement test, as well as a reference guide. Many of these features are free to use to a point, but some (like the <em>Custom Session</em> and placement test) require a paid account from the get-go. Later lessons also require a paid account. For the overall design and quality, it seems like a site worth using. And the audio sound quality is great which makes being able to distinguish between different pitch patterns easy.</p>
+
+<p>Some of the audio files may not play immediately upon being clicked, and some of the recordings may cut off at weird places, but other than that, this site is a great place to get in some pitch accent practice. The addition of a fluid interface and an achievements section really add to the appeal of the site. Going through the lessons is fun, and you can really feel the improvement in your pitch accent skills.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free, $5/month subscription<br /><a href="https://pitch-demo.migaku.io?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="pokmon-kids-tv-japan">Pokémon Kids TV Japan</h2>
+
+<figure class="figure-middle"><img alt="pokemon kids tv japan" src="https://files.tofugu.com/japanese-learning-resources-database/pokemon-kids-tv-japan/pokemon-kids-tv-japan.jpg" /></figure>
+
+<p>Pokémon-loving learners of Japanese, rejoice! If you didn't know already, there is a Pokémon-themed YouTube channel with lots of great videos in Japanese (and English) that may be useful for listening practice and immersion. Videos are designed for kids, so the Japanese used in each one is relatively simple, slow, and many videos come with Japanese subtitles!</p>
+
+<p>There are a number of different kinds of videos. The channel currently boasts 23 different playlists ranging in content from ASMR, to exercise videos, to stories, and more. The <a href="https://youtube.com/playlist?list=PLrLFZHBIm7SnAhr288C-NuCfjRBVuHVks"><em>Experience Adventure</em> playlist</a> is also very educational. Ever want to learn more about airplanes and pilots? There's a <a href="https://youtu.be/WyQE-18kRaM">video</a> for that! What about <a href="https://youtu.be/1mT1hJQ1ygI">sumo</a> or <a href="https://youtu.be/tndUstwwIbA">dentistry</a>? There are videos all about those too.</p>
+
+<p>Even though these videos are aimed at Japanese children, they can be very valuable to learners of Japanese as well. The inclusion of subtitles in Japanese helps viewers confirm what they are hearing, and can serve as a way to encounter new vocabulary. It's fun to use Pokémon Kids TV to learn new words <em>in context</em>. Learners looking to improve their listening skills can use the audio as listening practice, while confirming later with subtitles. But learning aside, the videos on this channel are top-notch quality and overall enjoyable to watch. The abundance of topics also means that there is just about something for everyone to enjoy!</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free!<br /><a href="https://www.youtube.com/c/ポケモンKidsTV?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="jlpt-grammar-list-and-example-sentences-by-chika-senseis-japanese-academy">JLPT Grammar List and Example Sentences by Chika Sensei's Japanese Academy</h2>
+
+<figure class="figure-left"><img alt="chika senseis jlpt grammar lists" src="https://files.tofugu.com/japanese-learning-resources-database/jlpt-grammar-list-and-example-sentences-by-chika-senseis-japanese-academy/jlpt-grammar-list-and-example-sentences-by-chika-senseis-japanese-academy.jpg" /></figure>
+
+<p>Chika Sensei's Japanese Academy is a site dedicated to helping Japanese learners study for the Japanese Language Proficiency Test (JLPT) at all levels. They offer a range of services, from private classes to grammar explanation videos on YouTube. Now, Chika Sensei has a list of Japanese grammar points into documents differentiated by JLPT level. By submitting your name and email address at her <a href="https://japanasubi-en.com/lp/jlptgrammarlist/">website</a>, you will be sent an email containing links to these grammar lists free of charge.</p>
+
+<p>The lists themselves are high quality, and contain a large amount of grammar structures. In every level, she demonstrates each point with an example sentence. At lower levels (N5-N4), she includes an English equivalent of the grammar structure, as well as an English translation of the example sentence in Japanese. And in the N1 lists, all English goes away and is instead supplemented by multiple example sentences in Japanese. It seems that N1 learners get some tough love here, as they will have to look up each grammar point via other resources if they desire an explanation.</p>
+
+<p>A major plus about these grammar lists is the fact that there is a checkbox for every grammar point. This allows learners to physically check off any grammar structure they think is mastered. Paper-and-pen studiers may particularly enjoy this feature. And arguably the best part about these lists is that they are all free. To create such a nice, useful resource and put it out on the Internet in this way is absolutely amazing.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free!<br /><a href="https://japanasubi-en.com/lp/jlptgrammarlist/?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="jpdbio">JPDB.io</h2>
+
+<figure class="figure-middle"><img alt="jpdb io" src="https://files.tofugu.com/japanese-learning-resources-database/jpdb-io/jpdb-io.jpg" /></figure>
+
+<p>JPDB.io is a web app combining a rich Japanese native material database with an SRS to learn the vocabulary for anime, dramas, novels, and more; before you dive in to immerse yourself. Many Japanese learners are familiar with using reading or other native material to learn Japanese as it’s used in context, from grammar to vocabulary. However, rather than making flashcards from words you don't know from a book you're currently reading, for example, JPDB.io allows you to learn and review the words you don't know before even opening the cover.</p>
+
+<p>Combined with this novel approach to vocabulary building is a full-featured Japanese media database. While other sites offer lists of various recommended books or TV series for Japanese learners, by combining this with an SRS that knows your vocabulary, JPDB.io is able to offer recommendations for media that should already be very comprehensible to you.</p>
+
+<p>It's still in active development, so it’s not quite perfect yet, but JPDB is quickly becoming a one-stop-shop for Japanese learners who want to build their vocabularies and practice with native media all in one place.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free! (Bonus features unlocked after subscribing to the Patreon, starting at $5/month)<br /><a href="https://jpdb.io/?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="immersion-kit">Immersion Kit</h2>
+
+<figure class="figure-middle"><img alt="immersion kit" src="https://files.tofugu.com/japanese-learning-resources-database/immersion-kit/immersion-kit.jpg" /></figure>
+
+<p>Ever find a Japanese word out of context, and want an example sentence you’ll actually remember? Or find a word in a novel, news article, or out in the world, and want something a little more dynamic to make a flashcard out of? Look no further than Immersion Kit!</p>
+
+<p>Immersion Kit is a dictionary site containing over 400,000 different Japanese sentences from various anime series. Additionally, every sentence has a screenshot from that moment in the anime, as well as the audio of the line from the show. From there, users can download entire flashcards to add to their Anki decks, or just the audio or picture if you’d like to make your own.</p>
+
+<p>By default, the sentences are sorted by length, with the shortest appearing up top, but you can filter by JLPT level, WaniKani level, or even the anime it comes from (if you wanted to make a deck with only sentences from Fullmetal Alchemist Brotherhood, for example). The anime database is by far the largest, though sentences from dramas, games, news, and literature are slowly being added as well.
+All in all, Immersion Kit is a great site for Japanese learners who appreciate seeing words in context to learn.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free!<br /><a href="https://www.immersionkit.com/?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="speak-japanese-naturally">Speak Japanese Naturally</h2>
+
+<figure class="figure-middle"><img alt="speak japanese naturally" src="https://files.tofugu.com/japanese-learning-resources-database/speak-japanese-naturally/speak-japanese-naturally.jpg" /></figure>
+
+<p>Speak Japanese Naturally is a Japanese-language learning YouTube channel launched in June of 2020. The host, Fumi, offers a wide range of instructive videos, focusing on grammar, pronunciation, and as the name implies, getting closer to how Japanese is actually spoken rather than "textbook language."</p>
+
+<p>Fumi uses a ton of different sources, from interviews, music, and anime, to help convey her explanations. These explanations are offered in English, making Speak Japanese Naturally a great channel for even beginner or lower-intermediate Japanese learners.</p>
+
+<p>While pitch accents, pronunciation, and natural phrasing are cornerstones of Speak Japanese Language, the content isn't quite as honed in as some channels, which might only focus on grammar, for example. But on the other hand, this keeps videos feeling fresh, offering a spread of videos interesting to many different types of learners. If you want to make your Japanese sound a bit more natural, or just want to mix up your YouTube rotation, give Speak Japanese Naturally a try!</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free!<br /><a href="https://www.youtube.com/c/SpeakJapaneseNaturally?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="brutus">週末の酒がうまい、BRUTUSの聞くレシピ</h2>
+
+<figure class="figure-left"><img alt="shuumatsu no sake ga umai brutus no kiku reshipi" src="https://files.tofugu.com/japanese-learning-resources-database/shuumatsu-no-sake-ga-umai-brutus-no-kiku-reshipi/shuumatsu-no-sake-ga-umai-brutus-no-kiku-reshipi.jpg" /></figure>
+
+<p>Cooks and foodies alike are in for a treat with the <em>Brutus Weekend Cooking</em> podcast, 週末の酒がうまい、BRUTUSの聞くレシピ. If you’re not yet familiar with BRUTUS, it's a Japanese lifestyle magazine with articles on fashion, travel, and more. Each of these podcast episodes is around 20 minutes long and focuses on one dish and one beverage that pair nicely together. The podcast hosts and occasional guests discuss how to make the food and drink as well as related topics, like the best place to enjoy these meals.</p>
+
+<p>Unlike a cooking video, where viewers can watch the cooking techniques and mimic them later, the lack of visuals forces you to test your listening comprehension. If you've been wanting to learn more cooking-related terminology, this will be a good opportunity for you to hear more about how to mix, chop, or sauté in Japanese. The speed of the conversation is relatively slow despite being a podcast for native speakers. Japanese learners from upper beginner on will be able to enjoy this series.</p>
+
+<p>Each podcast episode is also accompanied by an article on the menu, which you can find on the <a href="https://brutus.jp/">BRUTUS website</a> under the "Cook" or 料理する section. The articles are in Japanese and include the recipe as well as some beautiful photos of the pairings. Listen before your next dinner party and see how your creation turns out!</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free!<br /><a href="https://open.spotify.com/show/0iIBEFPAF7YAUHki2o11xL?si=e621ce26c5844b2a?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="axtongue">AxTongue</h2>
+
+<figure class="figure-middle"><img alt="axtongue" src="https://files.tofugu.com/japanese-learning-resources-database/axtongue/axtongue.jpg" /></figure>
+
+<p>Do you learn best through music? Are you a fan of Japanese karaoke? If so, AxTongue could be a resource you want to know about. AxTongue is a website that features YouTube videos of Japanese songs with user-submitted lyrics in both Japanese and English. That means that you can listen to Japanese songs and practice the language at the same time.</p>
+
+<p>While watching a music video, you can follow along with the captions conveniently displayed below. The highlighted portion of the Japanese lyrics will correspond to the highlighted portion of the English lyrics. There's an added element of learning with some words removed from the lyrics, and later revealed when that part is sung. There are also more detailed explanations in the upper corner for specific grammar and word help.</p>
+
+<p>Currently, AxTongue primarily features songs, but also includes some language learning conversation videos as well. This resource could be used by any level of learner but is particularly good for upper beginners and intermediate learners. Whether you'd like to give these songs a listen or contribute your own lyrics to a video, head on over to their site.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free!<br /><a href="https://axtongue.com/?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="section">にほんごで働く！ビジネス日本語30時間</h2>
+
+<figure class="figure-left"><img alt="nihongo de hataraku bijinesu nihongo 30 jikan" src="https://files.tofugu.com/japanese-learning-resources-database/nihongo-de-hataraku-bijinesu-nihongo-30-jikan/nihongo-de-hataraku-bijinesu-nihongo-30-jikan.jpg" /></figure>
+
+<p>Have you ever thought about working for a Japanese company? Does the thought of using honorific speech and strict business mannerisms scare you? If so, you may want to check out にほんごで働く！ビジネス日本語30時間 (meaning <em>Work in Japanese! Business Japanese in 30 Hours</em>). Originally published in 2009, this book was updated in early 2022. Like your standard business Japanese textbook, it makes sure you are well-versed in using honorific speech (<em>keigo</em>) and provides plenty of opportunities to practice through sample conversations and role-play activities.</p>
+
+<p>Separated into eight chapters, you will learn what to do and say at a Japanese company in a number of situations: taking phone calls, asking requests, receiving permission, making appointments, and more. Each chapter begins with a warm-up quiz, special expressions, and business-related vocabulary. Then it goes into short interactions, which become the basis of longer conversations in the following section. After that is a role-play section, a practice section (with an emphasis on honorific speech), and finally, a business column in which aspects of Japanese business culture and manners are explained.</p>
+
+<p>As the title indicates, the entire book can be completed in just 30 hours if you dedicate around 3-4 hours per chapter. The design is minimalistic and completely in monochrome which may not be ideal for some learners. It also does not directly teach you honorific speech in each chapter; an explanation of honorific speech is provided in the back of the book.</p>
+
+<p>That said, it does include a separate word booklet with English, Chinese, and Korean translations of all the vocabulary and phrases, which is convenient for people who dislike having to flip to the glossary in the back of the book when they want to look up a word. Additionally, furigana is used above every kanji, so that every word is readable. Plus, all vocabulary presented in each chapter includes pitch accent information. This is valuable for learners who wish to sound as native as possible. And as with many textbooks, there is an accompanying CD with native recordings of all of the sample conversations.</p>
+
+<p>While the minimalist, wordy design may not be everyone's cup of tea, the amount of content and features packed into this book is definitely worth the price. There's a consistent flow throughout, and the business culture information at the end of each chapter is really valuable. According to the teacher information at the front of the book, this text's difficulty is somewhere around JLPT N2 and above. If you are studying for those tests (or just for business Japanese in particular), then this book may be just what you are looking for.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> ¥2,750 (Amazon Japan), $30.99 (Amazon US)<br /><strong>Product Link: </strong><a href="https://www.amazon.co.jp/にほんごで働く-ビジネス日本語30時間-宮崎-道子/dp/4883194906?utm_source=Tofugu">Amazon JP</a>, <a href="https://www.amazon.com/Nihongo-Hataraku-Michiko-Miyazaki/dp/4883194906?utm_source=Tofugu">Amazon</a></div>
+
+<h2 id="riceburger-studios">RiceBurger Studios</h2>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="https://www.youtube.com/embed/-RU9_XnTdJw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="The MOST IMPORTANT Japanese Conversation: Ordering Food"></iframe></div>
+
+<p>If you’re looking for some cute and entertaining videos to watch to learn Japanese, RiceBurger Studios has you covered. These videos can be found on both their YouTube channel and Instagram page, with slightly different content depending on the platform. The main two characters, Oni and Han – derived from the words onigiri and hanbāgā — are a talking riceball and hamburger duo that teach Japanese in a fun and approachable way. This is similar to their creators, two friends whose imagination inspired the voices and animation behind it.</p>
+
+<p>The videos that RiceBurger offers cover various topics like helpful conversational phrases, casual speech, grammar points, and other exercises. Most of these videos are under two minutes in length so you can breeze through them quickly. In these videos, the characters use a mix of Japanese and English. Oftentimes, there are captions to go along with the dialogue in both languages as well. Learners who are around intermediate level will find this the most helpful, but these can be viewed and enjoyed by almost all learners.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free!<br /><strong>Product Link: </strong><a href="https://www.youtube.com/c/RiceBurgerStudios?utm_source=Tofugu">YouTube</a>, <a href="https://www.instagram.com/riceburgerstudios/?utm_source=Tofugu">Instagram</a></div>
+
+<h2 id="lets-learn-japanese-with-movies-podcast">Let’s Learn Japanese with Movies Podcast</h2>
+
+<figure class="figure-middle"><img alt="lets learn japanese with movies podcast" src="https://files.tofugu.com/japanese-learning-resources-database/lets-learn-japanese-with-movies-podcast/lets-learn-japanese-with-movies-podcast.jpg" /></figure>
+
+<p>Any film buffs out there? The Let's Learn Japanese with Movies Podcast is a podcast designed for people just like you! The way it works is there are three parts to the resource — the film, the podcast, and the transcripts of the podcast. You can choose the order of operations here based on what you'd like to focus on. The films are short, mostly award-winners, and in various languages, including silent films.</p>
+
+<p>Each film is broken down into multi-part podcast series where the host, Aki, discusses the film in slow and simple Japanese. The speed and level of vocabulary makes this a good podcast for beginner learners, which it's intended for. The episodes are all about ten minutes long and are entirely in Japanese, except for the occasional English translation word used to help listeners. There is also a Q&amp;A session during the podcasts where Aki asks the listener questions based on what's been said, motivating the listener to pay close attention to the details. Give it a watch, a listen, and a read!</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free!<br /><a href="https://www.letslearnjapanesewithmovies.com/?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="kanji-adventures-for-gamers-and-vtuber-fans-by-nihongo-picnic">Kanji Adventures for Gamers and Vtuber Fans by Nihongo Picnic</h2>
+
+<figure class="figure-middle"><img alt="kanji-adventure-for-gamers-and-vtuber-fans-by-nihongo-picnic" src="https://files.tofugu.com/japanese-learning-resources-database/kanji-adventure-for-gamers-and-vtuber-fans-by-nihongo-picnic/kanji-adventure-for-gamers-and-vtuber-fans-by-nihongo-picnic.jpg" /></figure>
+
+<p><em>Kanji Adventures for Gamers and Vtuber Fans</em> is an online course by <a href="https://nihongopicnic.com/">Nihongo Picnic</a>, a Japanese language school that offers a variety of different courses geared towards the JLPT, business Japanese, kanji, and more.</p>
+
+<p>The class is geared towards learners around the JLPT N3 level but can accommodate learners at the N4 and N2 levels as well. Words with kanji that are common in the Japanese gaming and vtuber (short for <em>virtual YouTuber</em> — someone that makes videos on YouTube using a virtual avatar) communities make up the main content of each lesson. And while word meanings and usages are broken down, the real focus is on their kanji. The entire course covers about 140 kanji and lasts three months, meeting once a week. English is often used by the teacher to explain difficult concepts.</p>
+
+<p>A typical lesson will open with a theme and short discussion. The theme for the sample class was ゲームスキル (game skills) and introduced six words made up of two kanji each, totaling 12 kanji to be learned in that session. For example, we covered two words: 連打 (<em>renda</em>, button-mashing) and 裏技 (<em>urawaza</em>, hidden move or life hack).</p>
+
+<p>Learners are first taught how to pronounce each word 
+using standard pitch-accent based on the NHK pitch accent dictionary. 
+Then, kanji for each of these words are broken down into their 
+individual components and memory hints are provided (similar to what 
+<a href="https://www.wanikani.com">WaniKani</a> does). Learners are also given a chance to write each character on the screen. Once each character is broken down and the full word can be recognized, there is a short conversation that utilizes the word in question. Students are given a chance to practice the dialogue with other students and the teacher. When the class finishes going through all of the words for that lesson, homework is assigned. The class also references WaniKani a lot, offering students a coupon code, and optional homework connected to the app; though being a WaniKani user is not required.</p>
+
+<p>We sampled this <em>Kanji Adventures for Gamers and Vtuber Fans</em> class and it was highly enjoyable; the instructor was very understanding and really made sure all the students were accommodated. The colorful slides, and opportunities to use what one has learned are a huge plus that learners of any level will benefit from.</p>
+
+<p>The course can seem a bit pricey, but that stems from the fact that Nihongo Picnic offers small courses with certified professional, native Japanese teachers. If you would like online lessons with a small class size, Nihongo Picnic likely has something you can take for the right price.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> ¥52,800 for 12 lessons<br /><a href="https://nihongopicnic.notion.site/Kanji-adventure-for-Gamers-and-Vtuber-fans-26c3ee9b91dd4fd5b87c85e56df104be?utm_source=Tofugu">Product Link</a></div>
+
+<hr />
+
+<p><em>While that might be all for this edition, the fun doesn't have to stop here! Should you happen across any other great resources, send us an email at <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#104;&#101;&#108;&#108;&#111;&#064;&#116;&#111;&#102;&#117;&#103;&#117;&#046;&#099;&#111;&#109;">&#104;&#101;&#108;&#108;&#111;&#064;&#116;&#111;&#102;&#117;&#103;&#117;&#046;&#099;&#111;&#109;</a>, or reach out to us on Twitter <a href="https://twitter.com/tofugu">@tofugu</a>. We love hearing from you, and finding new study resources to share together!</em></p>
+
+
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-japanese-learning-resources hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2018-11-13-japanese-learning-resources/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='https://www.tofugu.com/series/japanese-learning-resources/' title='View all articles in Series Japanese Learning Resources'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+Japanese Learning Resources
+</span>
+</a>
+</li>
+<li class='pager-next'>
+<a href='../japanese-learning-resources-summer-2022/index.html@series=japanese-learning-resources' title='View New Japanese Learning Resources: Summer 2022'>
+<small>
+Next Article in Series
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+New Japanese Learning Resources: Summer 2022
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles japanese-prev japanese-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='https://www.tofugu.com/japanese/japanese-language-learning-podcasts-for-intermediate-learners/' title='View The Best Japanese Language Learning Podcasts for Intermediate Learners'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+The Best Japanese Language Learning Podcasts for Intermediate Learners
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='https://www.tofugu.com/japanese/how-to-buy-japanese-ebooks/' title='View The Best Japanese E-Book Retailers for Japanese Learners'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+The Best Japanese E-Book Retailers for Japanese Learners
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japanese'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='https://www.tofugu.com/japanese/how-to-buy-japanese-ebooks/' title='View The Best Japanese E-Book Retailers for Japanese Learners'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older japanese' class='older-article-pagination'></span>
+</small>
+The Best Japanese E-Book Retailers for Japanese Learners
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='https://www.tofugu.com/japanese/japanese-language-learning-podcasts-for-intermediate-learners/' title='View The Best Japanese Language Learning Podcasts for Intermediate Learners'>
+<small>
+<span aria-label='Newer japanese' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+The Best Japanese Language Learning Podcasts for Intermediate Learners
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/about/' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.1' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs.1' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese.1' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/news/' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/newsletter/' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/master-2164c2ee.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

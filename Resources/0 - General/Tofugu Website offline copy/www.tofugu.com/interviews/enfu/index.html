@@ -1,0 +1,832 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Michael Richey' name='author'>
+<meta content='Ken Taya, aka Enfu, is the king of East-West mashups. As a Japanese American who has lived in Japan, his art reflects what it means to straddle both worlds.' name='description'>
+<meta content='art, pop culture, video games, big hero 6' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Ken Taya, aka Enfu, is the king of East-West mashups. As a Japanese American who has lived in Japan, his art reflects what it means to straddle both worlds.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/interviews/2015-01-28-enfu/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='Interview with Ken Taya, aka Enfu, the Master of Japanamericana' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/interviews/enfu/' property='og:url'>
+<meta content='https://www.tofugu.com/travel/park-hotel-tokyo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/chaos-room/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/are-you-an-echo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/japanese-tattoos/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/wabi-sabi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ukiyo-e-cats-in-japanese-art/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/sarah-feinerman/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-sword-viewing/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japonism/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/mori-otani-pottery-studio/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-beauty-language/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/kuzukiri-yamaga/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/shunga-japanese-erotica/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-pottery/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-poetry-crash-course/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/takahiro-hotta-samurai/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/takimoto-somesho-tenugui/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/aomori-museum-of-art/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/shimokitazawa-tokyo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/hige-man-ume-chan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kawaii/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/washi-tape/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/color-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tofugu-top-ten-anime/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/maneki-neko/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-movie-title-translations/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/fart-scrolls/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/world-order-band/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/yoro-park/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/otaku-meaning/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/translating-video-games/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/84-members-only-nintendo-bar/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/otonagai/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/nintendo-collection/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/monster-strike/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/anijya-and-otojya/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/real-pokemon/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/ryan-vandendyck/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/yo-kai-watch/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/japanese-minecraft-professor/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/why-japan-no-longer-dominates-the-video-game-industry/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/ni-no-kuni/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/dating-sims/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/learning-japanese-with-starcraft/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/learn-japanese-nintendo-ds/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Michael Richey' property='article:author'>
+<meta content='2015-01-28T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='interviews' property='article:section'>
+<meta content='art' property='article:tag'>
+<meta content='pop culture' property='article:tag'>
+<meta content='video games' property='article:tag'>
+<meta content='big hero 6' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@tofugu' name='twitter:creator'>
+<meta content='Ken Taya, aka Enfu, is the king of East-West mashups. As a Japanese American who has lived in Japan, his art reflects what it means to straddle both worlds.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/interviews/2015-01-28-enfu/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='Interview with Ken Taya, aka Enfu, the Master of Japanamericana' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#6c71c4' name='twitter:widgets:link-color'>
+<meta content='#6c71c4' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-michael-richey-9c293d25.jpg",
+    "jobTitle": "Designer",
+    "name": "Michael Richey",
+    "sameAs": [
+
+    ],
+    "url": "https://www.tofugu.com/about/people/michael-richey/",
+    "description": "Michael is a designer at Tofugu. He grew up in Charlotte, NC and studied writing and film production at North Carolina School of the Arts. After college, he lived in Hikone, Shiga in Japan for two years on the JET Program. In his spare time, Michael makes comics zines, plays Famicom, and spends time with his family.",
+    "email": "michael@tofugu.com"
+  },
+  "datePublished": "2015-01-28T00:00:00Z",
+  "description": "Ken Taya, aka Enfu, is the king of East-West mashups. As a Japanese American who has lived in Japan, his art reflects what it means to straddle both worlds.",
+  "headline": "Interview with Ken Taya, aka Enfu",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/interviews/2015-01-28-enfu/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/interviews/2015-01-28-enfu/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "art, pop culture, video games, big hero 6",
+  "name": "Interview with Ken Taya, aka Enfu",
+  "url": "https://www.tofugu.com/interviews/enfu/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2015-01-28T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/interviews/enfu/"
+}
+</script>
+
+<title>Interview with Ken Taya, aka Enfu</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="../../stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/interviews/enfu/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='../../apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='../../apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='../../apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='../../apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='../../apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='../../favicon.png' rel='shortcut icon'>
+<link href='../../favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='interviews interviews_enfu interviews_enfu_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='../../index.html'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../../japanese/index.html' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='../../japanese/index.html' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.2' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='../../japanese-learning-resources-database/index.html' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../../japan/index.html' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='../../japan/index.html' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../series/index.html' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../travel/index.html' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../reviews/index.html' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../index.html' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='../../podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/interviews/2015-01-28-enfu/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/interviews/2015-01-28-enfu/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+Interview with Ken Taya, aka Enfu, the Master of Japanamericana
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+Enfu talks with us about video game creation, the psyche behind Japanese art, and his thoughts on Big Hero 6
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2015-01-28T00:00:00Z">January 28, 2015</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/michael-richey/index.html" rel="author">Michael Richey</a>
+•
+Art by
+<a href="../../about/people/aya-francisco/index.html">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/interviews/2015-01-28-enfu/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>When the review copy of Ken Taya’s art book, “Enfu: Cute Grit”, arrived at the Tofugu office, I knew I had something special in my hands. It was one instance where judging a book by its cover was very appropriate. I sat down with headphones full of music and cracked it open. What followed was almost a religious experience.</p>
+
+<p>Seattle-based artist, Ken Taya, aka Enfu, grew up between the U.S. and Japan. From this life experience, he forged an art style that has won him praise as a video game industry professional, as well as laud from art critics and lovers of color the world over.</p>
+
+<p>Tofugu got the opportunity to talk to Ken about his art, career in the video game industry, and what it takes to become a professional in both sectors.</p>
+
+<h2 id="welcome-to-enfu">Welcome to Enfu</h2>
+<figure class="figure-middle"><img alt="cartoon enfu man in baseball hat" src="https://files.tofugu.com/articles/interviews/2015-01-28-enfu/ken-taya-enfu-face.jpg" /></figure>
+
+<h3 id="q-tell-us-a-little-about-ken-taya">Q. Tell us a little about Ken Taya.</h3>
+
+<p>I’m a Japanese American bilingual <i>nisei</i> <ruby>二世<rp>（</rp><rt>にせい</rt><rp>）</rp></ruby>　video game artist. I’ve been making video games for over 13 years as an Environment Artist. The types of games I’ve worked on range from Halo 3 to Scribblnauts Unlimited.</p>
+
+<p>I went to University of Washington and Digipen Institute of Technology. I love hip hop, reggae, and old school rap. I used to breakdance in high school, but if I tried that now I’d snap my neck.</p>
+
+<h3 id="q-what-about-your-artist-name-enfu-what-does-it-mean-and-why-did-you-choose-it">Q. What about your artist name Enfu? What does it mean and why did you choose it?</h3>
+
+<p>I’ve always liked monkeys, and my nickname in high school was “flying monkey” because of the way I played basketball. Enfu is the on’yomi (Chinese reading) of the <a href="../../series/kanji/index.html">Japanese Kanji</a> <i>sarukaze</i> <ruby>猿風<rp>（</rp><rt>さるかぜ</rt><rp>）</rp></ruby>, which literally translates to “monkey wind”. I rarely go by the kanji, but that is the background.</p>
+
+<h3 id="q-when-did-you-first-start-drawing">Q. When did you first start drawing?</h3>
+
+<p>All kids draw, so I was just like any kid and have drawn since then. I guess drawing was always fun for me. What’s hardest is to stay childlike.</p>
+
+<figure class="figure-middle"><img alt="ken taya enfu mash up" src="https://files.tofugu.com/articles/interviews/2015-01-28-enfu/ken-taya-enfy-mashup.jpg" /></figure>
+
+<h3 id="q-what-do-you-do-to-stay-childlike">Q. What do you do to stay childlike?</h3>
+
+<p>This is a scenario that illustrates a time I realized I lost my inner child. I was watching my daughter (then about 4) play Scribblenauts on the Nintendo DS. She was wide eyed playing this game. All she knew was she could write anything and it would appear in the game. She didn’t even know how to write yet.</p>
+
+<p>What I’m trying to drive home is she didn’t yet know how to use the tools, but she was excited about spawning the next object. After many sessions of coaching her on how to spell the names of kitchen and tea items, she eventually got around to asking me “Papa, can I make an ocean?”</p>
+
+<p>I outright told her “I don’t think you can make an ocean in this game, honey.” My reply meant nothing and she asked me how to spell it anyway. I reluctantly spelled out ocean and, to both our surprises, an ocean popped up!</p>
+
+<p>At that moment I realized the adult me was beaten by a child. I was saddened by the restraints I put on myself as to what could and could not be done. I mourn the loss of the child in me, and it will be a lifelong struggle to regain that childlike perspective. As of now I only can harness the inner child in spurts. It is usually the time when I convince myself ‘I can do anything!’</p>
+
+<h2 id="art-and-video-games-a-regular-9-to-5">Art and Video Games: A Regular 9 to 5</h2>
+
+<figure class="figure-middle"><img alt="cartoon of japanese video games guitar hero kinda" src="https://files.tofugu.com/articles/interviews/2015-01-28-enfu/ken-taya-enfu-ddr-pic.jpg" /></figure>
+
+<h3 id="q-when-did-you-know-you-wanted-to-pursue-graphic-arts-as-a-career">Q. When did you know you wanted to pursue graphic arts as a career?</h3>
+
+<p>Well it was more the video game industry I wanted to enter. After graduating and working as a freight forwarder, I decided I wanted to be a part of making something cool. That’s all I knew. I just wanted to ‘make something cool’.</p>
+
+<p>So I reassessed what I enjoyed, which was drawing, speaking Japanese, and playing video games. Then I just said to myself, “What kind of company allows me to do those 3 things specifically and (hopefully) locally as well?” It was Nintendo.</p>
+
+<p>I looked up “how to get into Nintendo”, and Digipen came up as the school next to Nintendo. I took the test, got in, and that’s how I started my journey.</p>
+
+<h3 id="q-how-did-you-get-started-as-a-professional-artist">Q. How did you get started as a professional artist?</h3>
+
+<p>Well, I don’t really know if I’d consider myself a ‘pro’ yet. But in terms of earning a salary making art…pretty much right after Digipen.</p>
+
+<p>Digipen did a great job putting me in probably one of the most stressful, competitive, supportive classes of students. I’m still friends with those guys to this day, and I have fond memories of us all grinding away on our projects and teaching each other.</p>
+
+<p>I started Enfu in 2005 as a creative side outlet because I wanted to make my own thing, not just what I’m hired to make for a company. I started off making screenprints, and my first print, <a href="https://enfu.com/blog/2009/1/12/the-making-of-tako-truck.html">Tako Truck</a>, embodied the content that meant something to me: East meets West…we’re really different yet really similar.</p>
+
+<h3 id="q-so-after-digipen-you-got-straight-into-game-design">Q. So, after Digipen you got straight into game design?</h3>
+
+<p>Well, most of my formal titles were in the realm of Environment Artist, which is only a small slice of the production pipeline in game creation. I would model the digital 3D terrain/buildings/props that are in each scene. Only recently, when I started to make my own games/apps, have I really taken on the role of Designer. Everyone has a ‘designer brain’, but many don’t pursue it and stay within their discipline.</p>
+
+<figure class="figure-middle"><img alt="cartoon fish nuggest old fashioned sign drawing" src="https://files.tofugu.com/articles/interviews/2015-01-28-enfu/fronks-fish-nuggest-by-Ken-taya-enfy.jpg" /></figure>
+
+<h3 id="q-what-does-the-environment-artist-do-beginning-to-end-are-there-specific-steps-to-the-creation-process-or-is-it-more-more-loose-how-long-does-the-whole-process-take-on-a-game-the-size-of-halo-3">Q. What does the Environment Artist do beginning to end? Are there specific steps to the creation process or is it more more loose? How long does the whole process take on a game the size of Halo 3?</h3>
+
+<p>Well, it’s hard to summarize, as it is a really complex process. You basically need to translate what the Designer needs for gameplay and combine that with how the Concept Artist interprets that same scene.</p>
+
+<p>Then, aside from the complexity of creating the 3D models, texturing them, creating shaders for each texture, and flagging surfaces to react to effects a certain way, you have to budget the amount objects that can exist in certain areas whilst keeping the game performant.</p>
+
+<p>Next, you have to make sure all your textures fit within the budget of the level, create geometry like grass and decals like signage, create convincing lighting scenarios, check all your portals dividing the level for loading purposes, and so, so much more technical considerations to weigh. Do players get caught up in the geometry? Can other players identify other characters in front of the busy background?</p>
+
+<p>To me, it is much much more complicated than drawing a picture. Also, much of environment work is a collaborative process, so managing and communication makes this discipline very interdependent.</p>
+
+<h3 id="q-for-our-readers-who-want-to-know-more-about-the-video-game-industry-as-a-whole-what-does-the-whole-process-of-game-creation-entail-beginning-to-end">Q. For our readers who want to know more about the video game industry as a whole, what does the whole process of game creation entail, beginning to end?</h3>
+
+<p>I’ve yet to complete a full game by myself, I’m still on that journey with my iOS match game. But, in a nutshell, a game is born first with a core game mechanic, then the look is conceived. After that, a whole body of work is required to execute the game (asset creation, optimization, level design, UI, animation, testing). Finally, scratch that a couple times and repeat the process until you finally end up with a game. I’ve been fortunate enough to have worked in many of the roles on the art side from beginning to end, aside from the music and programming disciplines. A game has to be fun more than anything else. Looking good is often simply a secondary priority. Many, many artists often forget that.</p>
+
+<h3 id="q-what-advice-do-you-have-for-our-readers-who-may-want-to-get-a-career-started-in-the-video-game-industry">Q. What advice do you have for our readers who may want to get a career started in the video game industry?</h3>
+
+<p>You have to prepare yourself to play games, not as a consumer, but as a developer. That means, first play for reference but allocate most of your time to improving on your actual craft.</p>
+
+<p>But if you’re considering going into the industry…you’ve probably already played many games throughout your youth. I would encourage you to drop everything and draw every single day (assuming your discipline in game design would be art). Then learn the basic digital 2d software like Photoshop. You’ll learn the rest in school. Explore a lot of analogue disciplines before fully pursuing digital tools. Its kind of like the advice of learning on an acoustic guitar before you play electric. You learn to be precise with your fingers on the fret board before you get away with sloppy techniques on electric.</p>
+
+<figure class="figure-middle"><img alt="icons emojis monsters by enfu ken taya" src="https://files.tofugu.com/articles/interviews/2015-01-28-enfu/ken-taya-enfu-monster-icons.jpg" /></figure>
+
+<h3 id="q-it-sounds-like-the-best-way-to-enter-the-field-is-with-formal-training-is-it-possible-to-enter-into-a-video-game-arts-career-without-going-to-a-school-like-digipen">Q. It sounds like the best way to enter the field is with formal training. Is it possible to enter into a video game arts career without going to a school like Digipen?</h3>
+
+<p>Of course. Anything is possible. Of course I’m biased toward Digipen because that is where I went. I know a lot of other successful artists in the game industry that aren’t from Digipen. But I believe Digipen provides more training that goes beyond just the traditional/technical skills of rendering art. They also teach you to collaborate with their Programming department (which produces top talent) and the ability to collaborate with Programmers and other departments is an art in itself. It’s one thing to be able to draw, it’s another thing to be able to make a game. Pick any school if you want to draw. If you want to make games, pick a game school.</p>
+
+<h3 id="q-what-advice-do-you-have-for-readers-who-may-not-want-to-make-art-for-video-games-but-just-make-art-like-you-do-with-enfu">Q. What advice do you have for readers who may not want to make art for video games, but just make art, like you do with Enfu?</h3>
+
+<p>Draw everyday. Draw something that means something to you. Then try to sell it even though you’re not ready. It will toughen you up. Nothing forces you to consider your personal convictions better than having to literally stand behind your work at a table. You will hear many art theories by people who practice a lot, but if you don’t put it out there in action, you really won’t know.</p>
+
+<h2 id="enfu-art-is-born">Enfu Art is Born</h2>
+
+<figure class="figure-middle"><img alt="truck explodng with japanese things ken taya enfu" src="https://files.tofugu.com/articles/interviews/2015-01-28-enfu/ken-taya-enfy-uwajimaya-truck.jpg" /></figure>
+
+<h3 id="q-when-did-you-start-your-enfu-side-projects-and-why">Q. When did you start your Enfu side projects and why?</h3>
+
+<p>I was working on <a href="https://en.wikipedia.org/wiki/F.E.A.R.">F.E.A.R.</a> at the time, and I really curious to see what else I could make other than suspense horror type FPS.</p>
+
+<h3 id="q-do-you-consider-your-enfu-work-as-more-important-than-your-video-game-work-would-you-ever-give-up-one-for-the-other">Q. Do you consider your Enfu work as more important than your video game work? Would you ever give up one for the other?</h3>
+
+<p>I’ve described it before in this way: Working on console games millions of people enjoy, working on Enfu thousands of people enjoy, and drawing a picture for my daughter making only her enjoy…they are all equally rewarding.</p>
+
+<h3 id="q-when-did-you-first-feel-like-you-had-your-style-in-your-book-there-are-examples-of-figure-drawing-and-realistic-styles-you-have-the-skill-draw-in-any-style-so-what-is-it-about-the-iconic-shiny-and-colorful-that-you-feel-represents-you">Q. When did you first feel like you had “your style”? In your book, there are examples of figure drawing and realistic styles. You have the skill draw in any style, so what is it about the iconic, shiny, and colorful that you feel represents you?</h3>
+
+<p>Well, I had put a lot of thought into it before I started doing the screen prints. I wanted to create something that looked hand drawn (hence wavy lines), but also reflected content that was relevant to my background.  I don’t just find a perfectly rendered image of a tree, it needs to be more than that. The style keeps getting refined and changing. But the gist of the style is well explained in my book. Line heavy, colorful, and busy. It really has its roots in what influenced me growing up. Japanese manga, games, and anime. Generally line heavy, colorful, and busy, but also weighs more in favor of content that is whimsical than mature, cute more than gritty.</p>
+
+<figure class="figure-middle"><img alt="cute grit book cover enfu seal with a cross" src="https://files.tofugu.com/articles/interviews/2015-01-28-enfu/enfu-ken-taya-cute-grit-book-cover.jpg" /></figure>
+
+<h3 id="q-lets-talk-enfu-cute-grit-your-book-is-wonderfully-massive-how-did-such-a-gigantic-project-come-about">Q. Let’s talk “Enfu: Cute Grit”. Your book is wonderfully massive. How did such a gigantic project come about?</h3>
+
+<p>Well it took around 2 years to make the book which contains 10 years of my work. My publisher Chin Music Press worked closely with me to compile the gigabytes of data I sent their way. I trusted their book designer, <a href="http://www.dandy-design.com/">Dan D Shafer</a>, to design the flow and look of the book. He just killed it.</p>
+
+<h3 id="q-i-love-the-way-you-use-small-icons-to-create-patterns-what-inspired-this-idea-in-your-work">Q. I love the way you use small icons to create patterns. What inspired this idea in your work?</h3>
+
+<p>I can point to the exact moment where this movement happened for me. I was working on marketing materials for Scribblenauts Unlimited, which was a launch title for the Wii U. I wanted to make an epic gif using all the 3-frame emotes used in the game. As I was putting it together, a coworker came by showed me a better way to put it together. He made it for me programmatically way quicker than had I done it manually. That was the “aha moment”. I asked him to create for me a basic pattern tool, which he did. I did some demos of this pattern tool when I was on book signings and there was feedback that people wanted to buy it. I am currently working with a partner to bring this proprietary software to market.</p>
+
+<p>What I learned from my years as an environment artist is that a big scene is the sum of many many many small parts. And the engineering and creation of these products have so many technical requirements to meet, whilst having to look and feel good on a macro level. But this all starts with thousands of “lego parts”. In a game like Scribblenauts Unlimited, there are literally thousands of things you can spawn. You type in something, it pops up. The experience working on a game like that really only emboldened me to build a huge asset library of little images, and then figure out what to make out of it all. There are so many things you can make if you design your building blocks to be replicated quickly, and engineer the machine and process in which products are made.</p>
+
+<h3 id="q-you-have-an-enfu-app-out-for-iphone-and-ipad-that-lets-you-use-your-iconic-art-as-emoji-so-it-seems-only-appropriate-that-i-ask-you-a-question-with-your-own-art-and-you-do-the-same-with-the-response-here-goes">Q. You have an Enfu app out for iPhone and iPad that lets you use your iconic art as emoji. So it seems only appropriate that I ask you a question with your own art and you do the same with the response. Here goes:</h3>
+
+<figure class="figure-middle"><img alt="getting to an idea emojis enfu" src="https://files.tofugu.com/articles/interviews/2015-01-28-enfu/icon-question-for-ken-taya-enfu.jpg" /></figure>
+<p>Translation: How long does it take to draw one picture icon?</p>
+
+<figure class="figure-middle"><img alt="try again emoji story" src="https://files.tofugu.com/articles/interviews/2015-01-28-enfu/ken-taya-enfu-sticker-chat-response.jpg" /></figure>
+<p>Translation: First I don’t have any good ideas. I try drawing something, fail, and scrap it.</p>
+
+<p>Then I have a better idea and draw it. It is good and it’s party time!</p>
+
+<p>Takes around 30 minutes. I repeat this over and over just chasing that carrot.</p>
+
+<h3 id="q-youve-said-that-your-daughter-is-your-muse-and-inspired-your-character-elly-does-the-musing-come-through-things-she-says-or-is-it-more-unspoken">Q. You’ve said that your daughter is your muse and inspired your character, Elly. Does the musing come through things she says or is it more unspoken?</h3>
+
+<p>Well the whole book <em>Enfu: Cute Grit</em> covers kind of covers the transition of my content being mostly about my Asian American identity, into capturing the fleeting innocent imagination of childhood. I think every parent sees their child and becomes appalled we were once that age, and covets the child’s perspective.</p>
+
+<figure class="figure-middle"><img alt="enfu drawing of a girl with an octopus smiley" src="https://files.tofugu.com/articles/interviews/2015-01-28-enfu/ken-taya-enfu-elly.jpg" /></figure>
+
+<h3 id="q-whats-the-story-behind-your-art-on-clothing-how-did-that-come-about-is-there-anything-special-about-using-clothes-as-a-canvas">Q. What’s the story behind your art on clothing? How did that come about? Is there anything special about using clothes as a canvas?</h3>
+
+<p>Curiosity led me there. I wanted to see what I’d learn from creating a different product offering. That is generally why I like to make many different things. I like wearing trucker caps, so I wanted to make my own. It’s cool to see people wearing them in public.</p>
+
+<p>I was exploring surface design, which is a discipline already similar to what video game environment artists already do, texturing surfaces. I learned more about it, thought about other applications, and clothing was one of them. I invested much of my effort, and I am continuing to invest in this now, into making a pattern-making software that fits my needs.</p>
+
+<h3 id="q-what-artists-have-had-the-most-influence-on-your-work">Q. What artists have had the most influence on your work?</h3>
+
+<p>326, Kozyndan, Toriyama Akira, Taiyo Matsumoto, Mr., and Takashi Murakami. Basically many line heavy, intricately busy, youthful/childlike , and colorful Japanese style renderings are really interesting to me.</p>
+
+<p>Japanamericana: Creating Art That Straddles Two Worlds</p>
+
+<figure class="figure-middle"><img alt="enfu combination of japanese and american cartoon characters" src="https://files.tofugu.com/articles/interviews/2015-01-28-enfu/japan-america-crane-game-ken-taya-enfu.jpg" /></figure>
+
+<h3 id="q-you-lived-in-sendai-japan-for-a-time-when-was-it-and-why-did-you-move-there">Q. You lived in Sendai, Japan for a time. When was it and why did you move there?</h3>
+
+<p>My dad’s work brought us to Sendai as he is a University Professor. He taught at Tohoku University while I endured middle school with my broken elementary Japanese skills. (Still elementary by the way.)</p>
+
+<h3 id="q-how-did-your-time-in-japan-influence-your-work">Q. How did your time in Japan influence your work?</h3>
+
+<p>I was struggling in all my regular Japanese classes and my teacher, Miura-sensei, influenced my psyche by encouraging me in art class. He really made it a point to empower me to pursue art. Maybe because I was having fun, compared to my other classes, this let me know there was a sanctuary in art. I was in 7th grade at the time and it was impactful. I wouldn’t understand it all until much much later. I really wish I could thank Miura-sensei for his positive impact on my life.</p>
+
+<h3 id="q-your-work-has-been-called-a-celebration-of-how-cultures-are-enlivened-by-their-commingling-what-in-your-view-are-ways-that-cultures-can-commingle-to-their-betterment">Q. Your work has been called “a celebration of how cultures are enlivened by their commingling.” What, in your view, are ways that cultures can commingle to their betterment?</h3>
+
+<p>Well, the U.S. is kind of like that. We try to adopt other cultures’ ideals, fold them into our own, and then own them. The issue is more we don’t often commingle. We usually pick out characteristics that make people different and exaggerate them, without picking those exact same characteristics and trying to bridge the gap, while realizing we have an equivalent quirky difference. There is something extremely satisfying about the transformation from stranger to friend.</p>
+
+<figure class="figure-middle"><img alt="ken taya enfu mural japan reimagined with cartoon characters" src="https://files.tofugu.com/articles/interviews/2015-01-28-enfu/ken-taya-enfu-japanese-american-nihon-town-mural.jpg" /></figure>
+
+<h3 id="q-as-an-artist-who-deeply-understands-the-blending-of-japanese-and-american-culture-how-do-you-feel-disney-handled-this-task-with-its-film-big-hero-6">Q. As an artist who deeply understands the blending of Japanese and American culture, how do you feel Disney handled this task with its film “Big Hero 6”?</h3>
+
+<p>Now, I’m going to sound super critical and nitpicky, so let me preface this with the fact that, overall, I loved the movie. But you asked, so here it goes:</p>
+
+<p>I’m usually super vocal about the lack of Asian Americans represented in media. I’m also trained as an Environment Artist, who has himself had experience working on <a href="https://www.behance.net/gallery/2192743/Halo-Reach">fictional hybrid Asian themed sets</a>. That map (in the link) was the penthouse of a corporation called Sino-Viet, a total hybrid Asia-generic set. I mean, there is a rocket launcher in the river between a stepped zen garden. Who builds that, right? So I totally understand bending the reality for the sake of fulfilling the design needs of the deliverable.</p>
+
+<p>With that said I still had issues with Big Hero 6.</p>
+
+<p><strong>Character:</strong></p>
+
+<p>Finally a half Asian lead!</p>
+
+<p>Hiro as a character displayed absolutely no Asian American/Asian qualities whatsoever. He basically had a ‘white’ personality with an Asian name. What do I mean by “he has no ‘Asian qualities’ “? Well, let’s see, there is already a precedent for other cultures. Hispanic characters throw in Spanish words or slang. African Americans have their own swag carved out. Asian Americans…what defines them as Asian American? It is a mystery, almost. Lilo and Stitch had Hawaiian culture ingrained in its dialogue. Even Po from Kung Fu Panda had more Asian in him than Hiro, and he was a Panda and voiced by Jack Black.</p>
+
+<p><strong>Environment:</strong></p>
+
+<p>Yes, this is a fictional town, I get it. But if you’re going to portmanteau city names, you’re establishing solid reference points. San Fransokyo was just San Francisco “ching-chonged up”. It was supposed to be a mix between SF and Tokyo, but many representative props weren’t “Tokyo” at all. They took the red shinto gates (torii) and <a href="http://media.tumblr.com/6938be5ce9d7341a2176efe9c8104587/tumblr_inline_nf01byvrMP1t4rdhz.png">put them on the bridge</a>.</p>
+
+<p>They’re gates of shrines, but to me they represent totally different regions of the country. What if a Japanese Anime had a hybrid set based on NYC and put Mt. Rushmore on top one of the buildings? Does sprinkling in Baptist church steeples in the environment make it American? Its like an effort was made to highlight old Japan, not modern Japan, which is kind of sad. Tokyo Tower instead of Sky Tree.</p>
+
+<p>What they got right were the vehicles, especially the police car. A bit of redemption.</p>
+
+<p>Also we need to stop <a href="http://ifartrainbow.com/e/?currentPage=21">putting chopsticks in hair buns</a> and calling that ‘good enough’. Yeah so, Japanesey pagoda-like roofs curved up corners = not Japanese.</p>
+
+<p>All these little details are petty in the bigger scheme of things, but these petty details are what Environment Artists need to take care of.</p>
+
+<p>Let’s hold San Fransokyo to higher standards. What did Treasure Town in Tekkonkinkreet look like? What about the hybrid fantasy world Sen strolled through in Spirited Away? I believe those environments were twice as lush, more embellished, with way more attention to detail than the cityscape of San Fransokyo.</p>
+
+<p>All that to say some things were a bit “off” to me, but I know it’s passable for most. I know most of my critique can seem a little like “this ramen isn’t as great as the ones in Tokyo”-type comments, but I’m happy that I get to eat good ramen stateside. I’d much rather be slightly misrepresented than have no representation at all.</p>
+
+<h3 id="q-what-is-it-about-japanese-aesthetic-that-you-find-most-appealing-how-do-you-incorporate-this-into-your-work">Q. What is it about Japanese aesthetic that you find most appealing? How do you incorporate this into your work?</h3>
+
+<p>Well its not just the Japanese aesthetic, but also the Japanese psyche (content) which speaks to me. Aesthetic is the shallow shellac which identifies or brands the work, but content is what keeps people engaged in your work.</p>
+
+<p>The Japanese aesthetic not only prioritizes the line, being line heavy, but also unabashedly uses color, and, to a lesser extent, plays with the contrast between nothing-ness and busy-ness.</p>
+
+<p>Japanese content mirrors the culture in its idolization of youth, thematically and aesthetically. This appeals both to children or the inner-child. Though cute or “kawaii”, the Japanese psyche promotes grittiness, hunkering down, working hard, and perseverance. These characteristics are necessary to focus on the intense line work.</p>
+
+<h2 id="wrapping-up">Wrapping Up</h2>
+
+<figure class="figure-middle"><img alt="enfu with glasses with a rainbow mohawk" src="https://files.tofugu.com/articles/interviews/2015-01-28-enfu/ken-taya-enfu-mohawk.jpg" /></figure>
+
+<h3 id="q-what-is-the-one-question-you-wish-people-would-ask-you-but-never-do-then-answer-it">Q. What is the one question you wish people would ask you, but never do? (Then answer it!)</h3>
+
+<p>Most people would never really ask this outright because it may sound offensive:</p>
+
+<h4 id="q-why-are-you-so-obsessed-with-being-japanese">Q. Why are you so obsessed with being Japanese?</h4>
+
+<p>My answer would be different depending on who asked it.</p>
+
+<p><strong>American:</strong> I’m proud of what makes me different.</p>
+
+<p><strong>Japanese:</strong> It’s kind of stupid to be proud of something you had no choice in.</p>
+
+<h3 id="q-how-do-you-feel-about-the-seahawks-going-to-the-super-bowl">Q. How do you feel about the Seahawks going to the Super Bowl?</h3>
+
+<p>Answer:</p>
+
+<figure class="figure-middle"><img alt="american japanese football football player with seattle seahawks" src="https://files.tofugu.com/articles/interviews/2015-01-28-enfu/marshawn-lynch-seattle-seahawks-by-ken-taya-enfu.jpg" /></figure>
+
+<h2 id="get-your-own-cute-grit">Get Your Own Cute Grit</h2>
+
+<p>Big thanks again to Ken Taya for answering so many of our questions. If you’d like to buy his massive art book “Enfu: Cute Grit”, get it here:</p>
+
+<ul>
+  <li><a href="http://www.amazon.com/gp/product/0988769360/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0988769360&amp;linkCode=as2&amp;tag=tofugu08-20&amp;linkId=WA7J2XYYSQIPPCAB">Amazon</a></li>
+  <li><a href="http://store.chinmusicpress.com/product/enfu-cute-grit">Chin Music Press</a></li>
+</ul>
+
+<div class='article-tldr blog-post-highlight'>
+<div class='container'>
+<div class='article-tldr-additional-information'>
+<div class='article-tldr-social-links'>
+<h4>
+Get in touch with
+Ken Taya, aka Enfu
+via...
+</h4>
+<ul><li>
+<i class='fa fa-fw fa-external-link'></i>
+<a href="http://www.enfusoft.com/">Website</a>
+</li><li>
+<i class='fa fa-fw fa-facebook-square'></i>
+<a href="https://www.facebook.com/Ifartrainbow">Facebook</a>
+</li><li>
+<i class='fa fa-fw fa-twitter-square'></i>
+<a href="https://www.twitter.com/enfu">Twitter</a>
+</li></ul>
+</div>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-articles travel-prev travel-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='travel' href='http://www.tofugu.com/travel/meguro-gajoen-toilet/' title='View Meguro Gajoen&#39;s Million Dollar Toilet Room'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-plane'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+Meguro Gajoen's Million Dollar Toilet Room
+</a>
+</li>
+<li class='pager-next'>
+<a class='travel' href='http://www.tofugu.com/travel/kashiya-yokochou-edoya/' title='View Tokyo&#39;s Pop-Up Toy and Candy Shops: Kashiya Yokochou Edoya'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-plane'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Tokyo's Pop-Up Toy and Candy Shops: Kashiya Yokochou Edoya
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category interviews'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='interviews' href='../anijya-and-otojya/index.html' title='View Interview with Japanese Let&#39;s Play Gamers Anijya and Otojya'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-users'></i>
+<span aria-label='Older interviews' class='older-article-pagination'></span>
+</small>
+Interview with Japanese Let's Play Gamers Anijya and Otojya
+</a>
+</li>
+<li class='pager-next'>
+<a class='interviews' href='../brian-ashcraft/index.html' title='View Brian Ashcraft: A Scholar of Japanese Schoolgirls Studies'>
+<small>
+<span aria-label='Newer interviews' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-users'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Brian Ashcraft: A Scholar of Japanese Schoolgirls Studies
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='../../about/index.html' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.2' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs/index.html' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese/index.html' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='../../news/index.html' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='../../newsletter/index.html' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='../../podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='../../feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="../../javascripts/master-2164c2ee.js" defer="defer"></script><script src="../../javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

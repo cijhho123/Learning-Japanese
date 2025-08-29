@@ -1,0 +1,838 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Michael Richey' name='author'>
+<meta content='Good news: JET Program culture shock is just like any culture shock. Bad news: all culture shock is tough. Get a definition to strategize before you depart.' name='description'>
+<meta content='jet program, teaching english in japan' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Good news: JET Program culture shock is just like any culture shock. Bad news: all culture shock is tough. Get a definition to strategize before you depart.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japan/2015-06-23-culture-shock-in-japan-on-the-jet-program/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='Jet Program Culture Shock' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japan/culture-shock-in-japan-on-the-jet-program/' property='og:url'>
+<meta content='https://www.tofugu.com/japan/jet-program-recontracting-decision/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/jet-teaching-senpai/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/esl-bulletin-board-ideas/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-work-culture/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-teaching-resources/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-schools-vs-american-schools/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-survival-resources/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/jet-program-japanese-preparation/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-post-arrival/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-packing-guide/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/post-jet-acceptance/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-statement-of-purpose/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-application/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/reasons-to-join-the-jet-program/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-interview/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/nine-intelligences/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-self-intro-class/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-alt-team-teaching-tips/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-bad-school/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/non-teaching-jobs-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/japanese-college-student-english/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/japanese-minecraft-professor/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Michael Richey' property='article:author'>
+<meta content='2015-06-23T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japan' property='article:section'>
+<meta content='jet program' property='article:tag'>
+<meta content='teaching english in japan' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@tofugu' name='twitter:creator'>
+<meta content='Good news: JET Program culture shock is just like any culture shock. Bad news: all culture shock is tough. Get a definition to strategize before you depart.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japan/2015-06-23-culture-shock-in-japan-on-the-jet-program/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='Jet Program Culture Shock' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#268bd2' name='twitter:widgets:link-color'>
+<meta content='#268bd2' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-michael-richey-9c293d25.jpg",
+    "jobTitle": "Designer",
+    "name": "Michael Richey",
+    "sameAs": [
+
+    ],
+    "url": "https://www.tofugu.com/about/people/michael-richey/",
+    "description": "Michael is a designer at Tofugu. He grew up in Charlotte, NC and studied writing and film production at North Carolina School of the Arts. After college, he lived in Hikone, Shiga in Japan for two years on the JET Program. In his spare time, Michael makes comics zines, plays Famicom, and spends time with his family.",
+    "email": "michael@tofugu.com"
+  },
+  "datePublished": "2015-06-23T00:00:00Z",
+  "description": "Good news: JET Program culture shock is just like any culture shock. Bad news: all culture shock is tough. Get a definition to strategize before you depart.",
+  "headline": "JET Program Culture Shock",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japan/2015-06-23-culture-shock-in-japan-on-the-jet-program/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japan/2015-06-23-culture-shock-in-japan-on-the-jet-program/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "jet program, teaching english in japan",
+  "name": "JET Program Culture Shock",
+  "url": "https://www.tofugu.com/japan/culture-shock-in-japan-on-the-jet-program/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2015-06-23T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japan/culture-shock-in-japan-on-the-jet-program/"
+}
+</script>
+
+<title>JET Program Culture Shock</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japan/culture-shock-in-japan-on-the-jet-program/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='https://www.tofugu.com/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://www.tofugu.com/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://www.tofugu.com/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://www.tofugu.com/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://www.tofugu.com/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='https://www.tofugu.com/favicon.png' rel='shortcut icon'>
+<link href='https://www.tofugu.com/favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japan japan_culture-shock-in-japan-on-the-jet-program japan_culture-shock-in-japan-on-the-jet-program_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='https://www.tofugu.com/'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japanese/' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='https://www.tofugu.com/japanese/' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.1' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-learning-resources-database/' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japan/' id='dJapan'>
+Japan <i class="fa fa-globe"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='https://www.tofugu.com/japan/' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/series/' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/travel/' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/reviews/' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/interviews/' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='https://www.tofugu.com/podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=jet-program#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japan/2015-06-23-culture-shock-in-japan-on-the-jet-program/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japan/2015-06-23-culture-shock-in-japan-on-the-jet-program/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+Jet Program Culture Shock
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+Culture shock can be tough, but understanding it doesn't have to be
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2015-06-23T00:00:00Z">June 23, 2015</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/michael-richey.1" rel="author">Michael Richey</a>
+•
+Art by
+<a href="https://www.tofugu.com/about/people/aya-francisco/">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japan/2015-06-23-culture-shock-in-japan-on-the-jet-program/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+<p class='article-series series-jet-program hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="../../series/jet-program.1">The Tofugu JET Program Guide
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>As you get ready to depart for JET, you'll be researching a lot of things. Preparing for a new life takes a lot of work. In articles, handouts, guidebooks, and seminars you'll come across a scary term: culture shock.</p>
+
+<p>You'll definitely be told that it's unavoidable and not very fun. Let me tell you two things:</p>
+
+<ul>
+  <li>It's unavoidable</li>
+  <li>It's not very fun</li>
+</ul>
+
+<p>Now let me tell you a third thing:</p>
+
+<ul>
+  <li>It's manageable and beneficial</li>
+</ul>
+
+<p>Educating yourself about what culture shock is, preparing for it, and coping with it makes the situation a lot easier. Today we'll start with defining culture shock.</p>
+
+<h2 id="what-is-culture-shock">What is Culture Shock?</h2>
+
+<figure class="figure-middle"><img alt="An empty 6 tatami apartment in Tokyo" src="https://files.tofugu.com/articles/japan/2015-06-23-culture-shock-in-japan-on-the-jet-program/empty-tokyo-apartment.jpg" /><figcaption>  </figcaption> Source: <a href="https://commons.wikimedia.org/wiki/File:Empty_Tokyo_apartment_with_tatami_1.jpg" title="Visit source's website" target="_blank">Douglas P. Perkins</a></figure>
+
+<p>Culture shock is often described as a "personal disorientation" that accompanies transition into a new culture. This is technically accurate, but it makes the experience sound like something felt after getting off a carnival ride. Disorientation implies a feeling you can identify, whereas culture shock usually arises unnoticed and fades over time.</p>
+
+<p>Put simply, it's the stress of transition. But the transition is taking place in nearly all areas of a person's life at the same time.</p>
+
+<h2 id="symptoms-of-culture-shock">Symptoms of Culture Shock</h2>
+
+<figure class="figure-middle"><img alt="A morose looking neapolitan mastiff" src="https://files.tofugu.com/articles/japan/2015-06-23-culture-shock-in-japan-on-the-jet-program/sad-dog.jpg" /><figcaption>  </figcaption> Source: <a href="https://commons.wikimedia.org/wiki/File:Sad_Lucy.jpg" title="Visit source's website" target="_blank">Tim Dawson</a></figure>
+
+<p>Recognizing culture shock is one its major challenges. Even self-aware people can have trouble. Symptoms are a major clue. These are things like:</p>
+
+<ul>
+  <li>Anger</li>
+  <li>Boredom</li>
+  <li>Irritability</li>
+  <li>Anxiety</li>
+  <li>Intense homesickness</li>
+  <li>Panic attacks</li>
+  <li>Loss of motivation</li>
+  <li>Excessive amounts of time spent on insular activities such as sleeping or watching TV</li>
+  <li>Loss of self-confidence</li>
+  <li>Feelings of helplessness or hopelessness</li>
+  <li>Associating only with other JETs or foreigners</li>
+  <li>Withdrawal</li>
+  <li>Compulsive behavior</li>
+  <li>Suicidal thoughts</li>
+</ul>
+
+<p>Though this may look like a nightmare list from a pharmaceutical commercial, don't fret. Few JETs will experience all or the most severe of these symptoms. Though the majority experience several symptoms at one time.</p>
+
+<p>Symptoms can happen gradually, increasing in intensity. Also, you'll experience cultural frustrations. These may feel the same as culture shock, but the feeling dissipates when the cause of the frustration is resolved. Because of this, culture shock is hard to self-diagnose.</p>
+
+<h2 id="the-two-components-of-culture-shock">The Two Components of Culture Shock</h2>
+
+<figure class="figure-middle"><img alt="Empty alleyway in Japan illuminated by a single street lamp" src="https://files.tofugu.com/articles/japan/2015-06-23-culture-shock-in-japan-on-the-jet-program/empty-alleyway-at-night.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/mrhayata/7887876924" title="Visit source's website" target="_blank">mrhayata</a></figure>
+
+<p><a href="http://www2.pacific.edu/sis/culture/pub/1.6.1-_Common_Reactions.htm">Dr. Bruce La Brack</a> has an excellent explanation as to why culture shock occurs:</p>
+
+<blockquote>
+  <p>Culture shock arises as a result of cumulative, largely puzzling encounters resulting in equally negative perceptions. For that reason, the "shock" is deceptively gradual. Those who enter another country with an &gt; attitude of what anthropologists call "naive realism" the view that everyone sees the world essentially as they do are susceptible to being quickly disabused of that idea as reality sets in. If the naive realist  &gt; also holds an ethnocentric belief that his or her cultural ways are preferable and superior to all others, the likelihood of some kind of conflict escalates enormously.</p>
+</blockquote>
+
+<p>From this description, we can break down culture shock into two ingredients:</p>
+
+<ol>
+  <li>The cultural values of the JET, which they use to assess communicative acts.</li>
+  <li>The cultural values of the host nation which are used in all communicative acts, including those received by the JET.</li>
+</ol>
+
+<p>We all use our own cultural values, preconceived notions, personal attitudes, and other ideas to determine how to react in a given situation. The majority of the time, this is easy in our home countries. The messages we receive from people, media, and even the physical landscape at home tend to agree with our cultural values.</p>
+
+<p>Sometimes though, we encounter a situation that doesn't agree with our cultural values, and we have to choose how to react. These are misunderstandings.</p>
+
+<p>Consider how often misunderstandings happen between people of the same culture. How much more will they happen between people of different cultures? The low number of matching cultural values causes the likelihood of misunderstanding to increase.</p>
+
+<p>Recognize, however, that misunderstandings come in all shapes and sizes. They range from severe to benign. Many JETs spend years in Japan and only encounter a few severe misunderstandings. So the shock doesn't come from a few horrible catastrophes. The awesome <a href="http://kumamotojet.com/Mental-Health.php">KumamotoJET</a> website posits that it's more like a continuous drip. A JET encounters the same benign, but possibly annoying or inconvenient cultural differences over and over. The shocks accumulate. This is why negative culture shock doesn't happen right away. The amount of shocks needs time to build before entering the second phase.</p>
+
+<h2 id="phases-of-culture-shock">Phases of Culture Shock</h2>
+
+<figure class="figure-middle"><img alt="People riding a rollercoaster" src="https://files.tofugu.com/articles/japan/2015-06-23-culture-shock-in-japan-on-the-jet-program/people-on-a-rollercoaster.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/elston/97536747/" title="Visit source's website" target="_blank">elston</a></figure>
+
+<p>Culture shock is usually <a href="http://stacieberdan.com/wp-content/uploads/2014/09/culture-shock-chart-TMC.jpg">broken</a> <a href="https://beckyblueeyes.files.wordpress.com/2014/05/culture-shock-u-curve-319.gif">down</a> <a href="http://www.gunmajet.net/wp-content/uploads/2014/02/1203071716ce09848886e65789.gif">into phases</a>. Depending on the source, it can be between 3 and 5. The <a href="https://en.wikipedia.org/wiki/Culture_shock">most commonly used breakdown</a> has four:</p>
+
+<ul>
+  <li><strong>Honeymoon:</strong> This is the phase experienced when you first arrive in Japan. Everything is new and exciting. Even the smallest things seem fascinating. Those who have been to Japan before still feel excitement about their new life and job.</li>
+  <li><strong>Frustration and Hostility:</strong> This stage is what people call "culture shock." Though in reality it's the low point of the culture shock cycle. Eventually the newness of exciting things runs out. You are left with the newness of different things, but no excitement. The situation may not necessarily be good or bad, but its differentness presents a challenge as you try to adjust. This adjustment naturally includes miscommunications, mistakes, roadblocks, and frustrations. These events tend to highlight the difference between Japan's way of thinking and doing things and your own. All these differences and transitions introduce the symptoms listed above.</li>
+  <li><strong>Adjustment:</strong> Gradually you adjust to the differentness of Japan. After passing through a lot of new and difficult situations, you learn how to navigate them better the second and third time around. This forms routines like those you had in your home country. Soon, many of the negative symptoms of culture shock disappear.</li>
+  <li><strong>Accommodation and/or Biculturalism:</strong> This is an ambiguous and debatable stage. It's a stage beyond adjustment in which you feel at home in Japan. When it happens is hard to say, because the four stages of culture shock tend to repeat. The term "biculturalism" seems to suggest a personal achievement of balance between integration into Japanese culture and retention of your personal identity.</li>
+</ul>
+
+<p>Since culture shock is different for everyone, it's hard to know when you'll experience what stage. Many factors are involved, like how much you prepared beforehand, your personal values, your preconceived ideas about Japan, the negative experiences you face in Japan, and much more.</p>
+
+<p>These four stages are actually a cycle. Many who have lived in Japan (or elsewhere) for 10 to 20 years report experiencing stage 2 symptoms of culture shock from time to time. Is it always as severe as the first time around? That depends on the person, but more than likely not.</p>
+
+<p>The reason for culture shock's cyclical nature has a lot to do with the foreign experience. A visiting person has many things to learn when integrating into a new culture. At the same time, it's necessary to retain parts of their identity. Adjusting to a host culture means becoming as like the host people as possible. The immigrant has to craft a new self. But the old self is still an important part of them. It would be unhealthy to deny or suppress where you came from.</p>
+
+<p>Thus, living in Japan for many years can still present frustrations. Even though your new bicultural self accepts the new home, there will always be your old self that clashes with certain aspects of it. There's nothing wrong with this. It's just the nature of being a bicultural person.</p>
+
+<h2 id="youve-experienced-culture-shock-before">You've Experienced Culture Shock Before</h2>
+
+<figure class="figure-middle"><img alt="Rear view of a packed boxtruck with the shutter open" src="https://files.tofugu.com/articles/japan/2015-06-23-culture-shock-in-japan-on-the-jet-program/rear-end-of-a-mover-truck.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/themuuj/2224917035" title="Visit source's website" target="_blank">The Muuj</a></figure>
+
+<p>Hopefully all this hasn't gotten you apprehensive about your new life in Japan. Culture shock is nothing to be afraid of. In fact, you've probably experienced it before. Maybe you just didn't have a name for it.</p>
+
+<p>Culture shock is actually a subset of a larger idea called transition shock. It has the same stages and symptoms as culture shock, but it's felt in varying degrees depending on the transition. Because of this, I think it's fair to call any transition a "culture" shock. Most transitions involve lifestyle changes and new groups of people with which to integrate.</p>
+
+<ul>
+  <li>If you've ever moved to a new place, you've experienced culture shock.</li>
+  <li>If you've ever changed schools or gone off to college, you've experienced culture shock.</li>
+  <li>If you've ever started a new job, you've experienced culture shock.</li>
+  <li>If you've ever met a group of people you didn't know before, even that is a type of miniature culture shock.</li>
+</ul>
+
+<p>Though you may not have noticed or don't remember, you probably experienced a brief period loneliness, nervousness, self-consciousness, or even depression during a transition. These times might have been easier to deal with than moving to a new country because your language and cultural structure didn't change.</p>
+
+<p>But even with a new language and culture to learn, the basic idea is still the same. You need to adjust and adjusting takes time. In Japan it will take more time than it did during other transitions, but it will happen. You've done it before. You can do it again.</p>
+
+<h2 id="how-to-prepare-for-culture-shock">How to Prepare for Culture Shock</h2>
+
+<figure class="figure-middle"><img alt="hand with pencil on paper" src="https://files.tofugu.com/articles/japan/2015-06-23-culture-shock-in-japan-on-the-jet-program/writing-lists.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/crdot/6855538268/" title="Visit source's website" target="_blank">Caleb Roenigk</a></figure>
+
+<p>Now that we have a proper definition of culture shock, we can start diving into action. Having knowledge is only the first step. We have to put that knowledge to good use. We have the bricks. Now let’s build the walls of our culture shock defenses.</p>
+
+<p>Nothing can guarantee you won’t experience culture shock at all. But the effects can be lessened. A lot of things are out of your control. That’s just the nature of life. Going to Japan means even less will be in your control. That’s why it’s important to do what you can.</p>
+
+<p>Below are a few things you can do before you leave for Japan to minimize the impact of culture shock on JET. If you’re already in Japan, do these things before you culture shock sets in. If you’re in the middle of stage two, do them. Do these no matter what, but the sooner you do them the better. You want to do them when your head is the clearest.</p>
+
+<p>Quick note: perhaps “do” isn’t the best verb to use for these exercises. They involve a lot of thought and asking questions of yourself. Some things are doing things. But for most the exercises, the “doing” comes in writing. That’s why most of these items are lists.</p>
+
+<p>You could complete these by simply thinking. But I recommend physically writing them down. This gives you record of your thoughts to reference later (when you’re shocked). And it gives physicality to what you’re thinking. You want to make your brain do some work now before it’s overloaded later.</p>
+
+<ul>
+  <li><strong>Study Japanese:</strong> The communication barrier is a big cause of culture shock. You likely won’t be able to improve your Japanese enough in a few months to destroy the communication barrier, but every little bit helps. If you’re going on JET with zero Japanese ability (like I did), at least memorize <a href="../../japanese/learn-hiragana.1">hiragana</a> and <a href="../../japanese/learn-katakana.1">katakana</a>. That alone will help a lot.</li>
+  <li><strong>Make a list of personal character traits:</strong> Culture shock often causes you to act differently than you normally would. You’re transitioning into new habits and a new way of life, which is something of an identity crisis. Write down a list of 25 character traits that you feel best describe you. Think of it as a little letter from your past self saying, “Hey self. This is who you are.”</li>
+  <li><strong>Make a list of expectations:</strong> This should be as long as you can make it and it should be a list of your expectations of everything: Japan, your job, your behavior, your home, your treatment, everything!</li>
+  <li><strong>Use the above list to research online:</strong> Check out information online (like on Tofugu, for example) to find out how your expectations will match up with reality. You won’t be able to completely adjust your expectations until you’re in Japan (reading is different than experiencing). But a little research will prepare you before you depart. Knowing what to expect makes some shocks not quite as shocking.</li>
+  <li><strong>Make a list of goals:</strong> Culture shock is a big deterrent to goals. Your goal to study Japanese every day can get quickly derailed when culture shock symptoms lead you to party hard and binge watch Arrested Development (it’s a great show though). Refer to your list of goals to keep you on track, but be open to revising them. Your goal to revolutionize the Japanese school system may prove to be another unrealistic expectation.</li>
+  <li><strong>Be ready to let go:</strong> One of the biggest obstacles to overcoming stage 2 of culture shock is a longing for things from home. Certainly do bring photos and reminders from home and request frequent care packages of favorite snacks. But prepare yourself to leave comfort foods like tacos and hamburgers behind. More than food, be ready to leave comforts like familiarity and ease-of-living behind as well. It can be frustrating to not have access to familiar comforts (“It’s just beef between bread. Why is that so hard?!”). But the key is being content. Find some new Japanese comforts. Kotatsu, ramen, and onsen are all particularly wonderful. One day you may be pining for these things back in your own country (“It’s just a triangle of rice filled with tuna. Why is that so hard?!”). So enjoy the comforts of Japan while you can.</li>
+  <li><strong>Get excited:</strong> Going on JET means facing differentness. While the differentness may cause shock, it will also cause excitement. Whole worlds of opportunity will open squarely to you. Regional delicacies, local castles, prefectural yurukyara. These are all things you can be proud of in your new home. Though you’ll stand out in not so fun ways, you’ll stand out in good ways too. Japanese people may single you out to invite you to events and banquets not open to everyday people. Get ready to embrace your new life for all its worth and prepare your bicep for your new Kumamon tattoo.</li>
+</ul>
+
+<h2 id="how-to-recognize-culture-shock">How to Recognize Culture Shock</h2>
+
+<figure class="figure-middle"><img alt="hand holding smartphone" src="https://files.tofugu.com/articles/japan/2015-06-23-culture-shock-in-japan-on-the-jet-program/smartphone.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/126915310@N08/16981803257" title="Visit source's website" target="_blank">uditha wickramanayaka</a></figure>
+
+<p>Now that you know what culture shock is and are prepared for it, it’s time to play the waiting game. But you’re not waiting, curled up in a closet hiding. You’re waiting atop the defense wall you built, fully armed and ready. Just the fact that you are aware culture shock is coming means you are much more likely to recognize it.</p>
+
+<p>Even so, onset of stage two symptoms is gradual. So you may still find yourself in a funk without really knowing how you got there. Stage two generally begins for most JETs between 3 to 5 months after arrival, though it varies from person to person. Factors like circumstance, personal resilience, communication skill, and expectation make for a cocktail of variance. So one JET may experience stage two on the day of arrival. Another may experience it after a year or more.</p>
+
+<p>Keep an extra eye on your emotional state when the beginning of winter rolls around. JETs are especially susceptible to get culture shock around this time. Stage 2 begins for most people between 3 to 5 months after arrival. For JETs this is the beginning of winter. Just as the newness of Japanese life is wearing off, the sky is getting dark and the air is getting cold. On top of this, many JETs may have found a groove in their ALT work, which makes life easier but also makes it a bit more boring.</p>
+
+<p>The key to recognizing the onset of culture shock is to be mindful. Be aware of your inner and outer life, meaning your thoughts and actions. Refer to the list of symptoms above and recognize when you might be exhibiting one or more of them. You may be having an off day or you may have culture shock.</p>
+
+<p>There’s not much you can do to recognize it beyond just “recognizing it.” That said, here’s two tips to enhance your recognition ability.</p>
+
+<ol>
+  <li><strong>Set reminders on your phone or computer:</strong> Set a monthly reminder on some device that will appear and offer some kind of encouragement like, “You’re doing great, you wonderful person you!” or “Don’t stop till you reach the top!” or “You know what I forgot to tell you? You’re great.” and so forth. This may seem incredibly cheesy but it accomplishes 2 things: It gives you much needed motivation in a place where motivation may be scarce and it reminds you to be mindful of culture shock. When you see the reminder, its weird phrasing will hopefully encourage you and spark a memory of why you set it in the first place.</li>
+  <li><strong>Ask friends for help:</strong> A gradual and internal behavior change is tough to spot, even when you’re looking for it. Before you leave, tell some trusted friends or family members about the shock you might face and ask them to let you know if they see a change. People from home that you talk to have a special ability to spot changes because they’ll be interacting with you intermittently with weeks or a month in between contact. This will make changes seem more stark to them and give them a better ability to help you identify when culture shock has set in.</li>
+</ol>
+
+<h2 id="the-problem-of-nostalgia">The Problem of Nostalgia</h2>
+
+<figure class="figure-middle"><img alt="polaroids on a table" src="https://files.tofugu.com/articles/japan/2015-06-23-culture-shock-in-japan-on-the-jet-program/polaroid-photos.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/kadorin/575922629/" title="Visit source's website" target="_blank">kadorin</a></figure>
+
+<p>One of the biggest factors in how long culture shock lasts and how deeply it affects you is rooted in nostalgia for your home country. It’s weird to think of being nostalgic for a country. Usually we are nostalgic for specific time periods, especially those farther away. But nostalgia doesn’t require time, only distance enough that we are able to forget the bad and only remember the good. This <a href="http://ajet.net/ajet-connect/online-articles/change-your-perception-change-your-life/">excellent AJET article</a> presented me with a quote from a Woody Allen film, <em>Midnight in Paris,</em> which very accurately explains how nostalgia factors into culture shock:</p>
+
+<blockquote>
+  <p>Nostalgia is denial, denial of the painful present. The name for this denial is golden age thinking, the erroneous notion that a different time period is better than the one one’s living in. It’s a flaw in the romantic imagination of those people who find it difficult to cope with the present.</p>
+</blockquote>
+
+<p>When times are tough, we step back and pine for a time when things seemed easier to manage. During culture shock, people tend to idealize their home country. Because the Japanese way of doing things contradicts the way it’s done in your country, it’s easy dismiss ideas that don’t make sense to you. Before long, you will stop analyzing ideas that don’t make sense to you and immediately mark it as inferior without time taken to consider it from the Japanese perspective.</p>
+
+<p>I’m not trying to say that the way Japan thinks is right and that its culture is perfect (need I mention the fax machines?). Some ideas may be wrong, while others may be 100%, 80%, or 67% right. Most things will be largely a matter of opinion.</p>
+
+<p>The point is, if you pine too much for your own country, not only will you be unable to enjoy your life in a flawed but awesome country, you’ll be robbed of the ability to rationally look at situations and gain insight into Japan and your own country at the same time. This ability to discover what’s preferable from your own country and Japan is not only necessary for survival, it’s arguably the best gift the JET Program has to offer.</p>
+
+<h2 id="how-to-cope">How to Cope</h2>
+
+<figure class="figure-middle"><img alt="taiko drum with men in background" src="https://files.tofugu.com/articles/japan/2015-06-23-culture-shock-in-japan-on-the-jet-program/taiko-drum.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/beckywithasmile/5264800341/" title="Visit source's website" target="_blank">beckywithasmile</a></figure>
+
+<p>Once you’ve recognized your shock-ed-ness, it’s time to take action. With a little work and patience, you’ll be back on your emotional feet and loving life in Japan the way you wanted to. Below are 10 ways to cope with culture shock, and 4 ways that may seem like a good idea, but actually hurt more than help. Even further below are links to some of the best resources, helps, and ideas I’ve found so far.</p>
+
+<ol>
+  <li><strong>Acknowledge that your feelings are valid:</strong> More than likely, the culture shock feelings you’re experiencing may not be entirely wrong. The problem is that culture shock blows up those feelings exponentially and then spreads them over your perception of all of Japanese culture. For example your frustration at using a fax machine in the internet age may be entirely valid. But then the valid feeling becomes anger which turns into “This whole damn country is backwards!” These feelings spread farther to “Giving omiyage is so useless and stupid. This whole damn country is backwards!” Eventually everything you encounter becomes stupid, useless, backwards, illogical, and just plain wrong. And that’s where you become miserable. Take some time to write down all your grievances, no matter how angry or outlandish they may be. Get them down on paper. Recognize that they are your personal feelings and you are entitled to your opinion, no matter what it is. Then put them away. Put those feeling away in a box or drawer and forget about them. You’ve recognized that you’re in stage 2 and you’re not yourself. So put these feelings aside until you’re past this stage. You’re not dismissing your ideas, you’re just putting them aside because they’re getting in the way of your enjoyment of life. This is saying, “I’m not going to let my ideas of how Japan should work get in the way of enjoying the way Japan is.” After you’re past stage 2, come back to the list. Over time you may find that some of these ideas are not the way you truly feel about Japan. Some ideas will remain, though you won’t feel irrationally angry about them. You may end up feeling that the group mentality does have some positive effects, while you may still think using a fax machine in the 21st century is silly. But no matter what your opinion on Japan ends up being, you’ll be able to accept the country for what it is and enjoy your life.</li>
+  <li><strong>Join a club:</strong> Join a group activity at your school or in your community that involves Japanese people. When Japan’s cultural differences are bugging you, it may seem counterintuitive to join activities with Japanese people, which is exactly why you should do it. You may not fully understand the Japanese way of thinking or doing things, but being in fun, non-work situations with Japanese people will help you to start enjoying the company of individuals who are part of the culture that’s grating on you. Over time, it becomes easier to understand the Japanese way of doing things because you’ll have friends to connect that mindset with. You start to connect Japan with people you care about, rather than ideas or concepts you think about.</li>
+  <li><strong>Volunteer:</strong> This has the same benefits as joining a club or activity. But it has extra efficacy because you’re serving and helping others. Also, it refocuses your attention on people who need help, and gets you outside of your head and the negativity bouncing around in there.</li>
+  <li><strong>Differentiate between a cultural issue and an individual behaving badly:</strong> When deep in culture shock, it’s easy to take the behavior of one (or a few) jerks and assign it to the entire Japanese population. When a disgruntled salaryman elbows you on the train and tells you to go back to 外国, it’s easy to think, “Stupid Japan. Everybody here hates foreigners.” Pay special attention when you find yourself thinking these things. Is it really a Japan problem, or is it just that person?</li>
+  <li><strong>Remind yourself that you moved to Japan for the differences:</strong> If you wanted the same life you had, you would have stayed in your home country. But you wanted adventure and something different. True, some of that differentness is not always good or easy to deal with. Some parts of the adventure are sucky. But trudging through the sucky parts will eventually lead you to the treasure you set out for.</li>
+  <li><strong>Journal and Blog:</strong> Take some time to write down your thoughts in a journal and a blog. Notice I said “and,” not “or.” I suggest doing both, one for your thoughts for other people and one for personal thoughts. First use your journal to get out all your personal, angry, hurt, sad, or whatever feelings. Once you’ve done that, blog the ones you feel like sharing. This lets you do a lot of emotional parsing and keeps you from sharing things you’ll regret saying later.</li>
+  <li><strong>Take some alone time (but not isolation time):</strong> For all the getting involved that is good for you, it’s important to take time for yourself. Sometimes culture shock can be worsened by overwork and over socializing. So be sure to politely decline some events or invitations if you really need to recharge your batteries. The caution here is that you don’t let alone time become a period of isolation. People in difficult emotional states tend to isolate themselves and turn inward, which makes their situation worse. Make sure to reconnect with friends, family, and co-workers after your pre-determined recharge time.</li>
+  <li><strong>Focus on the similarities:</strong> Japan’s differences are all up in your face and irritating you. So try to look past them and focus on what makes you and Japan similar. What values do you share? What beliefs?</li>
+  <li><strong>Read about Japan online:</strong> This may be hard to do when you’ve got Japan overload, but read as much as you can. Not only is reading good for you, reading about news in your new nation can help you feel more aware of your surroundings and more connected with your new life.</li>
+  <li><strong>You are not your brain:</strong> Dr. Rebecca Gladding and Dr. Jeffrey Schwartz remind us that <a href="https://www.psychologytoday.com/blog/use-your-mind-change-your-brain/201106/you-are-not-your-brain">our brain is not us</a>. It’s an organ that keeps us alive and tells us to do things, usually based on survival. This is great in the wild, but not so great in society where we have to be in relationships with other humans. This means you’ve got hope in the midst of culture shock. The emotional and psychological ups and downs can be controlled and limited. This isn’t accomplished easily, of course. But it can be accomplished. Your brain may order you in different directions, but you don’t have to do everything it tells you.</li>
+</ol>
+
+<h2 id="how-not-to-cope">How Not to Cope</h2>
+
+<figure class="figure-middle"><img alt="computer screen on facebook" src="https://files.tofugu.com/articles/japan/2015-06-23-culture-shock-in-japan-on-the-jet-program/facebook-screen.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/spencereholtaway/3376955055/" title="Visit source's website" target="_blank">Spencer E Holtaway</a></figure>
+
+<p>While enacting coping strategies, there are a few things to avoid, some that may even seem like they’re helping at first.</p>
+
+<ol>
+  <li><strong>Don’t rush yourself:</strong> You have a lot of things to adjust to: new job, new people, new language (probably), new mindset, new living conditions, new weather, and the list goes on. Part of the reason culture shock happens is because the adjustment time usually outlasts the novelty of a new environment. So be patient with the shock. Do your best to cope but know it might take a while to even out.</li>
+  <li><strong>Facebook:</strong> Social media touts itself as a revolution in human communication. And it can be sometimes. But scrolling through friends’ news feeds while culture shocked is like feeding your homesickness. When you’re feeling down about your life in Japan, don’t consume (overblown) images and stories of friends in your home country doing swimmingly. Instead, opt for Facebook messages or tweets directly to a friend or loved one. Use social media for helpful communication rather than one-way intake of other peoples’ life snippets.</li>
+  <li><strong>Don’t isolate yourself:</strong> This was mentioned above, but it bears repeating. Don’t isolate yourself. It doesn’t take scientific research to know that isolation is bad for mental health, but here’s some anyway: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2752489/">scientific</a> <a href="http://science.howstuffworks.com/life/inside-the-mind/emotions/isolation-effects.htm">research</a>.</li>
+  <li><strong>Don’t complain about Japan in groups:</strong> As Tofugu writer (and JET alum) Verity says, it’s best to avoid what she calls “stage 2 parties.” This is where a group of foreigners get together to gripe about Japan, which usually validates extreme ideas in their minds and makes their culture shock worse. Make no mistake, it’s fine to let off steam. In fact, a bit of “I know, right!” with friends can be very helpful during stage 2. But try to be conscious of when this party has gone on too long, is not constructive, or is destructive. The goal of letting off steam is to let feelings go, not pile them on and weigh you down even more.</li>
+</ol>
+
+<h2 id="what-to-do-if-culture-shock-becomes-overwhelming">What to Do If Culture Shock Becomes Overwhelming</h2>
+
+<figure class="figure-middle"><img alt="hand holding phone at roadside" src="https://files.tofugu.com/articles/japan/2015-06-23-culture-shock-in-japan-on-the-jet-program/phone-call.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/mugley/3094482863/" title="Visit source's website" target="_blank">Jes</a></figure>
+
+<p>If you feel the effects of your culture shock are too tough to handle on your own and you’re experiencing symptoms beyond your control, please reach out to someone. There are large networks of people who help JETs with all kinds of problems, culture shock included.</p>
+
+<ul>
+  <li><strong>The AJET Peer Support Group:</strong> This is a group of individuals that work between 8pm and 7am, Japan time. They are trained to help JETs all over the country with all kinds of problems and offer counsel. Find out more information at the <a href="http://ajet.net/resources/counselling/ajet-peer-support-group/">AJET PSG website</a>, or give them a call at 050-5534-5566 or on Skype at AJETPSG.</li>
+  <li><strong>Tokyo English Life Line:</strong> TELL is a non-profit in Tokyo that offers various types of counseling and support to English speakers in Japan. Check out <a href="http://telljp.com/">their website</a> or call them at 03-5774-0992.</li>
+  <li><strong>Your Prefectural Advisor:</strong> Though their powers are now more limited than they used to be, your PA is still there for you. This is exactly the kind of thing they are meant to handle. Contact them any time you need help, especially in an emergency.</li>
+</ul>
+
+<h2 id="resources-for-coping-with-culture-shock-in-japan">Resources for Coping with Culture Shock in Japan</h2>
+
+<figure class="figure-middle"><img alt="call button with lettering push for help" src="https://files.tofugu.com/articles/japan/2015-06-23-culture-shock-in-japan-on-the-jet-program/help-button.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/johnath/91950886/" title="Visit source's website" target="_blank">Jonathan Nightingale</a></figure>
+
+<p>Below are a list of resources I came across while researching this article series. Refer to them for extra information on understanding and dealing with culture shock. The official <a href="http://jetprogramme.org/en/gih/">JET General Information Handbook</a> had some of the most enlightening and helpful information on the subject. Also, an article called “<a href="https://careercenter.lehigh.edu/sites/careercenter.lehigh.edu/files/AmericanValues.pdf">The Values Americans Live By</a>” by L. Robert Kohls was similarly enlightening, especially his list of American values set side-by-side with those of a more traditional country. Check that one out, even if you’re not American.</p>
+
+<ul>
+  <li><a href="http://jetprogramme.org/en/gih/">JET Program General Information Handbook</a></li>
+  <li><a href="https://careercenter.lehigh.edu/sites/careercenter.lehigh.edu/files/AmericanValues.pdf">The Values Americans Live By</a></li>
+  <li><a href="http://ajet.net/resources/counselling/">AJET Counseling</a></li>
+  <li><a href="http://www.survivingnjapan.com/2012/05/what-you-should-know-about-mental.html">Surviving in Japan: Finding Help</a></li>
+  <li><a href="http://www.survivingnjapan.com/2012/09/the-low-point-of-culture-shock.html">Surviving in Japan: The Low Point of Culture Shock</a></li>
+  <li><a href="http://www.imhpj.org/">International Mental Health Professionals in Japan</a></li>
+  <li><a href="http://seattlecentral.edu/faculty/jgeorg/HsuKraemerAmValues.htm">3 Lists of American Values</a></li>
+</ul>
+
+<h2 id="the-jewel-and-the-light">The Jewel and the Light</h2>
+
+<figure class="figure-middle"><img alt="precious stone illuminated" src="https://files.tofugu.com/articles/japan/2015-06-23-culture-shock-in-japan-on-the-jet-program/jewel-and-light.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/orbitaljoe/114412181/" title="Visit source's website" target="_blank">Orbital Joe</a></figure>
+
+<p>Overcoming culture shock is a tough subject because it’s different for everyone. It can be mild or severe and how or when it takes effect depends on the individual. But no matter who you are, I hope this series helps at least in a small way.</p>
+
+<p>Personally, I dodged some parts of culture shock, but other parts hit me hard. I handled some things well, but others I didn’t, which kept me shocked longer than I needed to be. In the end though, I learned a lot about myself and Japan.</p>
+
+<p>As you get ready to leave for JET, prepare for culture shock but don't fear it. Treat it the way you would (should!) treat failure. Not something to loathe, dread, or hate. But rather something to learn from. Steer into it. This may seem scary, but it ultimately offers a lot more control. Like losing control of your car on ice, steer into the slide rather than away. Instead of losing control of the vehicle, you get it back. It may not be the kind of control you'd prefer, but it's a better and more resilient control than you would have otherwise.</p>
+
+<p>I’ll end with a quote from an excellent resource for JETs, <a href="http://kumamotojet.com/Mental-Health.php">KumamotoJET</a>:</p>
+
+<blockquote>
+  <p>We are like a jewel, and culture is like the light. When light comes from a different source or angle, the jewel looks different. Sometimes just a little change makes the jewel shine, and other times it makes it look dull and unimpressive. It’s not the jewel’s or the light’s fault, it’s the result of the interaction. It’s not Japan’s fault, it’s not your fault. It’s the result of the interaction between the two.</p>
+</blockquote>
+
+<aside class="blog-post-highlight article-sources"><div class="container"><h4>Sources</h4><ul><li><a href="http://jetprogramme.org/en/gih/" title="View source">JET Program General Information Handbook</a></li><li><a href="https://en.wikipedia.org/wiki/Culture_shock" title="View source">Wikipedia</a></li><li><a href="http://www.gunmajet.net/guides/stage-too-horrible/" title="View source">GunmaJet</a></li><li><a href="http://kumamotojet.com/Mental-Health.php" title="View source">KumamotoJET</a></li><li><a href="http://www2.pacific.edu/sis/culture/pub/1.6.1-_Common_Reactions.htm" title="View source">University of the Pacific</a></li><li><a href="http://www.survivingnjapan.com/2012/10/how-to-deal-with-low-point-of-culture.html" title="View source">Surviving in Japan</a></li><li><a href="https://www.globaleducation.vt.edu/Students0/Outbound/While-abroad/CultureShock.html" title="View source">Virginia Tech</a></li><li><a href="http://jet-programme.com/jet-programme-survival-guide.pdf" title="View source">Jet Programme Survival Guide</a></li><li><a href="https://web.archive.org/web/20160404184608/http://chroniclesofyoyo.com/2013/08/22/the-4-stages-of-culture-shock/" title="View source">Chronicles of Yoyo</a></li><li><a href="http://www.gunmajet.net/news/winter-in-gunma-a-guide-to-keeping-sane/" title="View source">GunmaJET | Winter in Gunma</a></li><li><a href="http://ajet.net/ajet-connect/online-articles/change-your-perception-change-your-life/" title="View source">AJET</a></li><li><a href="http://www.survivingnjapan.com/2012/10/how-to-deal-with-low-point-of-culture.html" title="View source">Surviving in Japan</a></li><li><a href="https://www.psychologytoday.com/blog/use-your-mind-change-your-brain/201106/you-are-not-your-brain" title="View source">Psychology Today</a></li><li><a href="http://seattlecentral.edu/faculty/jgeorg/HsuKraemerAmValues.htm" title="View source">Seattle Central College</a></li><li><a href="http://jet-programme.com/jet-programme-survival-guide.pdf" title="View source">Jet-Programme.com</a></li><li><a href="http://kumamotojet.com/Mental-Health.php" title="View source">KumamotoJET</a></li><li><a href="https://web.archive.org/web/20150715032548/http://www.globaledprograms.com:80/10-tips-on-how-to-overcome-culture-shock-and-reverse-culture-shock/" title="View source">Global Ed Programs</a></li></ul></div></aside>
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-jet-program hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2015-07-30-jet-program/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='../../series/jet-program.1' title='View all articles in Series The Tofugu JET Program Guide'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+The Tofugu JET Program Guide
+</span>
+</a>
+</li>
+<li class='pager-next'>
+<a href='../japanese-drivers-license/index.html@series=jet-program' title='View How to Get your Japanese Driver&#39;s License'>
+<small>
+Next Article in Series
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+How to Get your Japanese Driver's License
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles japan-prev japan-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='https://www.tofugu.com/japan/studio-ghibli-books/' title='View The Books Behind Your Favorite Studio Ghibli Films'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+The Books Behind Your Favorite Studio Ghibli Films
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='https://www.tofugu.com/japan/butsudan/' title='View What Is a Butsudan? And Why Are People Paying $630,000 for Them?'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+What Is a Butsudan? And Why Are People Paying $630,000 for Them?
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japan'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='https://www.tofugu.com/japan/butsudan/' title='View What Is a Butsudan? And Why Are People Paying $630,000 for Them?'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older japan' class='older-article-pagination'></span>
+</small>
+What Is a Butsudan? And Why Are People Paying $630,000 for Them?
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='https://www.tofugu.com/japan/studio-ghibli-books/' title='View The Books Behind Your Favorite Studio Ghibli Films'>
+<small>
+<span aria-label='Newer japan' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+The Books Behind Your Favorite Studio Ghibli Films
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/about/' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.1' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs.1' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese.1' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/news/' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/newsletter/' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/master-2164c2ee.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

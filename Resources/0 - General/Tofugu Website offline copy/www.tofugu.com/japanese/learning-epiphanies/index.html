@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Koichi' name='author'>
+<meta content='Epiphanies are nice when they just happen. But what if you could make them happen? And then make them work for you.' name='description'>
+<meta content='learning, language' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Epiphanies are nice when they just happen. But what if you could make them happen? And then make them work for you.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2011-09-27-learning-epiphanies/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='How Little Epiphanies Add Up to Big Gains' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japanese/learning-epiphanies/' property='og:url'>
+<meta content='https://www.tofugu.com/japanese/katakanization/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/bunpro/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/anki/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/ehon-japanese-childrens-picture-books/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/yotsubato/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/bao-nakashima/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-punctuation/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/warau-eikaiwa/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/be-more-productive/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/what-i-learned-about-learning-japanese-from-spending-3-weeks-in-taiwan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/stay-motivated/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/learn-with-pictures/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/jfdi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/seinfeld-kanji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/little-victories/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/study-habits/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-fluency-make-mistakes/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/interleaving-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-songs/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-body-parts-vocabulary/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/learn-japanese-from-kids-anime/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/the-meaning-of-kuni/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/ghibli-dictionary/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/quantity-not-quality-makes-fluent-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-beauty-language/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-find-the-kanji-radical/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/satou-japanese-name/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/learn-katakana/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/cow-poop-is-a-japanese-surname/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/japanese-minecraft-professor/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-argument-structure/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kanji-study-methods/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/three-similar-particles/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/study-abroad-language-learning/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/sumimasen/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/keigo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/gyaru-go/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/language-mistakes/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-particle-ne/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/commuincating-in-japanese-without-talking/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/aizuchi-japanese-listening/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-opposites/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/creating-japanese-learning-opportunities/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-major/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/surviving-japanese-class/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/look-up-kanji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-wordplay/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/learning-japanese-with-starcraft/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/why-do-japanese-people-talk-so-fast/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/intermediate-japanese-plateau/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/8-things-to-improve-your-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/is-japanese-hard-to-learn/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/10-things-i-wish-i-knew-about-learning-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/hentaigana-history-of-japanese-writing-system/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/country-names-for-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kana-changes-in-history/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/yamato-kotoba-language/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/goroawase-japanese-numbers-wordplay/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/pay-services-for-learning-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-girlfriends-and-learning-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/stop-when-you-dont-want-to/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/rhinospike/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-learn-kanji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-sweetheart/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-particles-cheatsheet/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/samurai-speech/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-online-translator/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Koichi' property='article:author'>
+<meta content='2011-09-27T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japanese' property='article:section'>
+<meta content='learning' property='article:tag'>
+<meta content='language' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@tofugu' name='twitter:creator'>
+<meta content='Epiphanies are nice when they just happen. But what if you could make them happen? And then make them work for you.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2011-09-27-learning-epiphanies/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='How Little Epiphanies Add Up to Big Gains' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#d33682' name='twitter:widgets:link-color'>
+<meta content='#d33682' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-koichi-0d7c291b.jpg",
+    "jobTitle": "President",
+    "name": "Koichi",
+    "sameAs": [
+
+    ],
+    "url": "https://www.tofugu.com/about/people/koichi/",
+    "description": "Jaered Koichi Croes is the founder of Tofugu, LLC (we make Tofugu and WaniKani). In his free time, he cheers for the Mariners, plays kendo, and thinks about education.",
+    "email": "koichi@tofugu.com"
+  },
+  "datePublished": "2011-09-27T00:00:00Z",
+  "description": "Epiphanies are nice when they just happen. But what if you could make them happen? And then make them work for you.",
+  "headline": "How to Build Japanese Epiphanies",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japanese/2011-09-27-learning-epiphanies/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japanese/2011-09-27-learning-epiphanies/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "learning, language",
+  "name": "How to Build Japanese Epiphanies",
+  "url": "https://www.tofugu.com/japanese/learning-epiphanies/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2011-09-27T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japanese/learning-epiphanies/"
+}
+</script>
+
+<title>How to Build Japanese Epiphanies</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="../../stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japanese/learning-epiphanies/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='../../apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='../../apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='../../apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='../../apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='../../apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='../../favicon.png' rel='shortcut icon'>
+<link href='../../favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japanese japanese_learning-epiphanies japanese_learning-epiphanies_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='../../index.html'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../index.html' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='../index.html' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.2' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='../../japanese-learning-resources-database/index.html' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../../japan/index.html' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='../../japan/index.html' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../series/index.html' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../travel/index.html' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../reviews/index.html' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../interviews/index.html' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='../../podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(../../images/layout/placeholders/articles/japanese/header-2560x-b6dd1c83.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="../../images/layout/placeholders/articles/japanese/header-640x-106fe370.jpg" alt="Header 640x 106fe370" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+How Little Epiphanies Add Up to Big Gains
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+Level up your Japanese
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2011-09-27T00:00:00Z">September 27, 2011</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/koichi/index.html" rel="author">Koichi</a>
+•
+Art by
+<a href="../../about/people/aya-francisco/index.html">Aya Francisco</a>
+</span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>A while ago I wrote the article “<a href="../little-victories/index.html">When Learning Japanese It’s All About The Little Victories</a>.” This is kind of like that, but this time we’re focusing on epiphanies. Oh, just in case, here’s the definition of epiphany.</p>
+
+<blockquote>
+  <p>A sudden, intuitive perception of or insight into the reality or essential meaning of something, usually initiated by some simple, homely, or commonplace occurrence or experience.</p>
+</blockquote>
+
+<p>Basically, it’s something you realize all of a sudden. Now, most people usually think about big, life changing epiphanies when they think about epiphanies. But, I don’t think these are particularly helpful when it comes to language learning. Little epiphanies are where the progress is at – the problem is that you just don’t notice them too well. Just the act of <em>noticing</em> little epiphanies (they really do happen quite often, as long as you get little enough) will change your outlook on your progress through life (as well as your progress through the Japanese language).</p>
+
+<p>Now, <em>why</em> do you want to have more epiphanies? How is that helpful to learning Japanese?</p>
+
+<p>Unfortunately, I don’t have studies, science, or really anything else to back this up. Just personal experience. Here’s what I think:</p>
+
+<p>In order to learn Japanese, you have to have X number of epiphanies before Japanese becomes “Obvious.” This is when things just sort of make sense on their own. It’s a magical moment, but a moment you probably won’t notice right away, because it will sneak up on you.</p>
+
+<p>To have X number of epiphanies, you need to:</p>
+
+<ul>
+  <li>Study and do the right things.</li>
+  <li>Study enough / be exposed to enough Japanese.</li>
+</ul>
+
+<p>This is all pretty general and unhelpful, but I hope at least you agree that you have to do the right things in order to get epiphanies. Also, bear with me on the idea that you need “X number of epiphanies” to reach the “obvious” point. I don’t know what “X” is, but it’s a pretty big number. Everyone has to have the same epiphanies (as in… “ohhh, so <em>that’s</em> how that grammar works!”) to progress towards obvious land… though some people will experience bigger or smaller epiphanies for different things.</p>
+
+<p>Anyways, what I’m <em>trying</em> to say is that people have to have these epiphanies. What’s <em>really</em> important is the question of how to get them and how to notice them. The more you notice the epiphanies, the more you can do with them. The more epiphanies you end up having (remember, everyone has to have the same epiphanies, pretty much!) the closer you’ll be to “obvious.” Let’s look at those questions – I think they’re a lot more interesting… and helpful!</p>
+
+<h2 id="noticing-your-epiphanies">Noticing Your Epiphanies</h2>
+
+<figure class="figure-middle"><img alt="joke notice sign" src="https://files.tofugu.com/articles/japanese/2011-09-27-learning-epiphanies/notice.png" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/kevandotorg/5852332880/" title="Visit source's website" target="_blank">Kevan</a></figure>
+
+<p>One thing I want you to try is to pay close attention to your epiphanies. I believe epiphanies are happening all the time, you just have to think smaller.</p>
+
+<p>There are two things that I think make it a lot easier to notice them, though.</p>
+
+<ol>
+  <li>Paying attention (duh)</li>
+  <li>Writing down things you don’t understand</li>
+</ol>
+
+<p>Paying attention seems simple enough, but it’s actually really hard. You have to constantly be thinking “am I realizing something?” throughout the entire day, and that gets difficult to do until you do it enough (and it just becomes a natural question in your head). Whenever you feel confusion, or something similar, you should automatically get ready to notice your epiphany. When you have one, think through it and how you came to it in your head. Eventually, you’ll actually get better at having epiphanies. Epiphanies are the steps towards greater understanding – you want to have a lot of these if you can.</p>
+
+<p>To make this even easier, I’d recommend writing down things you don’t understand. I’m talking about <em>everything</em> (Japanese included). Bring a small notepad with you wherever you go or set up <a href="http://evernote.com">Evernote</a> on your phone. Writing things down that you don’t understand is a lesson in humility and a lesson in epiphanies. You should go through your list every day and take note of the things you understand (between the time you wrote them down and the time you looked at them again). Then, think back to how you came to that understanding. What epiphany brought you over the edge? What epiphany made that concept make sense? Think through the epiphany and slow it down (usually they come on pretty suddenly!) so you can figure out <em>how</em> you reached that point of understanding.</p>
+
+<p>Eventually you’ll get better at noticing and analyzing epiphanies. You’ll actually get <em>good</em> at having epiphanies, because you’ll learn the things that give you epiphanies, and therefor give you more knowledge (dare I say you’ll get an epiphany about it?).</p>
+
+<h2 id="having-more-epiphanies">Having More Epiphanies</h2>
+
+<figure class="figure-middle"><img alt="lightbulbs connected to flexible sockets" src="https://files.tofugu.com/articles/japanese/2011-09-27-learning-epiphanies/lights.png" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/spigoo/2099231/" title="Visit source's website" target="_blank">André Mouraux </a></figure>
+
+<p>More isn’t <em>always</em> better, but when it comes to epiphanies I think the more the merrier. You’ve learned how to start noticing your epiphanies (as well as how to analyze them so you can set yourself up to have them more easily) so now it’s time to look at ways to have <em>more</em> epiphanies, especially with your Japanese learning. These are just some suggestions, and not everything will work with everyone, but I imagine most Japanese studiers will get something out of at least one of these. In general, these all just follow good study habits as well, so nothing here will be a bad thing to try.</p>
+
+<h3 id="write-down-the-things-you-dont-understand">Write Down The Things You Don’t Understand</h3>
+
+<p>Already mentioned this above, so I won’t harp on it long. Use <a href="http://evernote.com">Evernote</a>, it’s pretty much the best note-taking software ever. I use it for everything, including Japanese. If you write down the things you don’t understand, you can focus on the things you don’t understand (rather than avoid them… or ignore them). When it comes down to it, people who get better at the things they don’t understand or aren’t good at are the ones who win in the end. The people who ignore the things they don’t understand are the ones who end up falling apart later on. Why? Because these people avoid the difficult epiphanies, and everyone needs to have these epiphanies in order to progress.</p>
+
+<h3 id="study-consistently">Study Consistently</h3>
+
+<p>Studying consistently will garner you more epiphanies than studying eight hours all at once for one day a week, even if you’re only studying 30 minutes a day instead (totalling 3.5 hours a week of study, versus the eight). Why? Because it allows your brain to rest and think on things. Also, it brings up reminders more consistently, meaning things you don’t understand have a much higher chance of breaking through. Studying consistently (rather than in bursts) is just about the best thing you can do for your Japanese. Why? Because it creates more opportunity for the epiphanies you need to move forward and get better.</p>
+
+<h3 id="make-things-small">Make Things Small</h3>
+
+<p>Shooting for the big epiphanies is a mistake. Shoot for the small stuff – they add up automatigically into the big stuff without you knowing (that’s why “obvious” status will sneak up on you!). Don’t make your goals gigantic, make them small. Achieve your goals often. <a href="../../learn-japanese/index.html">Anki</a> is one of many great tools for this. Anki is best when taken in smaller doses on a daily basis. It can take ten thousand vocab words and give them into small chunks (just enough, not too many). It also brings things back to review, depending on how well you answered the card before, giving you every opportunity you need to have a small epiphany. Nothing huge or gigantic here… just small epiphany after small epiphany after small epiphany after… oh, wait, did I just learn 10,000 words?</p>
+
+<h2 id="finding-your-epiphany-groove">Finding Your Epiphany Groove</h2>
+
+<p>It’s easy to do a lot of this stuff… but it’s hard to notice epiphanies. It’s sometimes hard to <em>have</em> epiphanies. But, with a combination of consistency as well as analysis of yourself (how did I have this epiphany? What did I do to get here? etc) you’ll get better and better at it. Some people think that “smart” people are smart because they’re naturally smart. That’s totally untrue. Smart people are smart because they <em>practiced</em> being smart. They got better at learning than you, so learning is a lot easier for them.</p>
+
+<p>Noticing and having epiphanies is the same thing. You can learn to have epiphanies. You can learn what sets them off, and do the right things to make them happen more. If you practice at it every day, you’ll get better and better, and soon you’ll find that learning is a breeze, and that you understand things you’ve never thought possible to understand.</p>
+
+<p>So, take it all in stride. Start now. Do it little by little. You’ll be surprised at what you come to realize.</p>
+
+
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-articles japanese-prev japan-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='../kana-changes-in-history/index.html' title='View The Kana, They Are A-Changin&#39;'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+The Kana, They Are A-Changin'
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='../../japan/adult-adoption/index.html' title='View Japanese Adult Adoption'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Japanese Adult Adoption
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japanese'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='../hentaigana-history-of-japanese-writing-system/index.html' title='View Hentaigana: How Japanese Went from Illegible to Legible in 100 Years'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older japanese' class='older-article-pagination'></span>
+</small>
+Hentaigana: How Japanese Went from Illegible to Legible in 100 Years
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='../kana-changes-in-history/index.html' title='View The Kana, They Are A-Changin&#39;'>
+<small>
+<span aria-label='Newer japanese' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+The Kana, They Are A-Changin'
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='../../about/index.html' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.2' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs/index.html' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese/index.html' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='../../news/index.html' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='../../newsletter/index.html' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='../../podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='../../feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="../../javascripts/master-2164c2ee.js" defer="defer"></script><script src="../../javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

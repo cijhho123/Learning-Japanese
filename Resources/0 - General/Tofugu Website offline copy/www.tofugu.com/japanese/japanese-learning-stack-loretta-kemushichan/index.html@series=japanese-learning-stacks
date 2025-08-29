@@ -1,0 +1,857 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Loretta &quot;KemushiChan&quot;' name='author'>
+<meta content='Kemushichan has been speaking Japanese fluently on her YouTube channel for 10 years, and now she reveals her study secrets.' name='description'>
+<meta content='japanese learning, study japanese' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Kemushichan has been speaking Japanese fluently on her YouTube channel for 10 years, and now she reveals her study secrets.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2017-11-07-japanese-learning-stack-loretta-kemushichan/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='&quot;What I Use To Study Japanese&quot; - Loretta &quot;Kemushichan&quot;' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-loretta-kemushichan/' property='og:url'>
+<meta content='https://www.tofugu.com/japanese/tofugu-learn-kana-quiz/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-winter-2022/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2022/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-summer-2022/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-spring-2022/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kedo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-winter-2021/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kosoado/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/todai-easy-japanese-news-app/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2021/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/futokoro/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/akeru-aku-hirakeru-hiraku/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/ni-vs-de/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-summer-2021/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/naka-vs-uchi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-spring-2021/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-books-for-upper-beginners/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/anata/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-winter-2020/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/what-should-i-call-you/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2020/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/sasuga/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-summer-2020/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-spring-2020/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-summer-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-may-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-april-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-march-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-february-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-january-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-november-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-october-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-september-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-august-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-july-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-may-june-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-april-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-march-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-january-february-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-awards-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-december-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-november-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-matthew-chozick/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-october-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-september-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-august-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-july-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-jonathan-kirk/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-michael/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-june-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-james/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-adam/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-may-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-dogen/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-dan-bornstein/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-april-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-particle-monono/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-particle-kana/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/japanese-from-zero/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Loretta &quot;KemushiChan&quot;' property='article:author'>
+<meta content='2017-11-07T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japanese' property='article:section'>
+<meta content='japanese learning' property='article:tag'>
+<meta content='study japanese' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@KemushiJP' name='twitter:creator'>
+<meta content='Kemushichan has been speaking Japanese fluently on her YouTube channel for 10 years, and now she reveals her study secrets.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2017-11-07-japanese-learning-stack-loretta-kemushichan/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='&quot;What I Use To Study Japanese&quot; - Loretta &quot;Kemushichan&quot;' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#d33682' name='twitter:widgets:link-color'>
+<meta content='#d33682' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-loretta-kemushichan-54d1602c.jpg",
+    "jobTitle": "Writer",
+    "name": "Loretta \"KemushiChan\"",
+    "sameAs": [
+      "https://www.twitter.com/KemushiJP",
+      "https://www.youtube.com/KemushiChan"
+    ],
+    "url": "https://www.tofugu.com/about/people/loretta-kemushichan/",
+    "description": "Loretta is a Japan-based creator known for her YouTube channel \"KemushiChan\", and roles on popular Japanese TV networks such as TBS and NHK. She began learning Japanese in High School before majoring in Linguistics at the College of William and Mary, which led to her work as an EN/JP translator and reporter in New York City. Off camera, Loretta is pursuing her Masters in Japanese Business Administration, while researching her second love of Japan-centric tech and digital startups."
+  },
+  "datePublished": "2017-11-07T00:00:00Z",
+  "description": "Kemushichan has been speaking Japanese fluently on her YouTube channel for 10 years, and now she reveals her study secrets.",
+  "headline": "\"What I Use To Study Japanese\" - Loretta \"Kemushichan\"",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japanese/2017-11-07-japanese-learning-stack-loretta-kemushichan/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japanese/2017-11-07-japanese-learning-stack-loretta-kemushichan/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "japanese learning, study japanese",
+  "name": "\"What I Use To Study Japanese\" - Loretta \"Kemushichan\"",
+  "url": "https://www.tofugu.com/japanese/japanese-learning-stack-loretta-kemushichan/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2017-11-07T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japanese/japanese-learning-stack-loretta-kemushichan/"
+}
+</script>
+
+<title>"What I Use To Study Japanese" - Loretta "Kemushichan"</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="../../stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japanese/japanese-learning-stack-loretta-kemushichan/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='../../apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='../../apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='../../apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='../../apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='../../apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='../../favicon.png' rel='shortcut icon'>
+<link href='../../favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japanese japanese_japanese-learning-stack-loretta-kemushichan japanese_japanese-learning-stack-loretta-kemushichan_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='../../index.html'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../index.html' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='../index.html' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.2' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='../../japanese-learning-resources-database/index.html' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../../japan/index.html' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='../../japan/index.html' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../series/index.html' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../travel/index.html' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../reviews/index.html' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../interviews/index.html' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='../../podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=japanese-learning-stacks#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japanese/2017-11-07-japanese-learning-stack-loretta-kemushichan/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japanese/2017-11-07-japanese-learning-stack-loretta-kemushichan/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+"What I Use To Study Japanese" - Loretta "Kemushichan"
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+Tips for speaking Japanese fluently
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2017-11-07T00:00:00Z">November 7, 2017</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="http://www.tofugu.com/about/people/loretta-kemushichan/" rel="author">Loretta "KemushiChan"</a>
+•
+Art by
+<a href="../../about/people/aya-francisco/index.html">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japanese/2017-11-07-japanese-learning-stack-loretta-kemushichan/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+<p class='article-series series-japanese-learning-stacks hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="../../series/japanese-learning-stacks.2">What I Use to Study Japanese
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p><em><a href="../../series/japanese-learning-stacks.2">In this series</a>, Tofugu asks learners what Japanese learning resources and methods they use to study and why. Today, we talk to <a href="http://www.tofugu.com/about/people/loretta-kemushichan/">Youtuber and J-vlogger Loretta aka "Kemushichan."</a></em></p>
+
+<p><em>Loretta has spent a lot of time on her Japanese speaking ability, so if you want to become <abbr title="The Japanese onomatopoeia meaning &quot;fluent&quot; or &quot;fluency.&quot;">ペラペラ</abbr> like her, take note. Show us the way, Loretta!</em></p>
+
+<hr />
+
+<p>I've studied Japanese for over fifteen years now and used it regularly (and publicly) on my YouTube channel for over ten:</p>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="https://www.youtube.com/embed/pZbs4lhXK-M?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="Speaking Only Japanese for a Day ...WHILE COOKING"></iframe></div>
+
+<p>This journey has taught me something very personal about how I approach new things: I can't memorize information I'm trying to learn. I can't sit down with <a href="../hiragana-chart/index.html">charts</a>, lists, and apps and expect it to remember it later.</p>
+
+<p>Still, key topics like kana, kanji, て-form, passive voice, and <a href="../keigo/index.html">keigo</a> are usually presented with charts and flashcards, so how can someone <em>really</em> learn and digest complex information without memorizing it?</p>
+
+<p>I took Japanese courses in high school, college, and beyond and often had to carve out my own ways to truly learn what many teachers expected me to rote memorize.</p>
+
+<p>Here's how I did it.</p>
+
+<ul id="markdown-toc">
+  <li><a href="index.html@series=japanese-learning-stacks#dictionaries-and-new-words" id="markdown-toc-dictionaries-and-new-words">Dictionaries and New Words</a></li>
+  <li><a href="index.html@series=japanese-learning-stacks#quick-turnaround" id="markdown-toc-quick-turnaround">Quick Turnaround</a>    <ul>
+      <li><a href="index.html@series=japanese-learning-stacks#how-i-organize-my-audio-diary" id="markdown-toc-how-i-organize-my-audio-diary">How I Organize My Audio Diary</a></li>
+    </ul>
+  </li>
+  <li><a href="index.html@series=japanese-learning-stacks#listening-to-my-own-voice" id="markdown-toc-listening-to-my-own-voice">Listening to My Own Voice</a></li>
+  <li><a href="index.html@series=japanese-learning-stacks#mimicry" id="markdown-toc-mimicry">Mimicry</a>    <ul>
+      <li><a href="index.html@series=japanese-learning-stacks#how-i-mimic-audio-clips-in-my-audio-diary" id="markdown-toc-how-i-mimic-audio-clips-in-my-audio-diary">How I Mimic Audio Clips in my Audio Diary</a></li>
+    </ul>
+  </li>
+  <li><a href="index.html@series=japanese-learning-stacks#self-designed-homework" id="markdown-toc-self-designed-homework">Self-Designed Homework</a></li>
+</ul>
+
+<h2 id="dictionaries-and-new-words">Dictionaries and New Words</h2>
+
+<figure class="figure-middle"><img alt="loretta kemushichan using a japanese dictionary" src="https://files.tofugu.com/articles/japanese/2017-11-07-japanese-learning-stack-loretta-kemushichan/dictionaries.jpg" /></figure>
+
+<p>Even though I'm terrible at memorizing vocabulary lists, I love seeing words in context. There's an online dictionary you might have heard of called <a href="http://jisho.org/">Jisho.org</a>. Here, you can look up individual words or kanji like any other dictionary, but I always skip straight to the example sentences.</p>
+
+<figure class="figure-middle"><img alt="example sentences on jisho online japanese dictionary" src="https://files.tofugu.com/articles/japanese/2017-11-07-japanese-learning-stack-loretta-kemushichan/jisho.jpg" /></figure>
+
+<p>To get example sentences for any word on Jisho, just add <code>#sentences</code> to the search bar with the target word in Japanese.</p>
+
+<p><a href="../japanese-sentence-study/index.html">The example sentences make it easy for me to get the target vocab in my brain and keep it there</a>. For example, in class I often mixed up the words 趣味 (hobbies) and 興味 (interests). But searching each one in Jisho's sentence search gave me funny, natural examples that were much more interesting to learn than the words by themselves.</p>
+
+<p>And once you see the words in context, all you have to do is pick the sentence that looks the most relevant and start using it to sound more native. After that, revisiting these sentences in your notes is really helpful.</p>
+
+<p>But what if you don't have "notes" yet? Everyone has to find their own note-taking style, but I recommend keeping a journal. Here are a few tips for those you who love writing things down.</p>
+
+<figure class="figure-middle"><img alt="japanese study notebook by kemushichan" src="https://files.tofugu.com/articles/japanese/2017-11-07-japanese-learning-stack-loretta-kemushichan/notebook.jpg" /></figure>
+
+<p>I usually write single words/phrases on the left side of the notebook and leave room underneath to practice related kanji (if there are any). Then I use the opposite page to jot down my one favorite sentence that goes along with the target vocabulary.</p>
+
+<p>When choosing sentences to study, I look for ones that are personally relevant or that I can use immediately. For example, I like to cook so I look for sentences that involve boiling, steaming, grating, and peeling so I can start reading and talking about my favorite recipes.</p>
+
+<ul>
+  <li><strong>Website:</strong> <a href="http://jisho.org/">Jisho</a></li>
+</ul>
+
+<h2 id="quick-turnaround">Quick Turnaround</h2>
+
+<figure class="figure-middle"><img alt="kemushichan doing japanese homework" src="https://files.tofugu.com/articles/japanese/2017-11-07-japanese-learning-stack-loretta-kemushichan/notebook-work.jpg" /></figure>
+
+<blockquote class="highlight-right">
+  <p>I try to use new words I like within twenty-four hours of learning them. Using the word within the next minute of my first encounter is always best, if I can.</p>
+</blockquote>
+
+<p>I have a rule when speaking Japanese: I try to use new words I like within twenty-four hours of learning them. Using the word within <strong>the next minute</strong> of my first encounter is always best, if I can.</p>
+
+<p>It feels weird sometimes because people can usually tell when I try to force a word into the conversation. But using a new bit of Japanese is the best way for me to see if it sounds right, so the awkwardness is a small price to pay.</p>
+
+<p>To make sure I use new words like this consistently, I have a little system to keep things on track.</p>
+
+<p>Every Sunday, I revisit my notebook and pick a word or group of words that seem most immediately usable. I then transfer five of these words to my "list" (a tiny post-it in my pocket) to use in a coming week.</p>
+
+<p>I challenge myself to check off each word on my pocket list by the end of the week and revisit the words in my notebook the coming Sunday.</p>
+
+<p>At the start of each day, I pick a word from the list and force it into a conversation or audio diary (more on that below) on that day.</p>
+
+<p>I check the list at the end of the week to see if I used every word, revise my notes, and repeat (with the same or a new list) the next week.</p>
+
+<p>When using words on my pocket list, I prefer to try them out with a Japanese speaker if I have one nearby. But if I'm by myself, I try to use the target vocab in an audio diary, or more recently, on apps like <a href="https://www.tofugu.com/reviews/hinative/">HiNative</a> or <a href="http://home.hellotalk.com/">HelloTalk</a>. These apps give me a chance to hear myself speaking target vocab/grammar <strong>and</strong> get honest feedback from native speakers.</p>
+
+<ul>
+  <li><strong>Website:</strong> <a href="https://hinative.com/">HiNative</a></li>
+  <li><strong>Website:</strong> <a href="http://home.hellotalk.com/">HelloTalk</a></li>
+</ul>
+
+<h3 id="how-i-organize-my-audio-diary">How I Organize My Audio Diary</h3>
+
+<p>Above I mentioned my "audio diary," which is an important part of my study method. If you want to replicate this for yourself (and see the benefits) here's how I do it:</p>
+
+<ul>
+  <li>Three to five times a week, I record myself for at least one minute in Japanese using the <a href="http://www.audacityteam.org/">Audacity</a> audio recorder. I sometimes refer to brief talking points or key phrases, but my goal is to talk freeform, without a script, as much as possible.</li>
+  <li>I save and name the files (week1a.mp3, week1b.mp3) in iTunes and add them to a playlist for that week.</li>
+  <li>With the playlists loaded, I take my smartphone everywhere and listen to the playlist on repeat.</li>
+  <li>At the end of the week, I note any obvious mistakes or awkward passages, then redo.</li>
+  <li>I repeat the process the next week with a new set of talking points, or revisit topics I want to try again.</li>
+</ul>
+
+<p>You can do this with any audio recording/playback combo you like best. Your smartphone's app store definitely has some kind of voice-recording app for cheap. But for playback, just make sure your audio player has a playlist creation option. It really helps with recalling and revisiting your recordings.</p>
+
+<p>If you want to use Audacity and iTunes (like I do), here's how to do it:</p>
+
+<ol>
+  <li>Download and install <a href="http://www.audacityteam.org/download/">Audacity</a>.</li>
+  <li>Record your audio clip.</li>
+  <li>Export your recording by clicking the <code>File → EXPORT AUDIO</code> to create a version you can save to your desktop or favorite folder.</li>
+  <li>Then open <a href="https://www.apple.com/itunes/download/">iTunes</a>, create a new playlist, and drag your audio file into it.</li>
+</ol>
+
+<p>The more I followed this method and repeatedly practiced new words, the more I built muscle memory for certain words or phrases. Even if I couldn't remember an exact word or how it was written, I could rely on my muscle memory to at least get the sentence rolling.</p>
+
+<p>Instead of trying to memorize a word, I tried to use it as soon as possible so that I could get used to the feel and sound of it in my own daily conversation.</p>
+
+<ul>
+  <li><strong>Website:</strong> <a href="http://www.audacityteam.org/download/">Audacity</a></li>
+  <li><strong>Website:</strong> <a href="https://www.apple.com/itunes/download/">iTunes</a></li>
+</ul>
+
+<h2 id="listening-to-my-own-voice">Listening to My Own Voice</h2>
+
+<figure class="figure-middle"><img alt="japanese language shadowing with kemushichan" src="https://files.tofugu.com/articles/japanese/2017-11-07-japanese-learning-stack-loretta-kemushichan/own-voice.jpg" /></figure>
+
+<blockquote class="highlight-right">
+  <p>I strongly believe one of the keys to learning language is hearing it in your own voice.</p>
+</blockquote>
+
+<p>I strongly believe one of the keys to learning language is hearing it in your own voice. People instantly notice the sound of their own voice, and the benefits of recording yourself and getting used to the sound of it in a foreign language are twofold:</p>
+
+<ol>
+  <li>If you listen to a recording of your voice, you'll be able to hear yourself objectively without the nerves of speaking on the spot. This allows you to hear what you actually sound like, see where your weaknesses are, and identify what words you use too often.</li>
+  <li>The more you record your voice and speak the same thing to yourself, the more you build your tongue's muscle memory for key sentences you can use in actual conversations with real people.</li>
+</ol>
+
+<p>I once worked a very repetitive job in the basement of my college library. I loaded up my iPod with Japanese podcasts (<a href="http://www.sbs.com.au/yourlanguage/japanese?language=ja">SBS Japanese from the Japanese community in Australia</a> was my favorite!) and listen to them on repeat during my shifts.</p>
+
+<p>After years of working in that basement, I'd heard the same clips a dozen times. Some of the repeat phrases seemed useful, so I started writing them down and using them in recordings at home that same evening, speaking the exact same phrases I heard in the clips.</p>
+
+<p>Afterward, I created a playlist and arranged it so <strong>my version</strong> of a clip always played <strong>right after</strong> the original. Then I'd listen to this on repeat and continue adding more.</p>
+
+<p>Keep in mind, it can be jarring to hear your own voice. I cringe every time my version of the audio deviates from the original. That said, practice like this really cements in my mind what I sound like when I mispronounce words, which motivates me to get better. It also shows me the obvious holes in my pronunciation.</p>
+
+<ul>
+  <li><strong>Website:</strong> <a href="http://www.sbs.com.au/yourlanguage/japanese?language=ja">SBS Japanese Australia</a></li>
+</ul>
+
+<h2 id="mimicry">Mimicry</h2>
+
+<figure class="figure-middle"><img alt="kemushichan studying japanese with mimicry" src="https://files.tofugu.com/articles/japanese/2017-11-07-japanese-learning-stack-loretta-kemushichan/mimicry.jpg" /></figure>
+
+<p>I play a game with myself sometimes: I pick a favorite Japanese speaker, track down every clip of them I can find, and try to recreate their inflection, intonation, gestures, and style.</p>
+
+<p>I bet you can guess where I'm going with this: audio diaries. Those times I was practicing target vocabulary by recording my own voice, I was also mimicking a certain Japanese speaker.</p>
+
+<p>In high school, I loved Kitagawa Keiko from her appearance in the live action <em>Sailor Moon</em>. In college, I followed Ayase Haruka and tried to sound as quirky and bubbly as she did. Now, it's famous speaker and author Ikegami Akira.</p>
+
+<p>I heard about him from a professor in Kyoto who thought I should learn to present my thoughts better in Japanese (she was right). I had been trying to mimic the everyday speech of actresses and celebrities. But I wanted to debate, persuade, and schmooze in Japanese, so learning how to clearly form and present my thoughts became really important.</p>
+
+<p>You can find a section of Ikegami books in almost any Japanese bookstore. He's great at explaining the art of explaining while remaining concise and 分かりやすい (easy to understand).</p>
+
+<p>The books are a great help, but it's even better to hear how he speaks: poised, clear, and effortlessly 分かりやすい. I'm still a work in progress, but you can be sure I'm weaving his speaking style into every audio diary I make.</p>
+
+<h3 id="how-i-mimic-audio-clips-in-my-audio-diary">How I Mimic Audio Clips in my Audio Diary</h3>
+
+<p>If you want to try this technique with your own audio diaries, here's how I do it:</p>
+
+<ul>
+  <li>On the first day of a new week, I add an audio clip of someone I want to imitate to a new iTunes playlist. Let's call this file "Mimic001.mp3."</li>
+  <li>I listen to a short piece of it (thirty seconds maximum) five times or more.</li>
+  <li>Three times a week, I record myself imitating that thirty second clip in an audio diary. To make this easier, I sometimes transcribe the original and read it aloud. But the idea is to "act" the part and mimic how the person sounds, not to memorize what they're saying.</li>
+  <li>I name the recording with my name (Mimic001-Loretta.mp3) and add it to the same playlist, directly after the original clip.</li>
+  <li>As always, I take my smartphone everywhere and listen to the playlist on repeat.</li>
+  <li>At the end of the week, I note any obvious mistakes or awkward passages where I don't match the original and retry.</li>
+  <li>When the new week starts, I repeat with a new audio clip or revisit topics I want to try again.</li>
+</ul>
+
+<h2 id="self-designed-homework">Self-Designed Homework</h2>
+
+<figure class="figure-middle"><img alt="japanese homework designed by kemushichan" src="https://files.tofugu.com/articles/japanese/2017-11-07-japanese-learning-stack-loretta-kemushichan/self-designed-homework.jpg" /></figure>
+
+<blockquote class="highlight-right">
+  <p>The best way for me to learn new words or sentences has been to work with them in a personal project outside of school.</p>
+</blockquote>
+
+<p>The best way for me to learn new words or sentences has been to work with them in a personal project outside of school.</p>
+
+<p>I specifically remember two words I learned in a lesson on <a href="https://iknow.jp/">iKnow</a>:</p>
+
+<ol>
+  <li>開発 (development)</li>
+  <li>改革 (reform)</li>
+</ol>
+
+<p>But iKnow didn't teach me these words. (I'm not good at memorizing, remember?) I always mixed them up in the app no matter how many times I reviewed them.</p>
+
+<p>So I looked up example sentences for both words and forced them into my speech.</p>
+
+<p>For 改革 (reform), I specifically made a YouTube video about college Japanese courses, and to this day I can still hear the funny little pause before forcing 教育の改革 (reform in education) into the video.</p>
+
+<p>I have no idea what other eight vocab were in that iKnow lesson, but as soon as I planned, spoke, and edited these two specific words into a video, they became much easier to recall and use.</p>
+
+<p>I first started mimicking and repeating target Japanese words for myself in audio diaries. But now I do the same <a href="https://www.youtube.com/user/kemushichan">on my YouTube channel</a>.</p>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="https://www.youtube.com/embed/g7gTHNPRlAw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="How I Learn Japanese | Study Habits We&#39;re Ditching in 2017"></iframe></div>
+
+<p>Even though video is entirely different than personal audio diaries, I find that being creative with an audience forces me to expand, feel, and really work with Japanese.</p>
+
+<p>Plus, there's the accountability factor that comes with an audience. Even if you think you don't have an audience, try practicing Japanese with HiNative or HelloTalk and you'll get one.</p>
+
+<p>But whether for yourself or other people, creating occasional passion projects <strong>in Japanese</strong> really helps the language feel more alive.</p>
+
+<ul>
+  <li><strong>Website:</strong> <a href="https://www.youtube.com/user/kemushichan">Kemushichan YouTube Channel</a></li>
+  <li><strong>Website:</strong> <a href="https://iknow.jp/">iKnow</a></li>
+</ul>
+
+<hr />
+
+<p>When I see a <a href="../kanji-radicals-mnemonic-method/index.html">list of kanji</a> or vocab I should know, I remind myself these are all pieces of a larger language learning picture. My primary goal is to improve my speaking, so memorizing individual words or bits of language doesn't work for me. But struggling to rebuild a natural Japanese sentence from the bottom up does.</p>
+
+<p>If I start by studying top-level examples (sentences and speeches made by other people), I can work my way down from there, analyzing the grammar and vocabulary that make up specific phrases.</p>
+
+<p>And if the top level sentence or paragraph is relevant, useful, or something I'm interested in, of course I'll have better luck learning the grammar and vocab on my way down</p>
+
+<p>At the end of the day, everyone's bound to do <em>some</em> memorizing. But for me, I know the key to retaining Japanese long term is to mimic, rework, and feel the language for myself.</p>
+
+<hr />
+
+<p><em>…Did you enjoy reading about Loretta's tactics and methods of learning Japanese? If so, you might also enjoy listening to her as well! Check out our podcast episode with Loretta aka "Kemushichan." You'll hear even more knowledge bombs that she drops including her tips about visiting and living in Japan!</em></p>
+
+<div class="embed-container"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F368126387&amp;show_artwork=true"></iframe></div>
+
+
+
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-japanese-learning-stacks hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2017-03-07-japanese-learning-stacks/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='../../series/japanese-learning-stacks.2' title='View all articles in Series What I Use to Study Japanese'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+What I Use to Study Japanese
+</span>
+</a>
+</li>
+<li class='pager-next'>
+<a href='http://www.tofugu.com/japanese/japanese-learning-stack-matthew-chozick/?series=japanese-learning-stacks' title='View &quot;What I Use To Study Japanese&quot; - Matthew Chozick'>
+<small>
+Next Article in Series
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+"What I Use To Study Japanese" - Matthew Chozick
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles travel-prev japanese-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='travel' href='http://www.tofugu.com/travel/momotaro-shrine/' title='View Momotarō Jinja: A Surreal Shrine to Japan’s Peach Boy'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-plane'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+Momotarō Jinja: A Surreal Shrine to Japan’s Peach Boy
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='../japanese-learning-resources-october-2017/index.html' title='View New Japanese Learning Resources: October 2017'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+New Japanese Learning Resources: October 2017
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japanese'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='../japanese-learning-resources-october-2017/index.html' title='View New Japanese Learning Resources: October 2017'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older japanese' class='older-article-pagination'></span>
+</small>
+New Japanese Learning Resources: October 2017
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='../japanese-learning-resources-september-2017/index.html' title='View New Japanese Learning Resources: September 2017'>
+<small>
+<span aria-label='Newer japanese' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+New Japanese Learning Resources: September 2017
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='../../about/index.html' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.2' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs/index.html' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese/index.html' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='../../news/index.html' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='../../newsletter/index.html' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='../../podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='../../feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="../../javascripts/master-2164c2ee.js" defer="defer"></script><script src="../../javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

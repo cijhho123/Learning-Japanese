@@ -1,0 +1,1003 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Cameron Lombardo' name='author'>
+<meta content='Jenny Stainton' name='author'>
+<meta content='Mami Suzuki' name='author'>
+<meta content='Moeko Norota' name='author'>
+<meta content='Rachel Grant' name='author'>
+<meta content='Kanae Nakamine' name='author'>
+<meta content='Get the best NEW Japanese study tools. This spring: a YouTube Japanese tutorial series using Sailor Moon, a cute book about Japanese onomatopoeia, and Netflix show FOLLOWERS.' name='description'>
+<meta content='japanese learning, apps, tools, resources' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Get the best NEW Japanese study tools. This spring: a YouTube Japanese tutorial series using Sailor Moon, a cute book about Japanese onomatopoeia, and Netflix show FOLLOWERS.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2020-03-24-japanese-learning-resources-spring-2020/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='New Japanese Learning Resources: Spring 2020' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-spring-2020/' property='og:url'>
+<meta content='https://www.tofugu.com/japanese/tofugu-learn-kana-quiz/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-winter-2022/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2022/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-summer-2022/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-spring-2022/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kedo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-winter-2021/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kosoado/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/todai-easy-japanese-news-app/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2021/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/futokoro/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/akeru-aku-hirakeru-hiraku/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/ni-vs-de/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-summer-2021/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/naka-vs-uchi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-spring-2021/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-books-for-upper-beginners/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/anata/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-winter-2020/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/what-should-i-call-you/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2020/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/sasuga/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-summer-2020/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-summer-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-may-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-april-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-march-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-february-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-january-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-november-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-october-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-september-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-august-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-july-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-may-june-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-april-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-march-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-january-february-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-awards-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-december-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-november-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-matthew-chozick/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-october-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-loretta-kemushichan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-september-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-august-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-july-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-jonathan-kirk/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-michael/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-june-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-james/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-adam/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-may-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-dogen/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-dan-bornstein/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-april-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-particle-monono/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-particle-kana/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/japanese-from-zero/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/best-kanji-learning-programs/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/best-hiragana-and-katakana-learning-resources/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-koichi/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Cameron Lombardo' property='article:author'>
+<meta content='Jenny Stainton' property='article:author'>
+<meta content='Mami Suzuki' property='article:author'>
+<meta content='Moeko Norota' property='article:author'>
+<meta content='Rachel Grant' property='article:author'>
+<meta content='Kanae Nakamine' property='article:author'>
+<meta content='2020-03-24T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japanese' property='article:section'>
+<meta content='japanese learning' property='article:tag'>
+<meta content='apps' property='article:tag'>
+<meta content='tools' property='article:tag'>
+<meta content='resources' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@cambardo' name='twitter:creator'>
+<meta content='Get the best NEW Japanese study tools. This spring: a YouTube Japanese tutorial series using Sailor Moon, a cute book about Japanese onomatopoeia, and Netflix show FOLLOWERS.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2020-03-24-japanese-learning-resources-spring-2020/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='New Japanese Learning Resources: Spring 2020' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#d33682' name='twitter:widgets:link-color'>
+<meta content='#d33682' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": [
+    {
+      "@type": "Person",
+      "image": "https://www.tofugu.com/images/about/people/avatar-cameron-lombardo-c72c73dc.jpg",
+      "jobTitle": "Researcher / Writer",
+      "name": "Cameron Lombardo",
+      "sameAs": [
+        "https://www.twitter.com/cambardo"
+      ],
+      "url": "https://www.tofugu.com/about/people/cameron-lombardo/",
+      "description": "Cameron is a former full-time researcher and writer for Tofugu and WaniKani. He is fascinated by how languages work, and Japanese is his longest language love affair. After studying Japanese in his native Southern California, he lived in Japan for five years, working as a teacher, translator, and writer. Cameron came to Tofugu after a graduate degree in applied linguistics from Portland State University, and wrote articles and designed language learning content as part of the research team. He is based out of Long Beach, California. ",
+      "email": "cjlombardo@gmail.com"
+    },
+    {
+      "@type": "Person",
+      "image": "https://www.tofugu.com/images/about/people/avatar-jenny-stainton-066d3659.jpg",
+      "jobTitle": "Researcher / Writer",
+      "name": "Jenny Stainton",
+      "sameAs": [
+
+      ],
+      "url": "https://www.tofugu.com/about/people/jenny-stainton/",
+      "description": "Jenny researches and writes full-time for Tofugu and WaniKani. She thinks that everyone is a language person at heart and is on a mission to prove it. After studying languages in Scotland and Japan, she headed to China to teach, then back to Japan as a CIR with the JET program, before spending many years in language education and translation. In her free time, she loves going on adventures near and far, and learning dinosaur trivia.",
+      "email": "jenny.stainton@tofugu.com"
+    },
+    {
+      "@type": "Person",
+      "image": "https://www.tofugu.com/images/about/people/avatar-mami-suzuki-783807d8.jpg",
+      "jobTitle": "Researcher / Writer",
+      "name": "Mami Suzuki",
+      "sameAs": [
+        "https://www.twitter.com/MamiFugu"
+      ],
+      "url": "https://www.tofugu.com/about/people/mami-suzuki/",
+      "description": "Mami is a Japanese native who lives in Canada. She is a Japanese language researcher for Tofugu and helps create content. Lately, she is obsessed with finding out how the Japanese language works and what the best way to teach it to learners truly is. ♡ In case you are wondering, \"Mami\" is pronounced like \"mommy,\" and she is also a real mommy of two adorable kids!",
+      "email": "mami@tofugu.com"
+    },
+    {
+      "@type": "Person",
+      "image": "https://www.tofugu.com/images/about/people/avatar-moeko-norota-cfa2666a.jpg",
+      "jobTitle": "Research Intern",
+      "name": "Moeko Norota",
+      "sameAs": [
+
+      ],
+      "url": "https://www.tofugu.com/about/people/moeko-norota/",
+      "description": "Moeko is a former intern at Tofugu, where she researches Japanese linguistics and writes articles. She earned her BA and teacher's license at the Hokusei Gakuen University in her hometown of Sapporo, Japan. During her undergrad, she studied abroad at Lewis and Clark College in Portland, Oregon. After university, she moved from cold, northerly Hokkaido to the tropical beaches of Oahu, where she completed her MA in Second Language Studies at the University of Hawaii. Her major research interests are second language teaching, critical pedagogy, and social interaction. Besides analyzing language, her favorite activities are tennis and jogging."
+    },
+    {
+      "@type": "Person",
+      "image": "https://www.tofugu.com/images/about/people/avatar-rachel-grant-60d88532.jpg",
+      "jobTitle": "Customer Support Specialist",
+      "name": "Rachel Grant",
+      "sameAs": [
+
+      ],
+      "url": "https://www.tofugu.com/about/people/rachel-grant/",
+      "description": "Rachel is the Customer Support Specialist at Tofugu, and as the job description states, she loves working with customers and talking to people in general. She has a long history with learning Japanese. She began in kindergarten at an immersion program in Portland and continued through university where she studied Economics and Japanese Language. She was on the JET Program for three years as an ALT and PA in Sapporo, Japan. In her free time, she loves exercising, cafe hopping, and long sauna sessions.",
+      "email": "rachel.grant@tofugu.com"
+    },
+    {
+      "@type": "Person",
+      "image": "https://www.tofugu.com/images/about/people/avatar-kanae-nakamine-175df970.jpg",
+      "jobTitle": "Project Manager",
+      "name": "Kanae Nakamine",
+      "sameAs": [
+        "https://www.twitter.com/tofugukanae"
+      ],
+      "url": "https://www.tofugu.com/about/people/kanae-nakamine/",
+      "description": "Kanae is a full-time Project Manager at Tofugu. She also writes articles and codes for Tofugu. While she’s not working, she loves to eat and cook. Her favorite activity is feeding weird Japanese foods (like, chicken butthole yakitori) to her friends without telling them what it is. A random tidbit: she majored in French at university. Though, so far she uses her French bachelor’s degree only to impress people.",
+      "email": "kanae@tofugu.com"
+    }
+  ],
+  "datePublished": "2020-03-24T00:00:00Z",
+  "description": "Get the best NEW Japanese study tools. This spring: a YouTube Japanese tutorial series using Sailor Moon, a cute book about Japanese onomatopoeia, and Netflix show FOLLOWERS.",
+  "headline": "New Japanese Learning Resources: Spring 2020",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japanese/2020-03-24-japanese-learning-resources-spring-2020/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japanese/2020-03-24-japanese-learning-resources-spring-2020/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "japanese learning, apps, tools, resources",
+  "name": "New Japanese Learning Resources: Spring 2020",
+  "url": "https://www.tofugu.com/japanese/japanese-learning-resources-spring-2020/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2020-03-24T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japanese/japanese-learning-resources-spring-2020/"
+}
+</script>
+
+<title>New Japanese Learning Resources: Spring 2020</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japanese/japanese-learning-resources-spring-2020/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='https://www.tofugu.com/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://www.tofugu.com/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://www.tofugu.com/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://www.tofugu.com/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://www.tofugu.com/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='https://www.tofugu.com/favicon.png' rel='shortcut icon'>
+<link href='https://www.tofugu.com/favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japanese japanese_japanese-learning-resources-spring-2020 japanese_japanese-learning-resources-spring-2020_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='https://www.tofugu.com/'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japanese/' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='https://www.tofugu.com/japanese/' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.1' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-learning-resources-database/' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japan/' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='https://www.tofugu.com/japan/' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/series/' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/travel/' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/reviews/' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/interviews/' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='https://www.tofugu.com/podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=japanese-learning-resources#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japanese/2020-03-24-japanese-learning-resources-spring-2020/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japanese/2020-03-24-japanese-learning-resources-spring-2020/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+New Japanese Learning Resources: Spring 2020
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+This season's best tools to help you learn Japanese
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2020-03-24T00:00:00Z">March 24, 2020</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/cameron-lombardo/index.html" rel="author">Cameron Lombardo</a>, <a href="../../about/people/jenny-stainton.1" rel="author">Jenny Stainton</a>, <a href="https://www.tofugu.com/about/people/mami-suzuki/" rel="author">Mami Suzuki</a>, <a href="../../about/people/moeko-norota/index.html" rel="author">Moeko Norota</a>, <a href="../../about/people/rachel-grant.1" rel="author">Rachel Grant</a>, and <a href="../../about/people/kanae-nakamine.1" rel="author">Kanae Nakamine</a>
+•
+Art by
+<a href="https://www.tofugu.com/about/people/aya-francisco/">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japanese/2020-03-24-japanese-learning-resources-spring-2020/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+<p class='article-series series-japanese-learning-resources hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="https://www.tofugu.com/series/japanese-learning-resources/">Japanese Learning Resources
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>The smell of spring is finally in the air! We gathered together all the great Japanese learning resources that we found during winter for you to try out this spring. If you're a hardcore Tofugu fan, you may be thinking, "Wait, the last edition was <a href="https://www.tofugu.com/japanese/japanese-learning-resources-fall-2019/"><em>Fall</em> 2019</a>. Did you just skip a season?" Don't worry, we didn't miss anything (content-wise). We just changed the way we name editions because spring is almost here, and calling this edition "winter" felt a bit out-of-season. Sorry we didn't reaize this sooner, but not so sorry about this change! (We hope you like it too.)</p>
+
+<ul id="markdown-toc">
+  <li><a href="index.html@series=japanese-learning-resources#aozora-audio-reader" id="markdown-toc-aozora-audio-reader">青空朗読 (Aozora Audio Reader)</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#watch-sailor-moon-learn-japanese" id="markdown-toc-watch-sailor-moon-learn-japanese">Watch Sailor Moon, Learn Japanese</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#konnichiwa-podcast" id="markdown-toc-konnichiwa-podcast">Konnichiwa Podcast</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#section" id="markdown-toc-section">語感をみがこう 見て・くらべて オノマトペ！にやにや・くすくす・ 気持ちのことば</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#online-japanese-accent-dictionary" id="markdown-toc-online-japanese-accent-dictionary">Online Japanese Accent Dictionary</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#describing-random-images-in-japanese---wikimedia" id="markdown-toc-describing-random-images-in-japanese---wikimedia">Describing Random Images in Japanese - Wikimedia</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#section-1" id="markdown-toc-section-1">ドラえもんの国語おもしろ攻略 国語力をきたえるカタカナ語</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#followers" id="markdown-toc-followers">Followers</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#section-2" id="markdown-toc-section-2">話のタネ本</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#section-3" id="markdown-toc-section-3">にほんご速読チャレンジ100 中級</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#arashis-diary-voyage" id="markdown-toc-arashis-diary-voyage">ARASHI's Diary Voyage</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#section-4" id="markdown-toc-section-4">推しが尊すぎてしんどいのに語彙力がなさすぎてしんどい -腐女子の感情類語辞典-</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#section-5" id="markdown-toc-section-5">考える・理解する・伝える力が身につく 日本語ロジカルトレーニング 初級</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#marshalls-blog" id="markdown-toc-marshalls-blog">Marshall's Blog</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#japanese-conjugation-city" id="markdown-toc-japanese-conjugation-city">Japanese Conjugation City</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#section-6" id="markdown-toc-section-6">くらべる・たのしい にたことば絵辞典</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#section-7" id="markdown-toc-section-7">マンガ・書きたくなる作文教室〜作文はラーメンに似ている〜</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#uchisen" id="markdown-toc-uchisen">uchisen</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#sesame-street-dubbed-into-japanese" id="markdown-toc-sesame-street-dubbed-into-japanese">セサミストリート日本公式 (Sesame Street Dubbed into Japanese)</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#keep-calm-and-kanji-volume-1" id="markdown-toc-keep-calm-and-kanji-volume-1">Keep Calm and Kanji Volume 1</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#steven-krafts-japanese-projects" id="markdown-toc-steven-krafts-japanese-projects">Steven Kraft's Japanese Projects</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#takoaki-japanese" id="markdown-toc-takoaki-japanese">TakoAki Japanese</a></li>
+</ul>
+
+<h2 id="aozora-audio-reader">青空朗読 (Aozora Audio Reader)</h2>
+
+<figure class="figure-middle"><img alt="aozora audio reader" src="https://files.tofugu.com/japanese-learning-resources-database/aozora-audio-reader/aozora-audio-reader.jpg" /></figure>
+
+<p>Have you ever heard of <a href="https://www.aozora.gr.jp/"><i></i> <ruby>青空文庫<rp>（</rp><rt>あおぞらぶんこ</rt><rp>）</rp></ruby></a>? Established in 1997, this online library hosts several thousand Japanese literary works, completely for free. If you're not too confident in your kanji readings however, trying to read a Japanese text can be quite tricky. Rather than focusing on overall reading comprehension, you end up zeroing in on just the kanji. Sound like you? Then give their sister site <a href="http://aozoraroudoku.jp/"><i></i> <ruby>青空朗読<rp>（</rp><rt>あおぞらろうどく</rt><rp>）</rp></ruby></a> a try!</p>
+
+<p>青空朗読 (literally, "Blue Sky Audio Reader") offers up 580 audio recordings of Japanese literature found on 青空文庫, with new recordings popping up periodically. You can listen to the audio on the website, or you can download an electronic publication (.pub) file and upload it into an eBook application. Some eBook apps support audio as well, and so you can listen to the audio reading of the book as you follow along yourself! This is great practice for increasing the fluency of your reading, and the audio is mostly read by professionals, who are dynamic story tellers with great voice inflection. While the website is all in Japanese and may take some effort to navigate, it's well worth it!</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free!<br /><a href="http://aozoraroudoku.jp?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="watch-sailor-moon-learn-japanese">Watch Sailor Moon, Learn Japanese</h2>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="https://www.youtube.com/embed/-IBpUIwS6KI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="Learn Japanese by Watching Sailor Moon! (Part 1)"></iframe></div>
+
+<p>This is a YouTube tutorial series by professional anime and game translator <a href="https://twitter.com/SarahKTranslate">Sarah K</a>. She is also a big fan of <em>Sailor Moon</em> and wants to help people learn Japanese through the anime.</p>
+
+<p>Each episode is around 30 minutes long. Sarah plays snippets of the anime and explains each sentence used, one scene at a time. In her explanation, she breaks down every sentence word by word and teaches a variety of interesting points for each. Her explanations are very thorough, accurate, and insightful. Sarah's lovely personality also makes the video more fun to watch.</p>
+
+<p>This is a godsend, not only for the <em>Sailor Moon</em> fans, but also for many Japanese learners who like to study using popular media like anime and TV shows, rather than textbooks. Very useful and super enjoyable. You should give it a shot!</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free!<br /><a href="https://www.youtube.com/playlist?list=PLjmFzH5gSNWQZLrQx6G8vLExdhi11jhjP?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="konnichiwa-podcast">Konnichiwa Podcast</h2>
+
+<figure class="figure-middle"><img alt="konnichiwa podcast" src="https://files.tofugu.com/japanese-learning-resources-database/konnichiwa-podcast/konnichiwa-podcast.jpg" /></figure>
+
+<p>This delightful podcast is hosted by three bilingual speakers of Japanese and English—My, Dan, and Yurie. They cover a wide range of topics, including culture, current events, and travel, mixed in with anecdotes from their own lives. If you're looking for some Japanese listening practice that is both fun and accessible, this podcast is definitely worth a listen.</p>
+
+<p>The podcast is decidedly bilingual, and this is what makes it such a gem. While all three hosts use both languages at times, Dan seems to mostly stick to English, while Yurie usually uses Japanese. My switches between both languages throughout each episode, which gives the listener snippets of Japanese conversation with enough English support that even beginner/intermediate learners of Japanese can follow along. The hosts have a funny, friendly vibe to them that makes listening to their banter very enjoyable. Give it a try!</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free!<br /><a href="https://konnichiwapodcast.podbean.com?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="section">語感をみがこう 見て・くらべて オノマトペ！にやにや・くすくす・ 気持ちのことば</h2>
+
+<figure class="figure-middle"><img alt="hone your word sense see and compare onomatopoeia" src="https://files.tofugu.com/japanese-learning-resources-database/hone-your-word-sense-see-and-compare-onomatopoeia/hone-your-word-sense-see-and-compare-onomatopoeia.jpg" /></figure>
+
+<p>This is the first book in the <i></i> <ruby>語感<rp>（</rp><rt>ごかん</rt><rp>）</rp></ruby> をみがこう 見て・くらべて オノマトペ！ series, which translates as "Hone Your Word Sense — See and Compare Onomatopoeia!" As the title explains, the books let you "see" and "compare" <a href="https://www.tofugu.com/japanese/japanese-onomatopoeia/">Japanese onomatopoeia</a>. The book is filled with visual elements such as colors and illustrations, and it doesn't feel like formal studying when you read it. The illustrations help you to picture situations and understand the subtle nuances of onomatopoeia. What's more, they often compare onomatopoeia that have similar meanings to deepen your understanding of the nuances. There are also a few short columns that focus on differences in nuance, with interesting themes. For example, focusing on onomatopoeia that are used to express emotions, the first book talks about which one feels angrier out of ぷりぷり and つんつん.</p>
+
+<p>The series is all written in Japanese, but designed to be understood by Japanese children, so it uses furigana and accessible language. It also includes real-life examples, some of which are quoted from Japanese books. Despite its joyful presentation, the series is a very reliable Japanese learning resource. It was created by Masahiro Ono, who is the leading authority in Japanese onomatopoeia research and has published most of the books available on the subject. If you are looking for Japanese reading material, and are interested in onomatopoeia, this is the perfect book to pick up!</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> ¥3,300<br /><a href="https://www.amazon.co.jp/dp/4593588383?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="online-japanese-accent-dictionary">Online Japanese Accent Dictionary</h2>
+
+<figure class="figure-middle"><img alt="online japanese accent dictionary" src="https://files.tofugu.com/japanese-learning-resources-database/online-japanese-accent-dictionary/online-japanese-accent-dictionary.jpg" /></figure>
+
+<p>The Online Japanese Accent Dictionary, or OJAD, is a database that lets you look up the pitch accent of over 9000 nouns and 3500 declinable Japanese words. You can also search the pitch accent of approximately 42,300 conjugation patterns, with audio recordings by both male and female voice actors.</p>
+
+<p>OJAD has four features to help you learn Japanese pitch accent: word search, verb suffix search, text search, and prosody tutor Suzuki-kun. Word search allows you to change search and display options. For example, you can specify the textbook chapter in which the word is used. You can also select a part of speech, accent type, word length, difficulty, and JLPT level for the search. Suffix search allows you to search words by suffix groups, such as 〜<a href="../../japanese-grammar/masu.1">ます</a>, <a href="../../japanese-grammar/verb-te-form-linking/index.html">て</a>, <a href="../../japanese-grammar/verb-negative-form-conjugation">ない</a>. Text search allows you to search for the pitch accent of words used in the text you type into the text field. You can enter up to 1500 words. The last feature, Prosody Tutor Suzuki-kun, is an automatic speech processing system. It generates the audio and the pitch pattern of the sentence you put into the text box. This database is useful both for Japanese speaking practice and to look up specific words.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free!<br /><a href="http://www.gavo.t.u-tokyo.ac.jp/ojad/?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="describing-random-images-in-japanese---wikimedia">Describing Random Images in Japanese - Wikimedia</h2>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="https://www.youtube.com/embed/JgD7alFP-vI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="Describing random images in Japanese - Wikimedia [Describing #1]"></iframe></div>
+
+<p><em>Komei's Channel</em> is a YouTube channel about the Japanese language by Japanese native speaker <a href="https://twitter.com/KomeisChannel">Komei</a>. This channel not only teaches Japanese grammar, like <a href="https://www.youtube.com/watch?v=BtIhRDDHu2E">が vs. は</a>, but also covers things like <a href="https://www.youtube.com/watch?v=P2zjJIbcpW4">how to complain at a restaurant in Japanese</a> and <a href="https://www.youtube.com/watch?v=QwOMyCPqlk4">hidden texts in Attack on Titan</a>. Out of all the interesting videos, we'd like to introduce this one: <a href="https://www.youtube.com/watch?v=JgD7alFP-vI">Describing random images in Japanese - Wikimedia</a>.</p>
+
+<p>In this video, Komei describes images from Wikimedia in Japanese. He describes them first with no subtitles or English translation, and then does it again with both. He speaks very clearly and at a moderate speed. The visual cues really aid comprehension. This video may not be for those who are just starting to learn Japanese, but if you know the basics and you are looking for materials to practice, you should check out this video. It's great for listening and shadowing practice, and it will teach you how to describe something objectively in Japanese.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free!<br /><a href="https://www.youtube.com/watch?v=JgD7alFP-vI?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="section-1">ドラえもんの国語おもしろ攻略 国語力をきたえるカタカナ語</h2>
+
+<figure class="figure-middle"><img alt="doraemon loan words" src="https://files.tofugu.com/japanese-learning-resources-database/doraemon-loan-words/doraemon-loan-words.jpg" /></figure>
+
+<p>This is a Japanese book that teaches katakana wordsー<a href="../borrowing-language">the foreign-origin words</a> that have been made into the Japanese language. Many of them are actually from English, so you can learn which English words have been adopted into Japanese as katakana words and whether the meanings remain the same or not. The book starts with a manga explaining katakana words in general and then teaches individual katakana words.</p>
+
+<p>There's one katakana word per page and each word comes with the definition, one or two example sentences, and a four-panel Doraemon comic strip. The comic strip shows how the word is used in conversation.</p>
+
+<p>The book is entirely written in Japanese, so it's for intermediate to advanced Japanese learners. That said, all kanji has furigana, so you'll be able to read it if you know hiragana and katakana. The manga is cute and fun, and the illustrations help comprehension. If you are looking for something to read that also teaches you Japanese (in this case, katakana words) this is for you!</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> ¥935<br /><a href="https://www.amazon.co.jp/dp/4092538731/ref=cm_sw_em_r_mt_dp_U_3SsxEb1KV8SK9?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="followers">Followers</h2>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="https://www.youtube.com/embed/otf-9H4sOsc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="Followers | Official Trailer | Netflix"></iframe></div>
+
+<p><em>Followers</em> is a semiautobiographical Netflix series directed by popular Japanese photographer and movie director Mika Ninagawa. One of the two main characters of the show, Limi, is a photographer who has gone through struggles as a female professional in Japan. The story also follows an aspiring actress, Natsume. It describes the lifestyle of women in modern-day Tokyo, and how today's young people are affected by social media.</p>
+
+<p>Although the speech style occasionally sounds a bit forced or poetic in a theatrical way depending on the scene or character, the language used in this series is relatively natural overall. There are a lot of side characters, and you can enjoy listening to different people with unique personalities. Many of the minor characters are also well-known celebrities, so if you are familiar with Japanese pop culture, you may recognize some of them!</p>
+
+<p>Mika Ninagawa is known for her distinctive sense of vibrant colors. If you are interested in art and fashion, this show is worth checking out as a piece of art, even setting the Japanese learning aside. Since the story mainly revolves around the media and entertainment industry, it may not be relatable for everyone. However, it is still exciting and inspiring to learn about different women's perspectives and how they are changing in contemporary Tokyo.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Netflix Subscription<br /><a href="https://www.netflix.com/title/80233221?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="section-2">話のタネ本</h2>
+
+<figure class="figure-middle"><img alt="book of topics for conversations" src="https://files.tofugu.com/japanese-learning-resources-database/book-of-topics-for-conversations/book-of-topics-for-conversations.jpg" /></figure>
+
+<p>Looking for advanced material for Japanese reading practice? 話のタネ本 may be a good choice for you. It is not particularly designed for Japanese learners, but it is easy to understand, even if you live outside of Japan. It is free for Kindle Unlimited users, and they also provide a thirty-day free trial for non-members, so definitely consider taking advantage of that.</p>
+
+<p>The book introduces a collection of thirty 話のタネ (topics for conversations). They mainly cover scientific or animal-related subjects like "Is it possible to extend your life expectancy?" "Why do people snore?" and "How do birds learn how to make their nests?" The writing style and the grammar are relatively simple. It is written in <a href="../../japanese-grammar/desu.1">です</a>/<a href="../../japanese-grammar/masu.1">ます</a> style, but you will see a lot of advanced vocabulary, mainly scientific terms. Check it out if you like these kind of tidbits and want to improve your vocabulary!</p>
+
+<p>And a big thank you to Marc for writing in to tell us about this one!</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free! (for Kindle Unlimited members)<br /><a href="https://www.amazon.com/small-episodes-communicate-Well-informed-Japanese-ebook/dp/B084FG3LPD?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="section-3">にほんご速読チャレンジ100 中級</h2>
+
+<figure class="figure-middle"><img alt="japanese speed reading challenge" src="https://files.tofugu.com/japanese-learning-resources-database/japanese-speed-reading-challenge/japanese-speed-reading-challenge.jpg" /></figure>
+
+<p>This hands-on textbook is designed to help Japanese learners with an intermediate level improve their <i></i> <ruby>速読<rp>（</rp><rt>そくどく</rt><rp>）</rp></ruby> (speed reading) skills. More specifically, this book focuses on letting you practice reading materials that are easy enough for your level but within a time limit, to push you to read more quickly.</p>
+
+<p>There are a hundred short texts included in this book, and they gradually get harder as you go. Part I (the first fifty) is designed for lower-intermediate level learners, and Part II (the other fifty) is intended for upper-intermediate level learners, and has less furigana. Within each part, the texts get longer and gradually introduce more complicated and abstract topics.</p>
+
+<blockquote class="highlight-right">
+  <p>Each shows a recommended time limit, so use it as a reference to set your own goal for your speed reading training.</p>
+</blockquote>
+
+<p>It covers a wide range of materials, from stories about Japanese culture to magazine columns, along with quizzes to test your comprehension. Some exercises focus on finding specific information in realistic material: a confirmation email from a ryokan, an apartment poster from a landlord, and so on. The quizzes are mostly multiple choice, with occasional free-form questions. Each shows a recommended time limit, so use it as a reference to set your own goal for your speed reading training. If you feel rushed and can't read a text well, don't worry. The book recommends you revisit it later and read the same material over and over. Just don't forget to time yourself to check your progress! Answers to some quizzes may differ depending on the readers' interpretation, and it comes with a booklet to check "example" answers. They also recommend you discuss your opinions to deepen your understanding if you have a Japanese study buddy to hand!</p>
+
+<p>If you are graduating from beginner level and want to start doing more reading practice, にほんご速読チャレンジ100 中級 is the perfect resource for you!</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> ¥1,650<br /><a href="https://www.amazon.co.jp/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94%E9%80%9F%E8%AA%AD%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8100-%E4%B8%AD%E7%B4%9A-%E8%BE%BB%E5%92%8C%E5%AD%90/dp/489689507X?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="arashis-diary-voyage">ARASHI's Diary Voyage</h2>
+
+<figure class="figure-middle"><img alt="arashis diary voyage" src="https://files.tofugu.com/japanese-learning-resources-database/arashis-diary-voyage/arashis-diary-voyage.jpg" /></figure>
+
+<p><em>ARASHI's Diary -Voyage-</em> is a documentary series available through Netflix. The series has four episodes so far, with new episodes released every month. Arashi is a Japanese boy band that has become the most popular boy band in Asia. Despite the group's growing fame and popularity, it suddenly announced last year that it would go on hiatus on December 31, 2020. This documentary series will follow the band until then.</p>
+
+<p>Even if you don't know much about Arashi, the first episode should provide you enough background about the group. The first episode features an interview in which members talk about how they feel about going on hiatus. They also talk about what it means to them to have been part of Arashi for twenty years. They speak slowly and clearly for the interviewer, so it should be relatively easy to follow. Other episodes focus more on their concert tour, including preparation and rehearsals. It's much harder to understand what they are saying in these episodes because they don't speak for the camera. However, it is excellent authentic Japanese material for listening practice.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Netflix Subscription<br /><a href="https://www.netflix.com/search?q=Arashi&amp;jbv=81219073&amp;jbp=0&amp;jbr=0?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="section-4">推しが尊すぎてしんどいのに語彙力がなさすぎてしんどい -腐女子の感情類語辞典-</h2>
+
+<figure class="figure-right"><img alt="fujoshi slang dictionary" src="https://files.tofugu.com/japanese-learning-resources-database/fujoshi-slang-dictionary/fujoshi-slang-dictionary.jpg" /></figure>
+
+<p>This dictionary teaches Japanese expressions used by <i></i> <ruby>腐女子<rp>（</rp><rt>ふじょし</rt><rp>）</rp></ruby> to describe emotions. 腐女子, which literally means rotten girl, is a term for female fans of manga, anime, and novels that focus on romantic relationships between men. 腐女子 are known for inventing and using unique expressions. For example, they often say <i></i> <ruby>尊<rp>（</rp><rt>とうと</rt><rp>）</rp></ruby>い, which means precious or sacred. 腐女子 use the word 尊い to express pleasure, delight, or affection in response to something regarded as precious, sweet, endearing, etc. So they may say 尊い when they see their favorite anime characters and or talk about the characters' relationships. They may also say 尊い when they see a little kid being silly and adorable.</p>
+
+<p>You may think you're not 腐女子 and feel no need to learn the words they use. However, their expressions are so unique that they often become common Internet slang. For example, if you search for 尊い on Twitter, you'll find lots of tweets using this term. If you read or want to read Internet posts in Japanese, this book will come in handy.</p>
+
+<p>This dictionary isn't for everybody though. It's written in Japanese only and the kanji doesn't have furigana. There are example sentences, and some illustrations to supplement your comprehension from time to time, but not many. So, to get the most out of it, this book will require an upper intermediate to advanced level of Japanese understanding.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> ￥1,222<br /><a href="https://www.amazon.co.jp/dp/4758015880/ref=cm_sw_em_r_mt_dp_U_6zayEbD35V8TX?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="section-5">考える・理解する・伝える力が身につく 日本語ロジカルトレーニング 初級</h2>
+
+<figure class="figure-middle"><img alt="japanese logical thinking training beginner" src="https://files.tofugu.com/japanese-learning-resources-database/japanese-logical-thinking-training-beginner/japanese-logical-thinking-training-beginner.jpg" /></figure>
+
+<p>Aimed at lower-intermediate Japanese learners, this book is designed to help you improve your logical thinking skills whilst simultaneously practicing your Japanese. The idea is that it will get you into the habit of thinking in Japanese from early on in your studies, which the authors believe will help you improve more quickly.</p>
+
+<p>The book is divided into three chapters: <i></i> <ruby>発想力<rp>（</rp><rt>はっそうりょく</rt><rp>）</rp></ruby> (cognitive skills), <i></i> <ruby>読解力<rp>（</rp><rt>どっかいりょく</rt><rp>）</rp></ruby> (reading skills) and <i></i> <ruby>表現力<rp>（</rp><rt>ひょうげんりょく</rt><rp>）</rp></ruby> (self-expression skills). The first chapter, 発想力, has exercises like listing words related to a topic—such as "drinks" or "sports"—and putting mixed-up kana into the correct order to make words. The second chapter, 読解力, is dedicated to a variety of reading comprehension questions, and the third chapter, 表現力, offers a range of exercises from gap-fill, to describing differences between two images, to number puzzles.</p>
+
+<p>Each exercise has an explanation, an example, and space to write the answers directly in the book. The logical layout of the book makes it easy to know what you're supposed to do, despite it being entirely in Japanese, so it's good for immersive study!</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free on Kindle Unlimited Japan or ¥1,980<br /><a href="https://www.amazon.co.jp/dp/4757430884/ref=cm_sw_em_r_mt_dp_U_BH78DbVGSERZG?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="marshalls-blog">Marshall's Blog</h2>
+
+<figure class="figure-middle"><img alt="marshalls blog" src="https://files.tofugu.com/japanese-learning-resources-database/marshalls-blog/marshalls-blog.jpg" /></figure>
+
+<p><em>Marshall's Blog</em> is a not-for-profit website to help people learn Japanese. It was created by Marshall Yin, a student living in Tokyo who has himself been learning Japanese as a second language for ten years. The site is packed with vocabulary lists, grammar explanations, and quizzes, all organized according to JLPT level. While the lessons and forum are accessible to everyone, you'll need to create a free account to access the quizzes. Learners can also post questions to the forum and Marshall answers all questions promptly.</p>
+
+<p>The explanations are concise, and generally clear and accurate, with occasional mistakes fixed quickly whenever they're brought to the creator's attention. He's also very responsive to questions and comments, and active in continuing to improve the content.</p>
+
+<p>Overall, there is an impressive amount of information and support when you consider that this is a completely free service with no ads. The site creator is a genuine enthusiast of the Japanese language and Japanese culture who enjoys helping others learn, and the site is likely to keep getting better.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free!<br /><a href="https://marshallyin.com/?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="japanese-conjugation-city">Japanese Conjugation City</h2>
+
+<figure class="figure-middle"><img alt="japanese conjugation city" src="https://files.tofugu.com/japanese-learning-resources-database/japanese-conjugation-city/japanese-conjugation-city.jpg" /></figure>
+
+<p>How are your Japanese verb conjugation skills? Do you know how to change the verb なおす into a command? Or how to make のる into the negative volitional form? For those of us that learned Japanese through textbooks, this may sound oh-so familiar. For others, who learned Japanese through other means, such as speaking and listening, these concepts will not be as clear. When it comes to knowing exactly <em>why</em> and <em>how</em> a verb conjugates the way it does, one of the most helpful ways to get acquainted with the material is through practice.</p>
+
+<blockquote class="highlight-right">
+  <p>When it comes to knowing exactly why and how a verb conjugates the way it does, one of the most helpful ways to get acquainted with the material is through practice.</p>
+</blockquote>
+
+<p>In the Japanese Conjugation City app, you're tested on conjugating various verbs into different forms. On the homepage, you can select conjugation forms that you would like to include in the tests. There are the basics, like polite and past form, but there are also more advanced options like causative passive and volitional. The vocabulary that is available ranges from JLPT N5 through N3. Although the app says it also includes N1 and N2 vocabulary, there wasn't an option to select them. These verbs are then randomly paired with the conjugations you selected to form quiz material. You can display the vocabulary in kanji, romaji, English and other forms, based on what you're trying to learn.</p>
+
+<p>If you get an answer wrong, you can open an explanation that shows the rules of the conjugation form and the correct way to conjugate the verb. The explanation gives the answer away so make sure you're out of ideas when you decide to check. You can also see "lessons" before you take the tests. These are short summaries of the way that the conjugation works with different verbs.</p>
+
+<p>After taking your tests, you can access your stats to see how well you've done with the conjugations and verbs. This is helpful information if you're planning on taking a test like the JLPT, because you can see which areas you're doing alright in and which areas require more practice. In this app, the rules of conjugation seem secondary and the tests take priority. If you're a complete beginner at conjugating verbs, this likely won't be the best place to start. However, if you're someone who wants to learn more about conjugating verbs in Japanese or practice your conjugation and vocabulary knowledge, this could be something you'll want to check out.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> $0.99<br /><a href="https://www.japaneseconjugationcity.com/?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="section-6">くらべる・たのしい にたことば絵辞典</h2>
+
+<figure class="figure-middle"><img alt="fun comparison picture dictionary" src="https://files.tofugu.com/japanese-learning-resources-database/fun-comparison-picture-dictionary/fun-comparison-picture-dictionary.jpg" /></figure>
+
+<p>くらべる・たのしい にたことば<i></i> <ruby>絵辞典<rp>（</rp><rt>えじてん</rt><rp>）</rp></ruby> is a dictionary of Japanese onomatopoeia, which also teaches words that have similar pronunciation. Unlike regular dictionaries, this dictionary introduces only one vocabulary item per page, with the onomatopoeia on the right-hand page, and a word that has a similar pronunciation on the left-hand page. The meaning is provided in both Japanese and English at the bottom of each page. There are also example sentences that show you the context in which the vocabulary can be used.</p>
+
+<p>Though it can be challenging to study words that have similar pronunciation at the same time, the illustrations on each page will help you remember the meanings. The pages combine together to tell a funny story. This book also includes columns about Japanese onomatopoeia and explains how they are closely related to history and culture.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> ¥1,760<br /><a href="https://www.amazon.co.jp/dp/4569843832/ref=cm_sw_em_r_mt_dp_U_8t78DbWDGY134?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="section-7">マンガ・書きたくなる作文教室〜作文はラーメンに似ている〜</h2>
+
+<figure class="figure-middle"><img alt="manga writing classroom" src="https://files.tofugu.com/japanese-learning-resources-database/manga-writing-classroom/manga-writing-classroom.jpg" /></figure>
+
+<p>This manga is designed to teach Japanese elementary school children how to write essays. It explains the basic rules of writing Japanese essays as well as strategies to improve your writing. The authors of this book, Kaori and Yukari, are also its main characters. As this is written for children, they use easy Japanese and straightforward explanations, and there is furigana on all kanji.</p>
+
+<p>The unique thing about this book is the writers' claim that writing a Japanese essay and making ramen is similar. They draw on this analogy throughout the book to help explain various points. For example, the writers use an image of ramen to describe the basic structure of a sentence. The ingredients you put into ramen are the techniques you use to improve it. They also talk about what kind of service you should provide to your customers to be a good ramen chef. Then they explain how the same ideas apply to writing an essay. This new approach can be confusing at first, but you'll become more and more comfortable with it as you become familiar with the style of the book.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> ￥1,430<br /><a href="https://www.amazon.co.jp/dp/4569788378/ref=cm_sw_em_r_mt_dp_U_8w78DbYC0YKZX?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="uchisen">uchisen</h2>
+
+<figure class="figure-middle"><img alt="uchisen" src="https://files.tofugu.com/japanese-learning-resources-database/uchisen/uchisen.jpg" /></figure>
+
+<p>Uchisen is a web app created by two students, Frankie and Saori. It uses Saori's original artwork to create visual mnemonics that support Japanese learners in the seemingly never-ending task of kanji study. Each kanji is incorporated into an image, with an accompanying explanation, to help you make the link between the character and its English meaning. The site is available in both English and Japanese, so you can view the kanji explanations and lessons in either language, though the meaning is always given in English.</p>
+
+<blockquote class="highlight-right">
+  <p>One to watch, especially for learners with more visual memories!</p>
+</blockquote>
+
+<p>The uchisen app consists of a "lessons" section, which is broken down into "preschool" and various "grades," a review section, and a primes section, which lists kanji components. The preschool section includes an overview of the Japanese writing system, in-depth introductions to hiragana and katakana, including drills, and an introduction to kanji. Each grade then introduces you to a certain number of kanji, and you can choose to indicate whether you know a kanji already, or would like to add it to your reviews to practice later.</p>
+
+<p>A free account is needed to access the preschool and first grade sections, and then there are three different paid membership options that give you access to the remaining content. Currently, uchisen is only available as a web app, but there are plans to develop Android and iOS apps too. Still a work-in-progress, the creators of uchisen welcome feedback so that they can improve the user experience, and seem to put a lot of work into continually improving the app. One to watch, especially for learners with more visual memories!</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> $2.99/month, $29.99/year, $49.99 lifetime, <i>(As of May 13th, 2020, Uchisen is providing all their services for free due to COVID-19!)</i><br /><a href="https://uchisen.com?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="sesame-street-dubbed-into-japanese">セサミストリート日本公式 (Sesame Street Dubbed into Japanese)</h2>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="https://www.youtube.com/embed/uJEM_fQfcCg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="セサミストリート：Meet Julia・ジュリアの紹介【日本語吹替版】"></iframe></div>
+
+<p>Who didn't love watching this iconic and endearing TV program as a kid? Believe it or not, they're still making new episodes. They're also translating segments into Japanese and releasing them weekly! Now's your chance to watch your old favorite in Japanese. Learning <em>and</em> enjoying your study time is the best combination.</p>
+
+<blockquote class="highlight-right">
+  <p>The dubbing on Sesame Street works surprisingly well when the muppets talk.</p>
+</blockquote>
+
+<p>These shortened episodes include some characters you may remember, like Elmo and Cookie Monster. There are new characters as well. For instance, in this clip you can meet Julia, an autistic four-year old. You'll get to know all of the characters and their mannerisms on a new level, hearing it in Japanese.</p>
+
+<p>Other episodes in this channel may appeal more to the anime-lovers out there. Episode "shorts" like Abby's Advice (アビーのアドバイス) are in cartoon format. They have the same Sesame Street vibes, without the physical puppets.</p>
+
+<p>The dubbing on Sesame Street works surprisingly well when the muppets talk. Because they have no teeth or movable tongues, the Japanese matches up nicely. When the real-life characters interact with the muppets, you get the usual dubbing side effects though.</p>
+
+<p>For all of the videos on the channel, there is an option to watch them with closed captioning. This can definitely help for learners who want to see exactly what's being said on the screen. Whether you want to reconnect to this childhood classic or watch the show with your own child, this is a fun way to learn some Japanese.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free!<br /><a href="https://www.youtube.com/channel/UCEQUPKIGWd9gCitecH1S_fA?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="keep-calm-and-kanji-volume-1">Keep Calm and Kanji Volume 1</h2>
+
+<figure class="figure-middle"><img alt="keep calm and kanji volume 1" src="https://files.tofugu.com/japanese-learning-resources-database/keep-calm-and-kanji-volume-1/keep-calm-and-kanji-volume-1.jpg" /></figure>
+
+<p>Keep Calm and Kanji Volume 1 is a new self-published book that aims to teach the top five hundred most-used kanji over a period of ten weeks. To achieve this, the author has developed a method based on the 80/20 rule and <a href="../spaced-repetition.1">spaced repetition</a>. The idea is that you learn ten new kanji, along with forty-odd vocabulary items that use those kanji, every day from Monday to Friday. The weekend is devoted to reviewing the week's fifty new characters and two hundred new words. The method doesn't include mnemonics, but instead relies on writing out the characters, quizzes, puzzles and gap-fill exercises. Weekend reviews involve character recognition and writing out kanji from memory.</p>
+
+<p>According to the author, this approach allowed him to learn kanji, but it won't suit everyone. It takes a lot of discipline to learn ten new kanji and forty new vocabulary items every day, and the manual spaced repetition requires a lot of organization to follow the lists of kanji to be reviewed. While Keep Calm and Kanji Volume 1 is a well thought-out method, it might be intimidating, especially for beginners, and the author himself recommends the book to intermediate students. On the other hand, it's a good complementary resource to be used in combination with an app like <a href="https://www.wanikani.com">WaniKani</a>, especially for people who want—or need—to learn to write kanji by hand.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> $20<br /><a href="https://www.amazon.com/dp/1794824049/ref=rdr_ext_tmb?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="steven-krafts-japanese-projects">Steven Kraft's Japanese Projects</h2>
+
+<figure class="figure-middle"><img alt="steven krafts japanese projects" src="https://files.tofugu.com/japanese-learning-resources-database/steven-krafts-japanese-projects/steven-krafts-japanese-projects.jpg" /></figure>
+
+<p>Take a look around this site and you will find a ton of great resources. The first two sections shown on Kraft's site focus on verb and adjective conjugation practice. You can select which individual conjugation form you would like to practice or choose the randomized option. The system will then generate a verb and conjugation combination that you will have to come up with an answer to.</p>
+
+<p>Another cool feature of this site is the numbers and counters practice. Here, you can test your knowledge of counters (like two birds or five machines), numbers, and time. You'll never be late in Japan because you misunderstood the time again!</p>
+
+<p>How is your ability to type hiragana and katakana on the computer? You can practice by typing in the romaji that correlates with the character here too. How about your N5 vocabulary knowledge? Much like <a href="https://www.wanikani.com/">WaniKani</a>, you can test your ability to recall the on'yomi, kun'yomi, and English meaning of various words here. If you're learning with Genki, Steven Kraft also has a whole section dedicated to <a href="https://steven-kraft.com/projects/japanese/genki/">supplementary content</a>. You can currently work through exercises for lessons 1 through 9. Other sections should be added in the future.</p>
+
+<p>One of my favorite projects on this site is called "Watch Japan." When you click on this page, a random video that is about Japan or the Japanese language will play. You can reload another video to see more or to skip to the next. There are currently 1121 videos and counting…! They are all under twenty minutes and can be understood by beginners. This site has plenty more to see, and since it's updated regularly, it will keep you engaged with new material.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free!<br /><a href="https://steven-kraft.com/projects/japanese/?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="takoaki-japanese">TakoAki Japanese</h2>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="https://www.youtube.com/embed/R64aOlkFhvU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="TOP 10 Japanese Phrases for Tourists at Japanese Convenience Stores"></iframe></div>
+
+<p>If you enjoy the delicious taste of takoyaki, you may also enjoy the flavorful and witty YouTube channel: TakoAki Japanese. The name comes from the YouTuber's name, Akiyuki, combined with the dish. The goal of these videos is for viewers to learn "real" Japanese.</p>
+
+<p>TakoAki was born in Osaka and therefore speaks fluent Kansai dialect, or Kansai-ben. One of his playlists is dedicated to teaching phrases in Kansai-ben. His videos are taught in English and use Japanese examples. TakoAki takes on a few different characters with their own personas in his examples and it makes for an entertaining experience.</p>
+
+<p>Other videos on the channel include a compilation of common surnames read aloud to the tune of a song, Japanese history lessons taught in English, and ten essential phrases to know when visiting a doctor. The channel is relatively new but he seems to be producing more and more videos. We'll be checking back in on this one to see where he takes it.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free!<br /><a href="https://www.youtube.com/channel/UCQ8bBojSg7b8eUD5k8ujLVg?utm_source=Tofugu">Product Link</a></div>
+
+<hr />
+
+<p><em>That's all the Japanese learning resources we have for this spring edition. Thanks for reading! If you discover any new Japanese learning resources, send us a message at <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#104;&#101;&#108;&#108;&#111;&#064;&#116;&#111;&#102;&#117;&#103;&#117;&#046;&#099;&#111;&#109;">&#104;&#101;&#108;&#108;&#111;&#064;&#116;&#111;&#102;&#117;&#103;&#117;&#046;&#099;&#111;&#109;</a> or on Twitter <a href="https://twitter.com/tofugu">@tofugu</a>. Even if it's just new to you, send it our way. We're always on the lookout for quality resources. See you for the summer edition!</em></p>
+
+
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-japanese-learning-resources hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2018-11-13-japanese-learning-resources/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='https://www.tofugu.com/series/japanese-learning-resources/' title='View all articles in Series Japanese Learning Resources'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+Japanese Learning Resources
+</span>
+</a>
+</li>
+<li class='pager-next'>
+<a href='../japanese-learning-resources-fall-2019/index.html@series=japanese-learning-resources' title='View New Japanese Learning Resources: Fall 2019'>
+<small>
+Next Article in Series
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+New Japanese Learning Resources: Fall 2019
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles travel-prev travel-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='travel' href='../../travel/crab-claw-statue.1' title='View カニの爪オブジェ: A Giant Crab Claw Sticking out of the Northern End of Japan'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-plane'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+カニの爪オブジェ: A Giant Crab Claw Sticking out of the Northern End of Japan
+</a>
+</li>
+<li class='pager-next'>
+<a class='travel' href='https://www.tofugu.com/travel/aoi-ike-pond/' title='View Aoi Ike Pond: Literally, &quot;Blue Pond&quot;'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-plane'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Aoi Ike Pond: Literally, "Blue Pond"
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japanese'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='https://www.tofugu.com/japanese/na-adjectives-no-adjectives/' title='View Making Sense of な-Adjectives and の-Adjectives'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older japanese' class='older-article-pagination'></span>
+</small>
+Making Sense of な-Adjectives and の-Adjectives
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2019/' title='View New Japanese Learning Resources: Fall 2019'>
+<small>
+<span aria-label='Newer japanese' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+New Japanese Learning Resources: Fall 2019
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/about/' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.1' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs.1' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese.1' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/news/' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/newsletter/' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/master-2164c2ee.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

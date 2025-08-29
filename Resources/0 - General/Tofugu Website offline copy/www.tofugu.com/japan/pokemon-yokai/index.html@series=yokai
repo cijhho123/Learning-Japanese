@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Kristen Dexter' name='author'>
+<meta content='There are a ton of Pokémon nowadays. And that means a ton of super spooky pokémon. But not just ghost types have a sinister past. We found our the origins of a bunch of pokémon who started out as yōkai.' name='description'>
+<meta content='pokemon, yokai' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='There are a ton of Pokémon nowadays. And that means a ton of super spooky pokémon. But not just ghost types have a sinister past. We found our the origins of a bunch of pokémon who started out as yōkai.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='Who’s that Pokémon? Yōkai Edition!' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japan/pokemon-yokai/' property='og:url'>
+<meta content='https://www.tofugu.com/japan/real-pokemon/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/meowth-coin/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tofugu-favorite-posts-2016/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tengu/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kappa/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/choosing-yokai-books/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/zack-davisson/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kitsune-yokai-fox/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-ghost-season/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/altjapan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/nurikabe/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Kristen Dexter' property='article:author'>
+<meta content='2014-10-31T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japan' property='article:section'>
+<meta content='pokemon' property='article:tag'>
+<meta content='yokai' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@karkalla' name='twitter:creator'>
+<meta content='There are a ton of Pokémon nowadays. And that means a ton of super spooky pokémon. But not just ghost types have a sinister past. We found our the origins of a bunch of pokémon who started out as yōkai.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='Who’s that Pokémon? Yōkai Edition!' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#268bd2' name='twitter:widgets:link-color'>
+<meta content='#268bd2' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-kristen-dexter-f04b6ee8.jpg",
+    "jobTitle": "Researcher",
+    "name": "Kristen Dexter",
+    "sameAs": [
+      "https://www.twitter.com/karkalla"
+    ],
+    "url": "https://www.tofugu.com/about/people/kristen-dexter/",
+    "description": "Kristen was a survivor of the Tofugu intern program and wrote articles for Tofugu when she wasn't doing translation work on WaniKani and EtoEto. She graduated from SUNY Albany 2014 and moved straight from the woods of Connecticut to Portland, OR to join the Tofugu Team. She went to Japan as a student ambassador in high school and attended Akita International University as a study abroad student in college. She spends most of her time playing video games and buying too much Sailor Moon merch."
+  },
+  "datePublished": "2014-10-31T00:00:00Z",
+  "description": "There are a ton of Pokémon nowadays. And that means a ton of super spooky pokémon. But not just ghost types have a sinister past. We found our the origins of a bunch of pokémon who started out as yōkai.",
+  "headline": "Who’s that Pokémon? Yōkai Edition!",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "pokemon, yokai",
+  "name": "Who’s that Pokémon? Yōkai Edition!",
+  "url": "https://www.tofugu.com/japan/pokemon-yokai/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2014-10-31T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japan/pokemon-yokai/"
+}
+</script>
+
+<title>Who’s that Pokémon? Yōkai Edition!</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japan/pokemon-yokai/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='https://www.tofugu.com/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://www.tofugu.com/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://www.tofugu.com/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://www.tofugu.com/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://www.tofugu.com/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='https://www.tofugu.com/favicon.png' rel='shortcut icon'>
+<link href='https://www.tofugu.com/favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japan japan_pokemon-yokai japan_pokemon-yokai_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='https://www.tofugu.com/'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japanese/' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='https://www.tofugu.com/japanese/' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.1' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-learning-resources-database/' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japan/' id='dJapan'>
+Japan <i class="fa fa-globe"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='https://www.tofugu.com/japan/' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/series/' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/travel/' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/reviews/' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/interviews/' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='https://www.tofugu.com/podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=yokai#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+Who’s that Pokémon? Yōkai Edition!
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+No Silph Scope Required
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2014-10-31T00:00:00Z">October 31, 2014</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="https://www.tofugu.com/about/people/kristen-dexter/" rel="author">Kristen Dexter</a>
+•
+Art by
+<a href="https://www.tofugu.com/about/people/aya-francisco/">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+<p class='article-series series-yokai hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="https://www.tofugu.com/series/yokai/">Yokai - Japan's Supernatural Folktale Creatures
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>It’s no secret that most Pokémon are based on actual animals found throughout the world. Who could forget gems like Beedrill the giant hornet, Swellow the swallow, and Sunflora the sunflower? How creative! Most Pokémon are pretty easy to figure out (a bird is a bird, a plant is a plant) but there are others that are a bit harder to understand for people outside Japan. A considerable number of Pokémon are actually based on myths throughout East Asia, sacred animals of legend, and everyday things. But some of my favorite Pokémon were inspired by <i>yōkai</i> <ruby>妖怪<rp>（</rp><rt></rt><rp>）</rp></ruby>, supernatural monsters, ghosts, and phantoms of Japanese folklore.</p>
+
+<p>While Pokémon never delved as deep into the yōkai world as shows like the newer, and almost as popular, <a href="https://www.tofugu.com/japan/yo-kai-watch/">Yo-Kai Watch</a>, there are still quite a few Pokémon that were directly influenced by Japanese ghosts and ghouls. Gotta catch ‘em all, Yōkai!</p>
+
+<h2 id="sazae-oni-">Sazae Oni 栄螺鬼</h2>
+
+<p>The sazae oni, or turban shell ogre, is a giant turban shell with a human like body coming out of its shell head. They are created one of two ways: Either a turban snail gets old enough to shape shift, or an overly sexual woman is thrown into the sea, turns into a snail, and lives long enough to become this strange monster.</p>
+
+<p>Sazae oni turn into women and pretend to be drowning as humans pass by on their boats or are walking along the shore. When men try to save or capture a sazae oni, they’re usually eaten alive.</p>
+
+<p>One legend tells of a pirate ship that picked up what looked like a drowning woman. Their intentions were anything but pure and the “woman” slept with them all and then proceeded to take two rather important body parts from each of the pirates. In the end, the pirates had to barter away all of their pirate gold to get their own “gold” back. Their 金玉, that is.</p>
+
+<h3 id="whos-that-pokmon">Who’s that Pokémon?</h3>
+
+<figure class="figure-middle"><img alt="pokemon slowbro and slowking" src="https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/slowbro-fam.jpg" /><figcaption> It’s Slowbro and Slowking! </figcaption> </figure>
+
+<p>They may seem innocent but the Slow family was inspired by the idea of a turban snail coming to life and causing havoc. Slowking is visually the closest to the sazae oni, but they were all inspired by it. As for the shapeshifting, ever wonder why a Slowpoke becomes water/psychic when it evolves into Slowbro?</p>
+
+<h2 id="sgen-bi---">Sōgen Bi 叢原火 / 宗源火</h2>
+
+<p>This is a specific fireball yōkai , similar to a will o’ wisp, which takes the form of a man’s head surrounded by flames and floats around in the sky at night.</p>
+
+<p>Sōgen was the name of a monk who lived in Kyoto a long, long time ago and he was pretty bad at his job. He was always stealing from the temple and selling things off for money. Those aren’t exactly the actions of a pious monk. Finally he got old and died, but because he was such a jerk he was was reborn in hell. The legend says that Sōgen was forced to wander the earth, and it’s said his floating head, shrouded in flames was seen in hovering around Kyoto after he died.</p>
+
+<h3 id="whos-that-pokmon-1">Who’s that Pokémon?</h3>
+
+<figure class="figure-middle"><img alt="ghost pokemon ghastly" src="https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/gastly.jpg" /><figcaption> It’s Gastly! </figcaption> </figure>
+
+<p>This one was probably obvious, as there aren’t too many other Pokémon that fit the “floating head covered in fire” description. Though with Gastly it looks more like eerie smoke than fire. Not every Gastly may be the head of Sōgen the terrible monk, but if you notice yours trying to take off with your money and valuables, you may have been (un)lucky enough to find him.</p>
+
+<h2 id="baku-">Baku 獏</h2>
+
+<p>The baku is pretty scary looking because it’s an amalgamation of a bunch of different animals, kind of like a chimera that eats dreams. But don’t worry, it won’t hurt you.</p>
+
+<p>They originated in China, and in Japan they’re associated with the tapir. They may seem scary but they’re the nice kind of yōkai . Other yōkai are afraid of them and, while they eat dreams, they stick to a diet of bad ones, mostly nightmares. Baku can be seen carved on temples to keep evil spirits and sickness away.</p>
+
+<h3 id="whos-that-pokmon-2">Who’s that Pokémon?</h3>
+
+<figure class="figure-middle"><img alt="psychic type pokemon" src="https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/pokemon-baku.jpg" /><figcaption> It’s Drowzee, Hypno, Munna, and Musharna! </figcaption> </figure>
+
+<p>All four of these Pokémon were inspired by the dream-eating baku. If the tapir-like noses and the fact that they can use the move “Dream Eater” don’t convince you, just read their most recent Pokédex entries:</p>
+
+<p>Drowzee: “Puts enemies to sleep, then eats their dreams. Occasionally gets sick from eating only bad dreams.”</p>
+
+<p>Hypno: “It carries a pendulum-like device. There once was an incident in which it took away a child it hypnotized.”</p>
+
+<p>Munna: “This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.”</p>
+
+<p>Musharna: “The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.”</p>
+
+<h2 id="jinmenju-">Jinmenju 人面樹</h2>
+
+<p>You might mistake this as an ordinary tree if it didn’t have human heads hanging down from its branches. The heads have faces, human faced fruit that is, that smile and laugh at travelers from above.</p>
+
+<p>Legends of these tree yōkai (another one that came to Japan from China), tell that the fruit would laugh when it was ripe and fall to the ground. Apparently, even the seeds of these plants had faces of their own. They say the fruit faces were a mix of sweet and sour and that we don’t see anymore today because humans ate them all.</p>
+
+<h3 id="whos-that-pokmon-3">Who’s that Pokémon?</h3>
+
+<figure class="figure-middle"><img alt="pokemon monster exegguctor" src="https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/exeggutor.jpg" /><figcaption> It’s Exeggutor! </figcaption> </figure>
+
+<p>There’s only one Pokémon that could possibly be a tree with face fruit, and that’s Exeggutor. While its heads look more like coconuts than a soft fruit, there is no mistaking this yōkai. Perhaps exeggcute isn’t made up of eggs at all. Maybe they’re the jinmenju’s seeds.</p>
+
+<h2 id="yamauba-">Yamauba 山姥</h2>
+
+<p>An old woman who lives alone in a hut in the mountains. She is kind to travelers and lets them rest at her hovel for the night. Then, while her guests are sleeping, she transforms into a decrepit witch and tries to eat them!</p>
+
+<p>Yamauba are created a couple different ways, but all of them end with a woman living a life in isolation, changing with time and becoming evil. They have white hair, wear red-kimono, and have large, disgusting mouths (probably from devouring so many people).</p>
+
+<h3 id="whos-that-pokmon-4">Who’s that Pokémon?</h3>
+
+<figure class="figure-middle"><img alt="pokemon monster jynx" src="https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/jynx.jpg" /><figcaption> It’s Jynx! </figcaption> </figure>
+
+<p>Though there are some pretty horrible (read: racist) rumors in the United States and other countries about what Jynx is based on, it’s really inspired by the Yamauba. Jynx is an ice/psychic Pokémon and, because these hags lived in snowy mountains and were corrupted by their surroundings, the description fits. The darker skin is a nod to how they look in Nō plays in which actors paint their faces black, wear silvery-blonde wigs, and red kimono.</p>
+
+<h2 id="nekomata-">Nekomata 猫又</h2>
+
+<p>A type of <i>bake</i> <ruby>化け<rp>（</rp><rt></rt><rp>）</rp></ruby><i>neko</i> <ruby>猫<rp>（</rp><rt></rt><rp>）</rp></ruby>, a cat that is transformed into a yōkai. But unlike its cousin, the nekomata isn’t something you’ll want to bump into in a back alley. They start off as normal cats then, when they get old, run off into the mountains.</p>
+
+<p>There, they transform, their tails splitting in half, creating two identical tails. Suddenly they can walk on their hind legs, speak, manipulate people, and summon fireballs.</p>
+
+<h3 id="whos-that-pokmon-5">Who’s that Pokémon?</h3>
+
+<figure class="figure-middle"><img alt="pokemon monster espeon" src="https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/espeon.jpg" /><figcaption> It’s Espeon! </figcaption> </figure>
+
+<p>Considering there is only one split-tailed cat in the (current) Pokémon universe, this may have been an easy guess. But I’d never think of Espeon as something sinister. In fact, while it may have inherited its tail, intelligence, and psychic powers from the nekomata, it looks like thats where the similarities stop, which is probably a good thing for anyone who wants to raise one.</p>
+
+<h2 id="nukekubi-">Nukekubi 抜け首</h2>
+
+<p>One of the two types of <i>rokurokubi</i> <ruby>轆轤首<rp>（</rp><rt></rt><rp>）</rp></ruby>, or yōkai whose heads come off. The nukekubi is less of a yōkai and more of a woman or girl with a curse. When they fall asleep, instead of snoring, or sleepwalking, their heads come off and terrorize the town.</p>
+
+<p>They’ll chase men, suck their blood, and even rip animals apart. At the end of the night the head comes back to its body and the poor girl has no idea what’s happened. Even worse, this can be passed on through your family. So if a mother is a nukekubi, her daughter could be too.</p>
+
+<h3 id="whos-that-pokmon-6">Who’s that Pokémon?</h3>
+
+<figure class="figure-middle"><img alt="pokemon monster misdreavus" src="https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/misdreavus.jpg" /><figcaption> It’s Misdreavus! </figcaption> </figure>
+
+<p>A Pokémon that only appears at night to scare people and apparently absorb their fear? That sounds about right. While there haven’t been any cases of a Misdreavus’ body turning up in the Pokémon universe, it is pretty uncanny that it’s also a lady’s floating head that spooks you out of the darkness.</p>
+
+<h2 id="kamaitachi-">Kamaitachi 鎌鼬</h2>
+
+<p>Weasels that dwell mainly in the mountains of Japan and attack travelers. They have spiky fur and claws like steel that can slice through your skin in a flash.</p>
+
+<p>They ambush humans in threes: One pushes the poor guy down, the second slices him up with its claws, and the third heals (only) the fatal wounds with a salve so that the victim won’t die as they make away with pieces of his flesh. Not very nice, but at least they don’t kill you, right?</p>
+
+<h3 id="whos-that-pokmon-7">Who’s that Pokémon?</h3>
+
+<figure class="figure-middle"><img alt="pokemon monsters sneasel and weaville" src="https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/sneasel-weavile.jpg" /><figcaption> It’s Sneasel and Weavile! </figcaption> </figure>
+
+<p>Sneasel and Weavile look just like the descriptions of the kamaitachi. They’re spiky weasels with sharp claws that you can only find in the icy mountains of the Pokémon world. They’re even dark/ice types. How fitting! Weavile’s original Pokédex description is even more convincing:</p>
+
+<blockquote>
+  <p>They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.</p>
+</blockquote>
+
+<h2 id="futakuchi-onna-">Futakuchi Onna 二口女</h2>
+
+<p>During the day and with other people, they’re ordinary women, but at night and when they’re alone, they let down their hair to reveal a second mouth in the back of their heads. Futakuchi Onna will eat whoever they live with out of house and home, pulling food into their mouth heads with their hair that can act like hands.</p>
+
+<p>There are a few different ways someone can become a Futakuchi Onna. Sometimes they’re curses, brought on by the mistreatment of others (usually by starving someone to death), or they’re a kind of karmic retribution on someone miserly. They have giant lips and sharp teeth hidden behind the dark, thick hair on a woman’s head.</p>
+
+<h3 id="whos-that-pokmon-8">Who’s that Pokémon?</h3>
+
+<figure class="figure-middle"><img alt="pokemon monsters mawile and megamawile" src="https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/mawile-megamawile.jpg" /><figcaption> It’s Mawile! </figcaption> </figure>
+
+<p>Just from looking at Mawile it should be pretty obvious that its design was inspired by the Futakuchi Onna. It almost looks like a girl from the front (back?) but when you see the giant fanged mouth coming out of the back (front?) of its head it isn’t so cute anymore. At least the Futakuchi Onna didn’t have teeth that could chew through iron beams like Mawile.</p>
+
+<h2 id="tsukumogami-">Tsukumogami 付喪神</h2>
+
+<p>This is a larger category of yōkai, that a certain Pokémon seems to be based on. They’re basically any type of (once) inanimate objects that either spontaneously gain life or have spirits inhabit them.</p>
+
+<p>Some of the most common tsukumonogami include <i>hahakigami</i> <ruby>箒神<rp>（</rp><rt></rt><rp>）</rp></ruby>, living brooms that blows leaves around, <i>honekarakasa</i> <ruby>骨傘<rp>（</rp><rt></rt><rp>）</rp></ruby>, discarded paper umbrellas that float around in the sky, and of course the <i>jatai</i> <ruby>蛇帯<rp>（</rp><rt></rt><rp>）</rp></ruby>, obi that move like snakes and try to strangle you in your sleep.</p>
+
+<h3 id="whos-that-pokmon-9">Who’s that Pokémon?</h3>
+
+<figure class="figure-middle"><img alt="pokemon monsters banette &amp; megabanette" src="https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/banette-megabanette.jpg" /><figcaption> It’s Banette! </figcaption> </figure>
+
+<p>Poor Banette is one of those Pokémon I have a soft spot for. It’s said they start as a Pokédoll that was thrown away. They tend to live near trash and wander around at night, holding a grudge for the child or parent that discarded them. So whatever tsukumonogami that’s in there, it’s similar to the old, tattered umbrella. Coming back, just trying to fulfill its original purpose.</p>
+
+<h2 id="chchin-obake-">Chōchin Obake 提灯お化け</h2>
+
+<p>A specific type of tsukumogami that inhabits a paper lantern. They usually have one eye (but can have two) and a large mouth around their middle, with a long tongue that hangs out.</p>
+
+<p>Luckily they don’t really attack people. They just like to roll their eye and flail their tongue around to scare them in the night.</p>
+
+<h3 id="whos-that-pokmon-10">Who’s that Pokémon?</h3>
+
+<figure class="figure-middle"><img alt="pokemon monsters dusclops and cusknoir" src="https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/dusclops-dusknoir.jpg" /><figcaption> It’s Dusclops and Dusknoir! </figcaption> </figure>
+
+<p>These ghost Pokémon are aren’t quite as harmless as their yōkai counterpart. They’re both hollow on the inside; Dusclops sucks things (including people) into its black hole of a body, and Dusknoir sucks in lost souls to guide them home. So maybe Dusknoir isn’t so bad, but a black hole body isn’t somewhere I want to go.</p>
+
+<h2 id="yuki-onna-">Yuki Onna 雪女</h2>
+
+<p>They appear to be strikingly beautiful women, originally viewed as evil creatures who used their ice breath to freeze travelers solid. They’re associated with blizzards and cold winter winds. They have beautiful, long black hair, pure white skin, and piercing eyes.</p>
+
+<p>However, in more recent years Yuki Onna seem have been portrayed as beautiful spirits, not really harming anyone. In some stories they even fall in love and lead almost normal lives with ordinary human men.</p>
+
+<h3 id="whos-that-pokmon-11">Who’s that Pokémon?</h3>
+
+<figure class="figure-middle"><img alt="pokemon monster frosslass" src="https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/frosslass.jpg" /><figcaption> It’s Froslass! </figcaption> </figure>
+
+<p>They didn’t even have to change much to make Froslass. She’s pretty much the exact depiction of the newer, less violent Yuki Onna, sans the black hair. But this Pokémon does have a kimono style design and a pair of piercing eyes. She even has the ice breath! Check out its latest Pokédex entry:</p>
+
+<blockquote>
+  <p>It freezes foes with an icy breath nearly -60 degrees Fahrenheit. What seems to be its body is actually hollow.</p>
+</blockquote>
+
+<h2 id="nurarihyon-">Nurarihyon 滑瓢</h2>
+
+<p>This one is a little creepy. They look like old men, but their heads are engorged. To me they look kind of like lumpy gourds, covered in wrinkles and veins. When people are busy, usually around dinnertime, this thing slips into their house and indulges in all the luxuries therein. Soon everyone is convinced it’s the master of the house and treats it as such. Finally, it slips away into the night.</p>
+
+<p>Other legends say that Nurarihyon originated in the ocean, taunting fisherman. Their bulbous heads floating right below the water. When the fishermen try to catch it, it sinks just out of reach, bobbing back up tease them some more. Nurarihyon are said to be the leaders of all yōkai, making their authority over humans understandable.</p>
+
+<h3 id="whos-that-pokmon-12">Who’s that Pokémon?</h3>
+
+<figure class="figure-middle"><img alt="pokemon monster jellicent" src="https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/jellicent.jpg" /><figcaption> It’s Jellicent! </figcaption> </figure>
+
+<p>While this Pokémon is more loosely based on this yōkai than many of the others, it is said that the lumpy head and strange sea activities of one type of Nurarihyon inspired this Pokémon creation. That would also explain the crown, as Nurarihyon is the ruler of all yōkai, Jellicent’s crown must mean it’s the ruler of.. well, something right?</p>
+
+<h2 id="hitodama-">Hitodama 人魂</h2>
+
+<p>These are like will o’wisps (not to be confused with the fireball head that is Sōgen Bi) that appear as colored lights, usually near graveyards or places where someone recently passed away.</p>
+
+<p>They aren’t evil or malicious, just the souls of the dead trying to find their way somewhere. Some of them head toward temples at night, though they have been seen during the day too.</p>
+
+<h3 id="whos-that-pokmon-13">Who’s that Pokémon?</h3>
+
+<figure class="figure-middle"><img alt="pokemon mosnter litwick" src="https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/litwick.jpg" /><figcaption> It’s Litwick! </figcaption> </figure>
+
+<p>It’s one of the few Pokémon that is more dangerous than the yōkai it’s based on. Litwick, a ghost Pokémon, seems to be leading people places. While it does this, it drains them of their life force:</p>
+
+<blockquote>
+  <p>While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.</p>
+</blockquote>
+
+<p>Instead of just looking like a ball of light, Litwick has a candle body (perhaps a more modern light to follow). But since it’s a ghost, it could just be a clever disguise to help it lead people around in the dark with its purple flame.</p>
+
+<h2 id="kodama-">Kodama 木霊</h2>
+
+<p>You may have heard of these before, as they were made popular by the Studio Ghibli film Princess Mononoke. They’re tree spirits whose souls can leave their bodies, looking like a ball of light or a misshapen doll.</p>
+
+<p>They’re considered protectors of the forest. You’ll know a kodama inhabits a tree if it bleeds when you try to cut it down. If the spirits themselves appear to someone, they’re supposed to tie a <a href="http://en.wikipedia.org/wiki/Shimenawa">shimenawa</a> around it, because if you cut down a tree with a kodama, the kodama dies too.</p>
+
+<h3 id="whos-that-pokmon-14">Who’s that Pokémon?</h3>
+
+<figure class="figure-middle"><img alt="pokemon monsters celebi phantump and trevenant" src="https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/celebi-phantump-trevenant.jpg" /><figcaption> It’s Celebi, Phantump, and Trevenant! </figcaption> </figure>
+
+<p>First let’s talk about Celebi: If you’ve seen the fourth Pokémon movie, <em>Pokémon 4Ever – Celebi: Voice of the Forest,</em> you already saw this coming. This legendary pretty much sums up the idea of the kodama. While it looks like an onion fairy, it only shows up to people who respect nature and do everything they can to protect its forests.</p>
+
+<p>Phantump and Trevenant are newer, more accurate representations of the kodama yōkai. They’re spirits that possess trees and, if someone threatens the forest, they can get violent. They’re not exactly kodama though. Instead of a spirit that comes from a tree, Phantump in particular, is supposed to be the spirit of a child who got lost and died in the woods, then inhabits a tree stump. So the process is kind of backwards. Trevenant is more of the protector, check out its Pokédex entry:</p>
+
+<blockquote>
+  <p>It can control trees at will. It will trap people who harm the forest, so they can never leave.</p>
+</blockquote>
+
+<h2 id="its-a-pokmon-halloween">It’s a Pokémon Halloween</h2>
+
+<figure class="figure-middle"><img alt="halloween themed pokemon" src="https://files.tofugu.com/articles/japan/2014-10-31-pokemon-yokai/pokemon-halloween.jpg" /></figure>
+
+<p>That’s it! There are a few more yōkai inspired Pokémon out there, but they’re amalgamations of more than one, and the connections aren’t as obvious as the list above. Hopefully this puts you in the right mood for a spooky Halloween night. And remember, gotta catch ‘em all – even the scary ones!</p>
+
+<p>Now if you’ll excuse me, I’ll be in my room hatching shinies in X until my copy of Alpha Sapphire gets here.</p>
+
+<p>Happy Halloween everyone!</p>
+
+<aside class="blog-post-highlight article-sources"><div class="container"><h4>Sources</h4><ul><li><a href="http://yokai.com/" title="View source">Yokai.com</a></li><li><a href="http://bulbapedia.bulbagarden.net/wiki/Main_Page" title="View source">Bulbapedia</a></li><li><a href="http://hyakumonogatari.com/2012/06/03/jinmenju-the-human-face-tree/" title="View source">Hyakumonogatari Kaidankai</a></li><li><a href="http://en.wikipedia.org/wiki/Yama-uba" title="View source">Wikipedia - Yama-uba</a></li></ul></div></aside>
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-yokai hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2017-04-15-yokai/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='https://www.tofugu.com/series/yokai/' title='View all articles in Series Yokai - Japan&#39;s Supernatural Folktale Creatures'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+Yokai - Japan's Supernatural Folktale Creatures
+</span>
+</a>
+</li>
+<li class='pager-next'>
+<a href='../yo-kai-watch/index.html@series=yokai' title='View Better Than Pokémon!?'>
+<small>
+Next Article in Series
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Better Than Pokémon!?
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles japan-prev travel-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='https://www.tofugu.com/japan/japanese-horror-structure/' title='View The Skeletal Structure of Japanese Horror Fiction'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+The Skeletal Structure of Japanese Horror Fiction
+</a>
+</li>
+<li class='pager-next'>
+<a class='travel' href='https://www.tofugu.com/travel/shunkado-unagi-pie-factory/' title='View Shunkado Unagi Pie Factory - Have Your Pie and Get Eel With it, Too'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-plane'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Shunkado Unagi Pie Factory - Have Your Pie and Get Eel With it, Too
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japan'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='https://www.tofugu.com/japan/foreign-exchange-student-jobs/' title='View How to Find a Job in Japan as a Foreign Exchange Student'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older japan' class='older-article-pagination'></span>
+</small>
+How to Find a Job in Japan as a Foreign Exchange Student
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='https://www.tofugu.com/japan/japanese-horror-structure/' title='View The Skeletal Structure of Japanese Horror Fiction'>
+<small>
+<span aria-label='Newer japan' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+The Skeletal Structure of Japanese Horror Fiction
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/about/' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.1' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs.1' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese.1' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/news/' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/newsletter/' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/master-2164c2ee.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

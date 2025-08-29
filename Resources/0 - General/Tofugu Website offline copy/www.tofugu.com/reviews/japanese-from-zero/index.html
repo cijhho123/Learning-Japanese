@@ -1,0 +1,806 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Michael Richey' name='author'>
+<meta content='Though it&#39;s not necessarily made for children, its layout, explanations, and approach make it, effectively, Genki for kids.' name='description'>
+<meta content='japanese from zero, textbook, learning materials, japanese learning, studying, study japanese' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Though it&#39;s not necessarily made for children, its layout, explanations, and approach make it, effectively, Genki for kids.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/reviews/2015-02-26-japanese-from-zero/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='Japanese from Zero! 1: Progressive Edition' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/reviews/japanese-from-zero/' property='og:url'>
+<meta content='https://www.tofugu.com/reviews/genki-textbook/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/a-guide-to-reading-and-writing-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/kodansha-kanji-usage-guide/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/warau-eikaiwa/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/exploring-japanese-literature/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/how-to-sound-intelligent-in-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/jazz-up-your-japanese-with-onomatopoeia/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/breaking-into-japanese-literature/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/read-real-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/dictionary-of-basic-japanese-grammar/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/japanese-the-manga-way/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/japanese-respect-language/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/tofugu-learn-kana-quiz/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-winter-2022/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2022/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-summer-2022/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-spring-2022/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kedo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-winter-2021/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kosoado/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/todai-easy-japanese-news-app/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2021/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/futokoro/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/akeru-aku-hirakeru-hiraku/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/ni-vs-de/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-summer-2021/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/naka-vs-uchi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-spring-2021/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-books-for-upper-beginners/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/anata/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-winter-2020/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/what-should-i-call-you/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2020/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/sasuga/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-summer-2020/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-spring-2020/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-summer-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-may-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-april-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-march-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-february-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-january-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-november-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-october-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-september-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-august-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-july-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-may-june-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-april-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-march-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-january-february-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-awards-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-december-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-november-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-matthew-chozick/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-october-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-loretta-kemushichan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-september-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-august-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-july-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-jonathan-kirk/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-michael/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-june-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-james/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-adam/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-may-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-dogen/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-dan-bornstein/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-april-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-particle-monono/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-particle-kana/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Michael Richey' property='article:author'>
+<meta content='2015-02-26T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='reviews' property='article:section'>
+<meta content='japanese from zero' property='article:tag'>
+<meta content='textbook' property='article:tag'>
+<meta content='learning materials' property='article:tag'>
+<meta content='japanese learning' property='article:tag'>
+<meta content='studying' property='article:tag'>
+<meta content='study japanese' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@tofugu' name='twitter:creator'>
+<meta content='Though it&#39;s not necessarily made for children, its layout, explanations, and approach make it, effectively, Genki for kids.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/reviews/2015-02-26-japanese-from-zero/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='Japanese from Zero! 1: Progressive Edition' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#859900' name='twitter:widgets:link-color'>
+<meta content='#859900' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-michael-richey-9c293d25.jpg",
+    "jobTitle": "Designer",
+    "name": "Michael Richey",
+    "sameAs": [
+
+    ],
+    "url": "https://www.tofugu.com/about/people/michael-richey/",
+    "description": "Michael is a designer at Tofugu. He grew up in Charlotte, NC and studied writing and film production at North Carolina School of the Arts. After college, he lived in Hikone, Shiga in Japan for two years on the JET Program. In his spare time, Michael makes comics zines, plays Famicom, and spends time with his family.",
+    "email": "michael@tofugu.com"
+  },
+  "datePublished": "2015-02-26T00:00:00Z",
+  "description": "Though it's not necessarily made for children, its layout, explanations, and approach make it, effectively, Genki for kids.",
+  "headline": "Japanese from Zero! 1: Progressive Edition - The Tofugu Review",
+  "image": {
+    "@type": "ImageObject",
+    "author": "michael_richey",
+    "contentURL": "https://files.tofugu.com/articles/reviews/2015-02-26-japanese-from-zero/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/reviews/2015-02-26-japanese-from-zero/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "japanese from zero, textbook, learning materials, japanese learning, studying, study japanese",
+  "name": "Japanese from Zero! 1: Progressive Edition - The Tofugu Review",
+  "url": "https://www.tofugu.com/reviews/japanese-from-zero/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2015-02-26T00:00:00Z",
+  "mainEntity": {
+    "@type": "Product",
+    "name": "Japanese from Zero! 1: Progressive Edition",
+    "description": "Though it's not necessarily made for children, its layout, explanations, and approach make it, effectively, Genki for kids.",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 7.0,
+      "ratingCount": 1,
+      "bestRating": 10,
+      "worstRating": 1
+    },
+    "review": {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Michael Richey"
+      },
+      "datePublished": "2015-02-26T00:00:00Z",
+      "description": "Though it's not necessarily made for children, its layout, explanations, and approach make it, effectively, Genki for kids.",
+      "name": "Japanese from Zero! 1: Progressive Edition - The Tofugu Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": 10,
+        "ratingValue": 7.0,
+        "worstRating": 1
+      }
+    },
+    "sameAs": [
+      "http://www.yesjapan.com",
+      "http://www.amazon.com/Japanese-Zero-Techniques-Students-Professionals/dp/0976998122/"
+    ]
+  },
+  "mainEntityOfPage": "https://www.tofugu.com/reviews/japanese-from-zero/"
+}
+</script>
+
+<title>Japanese from Zero! 1: Progressive Edition - The Tofugu Review</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="../../stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/reviews/japanese-from-zero/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='../../apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='../../apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='../../apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='../../apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='../../apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='../../favicon.png' rel='shortcut icon'>
+<link href='../../favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='reviews reviews_japanese-from-zero reviews_japanese-from-zero_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='../../index.html'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../../japanese/index.html' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='../../japanese/index.html' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.2' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='../../japanese-learning-resources-database/index.html' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../../japan/index.html' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='../../japan/index.html' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../series/index.html' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../travel/index.html' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../index.html' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../interviews/index.html' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='../../podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/reviews/2015-02-26-japanese-from-zero/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/reviews/2015-02-26-japanese-from-zero/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+Japanese from Zero! 1: Progressive Edition
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+The perfect Japanese textbook for young learners.
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2015-02-26T00:00:00Z">February 26, 2015</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/michael-richey/index.html" rel="author">Michael Richey</a>
+•
+Art by
+<a href="../../about/people/michael-richey/index.html">Michael Richey</a>
+<a href="https://files.tofugu.com/articles/reviews/2015-02-26-japanese-from-zero/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>When people ask for a <a href="../../learn-japanese/index.html">recommendation of a physical Japanese textbook</a>, we usually say "Genki." It covers Japanese language concepts very logically and is great for beginners. Adult beginners, that is. So what about for kids?</p>
+
+<p>Thankfully I discovered <em>Japanese from Zero!</em> by George Trombley and Yukari Takenaka. Though it's not necessarily made for children, its layout, explanations, and approach make it, effectively, Genki for kids. Older learners may find it useful as well, especially those who need a slower paced approach before moving onto Genki. But is it right for you? Hopefully our <em>Japanese from Zero</em> review will answer that for you.</p>
+
+<h2 id="progressive-edition">Progressive Edition?</h2>
+
+<figure class="figure-middle"><img alt="japanese from zero reading comprehension" src="https://files.tofugu.com/articles/reviews/2015-02-26-japanese-from-zero/reading-comprehension.jpg" /></figure>
+
+<p><em>Japanese from Zero!</em> has the words "Progressive Edition" on the front, and progression is the main feature. It's designed to ease you into learning Japanese, feeding you small bits of information at a time.</p>
+
+<p>"How exactly is it progressive?" you ask. The book begins in romaji and introduces a new set of <a href="../../japanese/learn-hiragana/index.html">hiragana</a> in each chapter. That means that you'll see sentences like "あたraしいterebiがhoしいです。" in the middle of the book.</p>
+
+<p>It also progressively introduces grammar and vocabulary. Verbs aren't introduced until the next to the last lesson, which seems pretty late to me. Most of the book is spent learning vocabulary, proximity words, numbers, colors, and adjectives, along with the proper question words that help you ask for/about things and understand the answers. You end up learning a surprising amount without the use of verbs. But I can't help but feel you'd do better to learn verbs along with the rest of the information given.</p>
+
+<p>The progressiveness will be the deal breaker for most people. Personally, I feel romaji only serves to stunt your growth in the language. The sooner you <a href="../../japanese/learn-hiragana/index.html">learn hiragana</a> and <a href="../../japanese/learn-katakana/index.html">katakana</a> and <a href="../read-real-japanese/index.html">reading real Japanese</a>, the better off you'll be. However, young kids who get easily frustrated may find this method easier and more effective, even if it does take longer.</p>
+
+<h2 id="the-japanese-from-zero-style">The Japanese from Zero Style</h2>
+
+<figure class="figure-middle"><img alt="japanese from zero everyday hiragana" src="https://files.tofugu.com/articles/reviews/2015-02-26-japanese-from-zero/everyday-hiragana.jpg" /></figure>
+
+<p>Though the information is doled out slowly, it is taught in an excellent way. I found the writing style fun and easy to read. The explanations of the grammar is comprehensive and quickly absorbed. If you don't enjoy the dense explanations of other textbooks, you'll appreciate the approach <em>Japanese from Zero!</em> takes.</p>
+
+<p>The lessons are reinforced in the workbook pages of <em>Japanese from Zero!</em>, which are conveniently integrated into the text. Most textbooks require you to buy a separate workbook for exercises and homework. <em>Japanese from Zero!</em> saves you the hassle of switching between two books by having all the exercises built in.</p>
+
+<p>Though people ask for it, a <em>Japanese from Zero</em> pdf or <em>Japanese from Zero</em> ebook wouldn't be a great idea because it's made to be written in. It encourages you to write notes in the lesson portions. This is great emotional encouragement that will keep readers connected to the source material. The exercises, though conveniently placed, are not that challenging and suitable for younger learners.</p>
+
+<h2 id="japanese-from-zero-contents">Japanese from Zero Contents</h2>
+
+<figure class="figure-middle"><img alt="Table of contents for Japanese From Zero" src="https://files.tofugu.com/articles/reviews/2015-02-26-japanese-from-zero/table-of-contents.jpg" /></figure>
+
+<p>Because it's hard to describe the way this book progresses, I thought it would be helpful to take a look at the table of contents. This might help you better judge whether or not <em>Japanese from Zero!</em> will fit your needs.</p>
+
+<blockquote>
+  <h3 id="table-of-contents">Table of Contents</h3>
+
+  <p><strong>Pre-Lesson A:</strong> Pronunciation Guide &amp; the Basics</p>
+
+  <p><strong>Pre-Lesson B:</strong> Basic Counting</p>
+
+  <p><strong>Pre-Lesson C:</strong> First Meeting</p>
+
+  <p><strong>Pre-Lesson D:</strong> Coming and Going</p>
+
+  <p><strong>Lesson 1:</strong> Creating Simple Sentences</p>
+
+  <p><strong>Lesson 2:</strong> Working with a Topic</p>
+
+  <p><strong>Lesson 3:</strong> Possession</p>
+
+  <p><strong>Lesson 4:</strong> Colors and Adjectives</p>
+
+  <p><strong>Lesson 5:</strong> Likes and Dislikes</p>
+
+  <p><strong>Lesson 6:</strong> Wanting and Not Wanting</p>
+
+  <p><strong>Lesson 7:</strong> Locations</p>
+
+  <p><strong>Lesson 8:</strong> Dates and Past Tense</p>
+
+  <p><strong>Lesson 9:</strong> Days, Weeks, and Years</p>
+
+  <p><strong>Lesson 10:</strong> Asking for Things</p>
+
+  <p><strong>Lesson 11:</strong> Counting Objects</p>
+
+  <p><strong>Lesson 12:</strong> Japanese Verbs</p>
+
+  <p><strong>Lesson 13:</strong> Telling Time</p>
+</blockquote>
+
+<h2 id="japanese-from-zero-features">Japanese from Zero Features</h2>
+
+<figure class="figure-middle"><img alt="Page from Japanese From Zero detailing how to bow" src="https://files.tofugu.com/articles/reviews/2015-02-26-japanese-from-zero/bowing.jpg" /></figure>
+
+<p><em>Japanese from Zero!</em> also includes Culture Clips, which are short explanations on Japanese culture. These are things like bowing, the difference between sushi and sashimi, the origin of -<i>san</i> <ruby>さん<rp>（</rp><rt></rt><rp>）</rp></ruby>, how Japan celebrates Christmas, and so forth. Like the rest of the book, these facts are basic and intended for those starting from zero. They are a nice addition, but there aren't many. There are only 9 total, not even one for each chapter. This is a shame because they would do a lot to round out the book's usefulness.</p>
+
+<p>One of the benefits of this book, which also slows it down, are the tangents it takes to explain the nuances of Japanese that a beginner might encounter. For example, the book outlines the different ways calligraphy strokes end, an easy way to write fu, and the differences between <i>a</i> <ruby>あ<rp>（</rp><rt></rt><rp>）</rp></ruby> and <i>o</i> <ruby>お<rp>（</rp><rt></rt><rp>）</rp></ruby>. Just like the culture clips, these are very basic, but it shows a sensitivity to the reader. However, you should judge for yourself whether or not you need such a basic guidance.</p>
+
+<h2 id="is-japanese-from-zero-right-for-you">Is Japanese from Zero Right for You?</h2>
+
+<figure class="figure-middle"><img alt="japanese from zero everyday vocabulary" src="https://files.tofugu.com/articles/reviews/2015-02-26-japanese-from-zero/everyday-vocabulary.jpg" /></figure>
+
+<p>A final note worth mentioning is that the group behind <em>Japanese from Zero!</em>, <a href="http://www.yesjapan.com/">yesjapan.com</a>, is a wonderful resource for learning Japanese. Their website serves as a supplement for the <em>Japanese from Zero!</em> series, expanding on topics up through high beginner to intermediate. The videos (<a href="http://www.yesjapan.com/video/browse-japanese5-videos-1-date.html">especially Japanese in 5</a>), podcasts, and games are a perfect addition to any self-study regimen. Site host George Trombley is a master teacher. His demeanor and way of explaining grammar make the concepts easy to learn and fun to use. Whether you pick up this book or not, do check out <a href="http://www.yesjapan.com/">yesjapan.com</a>.</p>
+
+<p>All in all, <em>Japanese from Zero!</em> is a book for absolute beginners. If you're in high school or older, only use this book if you've found yourself stumped by Genki or similar texts. After gaining traction from it, try Genki again and proceed from there.</p>
+
+<p>However, if you have kids in 3rd – 6th grade who are really interested in Japanese, I do recommend this book. Japanese from Zero! fills this niche and give kids with developing minds a chance to sink their teeth into Japanese language, hopefully <a href="../../learn-japanese/index.html">whetting their appetites for more</a>.</p>
+
+<p>If you're still on the fence and don't mind giving away your email, you can get the whole <a href="http://www.yesjapan.com/YJ7/?#!guide/1/-3">first course for free</a> from the Yes Japan! website. It's the next best thing to a <em>Japanese from Zero</em> download.</p>
+
+<section class="individual-review"><div class="individual-review__avatar"><a href="../../about/people/michael-richey/index.html"><img src="../../images/about/people/avatar-michael-richey-9c293d25.jpg" alt="Avatar michael richey 9c293d25" /></a></div><div class="individual-review__content"><h3 class="individual-review__title">Michael’s Review<i class="fa fa-thumbs-o-up" aria-hidden="true" aria-label="Recommended"></i><span class="individual-review_rating">7/10</span></h3><p>Lots of people love this series, and it does have its positives. Just be aware that some things (like hiragana) will be taught at a much slower pace. This is great for younger learners and for those who need a slower pace before graduating to something faster. I gave a score of 7 because I feel the book is an 8 for elementary age students and a 6 for adult learners.</p>
+</div></section>
+
+<div class='article-tldr blog-post-highlight'>
+<div class='container'>
+<h2>
+<span class='article-highlight'>Japanese from Zero! 1: Progressive Edition</span>
+<small>
+<span class='article-highlight'>
+<span class='conjunction'>by</span>
+George Trombley Jr., Yukari Takenaka
+</span>
+</small>
+</h2>
+<div class='article-tldr-ratings-pros-cons'>
+<div class='container'>
+<div class='row'>
+<div class='col-md-6'>
+<h3 class='article-tldr-pros-cons-title'>Pros</h3>
+<ul>
+<li>I feel like this textbook is really good for younger folk.</li>
+<li>Great for absolute beginners.</li>
+</ul>
+</div>
+<div class='col-md-6'>
+<h3 class='article-tldr-pros-cons'>Cons</h3>
+<ul>
+<li>Adults may not connect with this textbook so much.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class='article-tldr-ratings'>
+<div class='article-tldr-ratings-overall'>
+<div class='article-tldr-ratings-header'>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-6'>
+<div class='article-tldr-ratings-header-title'>
+<h3>Overall Rating</h3>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class='article-tldr-ratings-header-rating'>
+<h3>7</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+<progress max='10' value='7.0'></progress>
+</div>
+</div>
+<div class='article-tldr-additional-information'>
+<h3>Additional Information</h3>
+<div class='container'>
+<div class='row'>
+<div class='col-md-6'>
+<p>
+<i class='fa fa-fw fa-external-link'></i>
+<a href='http://www.yesjapan.com' target='_blank' title='View Japanese from Zero! 1: Progressive Edition&#39;s website'>
+Japanese from Zero! 1: Progressive Edition's
+website
+</a>
+</p>
+</div>
+<div class='col-md-6'>
+<p>
+<i class='fa fa-fw fa-gift'></i>
+<a href='http://www.amazon.com/Japanese-Zero-Techniques-Students-Professionals/dp/0976998122/' target='_blank' title='Buy Japanese from Zero! 1: Progressive Edition'>
+Buy
+Japanese from Zero! 1: Progressive Edition
+</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-articles japan-prev reviews-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='../../japan/japanese-math/index.html' title='View The Power of Japanese Math'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+The Power of Japanese Math
+</a>
+</li>
+<li class='pager-next'>
+<a class='reviews' href='../breaking-into-japanese-literature/index.html' title='View Breaking into Japanese Literature'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-pencil'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Breaking into Japanese Literature
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category reviews'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='reviews' href='../breaking-into-japanese-literature/index.html' title='View Breaking into Japanese Literature'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-pencil'></i>
+<span aria-label='Older reviews' class='older-article-pagination'></span>
+</small>
+Breaking into Japanese Literature
+</a>
+</li>
+<li class='pager-next'>
+<a class='reviews' href='../kodansha-international-bilingual-books/index.html' title='View Kodansha International&#39;s Bilingual Books Series'>
+<small>
+<span aria-label='Newer reviews' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-pencil'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Kodansha International's Bilingual Books Series
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='../../about/index.html' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.2' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs/index.html' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese/index.html' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='../../news/index.html' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='../../newsletter/index.html' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='../../podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='../../feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="../../javascripts/master-2164c2ee.js" defer="defer"></script><script src="../../javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

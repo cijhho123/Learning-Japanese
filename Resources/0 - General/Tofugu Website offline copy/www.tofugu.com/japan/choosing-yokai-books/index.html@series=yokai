@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Linda Lombardi' name='author'>
+<meta content='There are a lot of yokai books out there. But what are the best yokai books for you and your busy schedule?' name='description'>
+<meta content='yokai, folklore, yurei' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='There are a lot of yokai books out there. But what are the best yokai books for you and your busy schedule?' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japan/2015-03-04-choosing-yokai-books/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='Choosing the Best Yokai Books for You' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japan/choosing-yokai-books/' property='og:url'>
+<meta content='https://www.tofugu.com/japan/tofugu-favorite-posts-2016/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tengu/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kappa/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/pokemon-yokai/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/zack-davisson/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kitsune-yokai-fox/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-ghost-season/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/altjapan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/nurikabe/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tanuki/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-mythological-creatures/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Linda Lombardi' property='article:author'>
+<meta content='2015-03-04T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japan' property='article:section'>
+<meta content='yokai' property='article:tag'>
+<meta content='folklore' property='article:tag'>
+<meta content='yurei' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@wombatarama' name='twitter:creator'>
+<meta content='There are a lot of yokai books out there. But what are the best yokai books for you and your busy schedule?' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japan/2015-03-04-choosing-yokai-books/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='Choosing the Best Yokai Books for You' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#268bd2' name='twitter:widgets:link-color'>
+<meta content='#268bd2' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-linda-lombardi-af4ef9cf.jpg",
+    "jobTitle": "Writer",
+    "name": "Linda Lombardi",
+    "sameAs": [
+      "https://www.twitter.com/wombatarama",
+      "http://www.lindalombardi.com"
+    ],
+    "url": "https://www.tofugu.com/about/people/linda-lombardi/",
+    "description": "Writer, unemployed zookeeper, crazy pug lady. Obsessed with weird animals, dessert, Japan, and the intersections thereof."
+  },
+  "datePublished": "2015-03-04T00:00:00Z",
+  "description": "There are a lot of yokai books out there. But what are the best yokai books for you and your busy schedule?",
+  "headline": "Choosing the Best Yokai Books for You",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japan/2015-03-04-choosing-yokai-books/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japan/2015-03-04-choosing-yokai-books/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "yokai, folklore, yurei",
+  "name": "Choosing the Best Yokai Books for You",
+  "url": "https://www.tofugu.com/japan/choosing-yokai-books/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2015-03-04T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japan/choosing-yokai-books/"
+}
+</script>
+
+<title>Choosing the Best Yokai Books for You</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japan/choosing-yokai-books/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='https://www.tofugu.com/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://www.tofugu.com/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://www.tofugu.com/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://www.tofugu.com/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://www.tofugu.com/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='https://www.tofugu.com/favicon.png' rel='shortcut icon'>
+<link href='https://www.tofugu.com/favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japan japan_choosing-yokai-books japan_choosing-yokai-books_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='https://www.tofugu.com/'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japanese/' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='https://www.tofugu.com/japanese/' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.1' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-learning-resources-database/' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japan/' id='dJapan'>
+Japan <i class="fa fa-globe"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='https://www.tofugu.com/japan/' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/series/' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/travel/' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/reviews/' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/interviews/' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='https://www.tofugu.com/podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=yokai#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japan/2015-03-04-choosing-yokai-books/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japan/2015-03-04-choosing-yokai-books/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+Choosing the Best Yokai Books <span class="conjunction">for</span> You
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+So many monsters, so many books... but we've got your back
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2015-03-04T00:00:00Z">March 4, 2015</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/linda-lombardi/index.html" rel="author">Linda Lombardi</a>
+•
+Art by
+<a href="https://www.tofugu.com/about/people/aya-francisco/">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japan/2015-03-04-choosing-yokai-books/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+<p class='article-series series-yokai hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="https://www.tofugu.com/series/yokai/">Yokai - Japan's Supernatural Folktale Creatures
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>Yokai are about to hit America big time with the introduction of the anime <a href="https://www.tofugu.com/japan/yo-kai-watch/">Yokai Watch</a>. But as a Tofugu reader, you’re the sort of person who has probably already encountered many of these creatures from Japanese folklore – in the manga you read, in the anime you watch, or if you’ve traveled to Japan and wondered why there are so many fox statues at shrines you visited.</p>
+
+<p>Until fairly recently there weren’t a lot of references available in English on this fascinating part of Japanese culture, unless you wanted to plow through academic articles. Now there are enough books to choose from that you might want some ideas on where to start. But what are the best yokai books for you and your busy schedule? Read on to get the low down on what each book offers and how it will meet your yokai needs.</p>
+
+<h2 id="illustrated-field-guides">Illustrated Field Guides</h2>
+
+<figure class="figure-middle"><img alt="painting of spirit cat" src="https://files.tofugu.com/articles/japan/2015-03-04-choosing-yokai-books/matthew-meyer-yokai-book.jpg" /><figcaption>  </figcaption> Source: <a href="http://matthewmeyer.net/" title="Visit source's website" target="_blank">Matthew Meyer</a></figure>
+
+<p>The first thing you’ll learn when you begin reading about yokai is that there are a LOT of them. At least since the Edo period, Japanese people have felt the need for books full of descriptions of yokai, kind of like field guides to birds or flowers or fish. We 21st-century English speakers can now enjoy two very nice books along these lines. Both are interesting to sit down and read from cover to cover, and both are also well-organized references. Grab one of these when you want more background on a creature you read about in manga, or when it’s late at night and there’s an uncanny noise coming from you bathroom…</p>
+
+<figure class="figure-middle"><img alt="yokai survival guide book cover" src="https://files.tofugu.com/articles/japan/2015-03-04-choosing-yokai-books/yokai-attack-cover-yokai-book.jpg" /></figure>
+
+<p>If you’re coming to yokai from an interest in Japanese pop culture, the yokai book with a writing and art style that will likely appeal to you is <a href="http://www.amazon.com/Yokai-Attack-Japanese-Monster-Survival/dp/480531219X">Yokai Attack! The Japanese Monster Survival Guide</a> by Hiroko Yoda and Matt Alt. The authors specialize in translating and localizing Japanese manga, anime, and games, as faithful Tofugu readers will know from <a href="https://www.tofugu.com/interviews/matt-alt-japanese-translation/">reading my recent interview with Matt Alt</a>.</p>
+
+<p>This is a team that’s steeped in Japanese pop and traditional culture and experienced at conveying both in English, so you can trust them for accuracy and understandability. But more than anything else, this book is the most fun of all of the choices. Come on, it’s a survival guide. How can it not be?</p>
+
+<p>With brightly colored illustrations and cleverly divided categories like “Annoying Neighbors” and “Gruesome Gourmets,” each yokai profile starts with a list of basic characteristics and is written in short sections – useful for when you’re suddenly in front of a strange child offering tofu (do NOT eat it, and especially not if it’s decorated with a maple leaf).</p>
+
+<p>Note that if you bought this book when it first came out, it’s since been reissued by Tuttle. So if you are buying it now, lucky you, you get additional material and more color illustrations.</p>
+
+<figure class="figure-middle"><img alt="yokai illustrations book cover" src="https://files.tofugu.com/articles/japan/2015-03-04-choosing-yokai-books/night-parade-of-one-hundred-demons-matthew-meyer-yokai-book.jpg" /></figure>
+
+<p>If you prefer your art in a style that reflects more traditional sensibilities, check out artist Matthew Meyer’s <a href="http://www.amazon.com/Night-Parade-One-Hundred-Demons/dp/0985218401">The Night Parade of One Hundred Demons</a>, which is where the illustrations at the top of this section come from. His book is also a compendium of illustrated yokai profiles, but whereas Yokai Attack! is a bit frenetic (and I mean that in the nicest possible way), the style here is more serene. Starting with alternate names, habitats, and diets, each profile lays out a straightforward description of the yokai’s behavior. There no defense tips as such in this one, but you’ll be prepared to ID many of the strange Japanese creatures you might encounter.</p>
+
+<p>Night Parade is definitely informative but its real strong point is the art. If you like old ukiyo-e prints, I highly recommend you check out Matthew’s modern take on them. I’m clearly not the only one who feels this way – Meyer raised over $18,000 from his fans on Kickstarter to publish this book and over $27,000 for the forthcoming volume, The Hour of Meeting Evil Spirits.</p>
+
+<h2 id="intro-to-yokai-geekery">Intro to Yokai Geekery</h2>
+
+<figure class="figure-middle"><img alt="cover of book about yokai" src="https://files.tofugu.com/articles/japan/2015-03-04-choosing-yokai-books/the-book-of-yokai-michale-dylan-foster-book.jpg" /></figure>
+
+<p>If you read those books and love them and feel like you need more, you may be a potential yokai geek. If so, the newly published <a href="http://www.amazon.com/Book-Yokai-Mysterious-Creatures-Japanese/dp/0520271025">The Book of Yōkai</a> by Michael Dylan Foster is a good next step.</p>
+
+<p>English-speaking yokai aficianados have been looking forward to this book, as the author is well known for a previous book that I’ll discuss below. While meant for a general audience, it’s still a book written by a university professor and published by a university press, so consider that when the back cover copy calls it a “delightful and accessible narrative.” That might well be the reaction of someone who spends most of their time reading academic journals, but probably less so if you’re coming to this from the two books discussed above.</p>
+
+<p>But hey, if you want to move on from fun descriptions of monsters to more depth, it’s not going to be all fun and games. This book delves into the history of yokai, who wrote about them, when, and deep thoughts about how they’re created and the role they play in the culture at various times in history. The downside of this scholarly material is that you’re going to read a fair number of un-delightful sentences along the lines of “there are also positive portrayals of the yamamba in which she is a deific and beneficial presence.”</p>
+
+<p>The upside is that it’s worth working your way through the academic jargon, both for the sake of the information, and because there are observations throughout this book that are enlightening and even a few that are actually fairly delightful. For example, early on when the author discusses how yokai are often personifications that explain strange things that happen, he uses the example of the nurikabe, whose name means “plaster wall,” and whose particular trick is making it impossible for you to walk any farther. He compares it to the marathon runner’s expression “hitting the wall” and then considers the explanations behind the two. The nurikabe gives that feeling a personality, blaming it on a particular character, basically. The scientist would blame it on a chemical process in the body. So, he asks, is the nurikabe just a story made up by people who are ignorant of biology?</p>
+
+<blockquote>
+  <p>We could just as well say that “glycogen depletion” is how people who know nothing about yokai explain the experience of meeting a yokai! In some ways, in fact, this might be the most persuasive explanation – after all, I can draw a picture of a nurikabe, but I have no idea where to begin with glycogen.</p>
+</blockquote>
+
+<p>That whole discussion is enough to make me forgive him using a lot of 25-dollar words where simpler ones would do.</p>
+
+<p>Whatever the issues of style, if you want to become a real yokai geek, you want this book. You’ll learn all the big names in yokai-ology, and his encyclopedic section describing specific yokai is very different from the two books above. Illustrated with original line drawings and black-and-white art reproductions, it is way less of a visual feast, but what you get instead is more history, more variations on the stories, discussions of different references, and so on.</p>
+
+<p>Bottom line: This is not the book to grab when you encounter a creature licking your ceiling and you’re too frightened care whether Toriyama Seiken created the tenjooname in his 1784 book or it was based in local folklore about the stains on the ceilings of old houses. Once the lights are on, though, and you are ready for some serious study, this is the way to go.</p>
+
+<h2 id="old-school">Old School</h2>
+
+<figure class="figure-middle"><img alt="Japanese painting of child spirit and dragonfly" src="https://files.tofugu.com/articles/japan/2015-03-04-choosing-yokai-books/little-girl-yokai-and-dragonfly.jpg" /></figure>
+
+<p>All the books so far are basically “Modern Authors Explain Yokai To You”, and if you can only read English, you are mostly stuck with that. But if you are heading down the path to yokai geekery, there are at least a few older books you can delve into.</p>
+
+<p>If you want to experience the old folklore with no intermediary between you and the old folk, <a href="http://www.amazon.com/Legends-Tono-Kunio-Yanagita/dp/0739127675">The Legends of Tono</a> is a classic collection from the early 20th century and recently published in a new English translation. I haven’t read this one yet, but it comes highly recommended by Matt Alt as it contains lots of yokai stories as directly collected by folklorist Kunio Yanagita.</p>
+
+<p>If you have never read this sort of original, unedited folklore, be warned that it doesn’t often have the sort of character and plot development we expect from modern entertainment. Don’t be surprised when sometimes the whole tale is just a description of some weird thing that happened to someone, like that time you swear you put your glasses down on the table and later found them in another room so you’re sure a poltergeist moved them… Still, what you’ll get here are old stories as they were originally told without anyone telling you what to think about them, and that’s pretty cool.</p>
+
+<figure class="figure-middle"><img alt="black &amp; white photograph husband and wife" src="https://files.tofugu.com/articles/japan/2015-03-04-choosing-yokai-books/lafcadio-hearn-and-his-wife.jpg" /></figure>
+
+<p>Another classic author you should know about, if you want to go deeper into this subject, is Lafcadio Hearn. One of the first writers to interpret Japan to the outside world when the country opened to foreigners in the late nineteenth century, Hearn never uses the word yokai, but was the first to describe some of them in English.</p>
+
+<p>Books written in Hearn’s time can sometimes be tough going for 21st century readers – we’re used to a style that gets to the point quickly and efficiently. However, I haven’t had this reaction to Hearn’s writing, as I might with other authors of the era. On the contrary, his writing gives me the feeling of being in touch with his time period, but in a quite enjoyable and readable way.</p>
+
+<p>I’m running out of room here, so for examples I’ll point you to the many excerpts from his Glimpses of Unfamiliar Japan that I couldn’t resist quoting in my <a href="https://www.tofugu.com/japan/kitsune-yokai-fox/">article on kitsune</a>, the Japanese fox yokai.</p>
+
+<p>His work is old enough to be out of copyright, so you can check it out for free or very inexpensively – his books Kwaidan: Stories and Studies of Strange Things, In Ghostly Japan, and Glimpses of Unfamiliar Japan can be found on Google Books online and in free or cheap Kindle versions on Amazon. (Be warned that the free Kindle books don’t always have all the navigation possibilities that you are used to.)</p>
+
+<h2 id="off-the-deep-end">Off the Deep End</h2>
+
+<figure class="figure-middle"><img alt="picture of giant yokai skeleton" src="https://files.tofugu.com/articles/japan/2015-03-04-choosing-yokai-books/that-one-yokai-skeleton-pic-everyone-uses.jpg" /></figure>
+
+<p>Michael Dylan Foster’s earlier book, <a href="http://www.amazon.com/Pandemonium-Parade-Japanese-Monsters-Culture/dp/0520253620">Pandemonium and Parade</a>, should not be anyone’s first reference on the subject, and is tough to get through unless you love to read the sort of academic writing that contains phrases like “discourse is always heteroglossic.” But if you already have some decent background knowledge and want to delve deeper into the cultural role and history of yokai, it’s pretty much required reading.</p>
+
+<p>There are also specialized books about particular categories of yokai. One that is quite accessible is Zack Davisson’s forthcoming <a href="http://www.amazon.com/Yurei-Japanese-Ghost-Zack-Davisson/dp/0988769344">Yūrei: The Japanese Ghost</a> (<a href="../../interviews/zack-davisson.1">read Tofugu’s interview with him about the book here</a>.)</p>
+
+<p>Most of these are far more academic in nature, which also means they tend to be crazy expensive, so one exception that’s worth noting is Japanese Demon Lore: Oni from Ancient Times to the Present by Noriko T. Reider, which is available legally <a href="http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1071&amp;context=usupress_pubs">for free at this link</a>.</p>
+
+<p>By the way, speaking of (nearly) free, for 99 cents on Kindle you can get <a href="https://www.goodreads.com/book/show/20801348-the-unofficial-guide-to-japanese-mythology">John Paul Catton’s Unofficial Guide to Japanese Mythology</a>, the only book I have come across that includes (presumably) tongue-in-cheek analyses of whether certain yokai could exist. If you’d be intrigued by an explanation for the tengu’s long nose based on a mathematical calculation of its weight-to-wingspan ratio and resultant oxygen intake needs, this is the book for you.</p>
+
+<h2 id="still-wanting-more">Still Wanting More?</h2>
+
+<figure class="figure-middle"><img alt="statue of blue kappabashi" src="https://files.tofugu.com/articles/japan/2015-03-04-choosing-yokai-books/kappa-statue.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/wombatarama/15401963167/" title="Visit source's website" target="_blank">Linda Lombardi</a></figure>
+
+<p>Yokai are as much about art as they are about stories – many seem to have been born in the minds of artists rather than in the words of folktales. Since you can appreciate the art in a book even if you can’t read the language, there are more options here than I have room to go into, but one excellent one that’s available in English is <a href="http://www.amazon.com/Yokai-Museum-Japanese-Supernatural-collection/dp/4756243371">Yokai Museum: The Art of Japanese Supernatural Beings from YUMOTO Koichi collection</a>. It’s also not crazy expensive for a full color art book.</p>
+
+<p>If you’ve gone as far as reading all these books, you might want to join like-minded people online. There are various discussion boards, like the <a href="https://www.facebook.com/groups/483612525034770/">Yokai Attack! Facebook group</a>, where you will get expert answers to just about any question about yokai (including “hey guys what’s a good yokai book I might not know about?,” so many thanks to everyone there who gave me suggestions.)</p>
+
+<p>A couple of members there have collected bibliographies that are particularly useful if you want to read more of <a href="https://www.librarything.com/catalog/malinablue&amp;collection=-1&amp;deepsearch=yokai">the academic writing about yokai in English</a>.</p>
+
+<blockquote>
+  <p>Once you start reading about yokai, you’ll start to realize that they are everywhere in Japan, from mascots to traditional art to all forms of storytelling. And while people don’t exactly believe they are real anymore, there are a lot of cases where it seems like people don’t exactly believe that they aren’t real either. As The Book of Yōkai says:</p>
+</blockquote>
+
+<p>One common Japanese phrase in the discussion of yōkai is hanshin-hangī, which means “half-belief/half doubt.” The appeal of this phrase is that it does not call for a decision one way or the other but combines two halves into a whole… Perhaps the question is not whether people believe in yokai but why we require a yes-or-no answer in the first place.</p>
+
+<p>I don’t know about you, but what I do need a yes-or-no answer for is whether or not I need to memorize those survival tips. Better get reading, just in case…</p>
+
+<h2 id="all-the-books">All the books!</h2>
+
+<ul>
+  <li><a href="http://www.amazon.com/Yokai-Attack-Japanese-Monster-Survival/dp/480531219X">Yokai Attack!</a></li>
+  <li><a href="http://www.amazon.com/Night-Parade-One-Hundred-Demons/dp/0985218401">The Night Parade of One Hundred Demons</a></li>
+  <li><a href="http://www.amazon.com/Book-Yokai-Mysterious-Creatures-Japanese/dp/0520271025">The Book of Yokai</a></li>
+  <li><a href="http://www.amazon.com/Legends-Tono-Kunio-Yanagita/dp/0739127675">The Legends of Tono</a></li>
+  <li><a href="http://www.amazon.com/Kwaidan-Stories-Studies-Strange-Things-ebook/dp/B004TP8OWS">Kwaidan</a></li>
+  <li><a href="http://www.amazon.com/Ghostly-Japan-Lafcadio-Hearn-ebook/dp/B00848U9O2">In Ghostly Japan</a></li>
+  <li><a href="http://www.amazon.com/Ghostly-Japan-Lafcadio-Hearn-ebook/dp/B00848U9O2">Glimpses of Unfamiliar Japan</a></li>
+  <li><a href="http://www.amazon.com/Pandemonium-Parade-Japanese-Monsters-Culture/dp/0520253620">Pandemonium and Parade</a></li>
+  <li><a href="http://www.amazon.com/Yurei-Japanese-Ghost-Zack-Davisson/dp/0988769344">Yūrei: The Japanese Ghost</a></li>
+  <li><a href="http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1071&amp;context=usupress_pubs">Japanese Demon Lore: Oni from Ancient Times to the Present</a></li>
+  <li><a href="https://www.goodreads.com/book/show/20801348-the-unofficial-guide-to-japanese-mythology">John Paul Catton’s Unofficial Guide to Japanese Mythology</a></li>
+  <li><a href="http://www.amazon.com/Yokai-Museum-Japanese-Supernatural-collection/dp/4756243371">Yokai Museum: The Art of Japanese Supernatural Beings from YUMOTO Koichi collection</a></li>
+</ul>
+
+
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-yokai hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2017-04-15-yokai/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='https://www.tofugu.com/series/yokai/' title='View all articles in Series Yokai - Japan&#39;s Supernatural Folktale Creatures'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+Yokai - Japan's Supernatural Folktale Creatures
+</span>
+</a>
+</li>
+<li class='pager-next'>
+<a href='../pokemon-yokai/index.html@series=yokai' title='View Who’s that Pokémon? Yōkai Edition!'>
+<small>
+Next Article in Series
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Who’s that Pokémon? Yōkai Edition!
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles reviews-prev japan-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='reviews' href='https://www.tofugu.com/reviews/breaking-into-japanese-literature/' title='View Breaking into Japanese Literature'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-pencil'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+Breaking into Japanese Literature
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='https://www.tofugu.com/japan/japanese-countryside-emptying/' title='View Why the Japanese Countryside Is Emptying'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Why the Japanese Countryside Is Emptying
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japan'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='https://www.tofugu.com/japan/japanese-countryside-emptying/' title='View Why the Japanese Countryside Is Emptying'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older japan' class='older-article-pagination'></span>
+</small>
+Why the Japanese Countryside Is Emptying
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='https://www.tofugu.com/japan/japanese-math/' title='View The Power of Japanese Math'>
+<small>
+<span aria-label='Newer japan' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+The Power of Japanese Math
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/about/' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.1' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs.1' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese.1' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/news/' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/newsletter/' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/master-2164c2ee.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

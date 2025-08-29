@@ -1,0 +1,855 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Rich' name='author'>
+<meta content='Staying safe in Japan is not something people give much thought to. After all, Japan is the safest country in the world, right? Right?!' name='description'>
+<meta content='travel, living in japan' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Staying safe in Japan is not something people give much thought to. After all, Japan is the safest country in the world, right? Right?!' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='Safety in Japan: Staying Alert in the World&#39;s &#39;Safest&#39; Country' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japan/safety-in-japan/' property='og:url'>
+<meta content='https://www.tofugu.com/travel/dezuka-suisan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/abashiri-prison-museum/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/ossan-rental-omocha/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-make-a-reservation/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/one-day-in-tokyo-itinerary-michael/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/one-day-in-tokyo-itinerary-kanae/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kyoto-one-day-itinerary-kristen/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tofugu-favorite-posts-2016/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/a-geek-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/roppongi-nightlife/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/hamamatsu-jasdf-air-park-museum/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kanamara-matsuri/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tokyo-travel-tips-for-neurotics/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/seikan-tunnel/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japan-without-leaving-home/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/shinnosuke-saito-matcha/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-stuffed-animal-vacation/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/save-money-living-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/nishinari/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/foreign-tourist-on-japanese-tv/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-summer-festivals/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/cashless-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/golden-week/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/finding-you-way-around-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-food-by-prefecture/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/bicycle-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/best-time-to-visit-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/piss-alley-tokyo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/traveling-to-japan-for-the-first-time/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/travel-to-japan-cheap/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-fast-food/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/wwoof-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/cheap-tickets-to-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/hitchhiking-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-address-system/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-language-cheatsheet-travelers/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/retire-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/japanese-housewife/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/sarah-feinerman/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-civic-duty/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-smoking-manners-posters/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/job-hunting-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/foreign-exchange-student-jobs/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/garbage-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/becoming-a-child-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japan-conservative/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ethnic-groups-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/living-in-japan-countryside/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-drivers-license/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-black-companies/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/go-home-signals/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/asian-but-not-japanese-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-cram-school/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/brush-teeth-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/stigmatized-property-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-homestay/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/best-and-worst-things-about-living-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-convenience-stores/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Rich' property='article:author'>
+<meta content='2015-04-15T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japan' property='article:section'>
+<meta content='travel' property='article:tag'>
+<meta content='living in japan' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@RichSatsumaimo' name='twitter:creator'>
+<meta content='Staying safe in Japan is not something people give much thought to. After all, Japan is the safest country in the world, right? Right?!' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='Safety in Japan: Staying Alert in the World&#39;s &#39;Safest&#39; Country' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#268bd2' name='twitter:widgets:link-color'>
+<meta content='#268bd2' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-rich-0b0b122f.jpg",
+    "jobTitle": "Writer",
+    "name": "Rich",
+    "sameAs": [
+      "https://www.twitter.com/RichSatsumaimo"
+    ],
+    "url": "https://www.tofugu.com/about/people/rich/",
+    "description": "A running otaku, Rich is currently aiming at the title of Japan's Greatest Teacher of Kindergarten English (if there is one)..."
+  },
+  "datePublished": "2015-04-15T00:00:00Z",
+  "description": "Staying safe in Japan is not something people give much thought to. After all, Japan is the safest country in the world, right? Right?!",
+  "headline": "Safety in Japan: Staying Alert in the World's 'Safest' Country",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "travel, living in japan",
+  "name": "Safety in Japan: Staying Alert in the World's 'Safest' Country",
+  "url": "https://www.tofugu.com/japan/safety-in-japan/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2015-04-15T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japan/safety-in-japan/"
+}
+</script>
+
+<title>Safety in Japan: Staying Alert in the World's 'Safest' Country</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japan/safety-in-japan/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='https://www.tofugu.com/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://www.tofugu.com/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://www.tofugu.com/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://www.tofugu.com/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://www.tofugu.com/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='https://www.tofugu.com/favicon.png' rel='shortcut icon'>
+<link href='https://www.tofugu.com/favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japan japan_safety-in-japan japan_safety-in-japan_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='https://www.tofugu.com/'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japanese/' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='https://www.tofugu.com/japanese/' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.1' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-learning-resources-database/' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japan/' id='dJapan'>
+Japan <i class="fa fa-globe"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='https://www.tofugu.com/japan/' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/series/' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/travel/' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/reviews/' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/interviews/' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='https://www.tofugu.com/podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=jet-program#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+Safety in Japan: Staying Alert in the World's 'Safest' Country
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+Is Japan as safe as everyone thinks? If not, what can you do to protect yourself?
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2015-04-15T00:00:00Z">April 15, 2015</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="https://www.tofugu.com/about/people/rich/" rel="author">Rich</a>
+•
+Art by
+<a href="https://www.tofugu.com/about/people/aya-francisco/">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+<p class='article-series series-jet-program hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="../../series/jet-program.1">The Tofugu JET Program Guide
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>During my eight years in Japan, I've been to my share of conferences and they've covered all sorts of topics. Some are repeated every year – like "Successful Team Teaching" and "Fostering Student Communication." A few topics provided life-saving information like how to perform CPR, use an AED, and prepare for an earthquake. Others pointed out the obvious, like not destroying hotels rooms or driving under the influence.</p>
+
+<p>One crucial topic remained curiously ignored, however: staying safe in Japan.</p>
+
+<p>But Japan ranks as one of the world's safest countries! Home to an incredibly low crime rate! The chances of anything bad happening are slim to none, right? Why worry?</p>
+
+<p>Ironically, Japan's reputation for safety gives the issue even more importance. Don't get me wrong, Japan is safe; safer than the countries most foreigners in Japan hail from. But that feeling of safety makes it easy to grow too comfortable, too complacent. And that's where danger lies.</p>
+
+<p>Japan's crime rate may be low, but crime still exists. The special circumstances foreigners in Japan face as unique individuals in a homogenous society make the topic all the more important for visitors and ex-pats alike.</p>
+
+<p>But fear not! An ounce of prevention can be all it takes to avoid becoming part of the small percentage of victims.</p>
+
+<h2 id="japans-safe-reputation">Japan's Safe Reputation</h2>
+
+<figure class="figure-middle"><img alt="two japanese children alone on the phone" src="https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/children-on-phone-alone-in-japan.jpg" /><figcaption>  </figcaption> Source: <a href="https://commons.wikimedia.org/wiki/File:Japanese_children_using_public_phones.jpg" title="Visit source's website" target="_blank">Arria Belli</a></figure>
+
+<p>A 2014 <a href="http://www.japantimes.co.jp/opinion/2014/01/25/editorials/crime-rate-dips-again-in-japan/#.Vr6NdZMrI6T">Organization of Economic Cooperation and Development study</a> ranked Japan as "the safest country in the world." The country touts "the second-lowest homicide rate after Iceland and the second-lowest assault rate after Canada."</p>
+
+<p>So it's no surprise that people in Japan feel safe. <a href="http://www.nationmaster.com/country-info/compare/Japan/United-States/Crime">Nationmaster.com</a>, a site dedicated to statistical information of countries around the world, lists Japan as number one in people <em>feeling safe walking alone at night</em>. In overall <em>worries about being attacked</em>, Japanese citizens ranked third least worried. Living in Japan offers the undeniable luxury of safe feeling.</p>
+
+<p><a href="http://en.rocketnews24.com/2014/10/01/the-top-10-instances-when-japanese-people-feel-thankful-to-be-japanese/">Rocketnews24</a> seconds that notion. In a poll ranking "the top ten instances people feel thankful to be Japanese," <em>public order and safety</em> ranked second behind <em>Japanese food</em>. One participant commented, "I can sleep on the train in peace, and even if I walk alone at night, it's not as dangerous as it is overseas." Interestingly, that comment was made by a 23-year-old female, a member of one of the most at-risk demographics.</p>
+
+<p>The media, both in Japan and abroad, promote this safe, worry-free atmosphere. To people overseas, Japan's low crime rates seem like an amazing oddity. Children walk home and explore shopping malls with no adult supervision. Lone women stroll back allies and dark streets in both populated and unpopulated areas. People leave bags unattended while going to the bathroom.</p>
+
+<p>I'm not alone in these observations. <a href="http://news.bbc.co.uk/2/hi/asia-pacific/6502549.stm">Lucy Rodgers</a> of BBC News explained, "I had been informed that Japanese people did not lock their doors, left their cars running with the keys in the ignition and would never rip you off."</p>
+
+<p>Japan's lack of crime and worry in everyday life shocks visitors used to caution as an everyday practice. Unaccompanied children riding the subway astounded <a href="https://michaelweening.com/2013/07/25/is-tokyo-really-safe/">Michael Weening</a> in his article entitled "Is Tokyo Really Safe?" His blog continued the tale of how a man came to Mr. Weening's aid when he had lost his way in the mountains. His reply to the title question: "The answer is yes, (Tokyo) is that safe."</p>
+
+<p>Anecdotes like that are common. An internet search brings up stories of <a href="https://www.google.co.jp/search?q=japan%20wallet%20returned&amp;rct=j">lost wallets being found and returned with money intact</a>, bicycles and even <a href="https://www.quora.com/Is-it-considered-normal-safe-to-leave-your-house-unlocked-in-Tokyo">homes being unlocked</a> with no negative consequence.</p>
+
+<p>Japan's lack of crime makes headlines, impresses tourists, and provides a point of pride for the country and its citizenry. Japanese citizens worry about crime less than any other people in the world. The message is clear – Japan is safe.</p>
+
+<p>But examples of safety are just that, examples. Remember, a low crime rate doesn't mean crime doesn't exist. That fact is key to avoiding victimization.</p>
+
+<h2 id="foreigners-special-circumstances">Foreigners' Special Circumstances</h2>
+
+<figure class="figure-middle"><img alt="anime gaijin talking to japanese girl" src="https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/foreign-man-anime.jpg" /></figure>
+
+<p>In a homogenous country like Japan, physical differences stand out. Size, hair-color, eye-color, skin color, and language all highlight the fact someone is not "Japanese." Foreigners stick out as exotic exceptions to the average Japanese build and appearance.</p>
+
+<p>Considering the permeation and popularity of western culture and the English language, this can attract both wanted and unwanted attention. Lucy Rodgers explains,"There is a certain fascination – which may have something to do with how foreigners are portrayed on the TV – and you are probably the closest thing some people have to meeting such people, particularly in more rural areas." Any foreigner asked to take photos with random bystanders can attest to feeling like a pseudo-celebrity.</p>
+
+<p>The less foreign people in a particular area, the more one stands out. This is particularly true for foreigners in small towns and secluded areas, where your name, address, and job become common knowledge. Random people might (think they) know your favorite foods, the onsen you frequent, your hobbies, or your love life.</p>
+
+<p>Those with an interest in English may seek you out, hoping to practice. Some even go as far to make you feel it's your duty to provide such services – you know, being a foreigner in Japan and all.</p>
+
+<p>Usually it's just fun, innocent gossip. Local foreigners provide an exotic flavor to everyday life and a chance to learn about life and culture beyond Japan. But occasionally those with an interest in foreigners, particularly of the opposite sex, aren't so innocent.</p>
+
+<p><a href="http://www.japantimes.co.jp/community/2013/10/23/voices/japan-no-safe-country-for-foreign-women/#.Vr6PXpMrI6T">Holly Lanasolyluna</a> of The Japan Times writes, "In a way, white women become plastic here: imports without feelings — strange, exotic dolls. And if we are dolls, perhaps the groping, leering, stalking and attacking is somehow justified in the perpetrator's mind as a game rather than a crime."</p>
+
+<p>Despite the feeling of safety, people can feel reluctant to get involved, even when a crime is taking place. <a href="http://www.japantimes.co.jp/community/2013/10/23/voices/japan-no-safe-country-for-foreign-women/#.Vr6QfJMrI6T">Holly Lanasolyluna</a> reveals the details of an attack that occurred in Osaka. It was 10am when a stranger overpowered her and dragged her towards a love hotel.</p>
+
+<blockquote>
+  <p>Our struggle went on for at least 10 minutes, and none of the many onlookers helped or even appeared concerned. Finally, I saw a police officer down the street and screamed at my attacker, "Look! Look! It's the police!" That seemed to frighten him, and at that point he walked over to a nearby vending machine, bought me a water, said "gomen nasai" (sorry) and walked away.</p>
+</blockquote>
+
+<p>Perhaps the language barrier is partially to blame. Even police officers fear dealing with communication difficulties. Attackers can feign ignorance if faced with charges. Add a culture of looking the other way to the mix and you have ingredients for disaster when the rare attack strikes.</p>
+
+<p>"I now know I can't rely on the goodwill of strangers, as I have in the past when I was verbally harassed in countries such as Mexico," Lanasolyluna admits.</p>
+
+<p>But just how rare are these kinds of attacks?</p>
+
+<h2 id="womens-special-circumstances">Women's Special Circumstances</h2>
+
+<figure class="figure-middle"><img alt="two geisha wearing kimono and walking alone" src="https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/women-in-kimono-in-japan.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/shadowgate/2642213778/" title="Visit source's website" target="_blank">Shadowgate</a></figure>
+
+<p><a href="http://www.japantimes.co.jp/community/2013/10/23/voices/japan-no-safe-country-for-foreign-women/#.Vr6QfJMrI6T">Holly Lanasolyluna</a>'s police officer blamed her for the attack, "You're a young girl, and maybe you shouldn't be out by yourself alone at night."</p>
+
+<p>"No details about the incident were recorded," she reveals, "Not only had every bystander ignored my pleas for help, but the police had also given me a terribly disappointing response – basically, 'Shō ga nai, ne?' (What can you do, eh?)."</p>
+
+<p>Confused and ashamed, Lanasolyluna took the situation to the internet. The results were disturbing.</p>
+
+<blockquote>
+  <p>I posted a description of what had happened on Facebook and asked if people had had similar experiences. The response was overwhelming: stories of being attacked while jogging, being stalked by male and female students, being groped on the street in broad daylight, men masturbating on trains, attempted kidnappings. All of these stories came from strong women who put up a vicious fight but still walked away with psychological (and sometimes physical) injuries. In all of these stories, the victims had been in a "safe" public place but no one tried to help them or call the police. If this is so common, why does Japan maintain a reputation for being so safe? And is this image of safety actually facilitating these incidents?</p>
+</blockquote>
+
+<p>She's not alone, <a href="http://www.japantoday.com/category/opinions/view/safety-tips-for-foreign-women-in-japan">Vivian Morelli</a> of <em>Japan Today</em> writes:</p>
+
+<blockquote>
+  <p>Over my three years living all over Japan, I can recall numerous incidents involving a stalker, or a "chikan" (groper) on crowded trains or empty streets. Those Japanese men are usually curious or obsessed with foreign women, they're mentally unstable, and the experience is terrifying and unsettling."</p>
+</blockquote>
+
+<p>The harsh reality is, women experience a greater rate of attacks no matter the location. In The Gift of Fear, Gavin de Becker explains, "Women… live with a constant wariness. Their lives are literally on the line in ways men just don't experience… At core, men are afraid women will laugh at them, while at core women are afraid men will kill them"(77).</p>
+
+<p>Although these personal accounts don't represent the norm, it's important to take them into consideration. When it comes to one's safety, it's better to err on the side of caution.</p>
+
+<p>Is Japan safe? Yes.</p>
+
+<p>Is it one hundred percent safe? No.</p>
+
+<p>Is it as safe as Japan would like us to believe? Apparently not.</p>
+
+<h2 id="the-horrible-truth">The Horrible Truth</h2>
+
+<figure class="figure-middle"><img alt="two police officers in japan riding motorcycles" src="https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/japanese-police-officers-on-motorcycles.jpg" /><figcaption>  </figcaption> Source: <a href="https://commons.wikimedia.org/wiki/File:Motorcycle_police_in_Kyoto,_Japan.jpg" title="Visit source's website" target="_blank">Nicholas Wevurski</a></figure>
+
+<p>These accounts add suspicion to the growing evidence of police misappropriation of data in Japan. As a result, crime rates are higher than "official" reports would lead us to believe. By ignoring or failing to report crimes, particularly "unsolvable" crimes, Japan's law enforcement agencies keep crime rates low and success rates high.</p>
+
+<p>In 2014 <a href="http://www.nationmultimedia.com/breakingnews/Osaka-police-hide-81000-crimes-to-clean-up-image-30239996.html"><em>Asahi Shinbun</em> broke news</a> on police data manipulation in Osaka.</p>
+
+<blockquote>
+  <p>Osaka police have admitted they did not report more than 81,000 offenses over a period of several years in a desperate bid to clean up the region's woeful reputation for street crime. The revelation came earlier this week when embarrassed authorities said they had kept the data out of national crime statistics between 2008 and 2012… The vast majority of covered-up crimes were for theft… but hundreds of more serious offenses such as muggings and even murder may have been omitted from official crime data.</p>
+</blockquote>
+
+<p><a href="http://www.nationmaster.com/blog/?p=74">Havard Bergo</a> of Nation Master Blog writes, "Former detectives claim that police (are) unwilling to investigate homicides unless there is a clear suspects and frequently labels unnatural deaths as suicides without performing autopsies."</p>
+
+<p><a href="http://articles.latimes.com/2007/nov/09/world/fg-autopsy9">Bruce Wallace</a> of the <em>Los Angeles Times</em> blames a taboo in regards to handling the dead, but criticizes instances of falsified autopsies.</p>
+
+<blockquote>
+  <p>Forensic scientists say there are many reasons for the low rate, including inadequate budgets and a desperate shortage of pathologists outside the biggest urban areas. There is also a cultural resistance in Japan to handling the dead, with families often reluctant to insist upon a procedure that invades the body of a loved one… (But) police discourage autopsies that might reveal a higher homicide rate in their jurisdiction, and pressure doctors to attribute unnatural deaths to health reasons, usually heart failure, the group alleges.</p>
+</blockquote>
+
+<p>Instances of falsified data force us to view crime rates with a shrewd eye and remind us not to grow too complacent. Perhaps Japan's crime rate statistics are too good to be true.</p>
+
+<h2 id="too-comfortable">Too Comfortable</h2>
+
+<figure class="figure-middle"><img alt="empty deserted street in japan at night" src="https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/orange-leaves-in-kyoto.jpg" /><figcaption>  </figcaption> Source: <a href="https://pixabay.com/en/street-japan-city-asian-travel-409993/" title="Visit source's website" target="_blank">akira535</a></figure>
+
+<p>After the attacks, <a href="http://www.japantimes.co.jp/community/2013/10/23/voices/japan-no-safe-country-for-foreign-women/#.Vr6RhZMrI6T">Holly Lanasolyluna</a> reveals,</p>
+
+<blockquote>
+  <p>Interest from strangers that I could have dismissed as innocent curiosity a few years ago now gives me the chills… When I first moved to Japan, I tolerated the staring, following and persistent <em>nampa</em> (pickup artists), but after being assaulted twice in public, they have taken on darker undertones.</p>
+</blockquote>
+
+<p><a href="http://news.bbc.co.uk/2/hi/asia-pacific/6502549.stm">Lucy Rodgers</a> admits growing too comfortable after her arrival in Kochi, a rural prefecture in Shikoku. But a highly publicized attack changed Rodgers attitude. The lesson learned is one that anyone visiting or living in Japan should take to heart. Rodgers explains, "The incident was an early warning to all of us that Japan may not be as safe as it first appeared."</p>
+
+<p>When we constantly feel and are told we are safe, we start to believe it and drop our guards. We might leave a bicycle unlocked one day. Then a second. Then it becomes a habit until one day the bicycle disappears.</p>
+
+<p><a href="http://news.bbc.co.uk/2/hi/asia-pacific/6502549.stm">Lucy Rodgers</a> puts it best, "There are always exceptions to the rule, and you need to remember that."</p>
+
+<h2 id="strategies-to-stay-safe">Strategies to Stay Safe</h2>
+
+<figure class="figure-middle"><img alt="public warning sign attached to guard railing" src="https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/danger-sign.jpg" /><figcaption>  </figcaption> Source: <a href="https://commons.wikimedia.org/wiki/File:Sign_in_Niagara_Falls,_Ontario,_warning_people_not_to_climb_over_guard_rail.jpg" title="Visit source's website" target="_blank">George Garrigues</a></figure>
+
+<p>Despite Japan's ranking as the world's safest nation, crime happens. Women have the most to fear, but everyone can benefit from learning safety measures and taking extra precaution. The following strategies can get pretty heavy and might leave you feeling paranoid. My intent is not to instill a sense of fear but a sense of preparation, understanding, and even confidence. We are not helpless and being proactive can reduce the chances of falling victim in Japan, or anywhere.</p>
+
+<h2 id="understand-who-the-criminals-are">Understand Who the Criminals Are</h2>
+
+<figure class="figure-middle"><img alt="bad guys from one piece sitting in prison at night" src="https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/one-piece-criminals-in-jail.jpg" /></figure>
+
+<p>Since crime and violence involve perpetrators, it's important to realize who the potential criminals are. Few criminal lineups feature men in trench-coats with eye-patches, facial scars, and hook hands. How many times has the news reported, "He seemed like a normal, polite guy that liked to keep to himself"? As mild acquaintances often attest after the fact, criminals appear to be normal, even kind and friendly people.</p>
+
+<p><strong>Anyone can be a criminal.</strong></p>
+
+<p>In his book, <em>The Gift of Fear: Survival Signals that Protect us From Violence</em>, violence prediction and management expert Gavin De Becker explains, "When we accept that violence is committed by people who look and act like people, we silence the voice of denial, the voice that whispers, 'this guy doesn't look like a killer.'"</p>
+
+<h2 id="acknowledge-intuition">Acknowledge Intuition</h2>
+
+<figure class="figure-middle"><img alt="ookami san anime girl with bike hiding behind telephone pole" src="https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/anime-girl-peering-behind-pole-at-night.jpg" /></figure>
+
+<p>By gaining a greater understanding of criminals, criminal tactics, and human nature we can gain an edge against potential crime.</p>
+
+<p>De Becker explains that nature has armed us with a very powerful safety tool – intuition. De Becker describes intuition as a useful, smart, intuitive impulse. He writes, "Intuition heeded is far more valuable than simple knowledge… Trust that what causes alarm probably should, because when it comes to danger, intuition… is always a response to something and always has your best interest at heart."</p>
+
+<p>Intuition usually comes as a "gut feeling" based on subconscious environmental cues. But intuition differs from ordinary worry. De Becker explains, "Worry (is an) habituated, often projective and pointless activity that just makes us needlessly paranoid in situations where we don't have to be." Intuition, on the other hand, occurs out of the blue, often times without discernible reason.</p>
+
+<p>If a situation doesn't feel right, it probably isn't, even if you can't figure out why at the time.</p>
+
+<h2 id="pre-incident-indicators-and-criminal-strategies"><em>Pre-Incident Indicators</em> and Criminal Strategies</h2>
+
+<figure class="figure-middle"><img alt="six books about japanese criminal law stacked together" src="https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/stack-of-books-including-everyday-justice.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/umjanedoan/496697819/" title="Visit source's website" target="_blank">umjanedoan</a></figure>
+
+<p>But how should we react when facing confrontation? De Becker presents <em>Pre-Incident Indicators</em> – or <em>PIN's</em> – to help avoid falling victim to violence. The first step is accepting that anyone has the potential to commit crimes. The second is being aware of criminal strategies.</p>
+
+<ul>
+  <li><strong>Forced Teaming</strong> – When someone attempts to establish a connection, making us feel like we're facing a similar problem. Usually it's a simple statement to make us feel like "we're in the same boat." De Becker gives an example of a conversation between two strangers seated together on a plane that set off his alarm. The man commented to the woman, "I hate not having a ride." The woman responded, "Wait you don't have one either, shall we get a cab together?"</li>
+  <li><strong>Charm</strong> – Motivated niceness. "To charm is to compel, to control by allure or attraction" (De Becker). Charm is difficult to overcome because we want to trust kind, charming people. Remember that <em>acting</em> nice can be a strategy to make us feel safe and open up. No matter how charming or engaging someone appears, "you must never lose sight of the context: he is a stranger who approached you."</li>
+  <li><strong>Too Many Details</strong> – "When people tell the truth, they don't feel doubted, so they don't feel the need for additional support in the form of details." Liars and criminals say too much in an attempt to prove they're trustworthy. Be wary of strangers that offer too much information.</li>
+  <li><strong>Typecasting</strong> – A man labels a woman in a critical way (maybe even an insult), hoping she'll feel compelled to prove him wrong. Statements like, "You're probably too cool for a guy like me," are actually accusations used to create a sense of guilt. It's safer to live with the guilt than to prove yourself to a potentially dangerous stranger.</li>
+  <li><strong>Loan Sharking</strong> – A criminal wants to help you "because that would place you in his debt, and the fact you owe him something makes it hard to ask him to leave you alone." Beware of helpful strangers, particularly when they wear out their welcome.</li>
+  <li><strong>Unsolicited Promise</strong> – Criminals often try to strike deals to get closer to victims. "If you just talk to me for five minutes, I'll leave you alone, I promise." De Becker points out, "There's no compensation if the speaker fails to deliver." Be wary of coercive deals and promises.</li>
+  <li><strong>Discounting "No"</strong> – "No" is a word that must never be negotiated. "The person who chooses not to hear it is trying to control you…. With strangers… never, ever relent of the issue of 'no.' " Once you say "no," do not bend. It sets a dangerous precedent (that persistence will overcome) that you can be coerced.</li>
+</ul>
+
+<p>By assigning labels to "approach strategies," De Becker makes them understandable, easy to discuss, and (best of all) memorable.</p>
+
+<h2 id="ignore-empathy">Ignore Empathy</h2>
+
+<figure class="figure-middle"><img alt="brown eyed anime girl is startled with crowds behind her" src="https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/shocked-anime-girl-in-front-of-strangers.jpg" /></figure>
+
+<p>Don't worry about angering or disappointing a stranger who approaches you. Anyone with good intentions will understand that receiving the cold shoulder from a stranger is a natural reaction. If the person does become upset or angry, all the more reason to avoid them.</p>
+
+<h2 id="appear-strong">Appear Strong</h2>
+
+<figure class="figure-middle"><img alt="anime boy in track suit annoys bored anime girl" src="https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/anime-dude-laughs-in-young-girls-face.jpg" /></figure>
+
+<p>Never appear weak to a stranger or potential attacker. Stand straight, look them in the face, appear strong and able. De Becker explains, "It is better to turn completely, take in everything, and look squarely at someone who concerns you. This not only gives you information, but it communicates to him that you are not a tentative, frightened victim-in-waiting."</p>
+
+<h2 id="treat-japan-as-everywhere-else">Treat Japan as Everywhere Else</h2>
+
+<figure class="figure-middle"><img alt="manga panel about a stolen bike left unlocked" src="https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/cromartie-high-school-manga-panel-bike-safety.jpg" /></figure>
+
+<p>Although Japan might feel safe, always maintain the same habits and caution you would in your home country. <a href="http://www.japantoday.com/category/opinions/view/safety-tips-for-foreign-women-in-japan">Vivian Morelli</a> of <em>Japan Today</em> suggests, "It's fundamental to not put yourself in situations that could potentially be dangerous: walking alone at night in sketchy areas, taking dark roads/streets, not locking the door, or going inside the house of someone you barely know. NEVER, EVER do that."</p>
+
+<p>Falling victim to crimes often follows committing actions, habits or feelings that defy logic. "He wouldn't do something like that," "She seemed so nice," or "It wouldn't happen here," are excuses on the road to ruin. Morelli continued, "People forget and think they feel safe, but they may not be and it can end tragically."</p>
+
+<p>English teachers best heed extra caution. Take prudence when dealing with customers, students, and coworkers. <a href="http://www.japantoday.com/category/opinions/view/safety-tips-for-foreign-women-in-japan">Morelli</a> explains, "If you give private English lessons, NEVER go to their house, only meet in a crowded cafe."</p>
+
+<h2 id="tell-someone">Tell Someone</h2>
+
+<figure class="figure-middle"><img alt="worried boy from hyouka anime listening to phone call" src="https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/green-eyed-anime-boy-on-the-phone.jpg" /></figure>
+
+<p>If something worries you don't keep it secret. Tell your friends, trusted coworkers or the police. Keep important contacts at hand at all times. Don't worry about overreacting. It's better to feel silly afterwards than to become a victim.</p>
+
+<p><a href="http://www.japantoday.com/category/opinions/view/safety-tips-for-foreign-women-in-japan">Morelli</a> writes:</p>
+
+<blockquote>
+  <p>Avoid any situation or place where he might try to approach you. Take the women-only car in the train at rush hour, even though lurkers sometimes find their way in. Most importantly, live in a safe neighborhood and building, know your neighbors, and always be aware of your surroundings.</p>
+</blockquote>
+
+<h2 id="now-that-were-all-feeling-grim">Now That We're All Feeling Grim…</h2>
+
+<p>Of course not everyone is out to get you, although these strategies (and reading <em>The Gift of Fear</em>) might leave you with that impression. Since I started writing this piece, even I've been feeling a bit on edge.</p>
+
+<p>The challenge lies in balance; being careful but not allowing worry rule your life. When dealing with new people, use extra caution. Until you've gotten to know someone well, limit activities to crowded places at reasonable times of day. Try not to allow feelings to overwhelm logical decision making. In the end, hopefully you'll separate the keepers from the riff-raff.</p>
+
+<p>Remember, these tips and techniques apply anywhere, not just in Japan. We are not helpless. By taking extra precaution, acknowledging intuition while overcoming illogical feelings of obligation, empathy, and fears of overreacting we stand a better chance at avoiding victimhood.</p>
+
+<h2 id="please-stay-safe-and-enjoy-japan">Please Stay Safe and Enjoy Japan!</h2>
+
+<figure class="figure-middle"><img alt="lit up shibuya and billboards intersection in the evening" src="https://files.tofugu.com/articles/japan/2015-04-15-safety-in-japan/shibuya-at-night.jpg" /><figcaption>  </figcaption> Source: <a href="https://commons.wikimedia.org/wiki/File:Shibuya_Night_(HDR).jpg" title="Visit source's website" target="_blank">Guwashi</a></figure>
+
+<p>My arrival in Tokyo in the summer of 2007 coincided with one of Japan's most intense manhunts. Lindsay Hawker, an English teacher, had been murdered by one of her male students. The haunting wanted posters served as a reminder that even in a country as safe as Japan, we should always be cautious.</p>
+
+<p>Yet, amidst all the media coverage and activity, the issue of safety was never brought up in work related meetings, lectures, or events. Hopefully it'll never be necessary, but <em>The Gift of Fear</em> inspired me to write this piece, thinking it might help someone, someday.</p>
+
+<p>Japan is an amazing place with amazing people. Despite a higher crime rate than official data implies, it's still an astonishingly safe country. <a href="http://www.japantimes.co.jp/opinion/2014/01/25/editorials/crime-rate-dips-again-in-japan/#.Vr6SJ5MrI6Q">The Japan Times</a> points out, "Even though the economy has been in the doldrums for two decades, the crime rate has not risen the way it often does in countries facing tough times." But even if Japan was as safe as statistics imply, it's still best to use caution.</p>
+
+<p>Like CPR, AED, and earthquake lectures, I present this article hoping to offer useful, empowering information without any intent to fear-monger or victim-blame. And please remember, there is no fool-proof way to avoid crime, but learning a few strategies can help prevent the worst.</p>
+
+<p>"I would have gone anywhere and done anything," Lucy Rodgers admits. "Especially where I was in rural Japan, but also in the big cities, everyone is so generous and friendly, you forget about safety issues. You don't have the radar for it (danger) anymore."</p>
+
+<p>Please take caution, keep your danger radar turned on and protect yourself. Enjoy everything Japan has to offer, but never lose sight of possible dangers.</p>
+
+<aside class="blog-post-highlight article-sources"><div class="container"><h4>Sources</h4><ul><li>The Gift of Fear: Survival Signals That Protect Us from Violence. Boston: 1997.</li><li><a href="http://www.nationmaster.com/blog/?p=74" title="View source">The Secret of Japan’s Mysteriously Low Crime Rate</a></li><li><a href="http://www.japantimes.co.jp/community/2014/09/28/issues/eikaiwa-deal-sexual-harassment-teachers-late/#.VRN6jbySx92" title="View source">Eikaiwa, Deal with Sexual Harassment of Teachers Before It’s Too Late</a></li><li><a href="http://www.japantimes.co.jp/opinion/2014/01/25/editorials/crime-rate-dips-again-in-japan/#.VRN5frySx93" title="View source">Crime rate Dips Again in Japan</a></li><li><a href="http://www.japantimes.co.jp/community/2013/10/23/voices/japan-no-safe-country-for-foreign-women/#.VRN6YrySx93" title="View source">Japan: No Safe Country for Foreign Women</a></li><li><a href="http://www.japantoday.com/category/opinions/view/safety-tips-for-foreign-women-in-japan" title="View source">Safety Tips for Foreign Women in Japan</a></li><li><a href="http://www.nationmaster.com/country-info/compare/Japan/United-States/Crime" title="View source">Country vs Country: Japan and United States Compared: Crime Stats</a></li><li><a href="http://en.rocketnews24.com/2014/10/01/the-top-10-instances-when-japanese-people-feel-thankful-to-be-japanese/" title="View source">The Top 10 Instances When Japanese People Feel Thankful to be Japanese</a></li><li><a href="http://news.bbc.co.uk/2/hi/asia-pacific/6502549.stm" title="View source">Are Foreign Women Safe in Japan?</a></li><li><a href="http://www.nationmultimedia.com/breakingnews/Osaka-police-hide-81000-crimes-to-clean-up-image-30239996.html" title="View source">Osaka Police Hide 81,000 Crimes to Clean Up Image</a></li><li><a href="http://articles.latimes.com/2007/nov/09/world/fg-autopsy9" title="View source">Japan’s Police See No Evil</a></li><li><a href="http://michaelweening.com/2013/07/25/is-tokyo-really-safe/" title="View source">Is Tokyo Really Safe?</a></li></ul></div></aside>
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-jet-program hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2015-07-30-jet-program/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='../../series/jet-program.1' title='View all articles in Series The Tofugu JET Program Guide'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+The Tofugu JET Program Guide
+</span>
+</a>
+</li>
+<li class='pager-next'>
+<a href='https://www.tofugu.com/japan/jet-program-self-intro-class/?series=jet-program' title='View Mastering the ALT Self-Intro Class'>
+<small>
+Next Article in Series
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Mastering the ALT Self-Intro Class
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles travel-prev travel-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='travel' href='https://www.tofugu.com/travel/momofuku-ando-instant-ramen-museum/' title='View Momofuku Ando Instant Ramen Museum'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-plane'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+Momofuku Ando Instant Ramen Museum
+</a>
+</li>
+<li class='pager-next'>
+<a class='travel' href='https://www.tofugu.com/travel/aka-island-okinawa/' title='View Aka Island - Okinawa&#39;s Secluded Paradise'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-plane'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Aka Island - Okinawa's Secluded Paradise
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japan'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='https://www.tofugu.com/japan/kanamara-matsuri/' title='View Kanamara Matsuri: The Irony Behind the Infamous Japanese Penis Festival'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older japan' class='older-article-pagination'></span>
+</small>
+Kanamara Matsuri: The Irony Behind the Infamous Japanese Penis Festival
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='https://www.tofugu.com/japan/katsuobushi/' title='View Katsuobushi, The Dried Fermented Fish Rock That&#39;s in Almost Every Japanese Dish You&#39;ve Ever Eaten'>
+<small>
+<span aria-label='Newer japan' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Katsuobushi, The Dried Fermented Fish Rock That's in Almost Every Japanese Dish You've Ever Eaten
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/about/' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.1' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs.1' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese.1' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/news/' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/newsletter/' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/master-2164c2ee.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

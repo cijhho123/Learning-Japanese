@@ -1,0 +1,871 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Michael Richey' name='author'>
+<meta content='Learning Japanese alone is tough. That&#39;s why we made this guide to empower you to find answers to your Japanese language learning questions on your own.' name='description'>
+<meta content='japanese questions, forums, language exchange' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Learning Japanese alone is tough. That&#39;s why we made this guide to empower you to find answers to your Japanese language learning questions on your own.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='12 Ways to Answer Your Own Questions About Japanese' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japanese/answering-japanese-learning-questions/' property='og:url'>
+<meta content='https://www.tofugu.com/japanese/language-exchange/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/hellotalk/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Michael Richey' property='article:author'>
+<meta content='2017-12-12T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japanese' property='article:section'>
+<meta content='japanese questions' property='article:tag'>
+<meta content='forums' property='article:tag'>
+<meta content='language exchange' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@tofugu' name='twitter:creator'>
+<meta content='Learning Japanese alone is tough. That&#39;s why we made this guide to empower you to find answers to your Japanese language learning questions on your own.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='12 Ways to Answer Your Own Questions About Japanese' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#d33682' name='twitter:widgets:link-color'>
+<meta content='#d33682' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-michael-richey-9c293d25.jpg",
+    "jobTitle": "Designer",
+    "name": "Michael Richey",
+    "sameAs": [
+
+    ],
+    "url": "https://www.tofugu.com/about/people/michael-richey/",
+    "description": "Michael is a designer at Tofugu. He grew up in Charlotte, NC and studied writing and film production at North Carolina School of the Arts. After college, he lived in Hikone, Shiga in Japan for two years on the JET Program. In his spare time, Michael makes comics zines, plays Famicom, and spends time with his family.",
+    "email": "michael@tofugu.com"
+  },
+  "datePublished": "2017-12-12T00:00:00Z",
+  "description": "Learning Japanese alone is tough. That's why we made this guide to empower you to find answers to your Japanese language learning questions on your own.",
+  "headline": "12 Ways to Answer Your Own Questions About Japanese",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "japanese questions, forums, language exchange",
+  "name": "12 Ways to Answer Your Own Questions About Japanese",
+  "url": "https://www.tofugu.com/japanese/answering-japanese-learning-questions/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2017-12-12T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japanese/answering-japanese-learning-questions/"
+}
+</script>
+
+<title>12 Ways to Answer Your Own Questions About Japanese</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="../../stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japanese/answering-japanese-learning-questions/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='../../apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='../../apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='../../apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='../../apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='../../apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='../../favicon.png' rel='shortcut icon'>
+<link href='../../favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japanese japanese_answering-japanese-learning-questions japanese_answering-japanese-learning-questions_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='../../index.html'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../index.html' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='../index.html' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.2' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='../../japanese-learning-resources-database/index.html' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../../japan/index.html' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='../../japan/index.html' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../series/index.html' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../travel/index.html' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../reviews/index.html' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../interviews/index.html' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='../../podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+12 Ways to Answer Your Own Questions About Japanese
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+No teacher? No problem.
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2017-12-12T00:00:00Z">December 12, 2017</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/michael-richey/index.html" rel="author">Michael Richey</a>
+•
+Art by
+<a href="../../about/people/aya-francisco/index.html">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>You are a lone Japanese study warrior, <a href="../../learn-japanese/index.html">tackling the language as best you can with your self-learning methods</a>. But your studies inevitably lead to questions; questions you need humans to answer.</p>
+
+<p>But you're "lone," remember? How can you get answers to specific, complex Japanese questions without the help of a teacher or language partner?</p>
+
+<p>Don't lose hope. There are ways you can answer your burning Japanese learning questions with minimal search and human contact. Read on to discover them all.</p>
+
+<ul id="markdown-toc">
+  <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#answers-from-native-speakers" id="markdown-toc-answers-from-native-speakers">Answers from Native Speakers</a>    <ul>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#hinative" id="markdown-toc-hinative">HiNative</a></li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#italki" id="markdown-toc-italki">iTalki</a></li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#hellotalk" id="markdown-toc-hellotalk">HelloTalk</a></li>
+    </ul>
+  </li>
+  <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#qa-sites-answers-from-native-and-non-native-speakers" id="markdown-toc-qa-sites-answers-from-native-and-non-native-speakers">Q&amp;A Sites: Answers from Native and Non-Native Speakers</a>    <ul>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#quora" id="markdown-toc-quora">Quora</a></li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#japanese-stack-exchange" id="markdown-toc-japanese-stack-exchange">Japanese Stack Exchange</a></li>
+    </ul>
+  </li>
+  <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#forums" id="markdown-toc-forums">Forums</a>    <ul>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#learn-japanese-subreddit" id="markdown-toc-learn-japanese-subreddit">Learn Japanese Subreddit</a></li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#wanikani-forums" id="markdown-toc-wanikani-forums">WaniKani Forums</a></li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#kanji-koohii-forums" id="markdown-toc-kanji-koohii-forums">Kanji Koohii Forums</a></li>
+    </ul>
+  </li>
+  <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#answering-japanese-questions-with-google-sensei" id="markdown-toc-answering-japanese-questions-with-google-sensei">Answering Japanese Questions with Google-sensei</a>    <ul>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#site-search" id="markdown-toc-site-search">Site Search</a></li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#searching-in-japanese" id="markdown-toc-searching-in-japanese">Searching in Japanese</a></li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#searching-youtube" id="markdown-toc-searching-youtube">Searching YouTube</a></li>
+    </ul>
+  </li>
+  <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#searching-sentences" id="markdown-toc-searching-sentences">Searching Sentences</a></li>
+  <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#never-stop-asking-questions" id="markdown-toc-never-stop-asking-questions">Never Stop Asking Questions</a></li>
+</ul>
+
+<h2 id="answers-from-native-speakers">Answers from Native Speakers</h2>
+
+<figure class="figure-middle"><img alt="computer screen with japanese chat room" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/chatroom.jpg" /></figure>
+
+<p>These are the best sites and apps you can use to get feedback from native speakers. When looking for answers, asking native speakers should be your first choice and thanks to the Internet, there are many ways to interact with Japanese speakers without joining infrequent, coffee shop-based meetup groups.</p>
+
+<p>These sites and apps offer you twenty-four hour access to Japanese people who are there to help you learn. Over time you may develop stronger relationships with these people, allowing you to ask more involved, complex questions.</p>
+
+<h3 id="hinative">HiNative</h3>
+
+<figure class="figure-right"><img alt="landing page for hinative japanese app" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/hinative-landing-page.jpg" /></figure>
+
+<p>HiNative isn't an app. Rather, it's a one-of-a-kind resource in itself, worthy of its own review, <a href="../../reviews/hinative/index.html">which we already wrote</a>.</p>
+
+<p>HiNative lets you ask questions about a language to a large group of users who speak that language. There are four question types:</p>
+
+<ol>
+  <li>How do you say this?</li>
+  <li>Does this sound natural?</li>
+  <li>What's the difference?</li>
+  <li>Free question</li>
+</ol>
+
+<p>Submit your question and you'll almost always get <em>several responses</em> within the first thirty minutes. And with multiple answers, you can cross-reference and get a solid grasp on the concept you're asking about.</p>
+
+<p>There's even audio support, so you can upload voice clips for native speakers to judge. <a href="../japanese-learning-stack-dogen/index.html">Gaining proficiency in Japanese pronunciation and pitch accent can be difficult</a>, so this is invaluable.</p>
+
+<p>HiNative is almost like having a native speaker by your side at all times. And this may be better because the sea of native speakers will never grow tired of your questions. You can ask as much as you want without fear of destroying a friendship!</p>
+
+<p>Be aware: non-native speakers use HiNative too. You'll mostly interact with native speakers, but double-check answers you get from fellow Japanese learners.</p>
+
+<h3 id="italki">iTalki</h3>
+
+<figure class="figure-right"><img alt="logo for italki japanese learning app" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/italki-logo.jpg" /></figure>
+
+<p>iTalki is a language learning site that connects students with tutors. Though you can get your answers from an iTalki tutoring experience, there are a host of <em>additional</em> community features that you can use to get your questions answered.</p>
+
+<ol>
+  <li><strong>Answers:</strong> This is basically HiNative with a smaller user base. Why should you use this? iTalki's primary goal is to connect tutors with students, so there's a good chance the person answering your question will be a tutor. Even if you get fewer answers than HiNative, what you get will (probably) be high quality. And if you're looking for a tutor, you can just contact the people with the best answers and hire them.</li>
+  <li><strong>Notebook:</strong> This is a place for you to upload chunks of text for users to correct. If you write a short essay using some grammar you're having trouble with, the corrections you get can clear up that confusion.</li>
+  <li><strong>Language Exchange:</strong> A place to find language partners. They'll answer some questions, I'm sure.</li>
+  <li><strong>Discussion:</strong> A forum. It's probably okay, but there are better ones.</li>
+  <li><strong>Articles:</strong> Posts written by iTalki users on various language topics. It's unlikely you'll find a <em>specific</em> answer to one of your questions, but you never know.</li>
+</ol>
+
+<p>Even though iTalki's community features are the same as other, more focused experiences, like HiNative, they are still incredibly useful. Poke around and see if you find what you need.</p>
+
+<h3 id="hellotalk">HelloTalk</h3>
+
+<figure class="figure-right"><img alt="landing page for hellotalk japanese conversation app" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/hellotalk-landing-page.jpg" /></figure>
+
+<p>HelloTalk is like a chat app similar to <a href="https://www.whatsapp.com/">WhatsApp</a> or <a href="https://line.me/en/">LINE</a>, but specifically designed for language learning. Instead of building a friends list, you get access to everyone on the app as soon as you sign up.</p>
+
+<p>Of course, you could make language exchange friends and ask them your Japanese learning questions. Actually, that's a great idea, but it takes time and you need answers <em>now</em>.</p>
+
+<p>That's when you use the "Moments" section of HelloTalk, which is like Twitter contained within the HelloTalk world. Most people post about their lives and talk about how they're sleepy. Not many language questions here. But I posted a question about あまり to see what kind of response it would get.</p>
+
+<figure class="figure-middle"><img alt="screenshot of japanese question on hellotalk" style="width: 600px;" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/hellotalk-question.jpg" /></figure>
+
+<p>Surprisingly, I got an answer in seven minutes! That's a pretty good response time, and the answer was from a native speaker too. Not super in-depth, but enough to give me an idea of how to use あまり, if I was confused.</p>
+
+<p>Even though Moments is a secondary feature for HelloTalk, it's still a pretty useful one. Try it out and see if it helps you learn.</p>
+
+<h2 id="qa-sites-answers-from-native-and-non-native-speakers">Q&amp;A Sites: Answers from Native and Non-Native Speakers</h2>
+
+<figure class="figure-middle"><img alt="computer screen showing a q and a site" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/q-and-a-site.jpg" /></figure>
+
+<p>The following sites and apps may have native Japanese users, but are populated mostly by non-natives. Don't count them out though. Asking a question to hundreds of humans at once is a powerful thing.</p>
+
+<p>Thanks to Q&amp;A sites like these, you can post a question and wait for the answers to come rolling in. Just remember to double-check your answers, as the quality of information you get will vary. You can still get good answers, just consider the source before you take it as truth.</p>
+
+<h3 id="quora">Quora</h3>
+
+<figure class="figure-right"><img alt="logo for quora q and a site" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/quora-logo.jpg" /></figure>
+
+<p>Quora is one of the Internet's top places to get answers for just about anything, and "anything" includes Japanese. It's simple to use. Just sign up and start asking questions.</p>
+
+<p>To test it out, I asked my あまり question here.</p>
+
+<figure class="figure-middle"><img alt="japanese question posted on quora" style="width: 600px;" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/quora-question-1.jpg" /></figure>
+
+<p>I waited for a while and got my first answer twenty minutes later. Not a bad response time. Unfortunately, the response didn't answer the question and it was all in <a href="../romaji/index.html">romaji</a>.</p>
+
+<figure class="figure-middle"><img alt="japanese answer posted on quora" style="width: 600px;" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/quora-4.jpg" /></figure>
+
+<p>Thankfully, there's an option you can use to request answers from people who might know about your topic of choice:</p>
+
+<figure class="figure-middle"><img alt="user suggestions from quora" style="width: 600px;" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/quora-question-2.jpg" /></figure>
+
+<p>I chose five profiles, all of which had over fifty answers in the Japanese category. I got an answer from one of my requests a few hours later. The quality was much better:</p>
+
+<figure class="figure-middle"><img alt="answer to japanese language question on quora" style="width: 600px;" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/quora-question-3.jpg" /></figure>
+
+<p>Because there are non-native speakers at various stages of their Japanese studies, the quality of your answers will vary. But there are smart people on Quora who can answer your questions if you can wait. It's a great way to cross-reference the answers you get on other platforms.</p>
+
+<h3 id="japanese-stack-exchange">Japanese Stack Exchange</h3>
+
+<figure class="figure-right"><img alt="logo for japanese stack exchange" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/japanese-stack-exchange-logo.jpg" /></figure>
+
+<p>Stack Exchange is a network of Q&amp;A sites branched from Stack Overflow, a place where computer programmers exchange information. The straightforward tone of Stack Overflow spills over, so if you prefer this communication style, Japanese Stack Exchange might be the place for you.</p>
+
+<p>User skill level is pretty wide here. You've got basic questions like the usage of は instead of わ, and more advanced ones about <a href="../transitive-intransitive-verbs/index.html">transitive and intransitive verbs</a>. No matter your skill level, you'll find Q&amp;A entries that you can learn from, and more importantly, you can ask questions knowing you'll get high quality answers (or links pointing you in the right direction).</p>
+
+<ul>
+  <li><a href="https://japanese.stackexchange.com/?utm_source=Tofugu">Japanese Stack Exchange</a></li>
+</ul>
+
+<h2 id="forums">Forums</h2>
+
+<figure class="figure-middle"><img alt="computer screen showing japanese language learning forums" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/forum.jpg" /></figure>
+
+<p>Learning Japanese in a vacuum is hard. Finding people to study with is hard. Forums solve both of these problems with very little commitment from you.</p>
+
+<p>The key to finding a good forum or message board is looking for a place where it's easy to ask questions and make friends. Sign up for a few forums and post the same question in each. If you find helpful people and get good answers, you're on the right track.</p>
+
+<h3 id="learn-japanese-subreddit">Learn Japanese Subreddit</h3>
+
+<figure class="figure-right"><img alt="logo for reddit" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/reddit-logo.jpg" /></figure>
+
+<p>The Learn Japanese Subreddit is probably the biggest Japanese learning community on the Internet. If you're looking for a lot of questions and answers to read, you found your place. But if you're looking for a place to call home, test the waters before diving in.</p>
+
+<p>Users on Learn Japanese tend to be serious, so if you're not as serious and/or ask easy questions, you may get put in your place. That said, the seriousness of this community means you get high quality answers and suggestions. There's a lot of straightforward guidance waiting for you here, which can be hard to find.</p>
+
+<ul>
+  <li><a href="https://www.reddit.com/r/LearnJapanese/?utm_source=Tofugu">Learn Japanese Reddit</a></li>
+</ul>
+
+<h3 id="wanikani-forums">WaniKani Forums</h3>
+
+<figure class="figure-right"><img alt="logo for wanikani forums" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/wanikani-forums.jpg" /></figure>
+
+<p>WaniKani is a kanji learning app made by nice people at Tofugu. And it has forums!</p>
+
+<p>Even if you have a <a href="https://www.wanikani.com/?utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Answering_Japanese_Questions">free account on WaniKani</a>, you can join the forums. Although a lot of non-Japanese language related tomfoolery goes on, the <a href="https://community.wanikani.com/c/japanese-language?utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Answering_Japanese_Questions">Japanese language category</a> is filled with good questions, answers, and information. And, for the most part, people are nice and willing to help.</p>
+
+<p>In addition to this, there is a <a href="https://community.wanikani.com/c/japanese-language/japanese-only?utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Answering_Japanese_Questions">“Japanese Only” subcategory</a> where Mami posts daily Japanese questions and will correct your answers as you converse with her in Japanese. Although this won't help you answer any of your questions <em>directly</em>, it will help you to find some new questions to ask!</p>
+
+<ul>
+  <li><a href="https://community.wanikani.com/?utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Answering_Japanese_Questions">WaniKani Forums</a></li>
+</ul>
+
+<h3 id="kanji-koohii-forums">Kanji Koohii Forums</h3>
+
+<figure class="figure-right"><img alt="landing page for kanji koohii japanese learning site" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/kanji-koohi-landing-page.jpg" /></figure>
+
+<p>Kanji Koohii is a site that helps users complete Heisig's <em>Remembering the Kanji</em> books with features like integrated <a href="../spaced-repetition/index.html">spaced repetition</a> and a Japanese dictionary.</p>
+
+<p>Oh, and they have a large, active community.</p>
+
+<p>Kanji Koohii's forum is big, but it doesn't feel overwhelmingly big like the Learn Japanese Subreddit or Japanese Stack Exchange. If you're looking for a smaller community, Kanji Koohii might be for you.</p>
+
+<p>For example, <a href="https://forum.koohii.com/thread-14294.html?utm_source=Tofugu">this user</a> posted updates on their Japanese study progress and got a lot of support from forum-goers. They wrote:</p>
+
+<blockquote>
+  <p>A big reason I made progress with Japanese last year was I created a thread here to mark my progress, and a bunch of friendly people joined to support me and mark their own progress.</p>
+</blockquote>
+
+<p>It seems like there are some genuinely helpful language learners here.</p>
+
+<ul>
+  <li><a href="https://forum.koohii.com/">Kanji Koohii Forums</a></li>
+</ul>
+
+<h2 id="answering-japanese-questions-with-google-sensei">Answering Japanese Questions with Google-sensei</h2>
+
+<figure class="figure-middle"><img alt="computer showing search engine bar" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/search-engine.jpg" /></figure>
+
+<p>Lucky for you, Twenty-First century human, there's a <em>lot</em> being written on Japanese language these days (<a href="../index.html">some of it here on Tofugu</a>). So if you search a given Japanese grammar point, you'll at least get a handful of useful results. The more advanced the topic, the fewer pages you're likely to find. But still you should find something.</p>
+
+<p>When searching for answers to your Japanese questions on Google, here are some tips for getting the best results:</p>
+
+<ol>
+  <li><strong>Search your question in multiple ways:</strong> For example, search: <code>japanese grammar [naninani]</code>, <code>japanese grammar [なになに]</code>, <code>how to use [naninani] in japanese</code>, etc. Open all the results on the first page.</li>
+  <li><strong>Read them all and take notes:</strong> Read all the grammar explanations and start taking notes. After reading through the first few, you'll start seeing where information overlaps, because you'll be reading the same thing multiple ways. This alone helps you round out your understanding of the concept.</li>
+  <li><strong>Explain the concept in your own words:</strong> After reading a few versions of a grammar's explanation, summarize the grammar point. Then you'll have <em>your</em> understanding of the grammar point written down, which you can then show to people on sites like HiNative and Quora for verification.</li>
+</ol>
+
+<h3 id="site-search">Site Search</h3>
+
+<blockquote class="highlight-right">
+  <p>To search any site for a specific term, type this into Google:</p>
+
+  <p>site:[url] [search query]</p>
+</blockquote>
+
+<p>Sometimes a site is so big and so full of information, it may be hard to find the <em>specific</em> answer you're looking for. For example, Japanese Stack Exchange has thousands of answers flowing through it. Chances are, the answer you're looking for is somewhere in there, but you're just having trouble finding it.</p>
+
+<p>This is when you can use the power of Google to crawl the site for you. To search any site for a specific term, type this into Google:</p>
+
+<p><code>site:[url] [search query]</code></p>
+
+<p>Just paste the url of the site you want to search after <code>site:</code>, then a space and the search term. For example, to search Japanese Stack Exchange for information on using <a href="../../japanese-grammar/teoku/index.html">ておく</a>, type:</p>
+
+<p><code>site:https://japanese.stackexchange.com/ ておく</code></p>
+
+<p>You'll get these results:</p>
+
+<figure class="figure-middle"><img alt="google search results for japanese grammar point" style="width: 600px;" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/google-results-teoku.jpg" /></figure>
+
+<p>Look at all that information! Try this on any site and you'll (probably) get better results than you would searching the site on your own.</p>
+
+<h3 id="searching-in-japanese">Searching in Japanese</h3>
+
+<blockquote class="highlight-right">
+  <p>Of course, there are more language explanations about Japanese <em>in Japanese</em>. If you're advanced, there's no reason you can't take advantage of that.</p>
+</blockquote>
+
+<p>A lot of the resources we've mentioned so far are places to get answers about Japanese <em>in English</em>. Of course, there are more language explanations about Japanese <em>in Japanese</em>. If you're advanced, there's no reason you can't take advantage of that.</p>
+
+<p>Googling in Japanese will give you all kinds of sweet grammar and language explanations. Below are a few ways to phrase your searches in Japanese. Wherever it says <code>[word]</code> type the Japanese word you're searching for, followed by the Japanese search term indicated to get the desired result.</p>
+
+<ul>
+  <li><strong>[word] 使い方:</strong> This is your basic "how do I use this?" question. Throw a word in front of <code>使い方</code> and search. All kinds of Japanese explanations about how to use these words will spill out (probably).</li>
+  <li><strong>[word] 文法:</strong> Use this to find grammar explanations. This search may not bring back a <em>ton</em> of results, but it's worth a try.</li>
+  <li><strong>[word] [word] 違い:</strong> Use this when you want to learn the difference between two words, like みたい and らしい. Searching <code>みたい　らしい　違い</code> should give you explanations in Japanese that can help clear up any confusion.</li>
+  <li><strong>[word] 同音異義語:</strong> This is the search you use when looking for homonyms (same spelling, different meaning). For example, if you search <code>熱い 同音異義語</code> and you get pages of words that sound the same as 熱い, like 暑い and 厚い.</li>
+  <li><strong>[word] 同義語/類語/同意語:</strong> Use this search to find synonyms. For example, <code>本 同義語</code> should help you find words like 書物, 書籍, and ブック. This query will likely give you results from <a href="http://thesaurus.weblio.jp/">Weblio's 類語辞典</a>, a popular Japanese thesaurus site, so you might just search Weblio directly when looking for synonyms.</li>
+  <li><strong>[word] 対義語/反義語/反対語:</strong> This search will help you find antonyms. Searching <code>暑い　対義語</code> gets you results like 涼しい and 寒い. Again, our good friend Weblio will probably come up, this time <a href="http://thesaurus.weblio.jp/antonym/">Weblio's 対義語・反対語辞典</a>, a popular Japanese antonym dictionary.</li>
+  <li><strong>[word] 例文:</strong> This is a way to search for Japanese sentences using a keyword (more on that below).</li>
+  <li><strong>[word] 読み方:</strong> This query will show you how to read a word and you'll be able to see which pronunciation is used for which meaning/usage/situation.</li>
+</ul>
+
+<p>Search for Japanese grammar on Google long enough and you might see the same websites popping up over and over. In this case, it's worth your while to skip Google and search straight on these sites:</p>
+
+<ul>
+  <li><a href="http://collocation.hyogen.info/"><strong>日本語コロケーション辞典:</strong></a> This website shows you usages of words. <a href="../../about/people/mami-suzuki/index.html">Mami</a> uses this when making <a href="https://www.wanikani.com/?utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Answering_Japanese_Questions">WaniKani</a> example sentences.</li>
+  <li><a href="http://www.kotonoha.gr.jp/shonagon/search_form"><strong>少納言 KOTONOHA:</strong></a> This site pulls word usages from a huge database of published Japanese writing. Neat!</li>
+  <li><a href="http://yourei.jp"><strong>用例.jp:</strong></a> Another site that shows word usage.</li>
+  <li><a href="https://chigai-allguide.com/"><strong>違いがわかる事典:</strong></a> This site helps you understand the difference between two words.</li>
+</ul>
+
+<p>A quick note: when searching Google in Japanese, make sure you switch the language to Japanese. Otherwise, you may get Chinese answers, especially if your search doesn't use <a href="../learn-hiragana/index.html">hiragana</a> or <a href="../learn-katakana/index.html">katakana</a>. You can change your search language with the <code>Settings</code> button under the search bar.</p>
+
+<h3 id="searching-youtube">Searching YouTube</h3>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="https://www.youtube.com/embed/MEnkZfln8FA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="Japanese lessons 日本語能力試験 JLPT N3 Grammar #13 「～とは」「～た とたん」　[Nihongonomori Louis Kento teacher]"></iframe></div>
+
+<p>YouTube is a strange beast. It's the world's second largest search engine, but video is very different from text. And there's much <em>less</em> video content addressing Japanese learning questions.</p>
+
+<p>Search YouTube the same way you would Google, but this time, take note of videos you like and check out their channels. On YouTube, the people who teach grammar are usually trying to cover it as much as they can. So if you like their teaching style in one video, you'll likely find <em>more</em> answers from them in a whole series of videos.</p>
+
+<p>A weird quirk of YouTube: you tend to get better results when you type the target Japanese in romaji, rather than kana.</p>
+
+<p>For example, when I searched <code>difference between は and が</code> these are the results I got:</p>
+
+<figure class="figure-middle"><img alt="youtube search results for japanese grammar point in romaji" style="width: 600px;" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/youtube-results.jpg" /></figure>
+
+<p>The top three videos are lessons teaching the grammar point I'm looking for. After that, most results were things like "The Difference Between Trump and Obama" or "The Difference Between Men and Women." Completely unrelated.</p>
+
+<p>But when I searched <code>difference between WA and GA</code>:</p>
+
+<figure class="figure-middle"><img alt="youtube search results for japanese grammar point in kana" style="width: 600px;" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/youtube-search.gif" /></figure>
+
+<p>I got videos teaching the target Japanese grammar all the way to the bottom of the page. There are a few unrelated results in there, but far fewer than when I searched in Japanese.</p>
+
+<p>That said, you should search your target Japanese grammar point in both kana and romaji. With concepts that beginners need to know (like the difference between は and が), you'll get the most results when searching in romaji. But as you advance in Japanese, you'll find the best results come from searching in <em>both</em> romaji and kana, because different channels prefer one titling style over the other.</p>
+
+<p>But if you're intermediate or advanced, you should be searching entirely in Japanese. No more English for you! This will give you <a href="https://www.youtube.com/results?search_query=%E3%81%AF%E3%81%A8%E3%81%8C%E3%81%AE%E9%81%95%E3%81%84">the absolute best results</a>. Follow the same guidelines from the <a href="index.html#searching-in-japanese">"Searching in Japanese" section above</a>.</p>
+
+<p>Searching YouTube can be hit or miss, so here are a few go-to channels we recommend browsing when searching for answers:</p>
+
+<ul>
+  <li><a href="https://www.youtube.com/user/freejapaneselessons3"><strong>Nihongo No Mori:</strong></a> Our top recommendation. Nihongo No Mori has 1,000+ lesson style videos that walk you through all five levels of the <a href="../what-is-the-jlpt/index.html">JLPT</a>! Top-notch.</li>
+  <li><a href="https://www.youtube.com/user/yesjapan"><strong>Learn Japanese from Zero!:</strong></a> George Trombley, the guy who wrote the <a href="../../reviews/japanese-from-zero/index.html">Japanese from Zero! textbook series</a>, runs this channel. He's very good at explaining why Japanese works the way it does.</li>
+  <li><a href="https://www.youtube.com/channel/UCTaShPsubqMP0IdcvzSTqeg"><strong>JapanSocietyNYC:</strong></a> There are two sets of lessons on this channel: <a href="https://www.youtube.com/watch?v=rGrBHiuPlT0&amp;list=PL4071737C12790477"><em>Japanese Language Lessons</em></a> and the newer <a href="https://www.youtube.com/watch?v=eSrpkd8X4MQ&amp;list=PLF97A549D60C2EBA4"><em>Waku Waku Japanese Language Lessons!</em></a> Both playlists are for beginners, so not much here for intermediate or advanced students.</li>
+  <li><a href="https://www.youtube.com/user/TalkInJapan"><strong>TalkInJapan:</strong></a> This channel has hundreds of grammar lesson videos, divided by JLPT level and more being added all the time.</li>
+</ul>
+
+<h2 id="searching-sentences">Searching Sentences</h2>
+
+<figure class="figure-middle"><img alt="computer showing jisho japanese dictionary search" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/jisho-search.jpg" /></figure>
+
+<p>When you're intermediate or advanced in your Japanese, <a href="../japanese-sentence-study/index.html">you can start studying Japanese with sentences</a>. At this level, you know most of the grammar used in everyday Japanese, so you can figure out the grammar you <em>don't</em> know through context.</p>
+
+<p>If you're confused by the <a href="../japanese-grammar-kotokara/index.html">advanced grammar point ことから</a>, reading sentences that use ことから will help you recognize patterns and figure out the best way to use it.</p>
+
+<p>But you can't just read a bunch of Japanese text and hope you run into ことから enough times to study it. You need a heaping batch of ことから sentences to study.</p>
+
+<blockquote class="highlight-right">
+  <p>When you're intermediate or advanced in your Japanese, you can start studying Japanese with sentences. At this level, you know most of the grammar used in everyday Japanese, so you can figure out the grammar you don't know through context.</p>
+</blockquote>
+
+<p>Here are a few resources for harvesting Japanese sentences to study with:</p>
+
+<ul>
+  <li><a href="https://tatoeba.org/eng/?utm_source=tofugu"><strong>Tatoeba:</strong></a> Tatoeba is a common resource for beginners, so please avoid it if you can. This is just a database of Japanese sentences. Type in your target word and tons of example sentences fall in your lap. Hooray! But maybe not so "hooray." Tatoeba is a free, collaborative project by native and <strong>non-natives</strong>, so errors and unnatural sentences get through. Use with caution. Also, you may need to add quotations around the Japanese you're searching for so Tatoeba doesn't break up pieces of compound words when delivering results. (<a href="https://tatoeba.org/eng/sentences/search?query=%E5%88%86%E3%81%8B%E3%82%8B&amp;from=jpn&amp;to=eng&amp;utm_source=Tofugu">Example</a>)</li>
+  <li><a href="http://jisho.org/?utm_source=Tofugu"><strong>Jisho.org Sentence Search:</strong></a> Jisho is also a common resource for beginners, so please avoid it if you can. It gets all of its sentences from Tatoeba, but it has a great interface which you may like better than Tatoeba's. To search for sentences in Jisho, type in your target word plus <code>#sentence</code>. For example <code>ことから #sentence</code> gives you a batch of example sentences featuring <a href="../japanese-grammar-kotokara/index.html">everyone's favorite advanced grammar point</a>. However, just because the sentences on Jisho are easy to find, doesn't make them reliable. You should always look at where your sentences are coming from before you use them to study. (<a href="http://jisho.org/search/%20%23sentences%20%E5%88%86%E3%81%8B%E3%82%8B?utm_source=Tofugu">Example</a>)</li>
+  <li><a href="http://tangorin.com/?utm_source=Tofugu"><strong>Tangorin:</strong></a> This online J-E dictionary has an example sentence section with tons of options like "hide furigana" and "hide English," which are great for studying usage. There's translations other than English too! The sentences are still sourced from Tatoeba, but unlike Jisho, Tangorin shows you simpler sentences first. (<a href="http://tangorin.com/examples/%E5%88%86%E3%81%8B%E3%82%8B?utm_source=Tofugu">Example</a>)</li>
+  <li><a href='http://www.alc.co.jp/'><strong>ALC:</strong></a> Technically no example sentences here, but you can find a lot of collocations, which are <em>really</em> helpful when you're trying to learn how to use a word or piece of grammar. (<a href="https://eow.alc.co.jp/search?q=分かる">Example</a>)</li>
+  <li><a href="https://ejje.weblio.jp/sentence/"><strong>Weblio:</strong></a> Weblio is made for Japanese people to look up example sentences and synonyms, so you're getting the best possible content for your studies. It's more reliable than sentence sites aimed at English-speakers because it draws from many databases and cites them all. (<a href="https://ejje.weblio.jp/sentence/content/%E5%88%86%E3%81%8B%E3%82%8B">Example</a>)</li>
+  <li><a href="https://kotobank.jp/"><strong>Kotobank's JE Search:</strong></a> Kotobank is a collection of encyclopedias and dictionaries collected by <a href="http://www.asahi.com/ajw/">the Asahi Shimbun</a>, which means it also collects the example sentences from all those dictionaries. And they all have English translations! This is a resource made for Japanese people, so you know the content is correct. When searching for a word, click 英和和英 in the top menu bar for Japanese-English results. (<a href="https://kotobank.jp/jeword/%E5%88%86%E3%81%8B%E3%82%8B">Example</a>)</li>
+  <li><a href="https://www.linguee.com/?utm_source=Tofugu"><strong>Linguee:</strong></a> A German dictionary site with examples from tons of websites, all with English translations. (<a href="https://www.linguee.com/english-japanese/search?query=%E5%88%86%E3%81%8B%E3%82%8B&amp;utm_source=Tofugu">Example</a>)</li>
+  <li><a href="https://itunes.apple.com/us/app/%E6%96%B0%E5%92%8C%E8%8B%B1%E5%A4%A7%E8%BE%9E%E5%85%B8%E7%AC%AC5%E7%89%88/id316543513?mt=8"><strong>Kenkyusha's 新和英大辞典 app:</strong></a> One of the best Japanese dictionaries you can buy, <a href="../best-japanese-dictionary/index.html">according to Jisho creator (and our pal) Kim Ahlstrom</a>. Holy crap, does it have a lot of example sentences! It's $100 though, so buying this will depend on your study needs.</li>
+  <li><strong>macOS Dictionary:</strong> If you've got a Mac, then you've got this dictionary. It's got amazing example sentences, not to mention pronunciation, synonyms, common compounds, and more! It's one of the <a href="../best-japanese-dictionary/index.html">top Japanese dictionaries chosen by our friend Kim Ahlstrom</a>.</li>
+</ul>
+
+<h2 id="never-stop-asking-questions">Never Stop Asking Questions</h2>
+
+<figure class="figure-middle"><img alt="happy japanese student" src="https://files.tofugu.com/articles/japanese/2017-12-12-answering-japanese-learning-questions/happy-student.jpg" /></figure>
+
+<p>With all these question-answering resources at your disposal, you're well equipped to dispatch any Japanese language question that comes your way.</p>
+
+<p>The important thing is you never <em>stop</em> asking questions. If you're not asking questions, you're not advancing.</p>
+
+<p>Go forth, lone Japanese study warrior. Find what you seek and return… a fluent hero.</p>
+
+
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-articles travel-prev japanese-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='travel' href='http://www.tofugu.com/travel/tokyo-hair-salon-nalu-and-76-cafe/' title='View Nalu &amp; 76 Cafe: Getting Your Hair Cut in Japan'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-plane'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+Nalu & 76 Cafe: Getting Your Hair Cut in Japan
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='../japanese-learning-resources-november-2017/index.html' title='View New Japanese Learning Resources: November 2017'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+New Japanese Learning Resources: November 2017
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japanese'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='../japanese-learning-resources-november-2017/index.html' title='View New Japanese Learning Resources: November 2017'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older japanese' class='older-article-pagination'></span>
+</small>
+New Japanese Learning Resources: November 2017
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='../aisekiya-izakaya/index.html' title='View Aisekiya Izakaya: Practicing Your Japanese For Cheap at Japan&#39;s Random Group Date Restaurant'>
+<small>
+<span aria-label='Newer japanese' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Aisekiya Izakaya: Practicing Your Japanese For Cheap at Japan's Random Group Date Restaurant
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='../../about/index.html' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.2' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs/index.html' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese/index.html' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='../../news/index.html' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='../../newsletter/index.html' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='../../podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='../../feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="../../javascripts/master-2164c2ee.js" defer="defer"></script><script src="../../javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

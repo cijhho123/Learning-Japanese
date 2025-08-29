@@ -1,0 +1,956 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Sandra' name='author'>
+<meta content='You can make eye-catching English bulletin boards today. Our ideas are aimed specifically at English teachers in Japan.' name='description'>
+<meta content='jet program, teaching english in japan, english, alt, esl, bulletin board ideas' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='You can make eye-catching English bulletin boards today. Our ideas are aimed specifically at English teachers in Japan.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='English Bulletin Board Ideas for JET Program ALTs' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japan/esl-bulletin-board-ideas/' property='og:url'>
+<meta content='https://www.tofugu.com/japan/jet-program-recontracting-decision/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/jet-teaching-senpai/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-work-culture/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-teaching-resources/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-schools-vs-american-schools/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-survival-resources/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/jet-program-japanese-preparation/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/culture-shock-in-japan-on-the-jet-program/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-post-arrival/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-packing-guide/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/post-jet-acceptance/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-statement-of-purpose/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-application/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/reasons-to-join-the-jet-program/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-interview/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/nine-intelligences/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-self-intro-class/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-alt-team-teaching-tips/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-bad-school/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/non-teaching-jobs-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/japanese-college-student-english/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/japanese-minecraft-professor/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/katakanization/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-stereotypes/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Sandra' property='article:author'>
+<meta content='2016-09-27T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japan' property='article:section'>
+<meta content='jet program' property='article:tag'>
+<meta content='teaching english in japan' property='article:tag'>
+<meta content='english' property='article:tag'>
+<meta content='alt' property='article:tag'>
+<meta content='esl' property='article:tag'>
+<meta content='bulletin board ideas' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@tofugu' name='twitter:creator'>
+<meta content='You can make eye-catching English bulletin boards today. Our ideas are aimed specifically at English teachers in Japan.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='English Bulletin Board Ideas for JET Program ALTs' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#268bd2' name='twitter:widgets:link-color'>
+<meta content='#268bd2' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-sandra-f2b44b28.jpg",
+    "jobTitle": "Writer",
+    "name": "Sandra",
+    "sameAs": [
+
+    ],
+    "url": "https://www.tofugu.com/about/people/sandra/",
+    "description": "Studied Japanese, Psychology, and English Education at university. Studied abroad in Osaka in 2011-2012. Currently teaching English in Kansai. Favorite Disney movies: The Emperor's New Groove and Wall-E. Current obsessions: YouTube, PTX, KPP, llamas and alpacas, and sushi."
+  },
+  "datePublished": "2016-09-27T00:00:00Z",
+  "description": "You can make eye-catching English bulletin boards today. Our ideas are aimed specifically at English teachers in Japan.",
+  "headline": "ESL Bulletin Board Ideas for JET Program ALTs",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "jet program, teaching english in japan, english, alt, esl, bulletin board ideas",
+  "name": "ESL Bulletin Board Ideas for JET Program ALTs",
+  "url": "https://www.tofugu.com/japan/esl-bulletin-board-ideas/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2016-09-27T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japan/esl-bulletin-board-ideas/"
+}
+</script>
+
+<title>ESL Bulletin Board Ideas for JET Program ALTs</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/master-1de93200.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/articles/japan/2016-09-27-esl-bulletin-board-ideas-d79dd9ac.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japan/esl-bulletin-board-ideas/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='https://www.tofugu.com/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://www.tofugu.com/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://www.tofugu.com/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://www.tofugu.com/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://www.tofugu.com/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='https://www.tofugu.com/favicon.png' rel='shortcut icon'>
+<link href='https://www.tofugu.com/favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japan japan_esl-bulletin-board-ideas japan_esl-bulletin-board-ideas_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='https://www.tofugu.com/'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japanese/' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='https://www.tofugu.com/japanese/' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.1' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-learning-resources-database/' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japan/' id='dJapan'>
+Japan <i class="fa fa-globe"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='https://www.tofugu.com/japan/' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/series/' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/travel/' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/reviews/' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/interviews/' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='https://www.tofugu.com/podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=jet-program#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/header-2560x.jpg);'>
+<div class="article-header-animate-object-1"></div>
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+English Bulletin Board Ideas <span class="conjunction">for</span> JET Program ALTs
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+Everything you need to know about making the best English boards your school has ever seen
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2016-09-27T00:00:00Z">September 27, 2016</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/sandra/index.html" rel="author">Sandra</a>
+•
+Art by
+<a href="https://www.tofugu.com/about/people/aya-francisco/">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+<p class='article-series series-jet-program hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="../../series/jet-program.1">The Tofugu JET Program Guide
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>Welcome to your first day as an Assistant Language Teacher (<abbr title="Assistant Language Teacher. Co-teacher of the JTE.">ALT</abbr>) on the <a href="../../series/jet-program.1">JET Program</a>. You’re ready to <a href="https://www.tofugu.com/japan/jet-program-alt-team-teaching-tips/">command the classroom</a>. You’re ready to <a href="https://www.tofugu.com/japan/jet-program-teaching-resources/">inspire the students</a>. You’re ready to become a poster designer!</p>
+
+<p>Wait, what was that last part?</p>
+
+<p>As a JET Program <abbr title="Assistant Language Teacher. Co-teacher of the JTE.">ALT</abbr>, you’ll likely be tasked with creating colorful English bulletin boards for the classroom and/or hallways…every month.</p>
+
+<p>If you don’t consider yourself an "artist," don't worry. Below, we’ve listed tips and tactics that go into the creation of an amazing, eye-catching boards. Plus, there are enough ESL bulletin board ideas in here to last you 5 years or more.</p>
+
+<p>Grab your scissors and glue. It’s time to get creative (whether you like it or not).</p>
+
+<h2 id="whats-an-english-bulletin-board">What's an English Bulletin Board?</h2>
+
+<figure class="figure-middle"><img alt="esl bulletin board made by jet program alt" src="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/jet-program-english-board.jpg" /></figure>
+
+<p>An English Bulletin Board (also called simply an "English Board") is any arrangement of colors, letters, and shapes that makes up a coherent message on a space inside the school.</p>
+
+<p>This could be a poster you create and hang anywhere. Or there may be a designated space where your creation will live, like a cork board. It may even be a portable poster-board, like the ones you use in middle school science projects.</p>
+
+<blockquote class="highlight-left">
+  <p>As an <abbr title="Assistant Language Teacher. Co-teacher of the JTE.">ALT</abbr>, you’ll likely be tasked with creating colorful English bulletin boards<br />
+…every month.</p>
+</blockquote>
+
+<p>Whatever the form, your board's location will vary. It might be located in a classroom, a special English room, a hallway, or on a wall by a staircase. Check with your supervisor before you start hanging things in random areas.</p>
+
+<p>If you want a co-creator, ask Japanese Teachers of English (<abbr title="Japanese Teacher of English. Co-teacher to the ALT.">JTEs</abbr>), students, or English club members if they'd like to help. But more than likely the task will fall on you, as the most fluent English-speaking person in the school.</p>
+
+<p>Usually a higher-up, someone at the <abbr title="Board of Education.">BOE</abbr> or your supervisor, will request you make a bulletin board. But if no one asks, don't wait for the order. Take the initiative and talk to your supervisor about it.</p>
+
+<p>In my case, I was never asked to make a board. In fact, no <abbr title="Assistant Language Teacher. Co-teacher of the JTE.">ALT</abbr> at my school had ever made one. So I asked and a <abbr title="Japanese Teacher of English. Co-teacher to the ALT.">JTE</abbr> at my school helped me find a place to set one up. They were excited by the idea of exposing the students to more English.</p>
+
+<p>If your board orders come from on high, you may be asked for monthly or bi-monthly board updates and the content may be dictated to you. But in many cases you're given free rein to create what you please as often as you please. The creative freedom is nice, but it can feel overwhelming (unless you have a great article to turn to for ESL bulletin board ideas, wink wink).</p>
+
+<h2 id="gathering-materials">Gathering Materials</h2>
+
+<figure class="figure-middle"><img alt="pens and supplies for making english bulletin boards" src="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/materials.jpg" /></figure>
+
+<p>Once you get permission and have a designated English bulletin board space, it’s time to gather the tools you’ll need for the job.</p>
+
+<p>You should be able to get the following materials from your school:</p>
+
+<ul>
+  <li><strong>A Board/Space:</strong> a place for your school bulletin board to live. This means a bulletin board, poster board, cork board, etc.</li>
+  <li><strong>Fasteners:</strong> pins, glue, tape, stapler/staples, magnets, etc.</li>
+  <li><strong>Paper:</strong> in a variety of colors.</li>
+  <li><strong>Computer and Printer:</strong> for creating images and printing them.</li>
+  <li><strong>Laminator:</strong> it's fine if you don't have access to a laminator, but laminating increases decoration durability.</li>
+  <li><strong>Scissors:</strong> for cutting.</li>
+  <li><strong>Writing Utensils:</strong> markers, colored pencils, crayons, pencils, and paint.</li>
+  <li><strong>Ruler:</strong> for measuring and straight lines.</li>
+</ul>
+
+<p>If you need help finding these things, don't be afraid to ask a <abbr title="Japanese Teacher of English. Co-teacher to the ALT.">JTE</abbr> or any co-worker. They might even have additional ideas for supplies you can use.</p>
+
+<blockquote class="highlight-right">
+  <p>Though your school may not have a certain supply on hand, they might be able to order it for you.</p>
+</blockquote>
+
+<p>If you can't find what you need, ask someone in the teachers' room. Though the school may not have the specific supply on hand, they might be able to order it for you. I once bought small 100 yen white boards to use during lessons, but later, one of my <abbr title="Japanese Teacher of English. Co-teacher to the ALT.">JTEs</abbr> told me I could have asked the vice principal to order them for me. 100 yen is no big deal, but it’s nice to know you can get supplies provided when the item in question is 2000 yen or more.</p>
+
+<p>If your school doesn’t have funds to provide the tools you need, check your local 100 yen shop (part of being a teacher is building <a href="../jet-program-teaching-resources/index.html@series=jet-program">your own arsenal of materials</a>). They’re great for seasonal goodies and cheap supplies. Just make sure to keep track of what’s yours and what’s the school’s. That way you don’t end up "donating" parts of your personal toolkit.</p>
+
+<h2 id="basicbulletin-board-sections">Basic Bulletin Board Sections</h2>
+
+<figure class="figure-middle"><img alt="school bulletin board in japan" src="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/basic-board.jpg" /><figcaption>  </figcaption> Source: Melanie Budney</figure>
+
+<p>An ESL bulletin board can be anything you want (within reason), as long as it has English and/or teaches the students about foreign cultures.</p>
+
+<p>At its most basic, a board will include words and pictures. And that's it! It's your creativity and organization that makes the words and pictures something special.</p>
+
+<p>You can dedicate your whole board to one topic or divide the board into sections. </p>
+
+<ul>
+  <li>
+    <p><strong>One Topic:</strong> If you do one topic per board, go in-depth with that topic. Add lots of information, images, and decoration. Otherwise it will look bare bones.</p>
+  </li>
+  <li>
+    <p><strong>Sections:</strong> The more common approach divides the bulletin board into sections and covers one topic in each section. This makes your bulletin board like a newspaper page; a recipe here, some sports photos there, a little quiz in the bottom right hand corner. Your school bulletin board becomes dynamic.</p>
+  </li>
+</ul>
+
+<p>Below are common topics for your bulletin board. Mix and match as you please, using as many or as few as you want. Just make sure it results in an eye-catching board, or your students will walk by without noticing your effort.</p>
+
+<h3 id="alt-profile"><abbr title="Assistant Language Teacher. Co-teacher of the JTE.">ALT</abbr> Profile</h3>
+
+<p><a href="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/alt-profile.jpg"><figure class="figure-right"><img alt="esl bulletin board idea for teacher profile" src="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/alt-profile-section.jpg" />&lt;figcaption&gt;  &lt;/figcaption&gt; Source: Jaimmika Bouverette</figure></a></p>
+
+<p>This is a great "starter section" for those freshly arrived on JET. Many schools like their new <abbr title="Assistant Language Teacher. Co-teacher of the JTE.">ALTs</abbr> to post information about themselves for the students to see. A lot of materials from your <a href="https://www.tofugu.com/japan/jet-program-self-intro-class/"><abbr title="Assistant Language Teacher. Co-teacher of the JTE.">ALT</abbr> self-introduction lesson</a> can be used here.</p>
+
+<ul>
+  <li><strong>Pictures of yourself:</strong> This will help the students get to know you and get used to seeing you around.</li>
+  <li><strong>Pictures of your hometown:</strong> Japanese students love seeing people and places from your home country, especially your high school. Prom and football games are always crowd pleasers.</li>
+  <li><strong>Pictures of famous things/people:</strong> From America? The Statue of Liberty is recognizable. England? Big Ben makes a big splash. Canada? Justin Trudeau is a hunky dude. ღゝ◡╹)ノ♡</li>
+  <li><strong>Your home country’s flag:</strong> All JETs are goodwill ambassadors from their countries. And nothing says "I'm from a country" like that country's flag.</li>
+  <li><strong>Facts:</strong> Information about you, your country, and hometown are great. List them in bullet points for quick comprehension.</li>
+</ul>
+
+<h3 id="holidays">Holidays</h3>
+
+<figure class="figure-middle"><img alt="english bulletin board celebrating halloween" src="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/holiday-english-board.jpg" /></figure>
+
+<p>Holidays offer fun visuals and are a great culture lesson. Plus they help fill the board during the winter months when it's too cold to come up with new ESL bulletin board ideas.</p>
+
+<p><a href="https://www.tofugu.com/japan/halloween-in-japan/">Halloween</a> and <a href="../christmas-in-japan.1">Christmas</a> are always popular. Although both are celebrated in Japan, there are big customary differences that will wow your students. You can even throw curveballs by promoting holidays that are lesser known in Japan. For example, I made a board about Mexico's "Day of the Dead" in October.</p>
+
+<h3 id="articles">Articles</h3>
+
+<p><a href="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/article-interview.jpg"><figure class="figure-right"><img alt="el bulletin board made with news articles" src="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/article-interview.jpg" /></figure></a></p>
+
+<p>Most English reading material will be too difficult for your students. But that doesn't mean you can't <em>help</em> your students understand English articles that are <a href="https://www.tofugu.com/japanese/quantity-not-quality-makes-fluent-japanese/">+1 above their ability level</a>. Here's how to do it:</p>
+
+<ol>
+  <li><strong>Print the material:</strong> Print out articles from <a href="https://www.buzzfeed.com/davidmack/brad-and-angelinas-wax-figures?utm_term=.buaWY43Dy#.wnDAWjLaD">Buzzfeed</a>, <a href="https://www.upworthy.com/this-awesome-skateboarder-is-8-years-old-and-she-just-made-history?c=tpstream">Upworthy</a>, or similar publications. The lists and quizzes from these sites usually have short, easy-to-understand sentences. Another option is Tweets from celebrities your students like (<a href="http://blogs.wsj.com/digits/2016/02/18/twitter-has-more-users-than-facebook-in-japan/">Twitter is bigger in Japan than Facebook</a>).</li>
+  <li><strong>Highlight and define difficult words:</strong> Highlight and explain difficult words in the text, like a paper-based <a href="http://www.polarcloud.com/">Rikaichan</a>. Explain the difficult parts in simpler English or even Japanese, depending on your students' skill level.</li>
+  <li><strong>Use pictures:</strong> Always use pictures. Your students won't come to the board if there's nothing to draw them in.</li>
+</ol>
+
+<p>If the article you want to use is too advanced (but too good pass up), rewrite the article in simpler English and post the original next to it.</p>
+
+<h3 id="more-esl-bulletin-board-ideas">More ESL Bulletin Board Ideas</h3>
+
+<p>A successful English bulletin board is one which students can read and understand easily. Start simple, especially right at the beginning of your <abbr title="Assistant Language Teacher. Co-teacher of the JTE.">ALT</abbr> career. I put up pictures of different countries' flags with their names and surprisingly it was a big hit!</p>
+
+<p>Here are more small ideas you can use as sections of your board, or make into boards in and of themselves, with extra work and creativity.</p>
+
+<p><a href="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/terminator.jpg"><figure class="figure-right"><img alt="english bulletin board using terminator 2 images" style="width: 300px;" src="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/terminator.jpg" /></figure></a></p>
+
+<ul>
+  <li>
+    <p><strong>Word/Phrase of the Month:</strong> For words more complicated than "duck" or "shoe," highlight them as "Word of the Month." Define the word or phrase in English and Japanese, and add pictures or comics for greater clarity. Here's an example of a small section I posted for the phrase "I'll be back."</p>
+  </li>
+  <li>
+    <p><strong>Interesting Vocabulary (With Pictures):</strong> Teach the students fun words they might not get to see in their textbooks. Interesting animals like squirrel, sheep, and porcupine. Be aware some Japanese animal names are almost identical to their English counterpart. For example, hamster is <i>hamustaa</i> <ruby>ハムスター <rp>（</rp><rt></rt><rp>）</rp></ruby>. Other great vocab categories are hairstyles, food, clothing, and weather.</p>
+  </li>
+</ul>
+
+<p><a href="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/tongue-twisters.jpg"><figure class="figure-right"><img alt="school bulletin board made by jet program alt" style="width: 300px;" src="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/tongue-twisters.jpg" /></figure></a></p>
+
+<ul>
+  <li>
+    <p><strong>Tongue Twisters:</strong> Tongue twisters are fun in any language, and <a href="https://web.archive.org/web/20180302002751/http://www.uebersetzung.at/twister/en.htm">the vast majority available online</a> make this an easy board to put together. Not much more to say than that. Make sure to choose twisters easy enough for your students.</p>
+  </li>
+  <li>
+    <p><strong>Picture Collages:</strong> As I've said before, pictures are the lifeblood of your boards. So creating sections or whole boards of just pictures is great, but they usually work best as culture lessons, more so than English lessons. A few collage ideas are, "Daily Life in [country/place of choice]," "My travels to [recent destination]," "Cosplay in [country other than Japan]," and "Food from [anywhere]."</p>
+  </li>
+</ul>
+
+<p><a href="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/titan-schedule.jpg"><figure class="figure-right"><img alt="english bulletin board of attack on titan monster" style="width: 300px;" src="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/titan-schedule.jpg" /></figure></a></p>
+
+<ul>
+  <li>
+    <p><strong>Daily Routine:</strong> Use textbook vocabulary and pictures to create a daily itinerary that is easy to understand in concept and in language. For example, start with "7:00, eat breakfast" or "I eat breakfast at 7:00." Then continue with "8:00, I go running" and so on. I did one recently and it got quite a bit of attention. Let's just say I had a little help from some popular Titans.</p>
+  </li>
+  <li>
+    <p><strong>Song of the Month:</strong> Post lyrics to students favorite songs. Or if you're up for a challenge, post English lyrics to popular Japanese songs.</p>
+  </li>
+  <li>
+    <p><strong>Recipe of the Month:</strong> Everyone loves food. Some like making it. Find easy-to-follow recipes from your home country (or any country) and post them in English. Language and culture education all in one!</p>
+  </li>
+  <li>
+    <p><strong>Attractive Topics:</strong> One of the advantages of the English bulletin board is that you can feature almost anything as long as it uses English. Use this to your advantage by highlighting celebrities, athletes, singers, movies, sports, or anything you <em>know</em> the students love. Reel them in with kool trendz and teach them English once you've got them hooked.</p>
+  </li>
+</ul>
+
+<h2 id="interactive-bulletin-board-sections">Interactive Bulletin Board Sections</h2>
+
+<figure class="figure-middle"><img alt="flags used in esl bulletin board ideas" src="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/interactive.jpg" /></figure>
+
+<p>Once you've mastered the creation basics, it's time to level up! The sections listed below are based on the basic topics listed above, but are modified to be interactive. The basics give students information, but these upgrades encourage kids to interact and engage.</p>
+
+<h3 id="translation-challenge">Translation Challenge</h3>
+
+<p><a href="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/translation-board.jpg"><figure class="figure-right"><img alt="english bulletin board with red paper" style="height: 300px;" src="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/translation-thumb.jpg" /></figure></a></p>
+
+<p>This exercise will get your students interested in <a href="https://www.tofugu.com/japanese/how-to-become-a-japanese-translator/">how to become a translator</a>. Or at least grab their attention with nifty comics.</p>
+
+<p>Print out excerpts from English and Japanese versions of a manga. Pin up both and cover the Japanese version with a piece of paper. Tape an envelope filled with slips of paper to the board so students can try translating the English into Japanese. After they're done, they lift the piece of paper to see the official Japanese translation and compare.</p>
+
+<p>Try to pick comic panels with grammar or vocabulary your students have studied. Using manga series the students know will increase their interest. Past comics I have used are <em>Attack on Titan</em>, <em>One Piece</em>, and <em>Haikyuu!!</em> But try posting comics from any country (that way it counts as cultural exchange).</p>
+
+<h3 id="puzzle">Puzzle</h3>
+
+<p><a href="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/christmas-quiz.jpg"><figure class="figure-right"><img alt="japanese school bulletin board with christmas theme" src="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/christmas-quiz.jpg" />&lt;figcaption&gt;  &lt;/figcaption&gt; Source: Jaimmika Bouverette</figure></a></p>
+
+<p>Your board puzzle can be anything you want. The pieces can be parts of a sentence or pictures that go together in a specific order. They can even be "traditional" puzzle pieces that form a word or cultural image. The possibilities are limitless!</p>
+
+<p>The major challenge is making enough pieces for all potential participants. This could be tough in a school 300 students or more. A solution is purposely offering fewer puzzles than there are students. Hopefully the scarcity will create demand (and by proxy, interest in English).</p>
+
+<h3 id="matching">Matching</h3>
+
+<p><a href="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/matching.jpg"><figure class="figure-right"><img alt="jet program english bulletin board in japanese school" style="height: 400px;" src="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/matching.jpg" /></figure></a></p>
+
+<p>Start with two sets of information that go together:</p>
+
+<ul>
+  <li>Vocabulary words and pictures</li>
+  <li>Two halves of one sentence</li>
+  <li>Numerals and their spellings</li>
+  <li>Words in different tenses (present, past, etc.)</li>
+</ul>
+
+<p>In my case, I put up laminated pictures related to the current holiday season or recent class topics, and added magnetic strips underneath them. Then I put magnets on the backs of laminated vocabulary words in an envelope attached to the board. The students then chose what words to match to the pictures.</p>
+
+<p>A neat variation I've seen on this idea is two lists of words with strings to move around and connect items the lists.</p>
+
+<h3 id="graffiti">Graffiti</h3>
+
+<p><a href="http://www.ithinkimlost.com/archive/index.php/t-12152.html">A board section I've read about</a> is a "graffiti section." I emphasize <em>section</em> for this idea, because making this your entire board might look bad since it's essentially a blank piece of paper.</p>
+
+<p>Above the graffiti section, add instructions to let students know they can write and draw whatever they want as long as it's in English. Giving students a chance to mess around and doodle is a great outlet for creativity and expression. And if you're lucky, most of this expression will be in English!</p>
+
+<h3 id="poll">Poll</h3>
+
+<p>Poll your students to learn their opinions on the issues. Choose one question they can answer freely or several questions with multiple choice questions. This way you get a variety of answers to one question, or standard answers to several questions which convert nicely into charts and graphs (58% love <a href="https://www.tofugu.com/japan/tsukemono/">tsukemono</a>, etc).</p>
+
+<p>Examples of polls you can try are:</p>
+
+<ul>
+  <li>Best/funniest/saddest manga</li>
+  <li>Best artist</li>
+  <li>Favorite color</li>
+  <li>Best holiday</li>
+  <li>Favorite subject</li>
+  <li>Which movie they're most excited to see</li>
+</ul>
+
+<p>Include a box or container attached to the board or in another easy-to-access space, so kids can submit answers discretely. If you want answers displayed immediately, use the graffiti idea above, but ask a question rather than inviting free expression.</p>
+
+<p>Alternatively, force poll participation by taking five minutes of class time to pass out and collect the poll. Then post the results up on the board so students can see what their peers think.</p>
+
+<h2 id="the-student-work-bulletin-board">The "Student Work" Bulletin Board</h2>
+
+<figure class="figure-middle"><img alt="essay written by japanese student" src="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/student-work.jpg" /></figure>
+
+<p>After creating so many school bulletin boards from scratch, you may start to feel burned out. Never fear. This is the time to use your authority as a teacher to make the children (help) create board content.</p>
+
+<p>Below are ESL classroom ideas that crowdsource board material from your students.</p>
+
+<h3 id="essay-or-quote-of-the-week">Essay or Quote of the Week</h3>
+
+<p>When classroom activities produce excellent pieces of written or spoken English, re-purpose and highlight them on the English board. Always ask the students permission of course and give them the option to have it posted anonymously.</p>
+
+<p>Actually, this display might be more intriguing if you <em>don't</em> include the author's name. Instead, only display the grade year and/or homeroom class so other students can try to guess "whodunit."</p>
+
+<h3 id="poetry-and-art-displays">Poetry and Art Displays</h3>
+
+<p>Hold mini poetry or art contests and reward the winners by displaying their work. This is like the previous idea, but it requires more voluntary effort on the part of the students. But the upside is, this is classroom material that produces bulletin board material. It's a win-win!</p>
+
+<p>For poetry, <a href="https://www.tofugu.com/japan/valentines-day-japan/">Valentine's Day</a> is the prime season. Ask your students to write love poems in a mad-lib style using the traditional "Roses are red/Violets are blue…" like this:</p>
+
+<blockquote>
+  <p>________ are red,</p>
+
+  <p>________ are blue,</p>
+
+  <p>________ is sweet,</p>
+
+  <p>And so are you.</p>
+</blockquote>
+
+<blockquote class="highlight-right">
+  <p>Hold poetry or art contests and reward the winners by displaying their work.</p>
+</blockquote>
+
+<p>Don't be afraid to try this ESL bulletin board idea outside of February. Just make sure to provide the structure and an example, so you can tailor the task to the ability level of your students.</p>
+
+<p>For the art contest, provide the topic and instructions in class using English. Something as simple as "Draw a kangaroo" is fine, but draw your own kangaroo on the board as an example. Then set a time and place to collect the drawing, either at the end of class or in a dropbox at your desk.</p>
+
+<p>As long as you provide enough promotion and time, using student poetry and art can make for a grand exhibit without much elbow grease on your part.</p>
+
+<h3 id="student-interviews">Student Interviews</h3>
+
+<p>Interviews are a great source of material for your school bulletin board. Celebrity interviews are fine, but why not feature your students and teachers? It's a great way to connect with your school and make them feel like they're part of your process.</p>
+
+<p>Here are steps to follow when doing student interviews:</p>
+
+<ol>
+  <li><strong>Have a topic in mind beforehand:</strong> This may seem obvious, but there's nothing worse than requesting a chat with someone and not being prepared. Picking interview topics and questions is easy if you choose a student who is part of a club or activity. For example, interview a sports club member about their training methods or an English speech contest winner about how they study.</li>
+  <li><strong>Print out and display their English responses:</strong> I recommend recording the interview and then transcribing it.</li>
+  <li><strong>Show the interviewee the final interview before you post:</strong> Get the student's approval/show them how cool they are for participating in English!</li>
+</ol>
+
+<p>Also look for ways to get teachers in on the fun. At my middle school, students from every grade level are asked to answer questions about their hobbies, favorite things, and dreams for the future. I thought it would be interesting to ask the <em>teachers</em> to provide answers to the same set of questions (you wouldn't assign something you wouldn't do yourself, right?). This gave the kids an example to follow when answering the questions themselves. Plus, I got to break the ice with teachers who previously wouldn't interact with me.</p>
+
+<p>I love this board because there are so many benefits. You get to build relationships with students while building their confidence in English.</p>
+
+<h3 id="decoration-collaboration">Decoration Collaboration</h3>
+
+<blockquote class="highlight-right">
+  <p>Use your authority as a teacher to make the children (help) create board content.</p>
+</blockquote>
+
+<p>You can use your free time at your desk to draw and cut out snowflakes for your Christmas-themed ESL bulletin board. Or you can find ways to make this project a hands-on group activity in class! It's like "tricking" students into helping you decorate, but not really because you're the teacher.</p>
+
+<p>Assign blank pumpkins for Jack-o-lantern creation during Halloween lessons, or include snowflake-cutting as part of a Christmas lesson. Have students write wishes on slips. Or use stars for <a href="https://www.tofugu.com/japan/japanese-summer-festivals/">Tanabata</a> in July to combine English with a familiar Japanese custom. </p>
+
+<p>When you're done, collect the assignments to use as decorations on your English board, the walls of the classroom, or hallways. You just taught a lesson and got decorations at the same time!</p>
+
+<h2 id="bulletin-board-and-classroom-decorations">Bulletin Board and Classroom Decorations</h2>
+
+<figure class="figure-middle"><img alt="halloween esl classroom decorations" src="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/classroom-decor.jpg" /></figure>
+
+<p>Once you become proficient with English bulletin boards, your colleagues may take notice and task you with extra decoration duties. You might need to decorate a classroom, or spruce up the hallway. Or you may want a few extra pieces of flair to spruce up the bulletin board. Whatever the reason, here are a few ESL classroom decoration ideas to get you going.</p>
+
+<h3 id="common-phrases-posters">Common Phrases Posters</h3>
+
+<p><a href="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/phrases.jpg"><figure class="figure-right"><img alt="common phrases esl classroom decoration in japan" src="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/phrases.jpg" /></figure></a></p>
+
+<p>This great classroom poster features common English phrases, centered around a theme or conversation. For example, the poster in the image is labeled, "How are you?" with various answers below it. Most students know, "I’m fine," as an appropriate response. But they might not know how to mix it up with, "I’m good," "Okay," or "Alright." There are good examples of this poster in <a href="https://www.tofugu.com/japan/jet-program-alt-team-teaching-tips/">Verity's post on how to be an outstanding <abbr title="Assistant Language Teacher. Co-teacher of the JTE.">ALT</abbr></a>.</p>
+
+<p>Phrases to use in this poster are:</p>
+
+<ul>
+  <li><strong>"How’s the weather?"</strong> "It's sunny," "It's rainy," "It's cloudy," etc.</li>
+  <li><strong>Different ways to ask for help in class:</strong> Such as "Could you repeat that?" "What does that mean?" "How do you spell _____?"</li>
+  <li><strong>"I like ____s."</strong> To practice the plural 's,' as in "I like dogs," "I like foxes," etc.</li>
+  <li><strong>"Shopping phrases"</strong> Such as, "It's too small," "Can I have a blue one?" "How much is it?" etc.</li>
+</ul>
+
+<h3 id="seasonal-symbols">Seasonal Symbols</h3>
+
+<p>As holidays and seasons come and go, it’s common for teachers to put up paper decorations reflecting those times. Things like flowers for spring and hearts for Valentine’s Day. Although it’s a bit of work, everyone appreciates a festive classroom. It can even spark discussion on culture and the English words associated with the decorations you decide to put up.</p>
+
+<h3 id="vocabulary-posters">Vocabulary Posters</h3>
+
+<p>Words and pictures are great on ESL bulletin boards, so why not put them together on a poster to hang in the classroom? For an upgrade, parts of speech or other descriptive information. English vocabulary supports your teaching mission much better than a blank wall.</p>
+
+<h3 id="jikoshoukai-posters">Jikoshoukai Posters</h3>
+
+<p><a href="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/yokai-watch-poster.jpg"><figure class="figure-right"><img alt="jet program classroom decoration featuring yokai watch" src="https://files.tofugu.com/articles/japan/2016-09-27-esl-bulletin-board-ideas/yokai-watch-poster.jpg" /></figure></a></p>
+
+<p><a href="https://www.tofugu.com/japanese/jikoshoukai/"><i>Jikoshoukai</i> <ruby>自己紹介<rp>（</rp><rt>じこしょうかい</rt><rp>）</rp></ruby>  means self-introduction.</a> Students often practice the textbook iteration of the English self-intro. Using pictures of popular characters, mascots, and celebrities adds much needed flavor to the run-of-the-mill jikoshoukai.</p>
+
+<p>In my own classroom, I put up a poster of Jibanyan I got from 7/11 (of course, it immediately attracted attention). I attached speech balloons to make the <a href="https://www.tofugu.com/japan/yo-kai-watch/">Yo-Kai Watch</a> character give his self-introduction. Every class that saw it for the first time had at least a couple of students reading it aloud and trying to understand the English! That's what I call success.</p>
+
+<h3 id="calendar">Calendar</h3>
+
+<p>This sounds obvious, but a calendar is a great addition to any classroom. The bigger the better! Make it stand out by filling in holidays and the birthdays of students or famous people. Highlight upcoming events like school festivals and <a href="https://www.tofugu.com/japan/undoukai-sports-festival/">undoukai</a>. It also helps you, the <abbr title="Assistant Language Teacher. Co-teacher of the JTE.">ALT</abbr>, keep track of the day during those especially busy seasons. But make sure it's an English calendar (because it's English class). It helps students become familiar with those funny-looking words like "Wednesday."</p>
+
+<h2 id="further-jet-program-english-bulletin-board-inspiration">Further JET Program English Bulletin Board Inspiration</h2>
+
+<p>I hope this list of ESL bulletin board ideas and examples helps you create and decorate your way to <abbr title="Assistant Language Teacher. Co-teacher of the JTE.">ALT</abbr> stardom (not to mention educate masses of children along the way).</p>
+
+<p>To continue your growth as a bulletin Board artist, I've provided a list of resources.</p>
+
+<ul>
+  <li>
+    <p><strong><a href="https://sutekisutekisuteki.wordpress.com/tag/simple-english-bulletin-board-ideas/">Yamaguchi Prefecture JET Stephanie’s English Bulletin Board Ideas:</a></strong> One of the few blogs that specializes in English bulletin boards for JET Program <abbr title="Assistant Language Teacher. Co-teacher of the JTE.">ALTs</abbr>. Great design sense and ideas. Check it out.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://lobsterdance.wordpress.com/category/teaching-english/english-board/">English Bulletin Boards by Lobsterdance:</a></strong> Another one (of the few) collections of JET Program English bulletin boards online. The blog ended in 2012, but the 9 boards featured are great for inspiration.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://www.pinterest.com/search/boards/?q=esl%20bulletin%20board">Pinterest:</a></strong> Pinterest probably has the most examples of ESL bulletin boards, but few targeted at English teachers in Japan. Still, the <a href="https://www.pinterest.com/amiraelske/esl-bulletin-board-ideas/">many</a>, <a href="https://www.pinterest.com/emilybrown724/esl-classroom-ideas/">many</a>, <a href="https://www.pinterest.com/2012abc/bulletin-board-ideas/">many</a>, <a href="https://www.pinterest.com/ksb2924/esl-bulletin-boards/">many</a> examples are bound to give you good ideas for your superstar JET boards.</p>
+  </li>
+  <li>
+    <p><strong><a href="http://www.altinsider.com/englishboard/"><abbr title="Assistant Language Teacher. Co-teacher of the JTE.">ALT</abbr> Insider's English Board Tips:</a></strong> There aren't many ideas in this post, but there is a philosophy behind bulletin board creation. Some great ideas from a seasoned <abbr title="Assistant Language Teacher. Co-teacher of the JTE.">ALT</abbr>.</p>
+  </li>
+</ul>
+
+<p>As you can see, there are few examples of JET Program English bulletin boards online… right now, at least. But as you start creating boards for your students, take photos and send them to us on <a href="https://www.facebook.com/TofuguBlog/">Facebook</a>, <a href="https://twitter.com/tofugu">Twitter</a>, or through <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#104;&#101;&#108;&#108;&#111;&#064;&#116;&#111;&#102;&#117;&#103;&#117;&#046;&#099;&#111;&#109;">email</a>. We'd love to feature them in this post.</p>
+
+<p>Go forth, fellow <abbr title="Assistant Language Teacher. Co-teacher of the JTE.">ALTs</abbr>! You have the knowledge. You have the talent. Create the kinds of boards that attract attention and inspire learning. Your school's walls will never be the same again.</p>
+
+
+<aside class="blog-post-highlight article-sources"><div class="container"><h4>Sources</h4><ul><li><a href="http://jetprogramme.org/wp-content/MAIN-PAGE/current/publications/altcirseahandbook/7all.pdf" title="View source">The JET Programme Teaching Materials Collection</a></li><li><a href="http://blogs.wsj.com/digits/2016/02/18/twitter-has-more-users-than-facebook-in-japan/" title="View source">The Wall Street Journal</a></li><li><a href="https://web.archive.org/web/20180302002751/http://www.uebersetzung.at/twister/en.htm" title="View source">International Collection of Tongue Twisters</a></li><li><a href="http://www.ithinkimlost.com/archive/index.php/t-12152.html" title="View source">I Think I'm Lost</a></li></ul></div></aside>
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-jet-program hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2015-07-30-jet-program/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='../../series/jet-program.1' title='View all articles in Series The Tofugu JET Program Guide'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+The Tofugu JET Program Guide
+</span>
+</a>
+</li>
+<li class='pager-next'>
+<a href='../../interviews/jet-teaching-senpai/index.html@series=jet-program' title='View The JET Program Senpai Triple Interview Throwdown'>
+<small>
+Next Article in Series
+<i class='fa fa-fw fa-users'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+The JET Program Senpai Triple Interview Throwdown
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles japanese-prev interviews-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='https://www.tofugu.com/japanese/itadakimasu-meaning/' title='View The Meaning of Itadakimasu'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+The Meaning of Itadakimasu
+</a>
+</li>
+<li class='pager-next'>
+<a class='interviews' href='https://www.tofugu.com/interviews/jet-teaching-senpai/' title='View The JET Program Senpai Triple Interview Throwdown'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-users'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+The JET Program Senpai Triple Interview Throwdown
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japan'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='https://www.tofugu.com/japan/japanese-horror-movies/' title='View The 13 Best Japanese Horror Films'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older japan' class='older-article-pagination'></span>
+</small>
+The 13 Best Japanese Horror Films
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='https://www.tofugu.com/japan/doujinshi-definition/' title='View Japan’s Doujinshi Culture Of Creativity Through Theft'>
+<small>
+<span aria-label='Newer japan' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Japan’s Doujinshi Culture Of Creativity Through Theft
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/about/' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.1' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs.1' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese.1' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/news/' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/newsletter/' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/master-2164c2ee.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

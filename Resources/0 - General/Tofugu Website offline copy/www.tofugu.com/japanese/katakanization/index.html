@@ -1,0 +1,928 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Tomoyuki Akiyama' name='author'>
+<meta content='Not a fan of &quot;Katakana English&quot;? If you want to step up your Japanese fluency, make it an ally, not an enemy. Learn the three basic rules to convert English to Japanese.' name='description'>
+<meta content='japanese, katakana, converting, english, learning' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Not a fan of &quot;Katakana English&quot;? If you want to step up your Japanese fluency, make it an ally, not an enemy. Learn the three basic rules to convert English to Japanese.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2022-11-22-katakanization/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='Katakanization: The Secret Rules of Converting English into Japanese' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japanese/katakanization/' property='og:url'>
+<meta content='https://www.tofugu.com/japanese/best-kanji-learning-programs/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/best-hiragana-and-katakana-learning-resources/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/expressing-uncertainty-in-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/tokoro-bakari/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/teiru-tearu-teoku/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-buy-japanese-ebooks/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-language-learning-podcasts-for-intermediate-learners/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-language-learning-podcasts-for-beginners/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/learn-katakana-book-pdf/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/language-exchange/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/bunpro/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/learn-hiragana-book-pdf/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/japanese-pod-101/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/dogen-japanese-phonetics/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/ehon-japanese-childrens-picture-books/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-graded-readers/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/online-japanese-grammar-guides/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/youtube-channels-for-learning-japanese-grammar/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/guide-for-finding-a-japanese-tutor/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kedo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/japanese-stories-for-language-learners/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/yotsubato/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/hellotalk/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-vocabulary-for-yoga-movements/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-vocabulary-for-yoga-body-parts/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/yoga-in-japanese-getting-started/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kosoado/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/futokoro/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/queer-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-first-person-pronouns/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/kaishoku-michiba/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/ganbaru/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/chotto/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-make-a-reservation/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/pocketalk-translator-device/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tofugu-favorite-posts-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-koichi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-puns/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/jikoshoukai/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-fluency-make-mistakes/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/interleaving-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/warau-eikaiwa/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/be-more-productive/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/creating-japanese-learning-opportunities/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/stay-motivated/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/8-things-to-improve-your-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kanji-sonomama/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/rosetta-stone-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/tofugu-learn-kana-quiz/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/hiragana-chart/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/hiragana-mnemonics-chart/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-loanword-phonology/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/learn-katakana/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/borrowing-language/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/romaji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/your-name-in-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kana-changes-in-history/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/strange-katakana-words/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/esl-bulletin-board-ideas/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-stereotypes/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/anki/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/bao-nakashima/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-punctuation/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/what-i-learned-about-learning-japanese-from-spending-3-weeks-in-taiwan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/learn-with-pictures/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/learning-epiphanies/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/jfdi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/seinfeld-kanji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/little-victories/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/study-habits/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Tomoyuki Akiyama' property='article:author'>
+<meta content='2022-11-22T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japanese' property='article:section'>
+<meta content='japanese' property='article:tag'>
+<meta content='katakana' property='article:tag'>
+<meta content='converting' property='article:tag'>
+<meta content='english' property='article:tag'>
+<meta content='learning' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@tomoakiyama' name='twitter:creator'>
+<meta content='Not a fan of &quot;Katakana English&quot;? If you want to step up your Japanese fluency, make it an ally, not an enemy. Learn the three basic rules to convert English to Japanese.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2022-11-22-katakanization/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='Katakanization: The Secret Rules of Converting English into Japanese' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#d33682' name='twitter:widgets:link-color'>
+<meta content='#d33682' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-tomoyuki-akiyama-ce8692ee.jpg",
+    "jobTitle": "Writer",
+    "name": "Tomoyuki Akiyama",
+    "sameAs": [
+      "https://www.twitter.com/tomoakiyama"
+    ],
+    "url": "https://www.tofugu.com/about/people/tomoyuki-akiyama/",
+    "description": "Tomoyuki is a Japanese corporate communications specialist who holds a master's degree in Linguistics with a focus on second language acquisition from the University of South Carolina. A native of Tokyo who spent most of his childhood in Europe and most of his twenties in the United States, he currently lives in Japan. Based on his Japanese teaching experience and continued interest in linguistics, he tweets Japanese learning tips and trivia as <a href="http://www.tofugu.com/japanese/katakanization/\&quot;https://twitter.com/tomoakiyama\&quot;">@tomoakiyama</a>."
+  },
+  "datePublished": "2022-11-22T00:00:00Z",
+  "description": "Not a fan of \"Katakana English\"? If you want to step up your Japanese fluency, make it an ally, not an enemy. Learn the three basic rules to convert English to Japanese.",
+  "headline": "Katakanization Guide: How To Convert English Words to Japanese",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japanese/2022-11-22-katakanization/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japanese/2022-11-22-katakanization/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "japanese, katakana, converting, english, learning",
+  "name": "Katakanization Guide: How To Convert English Words to Japanese",
+  "url": "https://www.tofugu.com/japanese/katakanization/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2022-11-22T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japanese/katakanization/"
+}
+</script>
+
+<title>Katakanization Guide: How To Convert English Words to Japanese</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="../../stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japanese/katakanization/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='../../apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='../../apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='../../apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='../../apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='../../apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='../../favicon.png' rel='shortcut icon'>
+<link href='../../favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japanese japanese_katakanization japanese_katakanization_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='../../index.html'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../index.html' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='../index.html' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.2' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='../../japanese-learning-resources-database/index.html' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../../japan/index.html' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='../../japan/index.html' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../series/index.html' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../travel/index.html' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../reviews/index.html' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../interviews/index.html' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='../../podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japanese/2022-11-22-katakanization/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japanese/2022-11-22-katakanization/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+Katakanization: The Secret Rules of Converting English into Japanese
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+"Katakana English" Is No Longer the Headache of Japanese Learning
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2022-11-22T00:00:00Z">November 22, 2022</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="http://www.tofugu.com/about/people/tomoyuki-akiyama/" rel="author">Tomoyuki Akiyama</a>
+•
+Art by
+<a href="../../about/people/aya-francisco/index.html">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japanese/2022-11-22-katakanization/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>Japanese words that even the most proficient learners of the language find the hardest to pronounce can be, ironically, the ones borrowed from their own native tongue.</p>
+
+<p>My wife, who's originally from the United States and now is a fluent speaker of Japanese after living in Japan for 15 years, still struggles to pronounce one of her home country's most well-known brands — "McDonald's," which in Japanese is マクドナルド (makudonarudo).</p>
+
+<blockquote class="highlight-right">
+  <p>Knowing how katakanization works is an important practical skill for native English speakers who study Japanese.</p>
+</blockquote>
+
+<p>Words of English origin, when they get converted to katakana, often throw off native speakers of English. This is because it's hard to <em>unlearn</em> their native tongue's phonology — the sound system with a set of rules that they subconsciously follow since their early childhood — and then modify the original sound to match the Japanese phonology. I call this process <em>katakanization</em> because foreign words adapted into Japanese are typically spelled with katakana characters and are commonly called <em>katakana-go</em> (katakana words).</p>
+
+<p>In my opinion as a native speaker of Japanese and a language lover, knowing how katakanization works is an important practical skill for native English speakers who study Japanese. Not only can the ability to pronounce these words help you to be more easily understood by Japanese speakers, it also has the added benefit of expanding your vocabulary, and almost instantaneously, without as much effort as you might think. And as you might already know, we use a lot of katakanized loanwords of English origin. Like, <em>a lot</em>.</p>
+
+<p>So I am writing this article with the hope of helping native-English-speaking Japanese learners who struggle with one of the biggest quirks of the Japanese language — katakana words. Later in this article, you will learn three basic rules for how to <em>katakanize</em> English words. I am hoping they will help you to be able to <em>katakanize</em> words on your own so that you can  pronounce words of English origin in a way that Japanese speakers can easily understand.</p>
+
+<ul id="markdown-toc">
+  <li><a href="index.html#why-katakanize" id="markdown-toc-why-katakanize">Why Katakanize?</a>    <ul>
+      <li><a href="index.html#nobody-wants-that-oh-no-this-person-is-talking-to-me-in-english-look-right" id="markdown-toc-nobody-wants-that-oh-no-this-person-is-talking-to-me-in-english-look-right">Nobody Wants That "Oh-No-This-Person-Is-Talking-to-Me-in-English Look," Right?</a></li>
+      <li><a href="index.html#japanese-speakers-use-english-loanwords-like-a-lot" id="markdown-toc-japanese-speakers-use-english-loanwords-like-a-lot">Japanese Speakers Use English Loanwords, Like A Lot</a></li>
+      <li><a href="index.html#unpronounceable-english-sounds" id="markdown-toc-unpronounceable-english-sounds">Unpronounceable English Sounds</a></li>
+    </ul>
+  </li>
+  <li><a href="index.html#basic-conversion-rules" id="markdown-toc-basic-conversion-rules">Basic Conversion Rules</a>    <ul>
+      <li><a href="index.html#rule-1-add-vowels" id="markdown-toc-rule-1-add-vowels">Rule #1: Add Vowels</a></li>
+      <li><a href="index.html#rule-2--replace-sounds" id="markdown-toc-rule-2--replace-sounds">Rule #2:  Replace Sounds</a>        <ul>
+          <li><a href="index.html#vowels" id="markdown-toc-vowels">Vowels</a></li>
+          <li><a href="index.html#consonants" id="markdown-toc-consonants">Consonants</a></li>
+        </ul>
+      </li>
+      <li><a href="index.html#rule-3-duplicate-consonants" id="markdown-toc-rule-3-duplicate-consonants">Rule #3: Duplicate Consonants</a></li>
+    </ul>
+  </li>
+  <li><a href="index.html#extra-notes-for-katakanization" id="markdown-toc-extra-notes-for-katakanization">Extra Notes for Katakanization</a>    <ul>
+      <li><a href="index.html#combination-katakana" id="markdown-toc-combination-katakana">Combination Katakana</a></li>
+      <li><a href="index.html#watch-out-for-older-loanwords" id="markdown-toc-watch-out-for-older-loanwords">Watch Out for Older Loanwords</a></li>
+    </ul>
+  </li>
+  <li><a href="index.html#katakanize-like-a-pro" id="markdown-toc-katakanize-like-a-pro">Katakanize Like a Pro</a></li>
+</ul>
+
+<blockquote>
+  <p><strong>Prerequisites:</strong> To get the most out of this article, you should already know katakana (especially how to pronounce them). If you need to brush up, have a look at our <a href="http://www.tofugu.com/japanese/learn-katakana">Ultimate Katakana Guide</a>.</p>
+</blockquote>
+
+<h2 id="why-katakanize">Why Katakanize?</h2>
+
+<p>Before getting into the basic katakanization rules, first, let me explain a little more about why I think you should learn them.</p>
+
+<h3 id="nobody-wants-that-oh-no-this-person-is-talking-to-me-in-english-look-right">Nobody Wants That "Oh-No-This-Person-Is-Talking-to-Me-in-English Look," Right?</h3>
+
+<figure class="figure-middle"><img alt="illustration of two people with one asking where mcdonald's is" src="https://files.tofugu.com/articles/japanese/2022-11-22-katakanization/mcdonalds.jpg" /></figure>
+
+<p>One of the most common reasons I hear some learners (even when their Japanese is pretty advanced) avoid katakanizing English words is, "Why can't I just pronounce English words <em>correctly</em>?"</p>
+
+<p>The answer is pretty simple. Many Japanese speakers wouldn't be able to understand it unless they know the original English pronunciation of the word. Isn't "being able to communicate with Japanese people" the whole point of studying Japanese (at least, for many of you), anyway?</p>
+
+<blockquote class="highlight-left">
+  <p>Code-switching to your native tongue compromises intelligibility.</p>
+</blockquote>
+
+<p>While code-switching to your native tongue may give you some authenticity as the speaker of the original language, it compromises intelligibility. You could try asking "<em>McDonald's-tte doko desu ka?</em>" (Where is McDonald's?) with perfectly-pronounced McDonald's on the street in Japan. You could also try asking where "Seven-Eleven" is without katakanizing it to <em>sebun irebun</em> (セブンイレブン). In either case, you would most likely get that horrified, oh-no-this-person-is-talking-to-me-in-English look.</p>
+
+<p>Note that for katakanized words that are particularly long and can be a little bit trippy, you can usually shorten them — in fact, many Japanese people do! Take the previous example of マクドナルド; this can be shortened to マック or マクド. Similarly, セブンイレブン becomes セブン. So don't worry if you don't have full confidence of pronunciation just at the start.</p>
+
+<h3 id="japanese-speakers-use-english-loanwords-like-a-lot">Japanese Speakers Use English Loanwords, Like A Lot</h3>
+
+<blockquote class="highlight-right">
+  <p>Japanese people use 3,000 - 5,000 loanwords in daily conversations, and 94% of them are of English origin.</p>
+</blockquote>
+
+<p>Names of restaurant and store chains are not the only English words borrowed into the Japanese language. English-derived loanwords have been deeply woven into Japanese, both written and spoken. A study from the 1990s <sup id="fnref:1"><a href="index.html#fn:1" class="footnote">1</a></sup> showed that over 35% of all vocabulary printed in 70 Japanese magazines were foreign loanwords, most of them being of English origin. A 2010 book about <em>wasei eigo</em> (Japan-made English) <sup id="fnref:2"><a href="index.html#fn:2" class="footnote">2</a></sup> also indicated that Japanese people use 3,000 - 5,000 loanwords in daily conversations, and 94% of them are of English origin. Of course, these studies are from years ago, so we probably use even more katakana words in Japanese today. The point is, it's so hard to carry on conversations in Japanese without Western loanwords that Japan even has a <a href="https://gaijinabroad.com/5-japanese-college-drinking-games-you-should-know/">drinking game</a> where you have to take a shot every time you use one!</p>
+
+<p>The portion of English loanwords in Japanese is increasing with the influx of new technologies and concepts are evident in software manuals like: アイコンをダブルクリックしてアプリケーションをインストールします <em>icon-o doubleclick-shite application-o install-shimasu</em> "Doubleclick the icon to install the application." With this, it's becoming all the more beneficial to know how katakanization works. While having to Japanize your native tongue can be a challenge, it may help you become more approachable for people who grew up speaking Japanese.</p>
+
+<h3 id="unpronounceable-english-sounds">Unpronounceable English Sounds</h3>
+
+<p>You may also want to ask why Japanese speakers katakanize English words in the first place. It's simply because many sound patterns in English are not permitted in the Japanese phonology, just like the French guttural <code>/r/</code> isn't in English. One of the (many) reasons why English pronunciation is a pure nightmare for Japanese high school kids is that Japanese does not allow any syllables ending with a consonant with the exception of <code>/n/</code> (ン). English has thousands of words ending with consonants like <em>cat</em>, <em>look</em> and <em>ship</em> but they are simply unpronounceable in the Japanese phonological universe.</p>
+
+<blockquote class="highlight-left">
+  <p>There is no choice other than to katakanize loanwords to make them pronounceable within the Japanese phonology.</p>
+</blockquote>
+
+<p>Complex syllables like <em>strength</em>, <em>sixth</em> and <em>clothes</em> are even more unpronounceable for Japanese speakers because the Japanese phonology doesn't permit two or more consonants to be squeezed together. The English <code>/th/</code> sound is totally impermissible in Japanese — in fact, in most human languages <sup id="fnref:3"><a href="index.html#fn:3" class="footnote">3</a></sup> — and therefore needs to be replaced with the closest Japanese sound <code>/s/</code> as in <em>surī</em> (スリー) "three." Simply put, there is no choice other than to katakanize them to make them pronounceable within the Japanese phonology.</p>
+
+<p>So katakanization doesn't exactly happen because of the writing system. It's precisely because of the Japanese phonology that governs how words are pronounced in the language.</p>
+
+<h2 id="basic-conversion-rules">Basic Conversion Rules</h2>
+
+<figure class="figure-middle"><img alt="illustration of three katakanization rules" src="https://files.tofugu.com/articles/japanese/2022-11-22-katakanization/rules.jpg" /></figure>
+
+<p>So how exactly does katakanization work? Although we have some exceptions, there are three basic conversion rules that native Japanese speakers subconsciously apply.</p>
+
+<p><em>Note: IPA symbols we use in this article are based on American English pronunciations.</em></p>
+
+<h3 id="rule-1-add-vowels">Rule #1: Add Vowels</h3>
+
+<blockquote class="blockquote-no-border">
+  <p><strong>When a consonant is not immediately followed by a vowel, you add a vowel.</strong></p>
+</blockquote>
+
+<p>This is because each sound usually involves a vowel in Japanese. The ン (<code>/n/</code>, or <code>/m/</code>) sound is an exception, but besides that, a unit of Japanese sounds is either a single vowel like ア <code>/a/</code> - イ <code>/i/</code> - ウ <code>/u/</code> - エ <code>/e/</code> - オ <code>/o/</code>, or a set of consonant and a vowel like カ <code>/ka/</code> - キ <code>/ki/</code> - ク <code>/ku/</code> - ケ <code>/ke/</code> - コ <code>/ko/</code>. If you know how katakana works, this probably makes sense to you.</p>
+
+<p>Now, what vowel should I be adding, right? That is:</p>
+
+<ul>
+  <li><code>/o/</code> after <code>/t/</code> or <code>/d/</code></li>
+  <li><code>/i/</code> after <code>/ch/</code> or <code>/j/</code></li>
+  <li>Nothing after <code>/n/</code> and <code>/r/</code></li>
+  <li><code>/u/</code> elsewhere.</li>
+</ul>
+
+<p>Let's use the word "risk" as an example. First, <em>r</em> is followed by a vowel <em>i</em>, so you just leave it alone. But the rest, <em>s</em> and <em>k</em> are not followed by a vowel. For <em>s</em>, you add <em>u</em>. For <em>k</em>, add <em>u</em>. And you'll get <em>ri-su-ku</em> — リスク.</p>
+
+<p>Take a look at another example — the word "size." When you try to parse it, you see two pairs of a consonant and a vowel — <em>si</em> and <em>ze</em>. So it would be… シゼ…? No, not that. Be careful not to get confused with the spelling and the sound. The word "size" sounds like "saiz," right? In case you can't think of the phonetic spelling off the top of your head, there are converters like <a href="https://tophonetics.com/?utm_source=tofugu">this</a> that might come handy for katakanization. Now, going back to the "size (saiz)", <em>z</em> is the only sound that's not followed by a vowel. So you add a <em>u</em> there, and now you've got <em>sa-i-zu</em> — サイズ. That's how you write and say "size" in Japanese.</p>
+
+<h3 id="rule-2--replace-sounds">Rule #2:  Replace Sounds</h3>
+
+<blockquote class="blockquote-no-border">
+  <p><strong>Replace illegitimate sounds with similar legitimate Japanese sounds.</strong></p>
+</blockquote>
+
+<p>You might already know this, but the Japanese language has fewer sounds than the sounds English has. Like I mentioned earlier, the <em>th</em> <code>/θ/</code> sound doesn't really exist in Japanese, and the closest sound is the <em>s</em> sound. This is why "three" becomes <em>surii</em> (スリー) and "thank you" becomes <em>sankyū</em> (サンキュー) in Japanese. Just like that, for sounds that the Japanese language doesn't have, you'll be replacing sounds with the Japanese equivalents. Now let's take a deeper look.</p>
+
+<h4 id="vowels">Vowels</h4>
+
+<p>As you may know, Japanese has only five vowel sounds ア, イ, ウ, エ, and オ. That's obviously more limited compared to English — for example, English has three "a" sounds (<code>/æ/</code>, <code>/ʌ/</code>, <code>/ə/</code>), but ア replaces them all.</p>
+
+<table class="table table-responsive table-bordered">
+  <tr>
+    <td rowspan="2"></td>
+    <td rowspan="2">IPA</td>
+    <td colspan="2">Examples</td>
+  </tr>
+  <tr>
+    <td>US English</td>
+    <td>Japanese</td>
+  </tr>
+  <tr>
+    <td rowspan="3">ア</td>
+    <td>æ</td>
+    <td>apple /ˈ<u>æ</u>pəl/</td>
+    <td><strong><u>ア</u></strong>ップル</td>
+  </tr>
+  <tr>
+    <td>ʌ</td>
+    <td>umbrella /<u>ʌ</u>mˈbɹɛlə/</td>
+    <td><strong><u>ア</u></strong>ンブレラ</td>
+  </tr>
+  <tr>
+    <td>ə</td>
+    <td>account /<u>ə</u>ˈkaʊnt/</td>
+    <td><strong><u>ア</u></strong>カウント</td>
+  </tr>
+  <tr>
+    <td>イ</td>
+    <td>ɪ</td>
+    <td>east /<u>i</u>ːst/</td>
+    <td><strong><u>イ</u></strong>ースト</td>
+  </tr>
+  <tr>
+    <td>ウ</td>
+    <td>ʊ</td>
+    <td>oops /<u>ʊ</u>ps/</td>
+    <td><strong><u>ウ</u></strong>ップス</td>
+  </tr>
+  <tr>
+    <td>エ</td>
+    <td>ɛ</td>
+    <td>every day /ˈ<u>ɛ</u>vɹiˌdeɪ/</td>
+    <td><strong><u>エ</u></strong>ブリデイ</td>
+  </tr>
+  <tr>
+    <td>オ</td>
+    <td>ɔ</td>
+    <td>on /<u>ɔ</u>n/</td>
+    <td><strong><u>オ</u></strong>ン</td>
+  </tr>
+</table>
+
+<p>All examples above start with vowels for the sake of example, but of course, this replacement rule applies to a combination of vowels and consonants.</p>
+
+<table class="table table-responsive table-bordered">
+    <tr>
+        <td>hat /ˈ<u>hæ</u>t/</td>
+        <td rowspan="2"><strong><u>ハ</u></strong>ット</td>
+    </tr>
+    <tr>
+        <td>hut /<u>hʌ</u>t/</td>
+    </tr>
+</table>
+
+<p>Words "hat" and "hut" — they have the different "a" sounds, but in Japanese, they both get converted to ハット because the <code>/æ/</code> and <code>/ʌ/</code> sounds both replace to ア. This means "cowboy hat" (カウボーイハット) and "Pizza Hut" (ピザハット) — they both use ハット despite the difference in the English sounds.</p>
+
+<p>Also, when it comes to vowels, pay attention to the <em>length</em> of the vowel in question. Long, extended vowel sounds are represented as "ー," the hyphen-looking symbol in Japanese. For example, "pull" is プル (<em>puru</em>), but "pool" is プール (<em>pūru</em>). An <code>/r/</code> after a vowel as in car, four and earth becomes the extension of the vowel as well. So, much like in British English, car is カー (<em>kā</em>), four is フォー (<em>fō</em>) and earth is アース (<em>āsu</em>).</p>
+
+<h4 id="consonants">Consonants</h4>
+
+<p>Now, onto consonants! Just like some of the vowels, there are several English consonant sounds that don't really exist in Japanese, and thus get replaced with the closest sound instead. Here are some examples.</p>
+
+<table class="table table-responsive table-bordered">
+  <tr>
+    <td rowspan="2"></td>
+    <td rowspan="2">IPA</td>
+    <td colspan="2">Examples</td>
+  </tr>
+  <tr>
+    <td>US English</td>
+    <td>Japanese</td>
+  </tr>
+  <tr>
+    <td rowspan="2">s-sounds <br />サシスセソ</td>
+    <td>s</td>
+    <td>mouse /ˈmaʊ<u>s</u>/</td>
+    <td rowspan="2">マウ<strong><u>ス</u></strong></td>
+  </tr>
+  <tr>
+    <td>θ</td>
+    <td>mouth /ˈmaʊ<u>θ</u>/</td>
+  </tr>
+  <tr>
+    <td rowspan="2">b-sounds <br />バビブべボ</td>
+    <td>b</td>
+    <td>berry /ˈ<u>b</u>ɛri/</td>
+    <td rowspan="2"><u><strong>ベ</strong></u>リー</td>
+  </tr>
+  <tr>
+    <td>v</td>
+    <td>very /ˈ<u>v</u>ɛri/</td>
+  </tr>
+  <tr>
+    <td rowspan="2">r-sounds <br />ラリルレロ</td>
+    <td>l</td>
+    <td>lease /ˈ<u>l</u>iːs/</td>
+    <td rowspan="2"><strong><u>リ</u></strong>ース</td>
+  </tr>
+  <tr>
+    <td>r</td>
+    <td>wreath /ˈ<u>r</u>iːθ/</td>
+  </tr>
+  <tr>
+    <td rowspan="2">jy-sounds <br />ジャジュジョ</td>
+    <td>dʒ</td>
+    <td>legion /ˈli<u>ʤ</u>ən/</td>
+    <td rowspan="2">リー<strong><u>ジョ</u></strong>ン</td>
+  </tr>
+  <tr>
+    <td>ʒ</td>
+    <td>lesion /ˈli<strong><u>ʒ</u></strong>ən/</td>
+  </tr>
+  <tr>
+    <td rowspan="2">z-sounds <br />ザジズゼゾ</td>
+    <td>ð</td>
+    <td>then /<u>ð</u>ɛn/</td>
+    <td rowspan="2"><strong>ゼ</strong>ン</td>
+  </tr>
+  <tr>
+    <td>z</td>
+    <td>zen /<u>z</u>ɛn/</td>
+  </tr>
+</table>
+
+<p>Now, looking at this list, can you guess what the word "belly" would look like in katakana?</p>
+
+<p>Belly would be ベリー, just like "berry" and "very." That's because there's no difference in sound between "b" and "v" nor "r" and "l" in Japanese. ベリー interesting (…and potentially ベリー confusing), right?</p>
+
+<p>There are also a few consonant + vowel pairs that we pronounce differently in English yet get represented with the same katakana character in Japanese. These differences might be more subtle than the ones shown above, but for example, si and shi both become シ. So "sea" and "she" both become シー in katakana. Similarly, the voiced versions of these sounds, "zi" and "ji" both become ジ.</p>
+
+<h3 id="rule-3-duplicate-consonants">Rule #3: Duplicate Consonants</h3>
+
+<blockquote class="blockquote-no-border">
+  <p><strong>Duplicate the "stop" consonant at the end of the word if it occurs after a short vowel.</strong></p>
+</blockquote>
+
+<p>Bit, dip, look… What makes these words sound so skippy? It is the quick "pause" between sounds. In romaji to represent this kind of sound, we use duplicated consonants like <em>bitto</em>, right? In katakana, we use ッ (the small tsu) as in ビット to represent these quick pauses. You'll be duplicating the "stop" consonants, which are <code>/p/</code>, <code>/b/</code>, <code>/ch/</code>, <code>/j/</code>, <code>/t/</code>, <code>/d/</code>, <code>/k/</code> and <code>/g/</code> — sounds you make by blocking the air flow.</p>
+
+<p>Now, let's practice katakanizing "dip" and "look" — "dip" becomes ディップ (<em>di<u>pp</u>u</em>) and "look" becomes ルック(<em>ru<u>kk</u>u</em>). Are you getting the gist?</p>
+
+<p>Bear in mind this rule generally applies to the <em>last</em> syllable only. For example, picnic becomes <em>pikunikku</em> (ピクニック) instead of <em>pi<u>kk</u>unikku</em> (ピックニック). Also don't forget this only happens to the consonant after a <em>short</em> vowel as opposed to long vowels, like beat, deep, or Luke.</p>
+
+<h2 id="extra-notes-for-katakanization">Extra Notes for Katakanization</h2>
+
+<figure class="figure-middle"><img alt="illustration of a person thinking about the correct katakinization for cake" src="https://files.tofugu.com/articles/japanese/2022-11-22-katakanization/cake.jpg" /></figure>
+
+<p>Congrats, you've just learned the three basic rules of katakanization! Although these three rules account for most katakanization processes, they won't simply make you a master of katakanization. You'll still encounter curve balls and some tricky ones — for these, you still need to make small adjustments here and there.</p>
+
+<h3 id="combination-katakana">Combination Katakana</h3>
+
+<p>If you're hoping to take your katakanization to the next level, it would be a good idea to review <a href="../learn-katakana/index.html#combination-katakana">combination katakana</a>. Combination katakana are katakana characters made of a combination with a small character like フォ, ティ, or ジュ.</p>
+
+<p>For example, you might expect "cat" to become <em>katto</em> (カット), but it actually has to be <em>kyatto</em> (キャット) because the vowel of cat makes the <em>c</em> sound more like the Japanese <code>/kya/</code> sound than the <code>/ka/</code> sound. Similarly, "gap" becomes <em>gyappu</em> (ギャップ) instead of <em>gappu</em> (ガップ). That's too easy? These might be relatively common katakana combinations, but there are some curveballs you might not be so familiar with — like トゥ as in トゥモロー (tomorrow), or デュ as in デュエット (duet).</p>
+
+<p>These combination katakana are the unsung heroes of katakana. They allow us to represent sounds that we didn't have in Japanese — the sounds are even closer to the original English pronunciations.</p>
+
+<blockquote class="highlight-right">
+  <p>Today, loanwords have a tendency to apply combination katakana to better represent the original sounds.</p>
+</blockquote>
+
+<p>However, combination katakana can be less familiar and not-so-easy-to-pronounce for Japanese speakers, especially older folks. Today, loanwords have a tendency to apply combination katakana to better represent the original sounds, but this wasn't always the case. For example, "idea" used to be commonly written as アイデア in katakana, but these days, アイディア is far more common. And, this leads to the next note: watch out for older loanwords!</p>
+
+<h3 id="watch-out-for-older-loanwords">Watch Out for Older Loanwords</h3>
+
+<p>Some of you may have already noticed common English loanwords don't really follow the basic rules. Like, <em>kēki</em> (ケーキ) "cake" not being <em>kēku</em> (ケーク), <em>rajio</em> (ラジオ) "radio" not being <em>reidio</em> (レイディオ) and <em>kariforunia</em> (カリフォルニア) "California" nor being <em>kyarifōnia</em> (キャリフォーニア). That is because these words are relatively old borrowings that came to Japan before the conversion rules became consistent.</p>
+
+<blockquote class="highlight-left">
+  <p>Older loanwords are often the way they are for customary reasons — you'll need to remember how to spell them in katakana.</p>
+</blockquote>
+
+<p>As you might've noticed, a part of this reason is the no-use of combination katakana.  Sounds that we traditionally didn't have or uncommon sounds in Japanese were replaced with ones easier to pronounce and recognize for Japanese speakers. So if they were borrowed today, they would be katakanized differently — like レイディオ. However, many of them remain the same despite the change as we are already used to the way they are! That means, older loanwords are often the way they are for customary reasons — you'll need to remember how to <em>spell</em> them in katakana.</p>
+
+<h2 id="katakanize-like-a-pro">Katakanize Like a Pro</h2>
+
+<p>Katakanization can be a challenge for native-English-speaking learners, even those who are already fluent in Japanese. However, don't forget learning how to katakanize will not only help you better acclimate to Japanese phonology and improve your overall pronunciation, but also make your spoken Japanese more comprehensible and approachable. And if you look at it from a different perspective — being an English speaker can also be an advantage in Japanese learning if you know how katakanization works. When you start being able to convert English words to katakana smoothly, and recognize more katakana words that Japanese speakers use, you would be surprised how many words you know already!</p>
+
+<p>I hope the three basic rules and extra tips help you build a good foundation for katakana conversion. It is a highly practical skill and potentially a game changer to bring your Japanese to the next level. So, keep katakanizing and keep learning — Guddo rakku!</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p><a href="https://www.anlp.jp/proceedings/annual_meeting/2004/pdf_dir/P6-3.pdf">現代雑誌における語種構成 by 山崎 誠・小沼 悦 (2004)</a> <a href="index.html#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p><a href="https://www.amazon.co.jp/dp/4787710095">和製英語と日本人-言語・文化接触のダイナミズム by ジェームズ スタンロー (2010)</a> <a href="index.html#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:3">
+      <p><a href="https://wals.info/feature/19A#3/-9.44/70.54">Feature 19A: Presence of Uncommon Consonants by The World Atlas of Language Structures Online</a> <a href="index.html#fnref:3" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+<aside class="blog-post-highlight article-sources"><div class="container"><h4>Sources</h4><ul><li><a href="https://www.anlp.jp/proceedings/annual_meeting/2004/pdf_dir/P6-3.pdf" title="View source">現代雑誌における語種構成 by 山崎 誠・小沼 悦 (2004)</a></li><li><a href="https://www.amazon.co.jp/dp/4787710095" title="View source">和製英語と日本人-言語・文化接触のダイナミズム by ジェームズ スタンロー (2010)</a></li><li><a href="https://www.amazon.co.jp/Introduction-Japanese-Phonology-Suny-Linguistics/dp/0887063608" title="View source">An introduction to Japanese phonology by Timothy J Vance (1987)</a></li><li>An investigation of the katakana spelling of English loan-words in Japanese by Ayako Yamagata (1999)</li><li><a href="https://www.amazon.co.jp/Japanese-Loanword-Phonology%E2%80%95-Sublexicon-Linguistics/dp/4894764423" title="View source">Japanese Loanword Phonology: The Nature of Inputs and the Loanword Sublexicon by Masahiko Mutsukawa (2009)</a></li><li>Multiple scansions in loanword phonology: Evidence from Cantonese by Daniel Silverman (1992)</li></ul></div></aside>
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-articles japanese-prev japanese-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='../tokoro-bakari/index.html' title='View ばかり (Bakari) vs ところ (Tokoro): Two Ways to Say You &quot;Just&quot; Did Something'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+ばかり (Bakari) vs ところ (Tokoro): Two Ways to Say You "Just" Did Something
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='../expressing-uncertainty-in-japanese/index.html' title='View 11 Japanese Expressions for Different Levels of Uncertainty'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+11 Japanese Expressions for Different Levels of Uncertainty
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japanese'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='../expressing-uncertainty-in-japanese/index.html' title='View 11 Japanese Expressions for Different Levels of Uncertainty'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older japanese' class='older-article-pagination'></span>
+</small>
+11 Japanese Expressions for Different Levels of Uncertainty
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='../tokoro-bakari/index.html' title='View ばかり (Bakari) vs ところ (Tokoro): Two Ways to Say You &quot;Just&quot; Did Something'>
+<small>
+<span aria-label='Newer japanese' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+ばかり (Bakari) vs ところ (Tokoro): Two Ways to Say You "Just" Did Something
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='../../about/index.html' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.2' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs/index.html' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese/index.html' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='../../news/index.html' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='../../newsletter/index.html' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='../../podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='../../feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="../../javascripts/master-2164c2ee.js" defer="defer"></script><script src="../../javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

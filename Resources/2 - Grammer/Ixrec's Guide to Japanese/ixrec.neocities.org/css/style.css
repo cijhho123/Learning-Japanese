@@ -1,0 +1,351 @@
+@charset "UTF-8";
+
+:root {
+    --std-inline-gap: 1rem;
+    --std-block-gap: 1.5rem;
+}
+
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+/* Prevent font size inflation */
+html {
+    -moz-text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    text-size-adjust: none;
+}
+
+/* Remove default margin in favour of better control in authored CSS */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+figure,
+blockquote,
+dl,
+dd {
+    margin-block-end: 0;
+}
+
+/* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
+ul[role="list"],
+ol[role="list"] {
+    list-style: none;
+}
+
+/* Set core body defaults */
+body {
+    min-height: 100vh;
+    line-height: 1.5;
+}
+
+[lang="ja"] {
+    font-size: clamp(1rem, 1.5em, 2rem);
+    font-family: "Noto Serif CJK JP", "IPAexMincho", "IPAMincho", "IPAPMincho", "Yu Mincho", serif;
+}
+
+/* Set shorter line heights on headings and interactive elements */
+h1,
+h2,
+h3,
+h4,
+button,
+input,
+label {
+    line-height: 1.1;
+}
+
+/* Balance text wrapping on headings */
+h1,
+h2,
+h3,
+h4 {
+    text-wrap: balance;
+}
+
+/* A elements that don't have a class get default styles */
+a:not([class]) {
+    text-decoration-skip-ink: auto;
+    color: royalblue;
+}
+
+/* Make images easier to work with */
+img,
+picture {
+    max-width: 100%;
+    display: block;
+}
+
+/* Inherit fonts for inputs and buttons */
+input,
+button,
+textarea,
+select {
+    font: inherit;
+}
+
+/* Make sure textareas without a rows attribute are not tiny */
+textarea:not([rows]) {
+    min-height: 10em;
+}
+
+/* Anything that has been anchored to should have extra scroll margin */
+:target {
+    scroll-margin-block: 5ex;
+}
+
+/* Index styling */
+
+html,
+body {
+    min-height: 100%;
+    min-height: 100dvh;
+}
+
+body {
+    font-size: 1rem;
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    flex-direction: column;
+}
+
+body > main {
+    margin: var(--std-block-gap) var(--std-inline-gap);
+    flex-grow: 1;
+}
+
+body > *:not(main) {
+    flex-shrink: 0;
+}
+
+a,
+a:visited {
+    color: royalblue;
+    filter: hue-rotate(0deg) brightness(75%);
+    transition: filter 0.15s ease;
+}
+
+a:hover {
+    filter: hue-rotate(-25deg) brightness(100%);
+}
+
+header {
+    --fs-large: 1.8rem;
+
+    display: flex;
+    padding: var(--std-block-gap) var(--std-inline-gap);
+    background-color: rgb(5, 17, 37);
+    color: white;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    flex-flow: row nowrap;
+}
+
+header h1 {
+    padding: 0;
+    margin: 0;
+    font-size: var(--fs-large);
+    display: flex;
+    flex-flow: row wrap;
+}
+
+header a.hlink,
+header a.hlink:visited {
+    text-decoration: none;
+    color: hsl(187, 33%, 90%);
+}
+
+header .hsep {
+    content: "";
+    display: inline-block;
+    width: 0.1em;
+    height: 1.2em;
+    background-color: currentColor;
+    margin: 0 0.3em -0.24em;
+    rotate: 30deg;
+}
+
+header a.chat-link {
+    content: url("../extra/chat-icon.svg");
+    width: var(--fs-large);
+    aspect-ratio: 1 / 1;
+    filter: invert(0.8);
+}
+
+header a.chat-link:is(:hover, :focus) {
+    filter: invert(1);
+}
+
+footer {
+    margin-top: auto;
+    background-color: hsl(33, 51%, 80%);
+    padding: var(--std-block-gap) var(--std-inline-gap);
+    text-align: center;
+    display: grid;
+    place-items: center;
+}
+
+footer .bottom-nav {
+    margin: 0;
+    padding: 0;
+    max-width: max-content;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    gap: 2ch;
+}
+
+/* block quotes */
+
+blockquote {
+    border-inline-start: 3px solid;
+    margin-inline: 0 0;
+    padding-inline-start: 1rem;
+}
+
+/* Tables */
+
+table,
+td,
+th {
+    border: 1px solid rgb(0 0 0 / 0.5);
+}
+
+table {
+    margin-inline: auto;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+caption,
+th,
+td {
+    padding: 3px;
+    text-align: left;
+}
+
+th {
+    background-color: rgb(0 0 0 / 0.05);
+}
+
+tr:nth-of-type(2n) {
+    background-color: rgb(0 0 0 / 0.07);
+}
+
+/* Japanese media recommendations */
+
+.jp-recs-table p {
+    margin: 0 0 0.5rem;
+}
+
+.jp-recs-table thead {
+    /* Hide the table head with A B C D... column names. */
+    display: none;
+}
+
+.jp-recs-table  tr:has(.freezebar-horizontal-handle) {
+    /* Hide the empty row (line) */
+    display: none;
+}
+
+.jp-recs-table tr:first-child {
+    background-color: hsla(180, 51%, 35%, 0.33);
+    font-weight: 600;
+}
+
+.jp-recs-table img {
+    min-width: 180px;
+    max-width: 380px;
+}
+
+@media (max-width: 750px) {
+    main:has(.jp-recs-table) {
+        margin-inline: 0;
+    }
+
+    /* Make Japanese media recommendations more responsive. */
+
+    .jp-recs-table tr:first-of-type,
+    .jp-recs-table tr > th:first-of-type {
+        /* Hide column names (title, ranking, etc.) and row numbers (1,2,3) */
+        display: none;
+    }
+
+    .jp-recs-table :where(th, td) {
+        /* Each column becomes a block */
+        width: auto;
+        border: none;
+        display: block;
+        overflow-wrap: anywhere;
+    }
+
+    .jp-recs-table td::before {
+        display: inline-block;
+        margin-inline-end: 1ch;
+        font-weight: 600;
+        text-transform: capitalize;
+    }
+
+    /* Ranking, Title, Difficulty Explanation, Description, Picture */
+    .jp-recs-table td:nth-of-type(1)::before {
+        content: "Ranking:";
+    }
+
+    .jp-recs-table td:nth-of-type(2)::before {
+        content: "Title:";
+    }
+
+    .jp-recs-table td:nth-of-type(3)::before {
+        content: "Difficulty:";
+    }
+
+    .jp-recs-table td:nth-of-type(4)::before {
+        content: "Description:";
+    }
+
+    .jp-recs-table td:nth-of-type(5)::before {
+        content: "Picture:";
+    }
+
+    .jp-recs-table td:nth-of-type(6)::before {
+        content: "Medium:";
+    }
+
+    /* YouTube-specific column names */
+    /* Channel Name, Genre, Description, Picture, Example Video */
+    .jp-recs-youtube td:nth-of-type(1)::before {
+        content: "Channel:";
+    }
+
+    .jp-recs-youtube td:nth-of-type(2)::before {
+        content: "Genre:";
+    }
+
+    .jp-recs-youtube td:nth-of-type(3)::before {
+        content: "Description:";
+    }
+
+    .jp-recs-youtube td:nth-of-type(4)::before {
+        content: "Picture:";
+    }
+
+    .jp-recs-youtube td:nth-of-type(5)::before {
+        content: "Example:";
+    }
+}
+
+/* Wide tables */
+
+.table-wrap {
+    max-width: 100%;
+    overflow-x: auto;
+}

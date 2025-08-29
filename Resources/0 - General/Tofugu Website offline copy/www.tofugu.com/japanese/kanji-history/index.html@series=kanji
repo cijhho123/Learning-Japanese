@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Koichi' name='author'>
+<meta content='Learn where kanji came from, how it developed, and where it&#39;s going next.' name='description'>
+<meta content='kanji, history' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Learn where kanji came from, how it developed, and where it&#39;s going next.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2010-03-22-kanji-history/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='The History Of Kanji' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japanese/kanji-history/' property='og:url'>
+<meta content='https://www.tofugu.com/japanese/best-kanji-learning-programs/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/onyomi-kunyomi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-homophones/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/a-guide-to-reading-and-writing-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/the-meaning-of-kuni/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-find-the-kanji-radical/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kanji-study-methods/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/what-i-learned-about-learning-japanese-from-spending-3-weeks-in-taiwan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/borrowing-language/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/look-up-kanji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/yojijukugo-idioms/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/your-name-in-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kana-changes-in-history/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kanji-kentei/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/seinfeld-kanji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/forgetting-kanji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/skritter/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kanji-sonomama/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-learn-kanji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kanji-learning-mistakes/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/furigana/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/must-use-kanji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/abashiri-prison-museum/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/maach-ecute/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tofugu-favorite-posts-2016/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/state-shinto/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/itadakimasu-meaning/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/higuchi-ichiyo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/otaku-meaning/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/moshi-moshi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ancient-japanese-weapons/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/queen-himiko/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/rice-cooker-history/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/katsuobushi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/hiroaki-sato-legends-of-the-samurai/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/history-of-christianity/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/showa-a-history-of-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/bushido/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/oldest-businesses-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-legal-loopholes/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kamaboko-fish-cake/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/satou-japanese-name/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/komainu/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/history-of-japanese-names/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/cow-poop-is-a-japanese-surname/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/origami/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/onigiri-japanese-rice-ball/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ryukyu-king-parade/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/history-of-ramen/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kato-kiyomasa/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/karuta-japanese-cards/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/rice-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tomoe-gozen/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/sannai-maruyama-jomon-historical-site/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tenugui/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/silent-era-anime/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/narita-airport-history/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-mustache/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/wasabi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ainu-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ryukyu-dynasty-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/chopsticks-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/mt-fuji-the-ticking-timebomb/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tanaka-hisashige/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/maneki-neko/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-architecture/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/rajio-taiso/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-beer-wars/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/fart-scrolls/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/hentaigana-history-of-japanese-writing-system/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/country-names-for-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/burakumin/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/yamato-kotoba-language/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Koichi' property='article:author'>
+<meta content='2010-03-22T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japanese' property='article:section'>
+<meta content='kanji' property='article:tag'>
+<meta content='history' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@tofugu' name='twitter:creator'>
+<meta content='Learn where kanji came from, how it developed, and where it&#39;s going next.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2010-03-22-kanji-history/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='The History Of Kanji' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#d33682' name='twitter:widgets:link-color'>
+<meta content='#d33682' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-koichi-0d7c291b.jpg",
+    "jobTitle": "President",
+    "name": "Koichi",
+    "sameAs": [
+
+    ],
+    "url": "https://www.tofugu.com/about/people/koichi/",
+    "description": "Jaered Koichi Croes is the founder of Tofugu, LLC (we make Tofugu and WaniKani). In his free time, he cheers for the Mariners, plays kendo, and thinks about education.",
+    "email": "koichi@tofugu.com"
+  },
+  "datePublished": "2010-03-22T00:00:00Z",
+  "description": "Learn where kanji came from, how it developed, and where it's going next.",
+  "headline": "Kanji History - The Origins of Japan's Writing System",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japanese/2010-03-22-kanji-history/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japanese/2010-03-22-kanji-history/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "kanji, history",
+  "name": "Kanji History - The Origins of Japan's Writing System",
+  "url": "https://www.tofugu.com/japanese/kanji-history/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2010-03-22T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japanese/kanji-history/"
+}
+</script>
+
+<title>Kanji History - The Origins of Japan's Writing System</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="../../stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japanese/kanji-history/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='../../apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='../../apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='../../apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='../../apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='../../apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='../../favicon.png' rel='shortcut icon'>
+<link href='../../favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japanese japanese_kanji-history japanese_kanji-history_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='../../index.html'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../index.html' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='../index.html' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.2' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='../../japanese-learning-resources-database/index.html' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../../japan/index.html' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='../../japan/index.html' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../series/index.html' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../travel/index.html' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../reviews/index.html' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../interviews/index.html' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='../../podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=kanji#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(../../images/layout/placeholders/articles/japanese/header-2560x-b6dd1c83.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="../../images/layout/placeholders/articles/japanese/header-640x-106fe370.jpg" alt="Header 640x 106fe370" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+The History Of Kanji
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+Where did kanji come from, anyway?
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2010-03-22T00:00:00Z">March 22, 2010</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/koichi/index.html" rel="author">Koichi</a>
+•
+Art by
+<a href="../../about/people/aya-francisco/index.html">Aya Francisco</a>
+</span>
+</p>
+<p class='article-series series-kanji hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="../../series/kanji/index.html">Tofugu's Kanji Knowledge Database
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<figure class="figure-right"><img alt="chinese emperors chatting kanji history" style="width: 230px;" src="https://files.tofugu.com/articles/japanese/2010-03-22-kanji-history/chinese-emperors-chatting.png" /></figure>
+
+<p>To start Shark… er… Kanji Week off, I thought it would be important to tell you a bit about kanji history (i.e. where kanji originally came from). Kanji's history is a bit muddled and goes back a long ways, but that hasn't stopped anyone from coming up with some pretty solid theories on how it all went down in Chinatown.</p>
+
+<h2 id="where-it-all-begins-turtles-had-it-rough">Where It All Begins (Turtles Had It Rough)</h2>
+
+<figure class="figure-middle"><img alt="kanji history turtle" src="https://files.tofugu.com/articles/japanese/2010-03-22-kanji-history/turtle.png" /></figure>
+
+<p>Now, this is just a theory (though people seem to like it), but way back in the day in China (we're talking 2000BC-ish, that's around 4000 years ago) people needed to ask questions to the heavens. How did they ask questions? Not by shouting at the sky. Instead, they'd take turtle shells or animal bones and burn them.</p>
+
+<p>Now, when a turtle shell or animal bone gets burned, cracks form. From there, they'd analyze these cracks and write them down (i.e. copy them down), pulling meaning from them by comparing the cracks to real life things (i.e. if the cracks looked like something, they'd attribute some meaning to it). By killing lots of turtles, you could figure out if it was going to rain, if there'd be a disaster, or whatever you want (heck, you're pulling meaning from burnt turtle shells here).</p>
+
+<p>After a while, since the scribes kept a record of all these cracked turtle shells and animal bones, they would start to replicate these "symbols" back onto not-burnt turtle shells. My guess is they thought the burnt cracks were a message from the Gods, and by replicating them and "sending them back" they could ask for the things they want (after they figured out what the cracks meant in the first place). This is why there are a good number of turtle shells with Chinese characters written on them from around this era. Poor turtles. Here, you can take a look at tortoiseshell writing, and get an idea how it evolved over time:</p>
+
+<figure class="figure-middle"><img alt="history kanji evolution" src="https://files.tofugu.com/articles/japanese/2010-03-22-kanji-history/kanji-evolution.gif" /></figure>
+
+<p>I'm pretty sure they misread the "Dance" symbol for "B51 Bomber dropping fish for great China glory."</p>
+
+<h2 id="where-it-becomes-writing">Where It Becomes "Writing"</h2>
+
+<p>The above turtle-shell burnings were the base and foundation of the Chinese writing system, but it wasn't until the Zhou Dynasty (after the previous turtle-shell burning Shang Dynasty) that things started getting interesting. The Shang Dynasty disappeared, and the Zhou Dynasty found all these turtle shells and were like "dang, this could be a kind of writing system." From there, they started documenting events, cool people, and the like using these turtle-shell characters. However, scribes of this dynasty never really took the time to study the originals, so they started making things up. If they didn't know a character, they'd come up with an approximation, which of course lead to a lot of kanji being born (as well as a lot of inconsistency in the writing). There were multiple kingdoms and multiple ways to write, and I imagine reading was a bit confusing since nobody followed the originals 100%. Confucius even complained about this apparently, which isn't that surprising, because Confucius was a big whiner. Somebody call the Whaambulance… Whaaa, whaaa.</p>
+
+<figure class="figure-middle"><img alt="history angry kanji" src="https://files.tofugu.com/articles/japanese/2010-03-22-kanji-history/angry-kanji.png" /></figure>
+
+<p>It wasn't until the Qin Dynasty (that's like 221 BC) that China was united under one kingdom, and the writing system was united as well. LiSu (the Prime Minister) writes an index of all the required characters scholars should learn, which contains 3,300 different kanji. That means everyone finally did kanji the same way, and Kanji finally got useful (and ready to make its way to Japan). Just a quick aside: sadly, this 3,300 kanji list doesn't last. Smart people learn 10,000+ kanji in China, and up to 8,000 kanji in Japan (where kanji is, thankfully, not used in absolutely <em>everything</em>). Luckily, you can get by really comfortably with around 2,000.</p>
+
+<h2 id="how-kanji-came-to-japan">How Kanji Came To Japan</h2>
+
+<figure class="figure-middle"><img alt="history kanji from korea" src="https://files.tofugu.com/articles/japanese/2010-03-22-kanji-history/kanji-from-korea.png" /></figure>
+
+<p>Of course, if you've been reading up until now, you can probably guess that kanji came from China to Japan, probably via the Korean Peninsula (it's super close to Japan). At this point in history, Japan didn't have its own writing system (which means they probably talked a lot, blah blah blah blah), and although nobody is <em>quite</em> sure when Japan started using the Chinese script, it was probably Chinese immigrants who first started using it and then it caught on from there. Sometime around 500 AD we know that groups called Fuhito were formed to read Classical Chinese, which probably means it started getting wider acceptance around that time.</p>
+
+<p>Of course, the Chinese and Japanese languages were (and are) quite different, which means adoption of kanji couldn't have been easy. Lots of modifications and changes to the pronunciation and way of writing had to happen in order to fit Kanji to the Japanese language, which is why you see On'Yomi, Kun'Yomi, and <a href="../learn-hiragana/index.html">funny phonetic alphabets like hiragana</a> appearing soon after.</p>
+
+<p><strong>Update:</strong> Thanks to @lianaleslie on Twitter, here's another "explanation" on the origin of kanji. Not only does this dude have four eyes, but he has EIGHT pupils as well. How cool is that?</p>
+
+<blockquote>
+  <p>Cangjie is a very important figure in ancient China (c. 2650 BC), claimed to be an official historian of the Yellow Emperor and the inventor of Chinese characters.Legend has it that he had four eyes and eight pupils, and that when he invented the characters, the deities and ghosts cried and the sky rained millet. <a href="https://en.wikipedia.org/wiki/Cangjie">Read More about this wicked sweet Chinese dude</a></p>
+</blockquote>
+
+
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-kanji hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2016-04-28-kanji/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='../../series/kanji/index.html' title='View all articles in Series Tofugu&#39;s Kanji Knowledge Database'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+Tofugu's Kanji Knowledge Database
+</span>
+</a>
+</li>
+<li class='pager-next'>
+<a href='../kanji-kentei/index.html@series=kanji' title='View The Ultimate Kanji Test: Kanji Kentei'>
+<small>
+Next Article in Series
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+The Ultimate Kanji Test: Kanji Kentei
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles japan-prev japanese-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='../../japan/japanese-sweetheart/index.html' title='View What Do You Call Your Japanese Sweetheart?'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+What Do You Call Your Japanese Sweetheart?
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='../kanji-learning-mistakes/index.html' title='View The 5 Biggest Mistakes People Make When Learning Kanji'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+The 5 Biggest Mistakes People Make When Learning Kanji
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japanese'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='../kanji-learning-mistakes/index.html' title='View The 5 Biggest Mistakes People Make When Learning Kanji'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older japanese' class='older-article-pagination'></span>
+</small>
+The 5 Biggest Mistakes People Make When Learning Kanji
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='../japanese-r-sound/index.html' title='View How To Pronounce The Japanese &quot;R&quot; Sound'>
+<small>
+<span aria-label='Newer japanese' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+How To Pronounce The Japanese "R" Sound
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='../../about/index.html' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.2' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs/index.html' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese/index.html' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='../../news/index.html' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='../../newsletter/index.html' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='../../podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='../../feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="../../javascripts/master-2164c2ee.js" defer="defer"></script><script src="../../javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

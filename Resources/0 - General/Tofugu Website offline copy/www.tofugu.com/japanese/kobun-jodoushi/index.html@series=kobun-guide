@@ -1,0 +1,876 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Rochelle' name='author'>
+<meta content='In the third part of my Kobun (Classical Japanese) series, we will look at Helper Verbs. This is different from regular verbs, in that they are considered &quot;auxiliary.&quot; What does this exactly mean?' name='description'>
+<meta content='guide, linguistics, grammar' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='In the third part of my Kobun (Classical Japanese) series, we will look at Helper Verbs. This is different from regular verbs, in that they are considered &quot;auxiliary.&quot; What does this exactly mean?' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2014-03-18-kobun-jodoushi/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='Kobun (Classical Japanese) and How To Use Helper Verbs' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japanese/kobun-jodoushi/' property='og:url'>
+<meta content='https://www.tofugu.com/japan/working-holiday-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/jikoshoukai/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/citing-japanese-sources/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-loanword-phonology/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kaomoji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-become-a-japanese-translator/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-old-kana/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-honorifics/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-adjectives/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-syllable-structure/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-verbs/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-reading-introduction/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/import-japanese-video-games/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-write-letters-in-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/look-up-kanji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-homophones/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/the-meaning-of-kuni/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-use-a-kanji-dictionary/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/wasei-eigo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/weird-kanji-readings/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japans-other-languages/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/bunpro/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/online-japanese-grammar-guides/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/youtube-channels-for-learning-japanese-grammar/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-particle-monono/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-puns/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-onomatopoeia/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-fluency/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/dictionary-of-basic-japanese-grammar/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/japanese-respect-language/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/at-the-same-time-grammar/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/desu-meaning/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Rochelle' property='article:author'>
+<meta content='2014-03-18T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japanese' property='article:section'>
+<meta content='guide' property='article:tag'>
+<meta content='linguistics' property='article:tag'>
+<meta content='grammar' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@tofugu' name='twitter:creator'>
+<meta content='In the third part of my Kobun (Classical Japanese) series, we will look at Helper Verbs. This is different from regular verbs, in that they are considered &quot;auxiliary.&quot; What does this exactly mean?' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2014-03-18-kobun-jodoushi/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='Kobun (Classical Japanese) and How To Use Helper Verbs' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#d33682' name='twitter:widgets:link-color'>
+<meta content='#d33682' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-rochelle-e5c8446b.jpg",
+    "jobTitle": "Writer",
+    "name": "Rochelle",
+    "sameAs": [
+
+    ],
+    "url": "https://www.tofugu.com/about/people/rochelle/",
+    "description": "Nature freak, foodie, & D&D player, putting a linguistics undergrad degree to work in Japanese English classrooms."
+  },
+  "datePublished": "2014-03-18T00:00:00Z",
+  "description": "In the third part of my Kobun (Classical Japanese) series, we will look at Helper Verbs. This is different from regular verbs, in that they are considered \"auxiliary.\" What does this exactly mean?",
+  "headline": "Kobun (Classical Japanese) and How To Use Helper Verbs",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japanese/2014-03-18-kobun-jodoushi/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japanese/2014-03-18-kobun-jodoushi/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "guide, linguistics, grammar",
+  "name": "Kobun (Classical Japanese) and How To Use Helper Verbs",
+  "url": "https://www.tofugu.com/japanese/kobun-jodoushi/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2014-03-18T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japanese/kobun-jodoushi/"
+}
+</script>
+
+<title>Kobun (Classical Japanese) and How To Use Helper Verbs</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japanese/kobun-jodoushi/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='https://www.tofugu.com/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://www.tofugu.com/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://www.tofugu.com/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://www.tofugu.com/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://www.tofugu.com/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='https://www.tofugu.com/favicon.png' rel='shortcut icon'>
+<link href='https://www.tofugu.com/favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japanese japanese_kobun-jodoushi japanese_kobun-jodoushi_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='https://www.tofugu.com/'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japanese/' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='https://www.tofugu.com/japanese/' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.1' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-learning-resources-database/' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japan/' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='https://www.tofugu.com/japan/' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/series/' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/travel/' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/reviews/' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/interviews/' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='https://www.tofugu.com/podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=kobun-guide#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japanese/2014-03-18-kobun-jodoushi/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japanese/2014-03-18-kobun-jodoushi/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+Kobun (Classical Japanese) <span class="conjunction">and</span> How To Use Helper Verbs
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+What do dinosaurs, SNL, and classical Japanese have in common?
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2014-03-18T00:00:00Z">March 18, 2014</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="https://www.tofugu.com/about/people/rochelle/" rel="author">Rochelle</a>
+•
+Art by
+<a href="https://www.tofugu.com/about/people/aya-francisco/">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japanese/2014-03-18-kobun-jodoushi/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+<p class='article-series series-kobun-guide hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="../../series/kobun-guide.1">Kobun: Classical Japanese
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>What do dinosaurs, outdated fashions, and SNL have in common? They're going to help us with Classical Japanese. Today's course in your Kobun education is easy breezy: <i>Jodoushi</i> <ruby>助動詞<rp>（</rp><rt>じょどうし</rt><rp>）</rp></ruby>. They're "helper" or auxiliary verbs. I mentioned these critters a little in <a href="https://www.tofugu.com/japanese/kobun-verbs/">my last article on Kobun</a> but I'd recommend you read <a href="https://www.tofugu.com/japanese/kobun-reading-introduction/">Part 1 (the introduction to kobun)</a> first if you haven't already.</p>
+
+<p>Kobun jodoushi are pretty old (we are talking about classical Japanese, after all!), but they do still show up in modern Japanese from time to time. We'll see them fixed with verbs, in set phrases, or even adverbs. Some exist as useable grammar points. Most, however, appear in much the way that everything else in Kobun does: in the monogatari's and nikki's and other classical Japanese texts. That is, after all, why we're learning so much about Kobun!</p>
+
+<h2 id="timeless-jodoushi">Timeless Jodoushi</h2>
+
+<figure class="figure-middle"><img alt="kobun jodoushi the land before time" src="https://files.tofugu.com/articles/japanese/2014-03-18-kobun-jodoushi/the-land-before-time.jpg" /></figure>
+
+<p>Somehow, these dinosaurs made it into Modern Japanese, but they often sound formal or eloquent. Like, "Asteroid scientist, I am Danneth of Sharpteeth Abbey. You know the whereabouts of the asteroid which vanquished my ancestors. Kindly take me to it, or kindly prepare yourself for death", kind of eloquent. Not so old-timey sounding, but definitely <em>eloquent</em>.</p>
+
+<p>For each jodoushi below, I've provided a Kobun sentence taken from <a href="http://kobun.weblio.jp/">my favorite online Kogo-jiten</a> where that jodoushi makes an appearance.</p>
+
+<hr />
+
+<h3 id="section">べし</h3>
+
+<p>べし was the base form of a jodoushi that has survived through two evolutionary tracks to the Modern: べき (the old Rentaikei) and べく (the old Mizenkei and Renyoukei). べき is used these days to talk about the way things ought to be done, like English "should", and doesn't sound particularly high-brow or anything like the rest of these. べく is less common, and is a conjunction that indicates a direct cause or prerequisite. But in Kobun, <a href="http://tangorin.com/dict.php?dict=classical&amp;s=beki">べし</a> could also mean that someone is assuming or framing a situation a certain way.</p>
+
+<p><strong>Kobun:</strong>「人は、形・有り様のすぐれたらんこそ、あらまほしかる<strong>べけれ</strong>」(From <em><a href="https://en.wikipedia.org/wiki/Tsurezuregusa_">Tsurezuregusa</a></em></p>
+
+<p>Modern: 人間は<i></i> <ruby>容貌<rp>（</rp><rt>ようぼう</rt><rp>）</rp></ruby>や<i></i> <ruby>風采<rp>（</rp><rt>ふうさい</rt><rp>）</rp></ruby>がすぐれていることこそ、望ましい<strong>だろう</strong>。</p>
+
+<p><strong>English:</strong> "It is desirable that a man's face and figure be of excelling beauty" (Keene 3-4).</p>
+
+<hr />
+
+<h2 id="section-1">ず</h2>
+
+<p>In both Modern Japanese and in Kobun, ず is a negative, like "not". In Modern, ず can sound pretty formal. The ず jodoushi is ぬ in the Rentaikei (<a href="https://www.tofugu.com/japanese/kobun-verbs/">see part 2 of this series</a>, scroll down to step 2), and that form appears in Modern as well, though less frequently. There's important nuance to the ぬ breed of negation, so ask around before using it or you might sound like a better-than-thou snob (or, in Mami's words, "a bossy Shogun"). In Kobun, however, ず/ぬ is a frequent (non-snobbish) -ない kind of negation.</p>
+
+<p><strong>Kobun:</strong>「京には見え<strong>ぬ</strong>鳥なれば、みな人見知ら<strong>ず</strong>」(From <em><a href="https://en.wikipedia.org/wiki/The_Tales_of_Ise_">Ise Monogatari</a></em></p>
+
+<p><strong>Modern:</strong> 都では見かけ<strong>ない</strong>鳥であるので、そこにいる人は皆、よく知ら<strong>ない</strong>。</p>
+
+<p><strong>English:</strong> "Since it was of a [bird] species unknown in the capital, none of them could identify it" (<em>Tales of Ise</em> 76).</p>
+
+<hr />
+
+<h2 id="section-2">ごとし</h2>
+
+<p>I've only run into ごとし once in Contemporary Japanese literature　（as ごとく), if that tells you anything about its frequency. ごとく is a sophisticated-sounding ～のようだ, in Modern Japanese. The Kobun ごとし, however, could mean a variety of things. Like the modern version, it could be used for comparison, but also for equivalence or as an example-provision:</p>
+
+<p><strong>Kobun:</strong>「世の中にある人とすみかと、またかくの<strong>ごとし</strong>」(From <em><a href="https://en.wikipedia.org/wiki/H%C5%8Dj%C5%8Dki_">Houjouki</a></em></p>
+
+<p><strong>Modern:</strong> 世の中にいる人間と住居と（が無常なこと）は、また、これと<strong>似ている</strong>。</p>
+
+<p><strong>English:</strong> "In this world, people and their dwelling places are like that, always changing" (from <a href="http://www.washburn.edu/reference/bridge24/Hojoki.html">here</a>).</p>
+
+<hr />
+
+<h2 id="and-">る、 さす、and す</h2>
+
+<p>Yeah, I know, there's -る in almost every verb garden out there. This one is pretending to be a Kobun weed when really it's the base form of almost the same passive or potential you'd recognize today. The others – さす、しむ、 and す – are causative, which also kind of overlap with modern. Go <a href="https://kafkafuura.wordpress.com/classical-japanese/#aux-pch">here</a> for a more detailed breakdown of them.</p>
+
+<p><strong>Kobun:</strong>「涙のこぼるるに、目も見えず、物も<strong>言はれ</strong>ず」(From <em>Ise Monogatari</em>)</p>
+
+<p><strong>Modern:</strong> 涙があふれ出て、目も見えず、物も<strong>言うこともでき</strong>ない。</p>
+
+<p><strong>English:</strong> "I am blind and speechless with tears" (<em>Tales of Ise</em> 110).</p>
+
+<hr />
+
+<h2 id="debbie-downer-jodoushi">Debbie Downer Jodoushi</h2>
+
+<figure class="figure-middle"><img alt="kobun jodoushi debbie downer" src="https://files.tofugu.com/articles/japanese/2014-03-18-kobun-jodoushi/debbie-downer.jpg" /></figure>
+
+<p>These Jodoushi are negatives. When Classical writers saw an affirmative verb's bridge of dreams and wanted to crush it, they used one of these bad boys. What's that, <em>Taketori Monogatari</em>? Bamboo cutter "有りけり"? NOPE. Author guy's Pokémon Pen slams the sentence with "有らぬ" and there <em>wasn't</em> an old bamboo cutter.</p>
+
+<hr />
+
+<h3 id="section-3">まじ</h3>
+
+<p>Do you remember this advertisement from　the very first part of the Kobun series?</p>
+
+<figure class="figure-middle"><img alt="kobun jodoushi angry purple hair" src="https://files.tofugu.com/articles/japanese/2014-03-18-kobun-jodoushi/angry-purple-hair.jpg" /></figure>
+
+<p>Written there you can see maji、which negates "forgive" and generally seasons the sentence with some negative feelings:</p>
+
+<p><strong>Kobun-ized ad:</strong> 許す<strong>まじ</strong>！</p>
+
+<p><strong>Modern:</strong> 許す<strong>な</strong>! or 許さ<strong>ないぞ</strong>!</p>
+
+<p><strong>English:</strong> Don't yield (to pollen)!</p>
+
+<hr />
+
+<h3 id="section-4">じ</h3>
+
+<p>This is pretty equivalent to the modern 「まい」. It's a negative + "probably" or negative + intention. See here:</p>
+
+<p><strong>Kobun:</strong>「京にはあら<strong>じ</strong>、あづまの方に住むべき国求めにとて行きけり」 (From <em>Ise Monogatari</em>)</p>
+
+<p><strong>Modern:</strong> 京には住む<strong>つもりはない</strong>、東国の方に住むのにふさわしい国を探し求めるためにと思って。</p>
+
+<p><strong>English:</strong> "Perhaps because he found it awkward to stay in the capital"… "[He] journeyed toward the east in search of a place to live" (<em>Tales of Ise</em> 74).</p>
+
+<hr />
+
+<h2 id="yesterdays-news">Yesterday's News</h2>
+
+<figure class="figure-middle"><img alt="kobun jodoushi whatever" src="https://files.tofugu.com/articles/japanese/2014-03-18-kobun-jodoushi/whatever.jpg" /><figcaption> "That outfit is so past tense." </figcaption> </figure>
+
+<p>The following jodoushi relate to time. Most of them are for the past, but not all.</p>
+
+<hr />
+
+<h3 id="and--1">けり、き、and けむ</h3>
+
+<p>We encountered けり in the <a href="https://www.tofugu.com/japanese/kobun-verbs/">Kobun verbs article</a> – it's a past tense thing. き is the same, but it has a crazy line of conjugation, so be sure to check out the chart I include at the end of this article. けむ、meanwhile, talks about something that has happened and is part conjecture (see the -ただろう in the sentence translation).</p>
+
+<p><strong>Kobun:</strong>「昔、こはたと言ひ<strong>けむ</strong>が孫といふ」(From <em><a href="https://en.wikipedia.org/wiki/Sarashina_Nikki">Sarashina Nikki</a></em></p>
+
+<p><strong>Modern:</strong> 昔、こはたと言っ<strong>た</strong>とかいう（人）の孫という。</p>
+
+<p><strong>English:</strong> "They said that they were the descendants of a [once-]famous singer called Kobata" (Doi and Omori 11).</p>
+
+<hr />
+
+<h3 id="section-5">らむ</h3>
+
+<p>Like in Disney's Mulan, when Mushu says, "Dishonor on you, dishonor on your cow…." This jodoushi casts "Deshou" on the situation, "deshou" on a reason for the situation, and general vagueness all around, in my opinion, since らむ can also equate to euphemism or simile.</p>
+
+<p><strong>Kobun:</strong>「などや苦しき目を見る<strong>らむ</strong>」(From <em>Sarashina Nikki</em>)</p>
+
+<p><strong>Modern:</strong> どうしてつらい目に遭うの<strong>だろう</strong>か。</p>
+
+<p><strong>English:</strong> How did it come to such a rough time as this? (my translation)</p>
+
+<hr />
+
+<h3 id="section-6">む/むず</h3>
+
+<p>This jodoushi can be the volitional (modern ～しよう！） or a "deshou". As in modern, a "deshou" or volitional can go a long way towards soft suggestions for the way things ought to be. Likewise, む/むず in Konbun could represent a suggestion and even, as with らむ, simile.</p>
+
+<p><strong>Kobun:</strong>「かのもとの国より、迎へに人々まうで<i></i> <ruby>来<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><strong>むず</strong>」(From <em>Taketori Monogatari</em>)</p>
+
+<p><strong>Modern:</strong> あのもとの国 から、迎えに人々がやってまいる<strong>だろう</strong>。</p>
+
+<p><strong>English:</strong> "People are going to come from my original land for me" (Behr 128).</p>
+
+<hr />
+
+<figure class="figure-middle"><img alt="kobun jodoushi complete screenshot" src="https://files.tofugu.com/articles/japanese/2014-03-18-kobun-jodoushi/complete-screenshot.jpg" /><figcaption>  </figcaption> Source: <a href="http://www.flickr.com/photos/40037997@N02/4770979112" title="Visit source's website" target="_blank">Shinichi Haramizu</a></figure>
+
+<p>These jodoushi are flip-a-table, pull-the-plug, 800% done. Or, the verb they attach to sounds like a completed action, at least.</p>
+
+<hr />
+
+<h3 id="section-7">つ</h3>
+
+<p>The Renyoukei (<a href="https://www.tofugu.com/japanese/kobun-verbs/">see part 1 of this series</a> and scroll to "step 2") for つ is て. Classical Japanese had a few other sentence parts (like particles) with 'て' at the border between words, so you'll want to list out some guesses when translating. In addition to completion, つ was written for lists (like "…たり…たり、…" in modern) or a "deshou"-tinted "certainly" or "without mistake" ("たしかに…だろう").</p>
+
+<p><strong>Kobun:</strong>「<i></i> <ruby>蠅<rp>（</rp><rt>はへ</rt><rp>）</rp></ruby>こそ、憎きもののうちに入れ<strong>つ</strong>べく」(From <em><a href="https://en.wikipedia.org/wiki/The_Pillow_Book">Makura no Soushi</a></em>)</p>
+
+<p><strong>Modern:</strong> はえ（という虫）こそ、憎らしいものの中に<strong>確かに</strong>入れて<strong>しまいたい</strong>もので</p>
+
+<p><strong>English:</strong> "The fly should have been included in my list of hateful things . . ." (Morris 70).</p>
+
+<hr />
+
+<h3 id="section-8">ぬ</h3>
+
+<p>This is a different ぬ than the negative ず/ぬ. This ぬ is completion. How do you know which ぬ is being used in the sentence? You'll have to look at charts and forms. Remember that the Mizenkei usually precedes negatives, while the Renyoukei is usually used as a connective form. So verb in Mizenkei + ぬ　= negative action, while Renyoukei + ぬ = completed action (probably). There's more to it than that, but here's an example sentence to get you started – it's a beautiful poem from the <em><a href="https://en.wikipedia.org/wiki/Kokin_Wakash%C5%AB">Kokin Wakashuu</a></em>, as translated by <a href="http://plaza.rakuten.co.jp/meganebiz/diary/201303190006/">Kuma Papa-san</a>).</p>
+
+<p><strong>Kobun:</strong> 「散り<strong>ぬ</strong>とも香をだに残せ梅の花」</p>
+
+<p><strong>Modern:</strong> 散って<strong>しまって</strong>も香りだけは残していってくれ、梅の花よ</p>
+
+<p><strong>English:</strong> "If these plum blossoms must wither/scatter, at the very least leave your fragrance. . .." (<em><a href="https://kafkafuura.wordpress.com/classical-japanese/#part">Kafka-Fuura</a></em>).</p>
+
+<hr />
+
+<h3 id="section-9">り</h3>
+
+<p>This jodoushi can signify either completion or an on-going action – use your best judgement when translating.</p>
+
+<p><strong>Kobun:</strong>「くらもちの<i></i> <ruby>皇子<rp>（</rp><rt>みこ</rt><rp>）</rp></ruby>は<i></i> <ruby>優曇華<rp>（</rp><rt>うどんげ</rt><rp>）</rp></ruby>の花持ちて上り<i></i> <ruby>給<rp>（</rp><rt>たま</rt><rp>）</rp></ruby>へ<strong>り</strong>」 (From <em>Taketori Monogatari</em>)</p>
+
+<p><strong>Modern:</strong> くらもちの皇子は優曇華の花を持って都へお上りに<strong>なった</strong>。</p>
+
+<p><strong>English:</strong> "Prince Kuramochi has returned with the Udonge flower!" (Behr 108-109).</p>
+
+<hr />
+
+<h2 id="the-wishlist">The Wishlist</h2>
+
+<figure class="figure-middle"><img alt="kobun jodoushi tanabata wishes" src="https://files.tofugu.com/articles/japanese/2014-03-18-kobun-jodoushi/tanabata-wishes.jpg" /><figcaption>  </figcaption> Source: <a href="http://www.flickr.com/photos/35561138@N07/3714842289" title="Visit source's website" target="_blank">Noel Portugal</a></figure>
+
+<p>Ambrose Bierce, in <em>The Devil's Dictionary</em>, defines hope as "Desire and expectation rolled into one", which is exactly what <i>kibou</i> <ruby>希望<rp>（</rp><rt>きぼう</rt><rp>）</rp></ruby> sounds like. Guess what these jodoushi express? Hopes, wishes, and dreams, like the modern -たい form.</p>
+
+<hr />
+
+<h3 id="and--2">たし and まほし</h3>
+
+<p>These are both like the modern -たい or （て）ほしい, depending on the subjects and objects in the sentence.</p>
+
+<p><strong>Kobun:</strong>「帰り<strong>たけれ</strong>ば、ひとりつい立ちて行きけり」(From <em>Tsurezuregusa</em>)</p>
+
+<p><strong>Modern:</strong> 帰り<strong>たい</strong>ときはいつでも、（自分）一人ふいと立って行ってしまった。</p>
+
+<p><strong>English:</strong> "When he was ready to go home, he at once got up and went off all alone" (Porter 53-54).</p>
+
+<hr />
+
+<h2 id="the-circus-group">The Circus Group</h2>
+
+<figure class="figure-middle"><img alt="kobun jodoushi fake circus" src="https://files.tofugu.com/articles/japanese/2014-03-18-kobun-jodoushi/fake-circus.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/elsie/3280284647/" title="Visit source's website" target="_blank">Les Chatfield</a></figure>
+
+<p>The final group of jodoushi are a hodgepodge mix. Some resemble verbs, while some simply have unique meaning or classification.</p>
+
+<hr />
+
+<h3 id="section-10">なり</h3>
+
+<p>This jodoushi only sounds like the regular verb "なり" by coincidence. なり tags onto a verb to convey an assumption of some sort, hearsay, or to point out that something has been physically heard, as in:</p>
+
+<p><strong>Kobun:</strong>「<i></i> <ruby>音羽山<rp>（</rp><rt>おとはやま</rt><rp>）</rp></ruby><i></i> <ruby>今朝<rp>（</rp><rt>けさ</rt><rp>）</rp></ruby>越えくればほととぎす<i></i> <ruby>梢<rp>（</rp><rt>こずゑ</rt><rp>）</rp></ruby>はるかに今ぞ鳴く<strong>なる</strong>」(From <em>Kokin Wakashuu</em>)</p>
+
+<p><strong>Modern:</strong> 音羽山を今朝越えて来ると、ほととぎすが梢はるかに今鳴いているのが<strong>聞こえる</strong>よ。</p>
+
+<p><strong>English:</strong> "Journeying onward over Otowa Mountain while the day is young, I hear a cuckoo singing high in the distant treetops" (<em>Kokin Wakashu</em> 41).</p>
+
+<hr />
+
+<h3 id="section-11">まし</h3>
+
+<p>まし is what's called a "counter-factual supposition". It's inherently hypothetical – sometimes just an observation, but sometimes conveying wistfulness. It often connects to the conditional ～ば, but it doesn't have to. "Would that I had eaten ice cream one last time before the zombie apocalypse began!" is an example in English.</p>
+
+<p><strong>Kobun:</strong> 「雪降れば木毎（ごと）に花ぞ咲きにけるいづれを梅と分きて折ら<strong>まし</strong>」(From <em>Kokin Wakashuu</em>; more breakdown <a href="http://manapedia.jp/text/2094">here</a>)</p>
+
+<p><strong>Modern:</strong> 雪が降って、木に白い花が咲いたように見える。どの木を本当の梅の木と区別して折っ<strong>たらよいだろうか</strong>。</p>
+
+<p><strong>English:</strong> "After the snowfall, flowers have burst into bloom on every tree. How am I to find the plum and break off a laden bough?" (<em>Kokin Wakashu</em> 81).</p>
+
+<hr />
+
+<h3 id="section-12">めり</h3>
+
+<p>Like a lot of things on this list, めり indicates a projection of circumstances, but, unlike most of the others, has a strong tinge of uncertainty or neutrality. In English, this would be the difference between "Someone forgot their bag" and "It looks as if someone forgot their bag".</p>
+
+<p><strong>Kobun:</strong> 「<i></i> <ruby>簾<rp>（</rp><rt>すだれ</rt><rp>）</rp></ruby>少し上げて、花奉る<strong>めり</strong>」(From Genji Monogatari)</p>
+
+<p><strong>Modern:</strong>（尼君は）すだれを少し上げて、（仏に）花をお供えしている<strong>ように見える</strong>。</p>
+
+<p><strong>English:</strong> "A nun, raising a curtain before Buddha, offered a garland of flowers on the alter" (Suematsu 92).</p>
+
+<hr />
+
+<h3 id="section-13">らし</h3>
+
+<p>The Kobun らし acts exactly like the Modern らしい, but I don't know that they are actually related (changing from a jodoushi to an adjective?). But like so many others on this list, らし is conjecture, a statement about the appearances of a situation or thing, including the reason something came to be.</p>
+
+<p><strong>Kobun:</strong>「ぬき乱る人こそある<strong>らし</strong>」(From <em>Kokin Wakashuu</em>)</p>
+
+<p><strong>Modern:</strong> 糸を抜いて玉を乱れ散らす人がいる<strong>らしい</strong>。</p>
+
+<p><strong>English:</strong> "There must be a man unstringing them at the top" (McCullough 482).</p>
+
+<hr />
+
+<h3 id="section-14">らる</h3>
+
+<p>らる is classified on charts and in Kobun discourse as 自発. Spontaneous? As in "Spontaneous Combustion Man"? Yeah, I didn't get it either, at first. But if you reframe it as an expression of naturally occuring or unplanned actions and circumstances, then it makes more sense.</p>
+
+<p><strong>Kobun:</strong>「なほ梅の<i></i> <ruby>匂<rp>（</rp><rt>にほ</rt><rp>）</rp></ruby>ひにぞ、いにしへの事も立ちかへり恋しう思ひ<strong>出（い）でらるる</strong>」(From <em>Tsurezuregusa</em>)</p>
+
+<p><strong>Modern:</strong> やはり梅の香りによって、以前のことも（当時に）さかのぼって、自然となつかしく思い出される。</p>
+
+<p><strong>English:</strong> "It is the perfume of the plum which sends our thoughts lovingly back to the days of old" (Porter 21).</p>
+
+<p>——</p>
+
+<h2 id="wrap-up-a-kobun-jodoshi-chart">Wrap-up: A Kobun Jodoshi Chart</h2>
+
+<figure class="figure-middle"><img alt="jodoushi kobun chart" src="https://files.tofugu.com/articles/japanese/2014-03-18-kobun-jodoushi/jodoushi-kobun-chart.jpg" /></figure>
+
+<p>As promised, <a href="http://www.wiquitous.com/gaku-suppo/print/kobunprint002">here</a> is a jodoushi chart, made by the education site "Wiquitous". The top row is the verb form (Renyoukei, etc.) that the jodoushi tags onto, while the right side scales down the forms the jodoushi conjugate through. Empty circles mean that the jodoushi doesn't appear in that form. Meireikei (command form), for example, doesn't go hand-in-hand with many helper verbs, and that makes sense when you think about it.</p>
+
+<p>Jodoushi were way easier than verbs, right? The verb patterns I talked about before permeate everything, so knowing the forms is truly essential. Hopefully, learning about helper verbs just made the previous lesson snap into focus. We're not completely done looking at conjugations, though, because <em>adjectives</em> are still to come.</p>
+
+<aside class="blog-post-highlight article-sources"><div class="container"><h4>Sources</h4><ul><li>Behr, Maiko R.. The Tale of the Bamboo Cutter: A Study in Contextualization. Diss. Vancouver: University of British Columbia, 1998.</li><li><a href="http://www.gutenberg.org/ebooks/972?msg=welcome_stranger" title="View source">Bierce, Ambrose. The Devil's Dictionary</a></li><li>Doi, Kōchi and Annie S. Omori. Diaries of Court Ladies of Old Japan. Boston; New York: Houghton Mifflin, 1920.</li><li><a href="https://kafkafuura.wordpress.com/classical-japanese/" title="View source">Kafka-Fuura's Classical Japanese Blog</a></li><li>Keene, Donald, trans., and Kenkō Yoshida. Essays in Idleness; the Tsurezuregusa of Kenkō. New York: Columbia University Press, 1998.</li><li>Kokin Wakashu: The First Imperial Anthology of Japanese Poetry : with Tosa Nikki and Shinsen Waka. Trans. Helen Craig McCullough. Stanford Univ. Press, 1985.</li><li><a href="http://plaza.rakuten.co.jp/meganebiz/profile/" title="View source">Kuman Papa-san</a></li><li><a href="http://plaza.rakuten.co.jp/meganebiz/diary/201303190006/" title="View source">散りぬとも香をだに残せ梅の花恋しきときの思ひ出にせむ</a></li><li>McCullough, Helen Craig. Brocade by Night: Kokin Wakashu and the Court Style in Japanese Classical Poetry. Stanford University Press, 1985.</li><li>Morris, Ivan, trans. The Pillow Book of Sei Shōnagon. New York: Columbia University Press, 1991.</li><li>Porter, William, trans., and Kenkō Yoshida. The Miscellany of a Japanese Priest, Being a Translation of Tsure-zure Gusa. London: Humphrey Milford, 1914.</li><li>Suematsu, Kencho. Genji Monogatari by Lady Murasaki Shikibu. 1982. Reprint. New York: Colonial Press, 1900.</li><li>Tales of Ise: Lyrical Episodes from Tenth-Century Japan. Trans. Helen Craig McCullough. Stanford University Press, 1968.</li></ul></div></aside>
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-kobun-guide hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2016-02-11-kobun-guide/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='../../series/kobun-guide.1' title='View all articles in Series Kobun: Classical Japanese'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+Kobun: Classical Japanese
+</span>
+</a>
+</li>
+<li class='pager-next'>
+<a href='../kobun-adjectives/index.html@series=kobun-guide' title='View Kobun (Classical Japanese) - Adjectives &amp;amp; Musubi'>
+<small>
+Next Article in Series
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Kobun (Classical Japanese) - Adjectives &amp; Musubi
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles japan-prev japan-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='https://www.tofugu.com/japan/jet-program-bad-school/' title='View What to Do When You&#39;re Placed in a Bad School'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+What to Do When You're Placed in a Bad School
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='https://www.tofugu.com/japan/second-trip-to-japan/' title='View Planning your Second Trip to Japan'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Planning your Second Trip to Japan
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japanese'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='https://www.tofugu.com/japanese/japanese-syllable-structure/' title='View Japanese Syllable Structure and the Past Tense of Verbs'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older japanese' class='older-article-pagination'></span>
+</small>
+Japanese Syllable Structure and the Past Tense of Verbs
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='https://www.tofugu.com/japanese/kobun-verbs/' title='View Kobun (Classical Japanese) Verbs &amp;amp; How To Use Them'>
+<small>
+<span aria-label='Newer japanese' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Kobun (Classical Japanese) Verbs &amp; How To Use Them
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/about/' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.1' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs.1' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese.1' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/news/' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/newsletter/' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/master-2164c2ee.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

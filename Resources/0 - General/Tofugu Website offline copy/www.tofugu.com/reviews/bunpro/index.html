@@ -1,0 +1,961 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Ian J. Battaglia' name='author'>
+<meta content='Bunpro is a Japanese grammar studying app that promises to help ensure grammar points stick. But does it live up to that claim? Find out here!' name='description'>
+<meta content='Bunpro, 文プロ, japanese, grammar, SRS, learning, review' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Bunpro is a Japanese grammar studying app that promises to help ensure grammar points stick. But does it live up to that claim? Find out here!' property='og:description'>
+<meta content='https://files.tofugu.com/articles/reviews/2022-08-09-bunpro/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='A Review of Bunpro' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/reviews/bunpro/' property='og:url'>
+<meta content='https://www.tofugu.com/japanese/best-kanji-learning-programs/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/best-hiragana-and-katakana-learning-resources/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/expressing-uncertainty-in-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/katakanization/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/tokoro-bakari/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/teiru-tearu-teoku/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-buy-japanese-ebooks/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-language-learning-podcasts-for-intermediate-learners/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-language-learning-podcasts-for-beginners/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/learn-katakana-book-pdf/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/language-exchange/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/learn-hiragana-book-pdf/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/japanese-pod-101/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/dogen-japanese-phonetics/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/ehon-japanese-childrens-picture-books/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-graded-readers/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/online-japanese-grammar-guides/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/youtube-channels-for-learning-japanese-grammar/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/guide-for-finding-a-japanese-tutor/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kedo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/japanese-stories-for-language-learners/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/yotsubato/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/hellotalk/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-vocabulary-for-yoga-movements/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-vocabulary-for-yoga-body-parts/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/yoga-in-japanese-getting-started/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kosoado/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/futokoro/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/queer-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-first-person-pronouns/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/kaishoku-michiba/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/ganbaru/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/chotto/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-make-a-reservation/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/pocketalk-translator-device/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tofugu-favorite-posts-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-koichi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-puns/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/jikoshoukai/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-fluency-make-mistakes/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/interleaving-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/warau-eikaiwa/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/be-more-productive/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/creating-japanese-learning-opportunities/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/stay-motivated/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/8-things-to-improve-your-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kanji-sonomama/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/rosetta-stone-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-particle-monono/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-onomatopoeia/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-fluency/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/dictionary-of-basic-japanese-grammar/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/japanese-respect-language/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-old-kana/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-honorifics/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-adjectives/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-jodoushi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-verbs/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-reading-introduction/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/at-the-same-time-grammar/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/desu-meaning/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/anki/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/bao-nakashima/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-punctuation/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/what-i-learned-about-learning-japanese-from-spending-3-weeks-in-taiwan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/learn-with-pictures/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/learning-epiphanies/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/jfdi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/seinfeld-kanji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/little-victories/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/study-habits/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/womansword/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/are-you-an-echo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/tenso-shipping/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Ian J. Battaglia' property='article:author'>
+<meta content='2022-08-09T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='reviews' property='article:section'>
+<meta content='Bunpro' property='article:tag'>
+<meta content='文プロ' property='article:tag'>
+<meta content='japanese' property='article:tag'>
+<meta content='grammar' property='article:tag'>
+<meta content='SRS' property='article:tag'>
+<meta content='learning' property='article:tag'>
+<meta content='review' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@IanJBattaglia' name='twitter:creator'>
+<meta content='Bunpro is a Japanese grammar studying app that promises to help ensure grammar points stick. But does it live up to that claim? Find out here!' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/reviews/2022-08-09-bunpro/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='A Review of Bunpro' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#859900' name='twitter:widgets:link-color'>
+<meta content='#859900' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-ian-j-battaglia-378d8bf5.jpg",
+    "jobTitle": "Writer",
+    "name": "Ian J. Battaglia",
+    "sameAs": [
+      "https://www.twitter.com/IanJBattaglia",
+      "https://mnchrm.co/"
+    ],
+    "url": "https://www.tofugu.com/about/people/ian-j-battaglia/",
+    "description": "Ian J. Battaglia is a writer and photographer based out of Chicago. He is one of the editors of The Chicago Review of Books, and his work has appeared in The LA Review of Books, Input Magazine, The Kenyon Review, and Chicago Reader, among others. He is currently working on a novel. He loves Japanese culture and learning more about the language! Follow him on Twitter <a href="http://www.tofugu.com/reviews/bunpro/\&quot;https://www.twitter.com/IanJBattaglia\&quot;">@IanJBattaglia.</a>",
+    "email": "ianbattaglia@gmail.com"
+  },
+  "datePublished": "2022-08-09T00:00:00Z",
+  "description": "Bunpro is a Japanese grammar studying app that promises to help ensure grammar points stick. But does it live up to that claim? Find out here!",
+  "headline": "A Review of Bunpro",
+  "image": {
+    "@type": "ImageObject",
+    "author": "ian_battaglia",
+    "contentURL": "https://files.tofugu.com/articles/reviews/2022-08-09-bunpro/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/reviews/2022-08-09-bunpro/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "Bunpro, 文プロ, japanese, grammar, SRS, learning, review",
+  "name": "A Review of Bunpro",
+  "url": "https://www.tofugu.com/reviews/bunpro/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2022-08-09T00:00:00Z",
+  "mainEntity": {
+    "@type": "Product",
+    "name": "Bunpro",
+    "description": "Bunpro is a Japanese grammar studying app that promises to help ensure grammar points stick. But does it live up to that claim? Find out here!",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 8.0,
+      "ratingCount": 1,
+      "bestRating": 10,
+      "worstRating": 1
+    },
+    "review": {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Ian J. Battaglia"
+      },
+      "datePublished": "2022-08-09T00:00:00Z",
+      "description": "Bunpro is a Japanese grammar studying app that promises to help ensure grammar points stick. But does it live up to that claim? Find out here!",
+      "name": "A Review of Bunpro",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": 10,
+        "ratingValue": 8.0,
+        "worstRating": 1
+      }
+    },
+    "sameAs": [
+      "https://bunpro.jp/",
+      "https://bunpro.jp/"
+    ]
+  },
+  "mainEntityOfPage": "https://www.tofugu.com/reviews/bunpro/"
+}
+</script>
+
+<title>A Review of Bunpro</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="../../stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/reviews/bunpro/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='../../apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='../../apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='../../apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='../../apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='../../apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='../../favicon.png' rel='shortcut icon'>
+<link href='../../favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='reviews reviews_bunpro reviews_bunpro_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='../../index.html'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../../japanese/index.html' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='../../japanese/index.html' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.2' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='../../japanese-learning-resources-database/index.html' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../../japan/index.html' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='../../japan/index.html' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../series/index.html' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../travel/index.html' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../index.html' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../interviews/index.html' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='../../podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/reviews/2022-08-09-bunpro/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/reviews/2022-08-09-bunpro/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+A Review of Bunpro
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+A Valuable Companion App for Grammar Studies and More
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2022-08-09T00:00:00Z">August 9, 2022</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/ian-j-battaglia/index.html" rel="author">Ian J. Battaglia</a>
+•
+Art by
+<a href="../../about/people/ian-j-battaglia/index.html">Ian J. Battaglia</a>
+<a href="https://files.tofugu.com/articles/reviews/2022-08-09-bunpro/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>For many Japanese learners out there, grammar study begins the old fashioned way: in a textbook. In the popular beginner textbook series Genki for example, the authors present learners with a dialogue in Japanese, and then break down the grammar points used alongside the vocabulary to help learners better understand it. While this is a great way of familiarizing yourself with some of the standard grammar concepts in Japanese, it can be a little difficult to know when to review them, and their usage in contexts other than the dialogue you're familiar with.</p>
+
+<p>Bunpro attempts to solve this problem by applying the popular and proven-effective spaced repetition study technique to grammar. <a href="../../japanese/spaced-repetition/index.html">Spaced Repetition Systems</a>, or SRS, is probably a familiar concept to many language learners as it's often used to help memorize vocabulary, like with Tofugu's own <a href="https://www.wanikani.com/?utm_source=Tofugu">WaniKani</a> and the ever-popular <a href="http://www.tofugu.com/reviews/anki">Anki</a>. It's something I've described previously as almost like a multiplier of your own ability to memorize information. Commonly used for building vocabulary, Bunpro's novel utilization of this powerful method with what's known as "cloze deletion" — which is more or less fill in the blank (more on this later!) — grammar flashcards aims to make grammar points stick much longer than just a simple glance through a textbook.</p>
+
+<p>So how well does it actually work? That's exactly what I aimed to find out in practice. With a range of both fun and convenient integrations, the ability to utilize the app for multiple different study methods and aims, and frequent updates, Bunpro can be a highly useful component of any Japanese learner's study routine.</p>
+
+<ul id="markdown-toc">
+  <li><a href="index.html#what-is-bunpro" id="markdown-toc-what-is-bunpro">What is Bunpro?</a>    <ul>
+      <li><a href="index.html#srs" id="markdown-toc-srs">SRS</a></li>
+      <li><a href="index.html#cloze-deletion-and-progressive-sentences" id="markdown-toc-cloze-deletion-and-progressive-sentences">Cloze Deletion and Progressive Sentences</a></li>
+    </ul>
+  </li>
+  <li><a href="index.html#a-versatile-tool" id="markdown-toc-a-versatile-tool">A Versatile Tool</a>    <ul>
+      <li><a href="index.html#grammar-and-vocab" id="markdown-toc-grammar-and-vocab">Grammar <em>and</em> Vocab</a></li>
+      <li><a href="index.html#study-lessons-paths-and-decks" id="markdown-toc-study-lessons-paths-and-decks">Study, Lessons, Paths, and Decks</a></li>
+      <li><a href="index.html#study-in-depth" id="markdown-toc-study-in-depth">Study In-Depth</a></li>
+      <li><a href="index.html#reading-practice" id="markdown-toc-reading-practice">Reading Practice</a></li>
+    </ul>
+  </li>
+  <li><a href="index.html#integrations" id="markdown-toc-integrations">Integrations</a></li>
+  <li><a href="index.html#a-work-in-progress" id="markdown-toc-a-work-in-progress">A Work In Progress</a></li>
+  <li><a href="index.html#is-it-worth-adding-bunpro-to-my-study-routine" id="markdown-toc-is-it-worth-adding-bunpro-to-my-study-routine">Is It Worth Adding Bunpro to My Study Routine?</a></li>
+</ul>
+
+<h2 id="what-is-bunpro">What is Bunpro?</h2>
+
+<p>Bunpro is a spaced repetition software designed for studying Japanese grammar and vocabulary. It's primarily a web-based app, though there are alpha versions of mobile apps for both iOS and Android (as these are incomplete, your mileage in using them may vary). Bunpro is available for a subscription fee after a 30-day free trial, at either $5/month, $50/year, or a single $150 payment for lifetime access.</p>
+
+<figure class="figure-middle"><img alt="screenshot of the dashboard" src="https://files.tofugu.com/articles/reviews/2022-08-09-bunpro/bunpro_1.jpg" /></figure>
+
+<p>So what do you get for your money? Access to a powerful and flexible SRS, designed to work regardless of if you're a self-studier looking for a bit more structure, or someone who wants to use Bunpro as the center of their grammar study.</p>
+
+<p>After signing up, you'll be directed to your dashboard. On this page, you can see how many grammar and vocabulary reviews you have due, a prompt to study new grammar, some stats like a forecast of upcoming reviews, and a chart of previous reviews, personal stats like your current streak and days studied, and finally some of the recent posts on their popular forum.</p>
+
+<p>There's also a navigation bar up top with a few more links to the pages below:</p>
+
+<table class="table table-responsive table-hover table-bordered">
+  <tr>
+    <th>Study</th>
+    <td>A page for learning new grammar points you haven't studied yet, based on the target JLPT level you select in the settings.</td>
+  </tr>
+  <tr>
+    <th>Review</th>
+    <td>Takes you directly to your reviews.</td>
+  </tr>
+  <tr>
+    <th>Cram</th>
+    <td>Lets you do extra reviews outside of the SRS intervals, to really nail down some sticking points.</td>
+  </tr>
+  <tr>
+    <th>Content</th>
+    <td>Allows you browse all the available grammar points, offers a reading practice section, or enables you to search for vocab to add to your review queue.</td>
+  </tr>
+  <tr>
+    <th>Paths</th>
+    <td>Takes you to an alternative sorting of the grammar points, to correspond with one of several popular textbook series like Genki.</td>
+  </tr>
+</table>
+
+<p>Finally, there's a deep settings page, which allows you to tweak everything from how much furigana is shown, a menu to tell Bunpro which textbook you're using, how reviews should work, and more. You can also choose to opt into the beta version of Bunpro, meaning you'll get access to the latest features while they're still being tested. While Bunpro doesn't require the deep setup of something like Anki, it's well worth it for you to go through these settings to make sure things are configured in the way that works best for you.</p>
+
+<h3 id="srs">SRS</h3>
+
+<blockquote class="highlight-left">
+  <p>Bunpro uses spaced repetition to help reinforce the brain's ability to memorize things long-term.</p>
+</blockquote>
+
+<p>At its core, Bunpro is an SRS. This means it uses the technique of spaced repetition to help reinforce the brain's ability to memorize things long-term, rather than just something you're likely to forget. Most commonly, this technique is performed with flashcards, which is known as <em>cued recall</em>: you're given a cue for something, maybe a word written in kanji, for example, and are asked to recall the rest of the information, such as the reading and definition. Then, depending on how well you were able to recall that information, the interval between the next time you review that information is adjusted. If you remembered it, the interval is increased, and if you didn't, the interval is decreased. The aim is to get you to recall the information just before forgetting it, helping cement it into your long-term memory.</p>
+
+<p>While that's the general definition, in practice SRS comes in many forms. For example, you could technically do spaced repetition study all by yourself, with a set of flashcards and a calendar. However, it's much <em>much</em> more convenient to let a computer do all the heavy lifting for you. Additionally, different applications will have different intervals, and different ways to adjust them. For example, Anki allows you to customize intervals and offers four different options to adjust them (but check out <a href="http://www.tofugu.com/reviews/anki">my Anki review</a> for why you might only want to use two of them!)</p>
+
+<h3 id="cloze-deletion-and-progressive-sentences">Cloze Deletion and Progressive Sentences</h3>
+
+<p>There are many different ways to test your knowledge and just as many tools to accomplish just that. Let's take a look at how BunPro stacks up with the other apps I've mentioned.</p>
+
+<blockquote class="highlight-right">
+  <p>Bunpro asks you to type in the answers to example sentences with a fill-in-the-blanks gap.</p>
+</blockquote>
+
+<p>When it comes to Anki, the app only asks you to recall the information, and grade yourself on how well you did, which has both benefits and drawbacks. WaniKani asks users to type in answers, which takes a little more time but prevents you from marking yourself correct if you didn't actually know what you're being tested on. Though the implementation is a little different, both of these methods fall under the cued recall technique I mentioned earlier.</p>
+
+<p>Like WaniKani, Bunpro also asks you to type in the answers by using something known as cloze deletion or a cloze test. You're given example sentences with a fill-in-the-blanks gap. You need to type in the correct grammar point, for example, a verb conjugated into a specific grammatical form, or a common expression, to complete the sentence.</p>
+
+<figure class="figure-middle"><img alt="screenshot of a flashcard with a fill-in-the-blank sentence prompt" src="https://files.tofugu.com/articles/reviews/2022-08-09-bunpro/bunpro_2.jpg" /></figure>
+
+<p>While both are valid and valuable methods of study, <a href="https://www.gwern.net/docs/psychology/spaced-repetition/1989-glover.pdf">in a 1989 study</a>, psychologist John Glover found the cloze deletion form of cued recall more effective for long-term learning than a simple recognition test (for example, having to pick the correct answer from a list, like with multiple choice questions).</p>
+
+<p>Here's an example review question from Bunpro. They present you with the sentence: 家具を買うなら、このお店___。Pressing space will give you a hint, which is a concise definition of the grammar point they're looking for. If you still don't know, hitting space again will give you a full English translation of the sentence, with the missing grammar point defined in blue. In the sentence above, the grammar point they're looking for is にかぎる or "nothing better than," making the sentence, "If you want to buy furniture, there's no shop better than this one."</p>
+
+<blockquote class="highlight-left">
+  <p>Seeing Japanese grammar and vocabulary used in context is extremely valuable for deepening your understanding.</p>
+</blockquote>
+
+<p>Personally, I think seeing Japanese grammar and vocabulary used in context is extremely valuable for deepening your understanding. While testing yourself on the one-to-one translation of vocabulary has its place in the learning process when usage is self-explanatory and straightforward (knowing 雪 means "snow" gives you a pretty complete picture of its usage), for more complicated terms and grammar points you can't really get achieve a deep understanding without seeing them in context. Of course, Bunpro takes it a step further than simply seeing a grammar point in context as it asks <em>you</em> to practice using it, albeit in a focused manner.</p>
+
+<blockquote class="highlight-right">
+  <p>Bunpro does a good job of not only varying the sentences, but making sure to show progressive sentences.</p>
+</blockquote>
+
+<p>On the flipside, these example sentences initially drew my concern when going into Bunpro. As I mentioned in <a href="http://www.tofugu.com/reviews/anki">my Anki review</a>, I'm a bit wary of learning one hyper-specific cue or context. For instance, learning to recognize the context of a single example sentence, as opposed to achieving a broader or more holistic understanding of what you're aiming to study. Luckily, Bunpro specifically works to alleviate this issue. While you will see the same sentences more than once, Bunpro does a good job of not only varying the sentences, but making sure to show progressive sentences, either one that showcases a different usage for the grammar point than the one you already know, or a sentence that builds off other grammar points you've learned.</p>
+
+<p>For example, consider the phrase 込む, which can be used as a suffix or helper verb. It can mean both something like "to enter into," as well as "to be deep in something," or "to remain in a certain state." To help convey both of these usages, they give a variety of different example sentences, such as 「ピンを壁に押し込む 」or "to push a pin into a wall," and 「そんなに考え込まなくてもいいよ。 」which can be translated as "It's okay to not think so deeply about this." This not only keeps things fresh but helps ensure you're getting more of a complete picture than simply memorizing one specific line.</p>
+
+<h2 id="a-versatile-tool">A Versatile Tool</h2>
+
+<blockquote class="highlight-left">
+  <p>Bunpro's greatest strength is its ability to fit any learner's needs.</p>
+</blockquote>
+
+<p>Perhaps the best thing about Bunpro is the flexibility it offers. This flexibility doesn't end with progressive sentences, either. Whether you're looking for a way to brush up on some difficult grammar, or an app for all your grammar and vocabulary study, Bunpro has a lot to offer. However, it is an app still in development, which can lead to some slight issues or lack of polish in some areas, but that also means it's constantly being updated and improved. The developers have a blog where they detail some of the recent changes and improvements, as well as listen to user feedback and discuss what's coming in the future.</p>
+
+<p>Bunpro's greatest strength is its ability to fit any learner's needs. Regardless of if you want a companion app for a formal class, or are a dedicated self-studier, Bunpro is here for you.</p>
+
+<h3 id="grammar-and-vocab">Grammar <em>and</em> Vocab</h3>
+
+<p>As I mentioned, despite the name, Bunpro isn't limited to studying grammar. They've recently added vocabulary reviews as well. As a burgeoning feature, it still has a ways to go, but the initial report is promising.</p>
+
+<blockquote class="highlight-right">
+  <p>Bunpro has a couple of thousand vocabulary terms from the JLPT N5 and N4 levels.</p>
+</blockquote>
+
+<p>So far, Bunpro has a couple of thousand vocabulary terms from the <a href="../../japanese/what-is-the-jlpt/index.html">JLPT</a> N5 and N4 levels. You can navigate to these via the search page, clicking on words in example sentences (where available), and by deck, a new way of grouping study items. For example, there's a deck of N5 vocabulary which contains 1100 vocabulary items. You can bookmark this deck, use the "learn" feature to start studying the terms, and then add them to your SRS queue. From there, reviews work like Anki, asking you to simply grade yourself, though on Bunpro there are only two buttons to choose from, labeled "Known" or "Unknown."</p>
+
+<p>On the blog, the developers have detailed the intent to make every word in every sentence clickable and to continue adding vocabulary to their database, with the goal of over 7000 words added by the end of 2022. Since it's still in planning I don't want to put too much emphasis on this feature, though I've been impressed by the updates and features the Bunpro team has added to the project since its launch.</p>
+
+<p>Still, grammar is the star of the show. When you go to the page for any particular grammar point you're given the conjugation or structure, explanations of its usage, synonymous grammar points, warnings on common mistakes or nuance, and copious example sentences. While these explanations don't really rival something like the Dictionary of Japanese Grammar series, they're a more than fine starting point, giving you both a basic foundation, as well as the information to go a bit deeper.</p>
+
+<figure class="figure-middle"><img alt="screenshot of the information page for だけで" src="https://files.tofugu.com/articles/reviews/2022-08-09-bunpro/bunpro_4.jpg" /></figure>
+
+<p>As I mentioned before, Bunpro's example sentences help convey multiple usages of any particular point, adding to the depth of your understanding. For me, it's this depth that elevates Bunpro from a simple beginner resource. Comparing and contrasting similar grammar points, and walking through seemingly correct but deceptively-ungrammatical usages is unfortunately not as common a practice for beginner learners as it should be. It's this sort of nuance that can help students build a foundation of Japanese the right way.</p>
+
+<h3 id="study-lessons-paths-and-decks">Study, Lessons, Paths, and Decks</h3>
+
+<blockquote class="highlight-left">
+  <p>Bunpro has a ton of options to suit your learning style.</p>
+</blockquote>
+
+<p>Now, how are you going to decide what grammar points to review? Well, it's really up to you! Bunpro has a ton of options to suit your learning style, and while I love the flexibility, the overlapping pathways are a bit clunky. This is one of my main complaints with the app, actually. In practice, I think most learners will find whichever means of accessing the grammar relevant to them is most convenient and stick with it. Luckily, progress is saved across the site, so if you start learning at your own pace and want to switch to a Path, there's no penalty for doing so.</p>
+
+<blockquote class="highlight-right">
+  <p>The "Study" feature will show you new grammar patterns you haven't learned yet from your target level.</p>
+</blockquote>
+
+<p>After signing up, you can set your target JLPT level under settings. Even if you don't intend to take the JLPT anytime soon, it's a helpful framework for grouping the different grammar and vocabulary as you embark on your Japanese learning journey. From there, the simplest way into the grammar is using the "Study" feature. With this, Bunpro will show you new grammar patterns you haven't learned yet from your target level, anywhere from 1-10 new grammar points a day, which you can also configure in the settings. After you read through the explanations, these new grammar points are automatically added to your review queue, allowing you to progress through the JLPT grammar points at your preferred pace. More on the "Study" feature a bit later!</p>
+
+<blockquote class="highlight-left">
+  <p>"Lessons" is basically an index page with every grammar point Bunpro offers.</p>
+</blockquote>
+
+<p>Next is "Lessons." This is basically an index page with every grammar point Bunpro offers from JLPT N5 to N1. Here, you can freely browse the available grammar points and add the items you want to review. I think this is a great option for learners who have already worked through at least one textbook and want to help strengthen their understanding of a grammar point or two before they move on. Of course, you should use this at your own discretion. While it's possible to add every N5 grammar point to your queue, for example, that would only lead you to burnout.</p>
+
+<figure class="figure-middle"><img alt="screenshot of a table containing N4 grammar points" src="https://files.tofugu.com/articles/reviews/2022-08-09-bunpro/bunpro_3.jpg" /></figure>
+
+<blockquote class="highlight-right">
+  <p>Paths allow learners who are working through a textbook to use Bunpro like a companion app.</p>
+</blockquote>
+
+<p>The final two methods are some of the most powerful, and also go hand in hand. These are "Paths'' and "Decks." Paths allow learners who are working through a textbook to use Bunpro like a companion app, automatically grouping the grammar points as they are in the textbook. Bunpro offers paths for the 2nd Edition of Genki I and II, みんなの日本語 I and II, Tobira, Tae Kim's Grammar Guide, and An Integrated Approach to Intermediate Japanese. This is a fantastic feature that allows you to harness the power of SRS reviews for the content you're already familiar with in addition to the new grammar explanation to help deepen your knowledge.</p>
+
+<blockquote class="highlight-left">
+  <p>Decks are like the evolution of the Paths feature.</p>
+</blockquote>
+
+<p>Decks are like the evolution of the Paths feature. Like Paths, Decks group grammar in a number of different ways. There are decks for all of Bunpro's grammar from N5 to N1, and decks for N5 and N4 vocab. There are also deck forms of the textbook paths above, and new decks for the "Starter," "Elementary 1," and "Elementary 2" books of the Marugoto series, and books 1 and 2 of the Quartet series. Finally, there's a deck for Kansai-ben grammar and vocabulary as well.</p>
+
+<figure class="figure-middle"><img alt="screenshot of various decks including Genki, Minna No Nihongo, Tobira, and Tae Kim" src="https://files.tofugu.com/articles/reviews/2022-08-09-bunpro/bunpro_6.jpg" /></figure>
+
+<blockquote class="highlight-right">
+  <p>Decks combine grammar and vocabulary reviews into one.</p>
+</blockquote>
+
+<p>Wait, "grammar <em>and</em> vocabulary?" That's right, and that's the primary reason decks are so powerful: they combine grammar and vocabulary reviews into one. Right now, there are integrated decks of both vocabulary and grammar for both the 2nd and 3rd editions of Genki I, as well as all three Marugoto books, with more on the way.</p>
+
+<p>This is huge for students as offering basically a companion app to some of the most popular textbooks makes getting started that much easier. I personally feel I wasted a lot of time early on in my Japanese studies, as I stagnated a bit while I tried my hardest to make sure I really had a good grasp on the basics. With this feature, Bunpro offers a high-quality, convenient way to help reinforce what you're learning, so there's no guessing if you've really locked in that grammar point or not.</p>
+
+<h3 id="study-in-depth">Study In-Depth</h3>
+
+<figure class="figure-middle"><img alt="screenshot of the study page for 傾向がある" src="https://files.tofugu.com/articles/reviews/2022-08-09-bunpro/bunpro_7.jpg" /></figure>
+
+<p>So, how does the Study feature actually work in practice? The page shown is basically the same as when you look up any grammar point on its own, though you're taken through each tab one by one. It's broken into three tabs, "Details," "Examples," and "Resources."</p>
+
+<table class="table table-responsive table-hover table-bordered">
+  <tr>
+    <th>Details</th>
+    <td>Details lists the structure, as in how a grammar point is conjugated or used; gives an explanation for the grammar point; offers synonyms and antonyms; and provides a place to add your own notes.</td>
+  </tr>
+  <tr>
+    <th>Examples</th>
+    <td>Examples offers a large number of example sentences, which all have audio and English translations. There are also toggles to slow the audio or swap to a male/female voice, or to hide either the Japanese or English text.</td>
+  </tr>
+  <tr>
+    <th>Resources</th>
+    <td>Finally, the resources page offers links to other free sites with more information. While this can be helpful, it's a bit strange to send users directly to other resources.</td>
+  </tr>
+</table>
+
+<p>From there, similar to WaniKani, once you're finished taking in all the information from the new grammar points, you're given a mini-quiz on just those points. These are the same as the regular reviews, meaning cloze deletion fill-in-the-blanks example sentences. These grammar points are then added to your standard review queue.</p>
+
+<p>While it's not a perfect system, it's a good option if you want to learn all the grammar points offered on Bunpro at a steady pace without having to go through to pick what to add.</p>
+
+<h3 id="reading-practice">Reading Practice</h3>
+
+<blockquote class="highlight-left">
+  <p>Readings are akin to the short dialogue sections you'd find in the Genki beginner textbook series.</p>
+</blockquote>
+
+<p>Rounding out the recent additions to Bunpro is the Reading Practice section. Available under the "Content" drop-down menu on the navigation bar, clicking this takes users to an index page with a number of different readings grouped by JLPT level. These aren't graded readers, exactly; they're more akin to the short dialogue sections you'd find in the Genki beginner textbook series. Additionally, the page is simply an index with all their excerpts listed from N5 to N2, leaving it up to you to pick what you want to read. You can mark items off as "read," but I wish Bunpro was a bit more advanced about recommending level-appropriate content.</p>
+
+<blockquote class="highlight-right">
+  <p>The excerpts aren't especially long or engaging, but Bunpro makes up for it with the wealth of options afforded to learners.</p>
+</blockquote>
+
+<p>I've written before about how important I feel reading practice is for improving your Japanese ability, and this is no exception. While the excerpts aren't quite as long or as engaging as some of the other beginner reading material I've come across, Bunpro makes up for it with the wealth of options afforded to learners. There are toggle switches to make the text vertical rather than horizontal, as Japanese is usually written vertically. You can also add highlights to grammar, which can make it easier to break down sentences and learn the meaning of new grammar points in context (though these grammar points are clickable, which will show a popup with the information from the grammar page).</p>
+
+<p>There are additional options to show notes, English translations, and toggle furigana. Each entry also has a corresponding discussion thread in the forum. Like the reading threads in the <a href="https://community.wanikani.com/?utm_source=Tofugu">WaniKani forum</a>, other users will ask questions and help break down some of the more complex points. Reading groups like this can really go a long way for your comprehension.</p>
+
+<figure class="figure-middle"><img alt="screenshot of an N3 reading" src="https://files.tofugu.com/articles/reviews/2022-08-09-bunpro/bunpro_5.jpg" /></figure>
+
+<p>While these reading sections aren't perfectly integrated with the rest of the site (which is sort of obvious for how tucked-away they are in the menu), the intent is good. Unfortunately, after conferring with a native Japanese-speaking colleague of mine, we noticed the Japanese used can be a bit strange. It's not totally clear where these excerpts come from, but I certainly wouldn't use it as your only source of reading practice.</p>
+
+<h2 id="integrations">Integrations</h2>
+
+<p>Speaking of integrations, in my mind they're what take Bunpro to the next level. Of course, it works just fine as a stand-alone application, but the way Bunpro manages to fit into any student's study routine makes it special. I've already mentioned it can act alongside textbook learning, provided you're studying from one of the textbook-aligned Bunpro Paths or Decks.</p>
+
+<blockquote class="highlight-left">
+  <p>You can link your WaniKani account, which will tell Bunpro all the words you already know.</p>
+</blockquote>
+
+<p>Additionally, you can link your WaniKani account, which will tell Bunpro all the words you already know. This makes it easy to not double-up on review of terms you're already familiar with and avoids the issue of having two separate SRS intervals or flashcards covering the same items. It also allows you to dynamically show furigana based on your WaniKani level, hiding furigana for any words you don't know, and only showing them for ones you haven't studied before.</p>
+
+<h2 id="a-work-in-progress">A Work In Progress</h2>
+
+<p>Despite its many positives, Bunpro is clearly a work in progress, which is both a good and a bad thing. On the plus side, they've made a number of key updates even just over the past year, such as adding vocabulary study, Paths, reading practice, and more. It's clear the developers have a lot of passion for this project, and want to make it the best tool it can be, regardless of how you want to use it. But there are some growing pains as well.</p>
+
+<p>On the minor end, Bunpro just doesn't look that polished in all places. The dashboard has multiple, separate links that lead to the same places, and just generally some jagged edges here and there.</p>
+
+<p>This overlap continues in other places. For instance, all the different methods of accessing the same grammar points. While things seem to be moving towards Decks, there's some lingering inconsistency that can cause confusion. I love that Bunpro is a tool that can fit anyone's study goals, but I wish it were a bit more streamlined.</p>
+
+<h2 id="is-it-worth-adding-bunpro-to-my-study-routine">Is It Worth Adding Bunpro to My Study Routine?</h2>
+
+<p>Still, what's here is well worth the cost of admission. I'm a firm believer in reading widely to help cement your understanding of Japanese grammar and vocabulary in context, but even so, everyone has a number of sticking points. Bunpro has made it easy for me to review grammar I either haven't come across much in the wild or simply continue to make mistakes on.</p>
+
+<p>If you're still just starting out, Bunpro is a super valuable tool to add the power of SRS and the confidence that you're making progress in your textbook study routine. I wish I had this when I first started studying Japanese!</p>
+
+<p>That said, the focus is really on self-studiers. There's no assessment to see what level is appropriate for you, for example. Instead, if you're not just starting a new textbook or JLPT level from scratch, you have to go through and add the items you want to study to your queue, or mark off the items you already know as learned. Similarly for the reading practice section, which is sorted by level but doesn't take into account the information Bunpro already knows about your abilities.</p>
+
+<p>While Bunpro isn't a one-stop shop for all your Japanese study needs, it's a fantastic companion to make studying grammar easier. From integrating the often-tricky grammar reviews into SRS, to supporting your textbook study, or simply brushing up on grammar points you can't quite get to stick, Bunpro should be in every Japanese learner's toolkit.</p>
+
+<section class="individual-review"><div class="individual-review__avatar"><a href="../../about/people/ian-j-battaglia/index.html"><img src="../../images/about/people/avatar-ian-j-battaglia-378d8bf5.jpg" alt="Avatar ian j battaglia 378d8bf5" /></a></div><div class="individual-review__content"><h3 class="individual-review__title">Ian’s Review<i class="fa fa-thumbs-o-up" aria-hidden="true" aria-label="Recommended"></i><span class="individual-review_rating">8/10</span></h3><p>Bunpro is a valuable tool that can fit almost any Japanese learner’s needs. Whether you’re studying for the JLPT, just want to lock in some grammar you’ve studied before, or are a beginner looking to hit the ground running as you study alongside a textbook, Bunpro has got you covered. I applaud the developer’s consistent updates and passion, though there are definitely a few rough edges left along the way. In the past, I’ve found it difficult to review specific grammar points, but Bunpro makes it easy.</p>
+</div></section>
+
+<div class='article-tldr blog-post-highlight'>
+<div class='container'>
+<h2>
+<span class='article-highlight'>Bunpro</span>
+<small>
+<span class='article-highlight'>
+<span class='conjunction'>by</span>
+Bunpro
+</span>
+</small>
+</h2>
+<div class='article-tldr-ratings-pros-cons'>
+<div class='container'>
+<div class='row'>
+<div class='col-md-6'>
+<h3 class='article-tldr-pros-cons-title'>Pros</h3>
+<ul>
+<li>Super flexible, regardless of how you'd like to use it</li>
+<li>Progressive example sentences and reviews to help convey grammatical nuance</li>
+<li>Powerful integrations take it to the next level</li>
+</ul>
+</div>
+<div class='col-md-6'>
+<h3 class='article-tldr-pros-cons'>Cons</h3>
+<ul>
+<li>Still a work in progress, so there are a few rough edges</li>
+<li>Overlapping study methods can be a bit confusing</li>
+<li>Not all the features flow perfectly with one another quite yet</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class='article-tldr-ratings'>
+<div class='article-tldr-ratings-overall'>
+<div class='article-tldr-ratings-header'>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-6'>
+<div class='article-tldr-ratings-header-title'>
+<h3>Overall Rating</h3>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class='article-tldr-ratings-header-rating'>
+<h3>8</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+<progress max='10' value='8.0'></progress>
+</div>
+</div>
+<div class='article-tldr-additional-information'>
+<h3>Additional Information</h3>
+<div class='container'>
+<div class='row'>
+<div class='col-md-6'>
+<p>
+<i class='fa fa-fw fa-external-link'></i>
+<a href='https://bunpro.jp/' target='_blank' title='View Bunpro&#39;s website'>
+Bunpro's
+website
+</a>
+</p>
+</div>
+<div class='col-md-6'>
+<p>
+<i class='fa fa-fw fa-gift'></i>
+<a href='https://bunpro.jp/' target='_blank' title='Buy Bunpro'>
+Buy
+Bunpro
+</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-articles reviews-prev japanese-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='reviews' href='../anki/index.html' title='View A Review of Anki'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-pencil'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+A Review of Anki
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='../../japanese/language-exchange/index.html' title='View How to Language Exchange Successfully'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+How to Language Exchange Successfully
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category reviews'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-next'>
+<a class='reviews' href='../anki/index.html' title='View A Review of Anki'>
+<small>
+<span aria-label='Newer reviews' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-pencil'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+A Review of Anki
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='../../about/index.html' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.2' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs/index.html' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese/index.html' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='../../news/index.html' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='../../newsletter/index.html' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='../../podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='../../feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="../../javascripts/master-2164c2ee.js" defer="defer"></script><script src="../../javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

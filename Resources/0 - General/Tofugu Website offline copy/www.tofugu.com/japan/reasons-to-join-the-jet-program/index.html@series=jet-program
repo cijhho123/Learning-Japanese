@@ -1,0 +1,860 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Michael Richey' name='author'>
+<meta content='When researching how to live in Japan, a lot of people ask themselves, &quot;Should I Go on the JET Program?&quot; Tofugu offers 25 reasons to join.' name='description'>
+<meta content='jet program, teaching english in japan' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='When researching how to live in Japan, a lot of people ask themselves, &quot;Should I Go on the JET Program?&quot; Tofugu offers 25 reasons to join.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japan/2015-05-08-reasons-to-join-the-jet-program/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='25 Reasons To Join The JET Program (And 8 Reasons Not To)' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japan/reasons-to-join-the-jet-program/' property='og:url'>
+<meta content='https://www.tofugu.com/japan/jet-program-recontracting-decision/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/jet-teaching-senpai/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/esl-bulletin-board-ideas/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-work-culture/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-teaching-resources/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-schools-vs-american-schools/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-survival-resources/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/jet-program-japanese-preparation/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/culture-shock-in-japan-on-the-jet-program/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-post-arrival/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-packing-guide/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/post-jet-acceptance/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-statement-of-purpose/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-application/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-interview/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/nine-intelligences/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-self-intro-class/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-alt-team-teaching-tips/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-bad-school/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/non-teaching-jobs-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/japanese-college-student-english/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/japanese-minecraft-professor/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Michael Richey' property='article:author'>
+<meta content='2015-05-08T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japan' property='article:section'>
+<meta content='jet program' property='article:tag'>
+<meta content='teaching english in japan' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@tofugu' name='twitter:creator'>
+<meta content='When researching how to live in Japan, a lot of people ask themselves, &quot;Should I Go on the JET Program?&quot; Tofugu offers 25 reasons to join.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japan/2015-05-08-reasons-to-join-the-jet-program/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='25 Reasons To Join The JET Program (And 8 Reasons Not To)' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#268bd2' name='twitter:widgets:link-color'>
+<meta content='#268bd2' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-michael-richey-9c293d25.jpg",
+    "jobTitle": "Designer",
+    "name": "Michael Richey",
+    "sameAs": [
+
+    ],
+    "url": "https://www.tofugu.com/about/people/michael-richey/",
+    "description": "Michael is a designer at Tofugu. He grew up in Charlotte, NC and studied writing and film production at North Carolina School of the Arts. After college, he lived in Hikone, Shiga in Japan for two years on the JET Program. In his spare time, Michael makes comics zines, plays Famicom, and spends time with his family.",
+    "email": "michael@tofugu.com"
+  },
+  "datePublished": "2015-05-08T00:00:00Z",
+  "description": "When researching how to live in Japan, a lot of people ask themselves, \"Should I Go on the JET Program?\" Tofugu offers 25 reasons to join.",
+  "headline": "25 Reasons To Join The JET Program",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japan/2015-05-08-reasons-to-join-the-jet-program/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japan/2015-05-08-reasons-to-join-the-jet-program/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "jet program, teaching english in japan",
+  "name": "25 Reasons To Join The JET Program",
+  "url": "https://www.tofugu.com/japan/reasons-to-join-the-jet-program/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2015-05-08T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japan/reasons-to-join-the-jet-program/"
+}
+</script>
+
+<title>25 Reasons To Join The JET Program</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japan/reasons-to-join-the-jet-program/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='https://www.tofugu.com/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://www.tofugu.com/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://www.tofugu.com/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://www.tofugu.com/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://www.tofugu.com/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='https://www.tofugu.com/favicon.png' rel='shortcut icon'>
+<link href='https://www.tofugu.com/favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japan japan_reasons-to-join-the-jet-program japan_reasons-to-join-the-jet-program_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='https://www.tofugu.com/'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japanese/' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='https://www.tofugu.com/japanese/' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.1' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-learning-resources-database/' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japan/' id='dJapan'>
+Japan <i class="fa fa-globe"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='https://www.tofugu.com/japan/' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/series/' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/travel/' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/reviews/' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/interviews/' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='https://www.tofugu.com/podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=jet-program#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japan/2015-05-08-reasons-to-join-the-jet-program/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japan/2015-05-08-reasons-to-join-the-jet-program/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+25 Reasons To Join The JET Program (<span class="conjunction">And</span> 8 Reasons Not To)
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+The pros and cons of going on JET
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2015-05-08T00:00:00Z">May 8, 2015</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/michael-richey.1" rel="author">Michael Richey</a>
+•
+Art by
+<a href="https://www.tofugu.com/about/people/aya-francisco/">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japan/2015-05-08-reasons-to-join-the-jet-program/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+<p class='article-series series-jet-program hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="../../series/jet-program.1">The Tofugu JET Program Guide
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>If you're reading this, you must have some kind of interest in the <a href="https://en.wikipedia.org/wiki/JET_Programme">JET Program</a>. This isn't a decision to be made lightly, though. As a JET alumni myself, I've experienced (and heard stories of) the incredibly positive aspects of the program, as well as the not so positive. You are packing up and moving to a foreign country, after all. It's important to do your research.</p>
+
+<p>I've put together a list of pros and cons for going on JET. By pulling from my own experience, as well as the experience of many other JETs, I think I've come up with a pretty thorough resource. I hope it helps you to make a good decision for <em>you.</em></p>
+
+<h2 id="a-note">A Note</h2>
+
+<p>This article is intended for those interested in the ALT (Assistant Language Teacher) position. JET also employs CIRs (Coordinator of International Relations) who work in Boards of Education and government offices. However, the CIR position requires at least N2 level Japanese and accounts for only 10% of JET participants. Less than 1% of JET participants are SEAs (Sports Exchange Advisors). ALTs make up 90%. All this to say, our focus will be on becoming an ALT in the JET Program.</p>
+
+<h2 id="tangible-benefits">Tangible Benefits</h2>
+
+<figure class="figure-middle"><img alt="bright temple shrine japan" src="https://files.tofugu.com/articles/japan/2015-05-08-reasons-to-join-the-jet-program/bright-temple-shrine-japan.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/26430245@N05/8273203295" title="Visit source's website" target="_blank">sorimachi.tw</a></figure>
+
+<h3 id="free-trip-to-japan">Free Trip to Japan</h3>
+
+<p>JET brings foreign people to Japan, so the plane ticket seems to go without saying. As "basic" as this sounds, it's actually a perk JET has over other ALT programs. Most private ALT companies expect you to pay your own way into the country.</p>
+
+<p>Be aware that flying with JET means you must return to the same airport you departed from. Aside from this it's a free round trip international flight (with 1 to 5 years in between). A nice perk not offered by many other programs.</p>
+
+<h3 id="job-in-japan">Job in Japan</h3>
+
+<p>One of the most stressful situations in life is finding a job. It's doubly stressful when paired with moving your life to a new country and culture.</p>
+
+<p>It's possible to move to Japan without a job and find one once you get there. But consider the vast expense of moving to Japan. Then finding a place to live, and the costs associated. Finally add job searching.</p>
+
+<p>You'll probably find an English teaching job, but not having one set up beforehand adds a countdown to zero monies. Stress like that is the last thing you need while job searching.</p>
+
+<p>Depending on the company, some ALT staffing agencies may not always have your best interest in mind. Their job is primarily to make money by keeping the Board of Education happy. This is not always the case, but keep it in mind when looking at alternatives to JET. JET places you in a job with the intention of keeping you there. Things will go wrong (we'll get to that later), but at least the JET Program isn't <em>trying</em> to make things difficult for you.</p>
+
+<p>The fact that JET offers you employment in Japan may go without saying. But considering what it's like to move across the globe without a job helps put into perspective what a major benefit this is.</p>
+
+<h3 id="getting-set-up">Getting Set up</h3>
+
+<p>You're flown to Japan and given a job. On top of that, JET sets you up with an apartment, a visa, a residence record, and a residence card. Most other English teaching programs should help with this as well, in varying degrees. However if you are coming to Japan on your own, all of these things rest on you.</p>
+
+<p>Even with a good deal of Japanese under your belt, navigating the bureacracy required to secure an apartment, put the utilities in your name, set up a cell phone plan, get a visa, and register your residency would be daunting. Having a supervisor to get you on your feet in a matter of days relieves a lot of that hassle.</p>
+
+<h3 id="apartment">Apartment</h3>
+
+<p>JET sets you up with your living situation. This is a big deal considering how different home set-up in Japan is, compared to other countries. In most cases, you'll take over your predecessor's home, which diminishes the startup fees normally required for new apartments. This isn't a guarantee though. You may need to have up to six times your monthly rent to pay in key money and other fees. Super expensive, but that's just how apartments in Japan work.</p>
+
+<p>Your JET apartment may not be a dream home, but it's your own place in Japan. In most cases, it's fully furnished and partially subsidized, though it could be only one of these or neither. You are free to leave and find your own apartment at your own expense (which is very possible, given the generous JET salary).</p>
+
+<p>Don't underestimate the benefit of having a place set up for you before you arrive. It's a big stress reliever and a great way to feel that Japan is your home as soon as you land.</p>
+
+<h3 id="lots-of-support">Lots of Support</h3>
+
+<p>You have a lot of bosses with varying degrees of power to help you. If one boss is not helpful, at least you have other avenues to explore when solving problems. Not all bosses help with the same things, so in certain situations, you'll need to approach a certain boss.</p>
+
+<p><strong>School Supervisor (<i>tantousha</i> <ruby>担当者<rp>（</rp><rt>たんとうしゃ</rt><rp>）</rp></ruby>)</strong></p>
+
+<p>This person will be your main go-to supervisor at school. They will be a Japanese Teacher of English (JTE) who works at your school, a day-to-day coworker and one you will work with in class. You can go to them with school issues, classroom issues, Japanese culture issues, etiquette issues, and sometimes even issues outside of work.</p>
+
+<p><strong>Vice Principal</strong></p>
+
+<p>The Vice Principal is a supervisor as well and can help with a lot of things, but usually only when your School Supervisor directs you there. These are usually issues that the School Supervisor can't handle on their own, thus they move up the chain of command.</p>
+
+<p><strong>Principal</strong></p>
+
+<p>The Principal is definitely your boss. If it's a situation the Vice Principal can't handle, it's on to the Principal. Realistically, you won't handle issues with Principal at all, if ever.</p>
+
+<p><strong>Board of Education or Prefectural Office Supervisor</strong></p>
+
+<p>CLAIR refers to this supervisor as your "supervisor". Like, this is <em>the</em> supervisor for your JET contract and your number one go-to boss in just about every situation.</p>
+
+<p>This person is someone who works at the office of your contracting organization. Your supervisor will be in charge of setting you up in your apartment, setting up utilities, registering you at all local government offices, registering you for health insurance, dealing with repairs in your apartment, opening your bank account, helping you find a doctor, giving you permission to take time off, evaluating your performance, helping you in case of emergency, and helping you to recontract to stay on JET at the end of each year.</p>
+
+<p><strong>Prefectural Advisor (PA)</strong></p>
+
+<p>You will most likely have two Prefectural Advisors (PA). These people are JET Program participants who work closely with the contracting organizations and Prefectural government. Their job is to confidentially counsel you in all issues you have on JET, including issues with your contracting organization. Because PAs are still performing their duties as JET participants, they have a more relatable perspective and may be able to mediate between you and your contracting organization. Bear in mind that PAs have limited power and may not be able to solve your problem. But no matter what, it's nice to have an advocate who can be in your corner, even if the outcome doesn't develop the way you like.</p>
+
+<p><em><strong>Edit:</strong></em></p>
+
+<p>After publishing this article, I learned that CLAIR had effectively removed the PA position from JET's support network last year. PAs still exist, but they are barred from offering counseling or mediating in any way. I don't know why the PA position is still in place if it's been stripped of ability to act. The other supports are still in place, but the Prefectural Advisor was one of the most helpful and important sources of official support. <a href="http://ajet.net/">The Association for JET</a> (AJET) compiled a study on JET participants' reactions to this change and presented it to CLAIR, MOFA, MEXT, and MIC. You can read it <a href="http://ajet.net/downloads/reports/2014/Counseling_Report_2015_02.pdf">here</a>. Hopefully this will turn things around, but we'll see.</p>
+
+<p>If you do go on JET, I would recommend you supplement the loss of PA support with other support organizations like the <a href="http://ajet.net/resources/counselling/ajet-peer-support-group/">AJET Peer Support Group</a> or the <a href="http://telljp.com/">Tokyo English Life Line</a>. They won't be able to mediate with your contracting organization like PAs did, but at least they'll be able to provide the counseling aspect.</p>
+
+<h3 id="money">Money</h3>
+
+<p>JET Program pay is very generous. The pay scale goes like this:</p>
+
+<ul>
+  <li>1st year JETs – ¥3,360,000/yr</li>
+  <li>2nd year JETs – ¥3,600,000/yr</li>
+  <li>3rd year JETs – ¥3,900,000/yr</li>
+  <li>4th and 5th year JETs – ¥3,960,000/yr
+This is more than enough to pay rent, pay bills, buy meals, spend money, save money, and go on trips. You're not only given the experience of living in Japan, but also the means to enjoy it!</li>
+</ul>
+
+<p>Generally speaking, JET is the highest paying ALT gig there is, unless you join a company that has a pay scale in which your raises would eventually exceed ¥3,960,000 a year. However, this might take a few years of teaching, which would be a great goal for those wanting to live in Japan long term. But as far as starting salaries for ALT work go, JET can't be beat.</p>
+
+<h3 id="tax-exemption-for-2-years">Tax Exemption for 2 Years</h3>
+
+<p>On top of the high pay, you will most likely be tax exempt for the first two years. Many countries, including the U.S., have a tax treaty with Japan, wherein the money you earn for the first two years on JET is tax free. Check with your home country's tax authority to find out if you qualify. You will still need to file taxes with your home country and your local Japanese government, but that's a small price for two years of tax free pay.</p>
+
+<h3 id="pay-off-debts-with-that-money">Pay off Debts with That Money</h3>
+
+<p>Many JETs use their income situation as an opportunity to pay off student loans or other debts. This is a huge benefit considering the amount of time it usually takes people to pay off debts. You could pay off those student loans in 4 years rather than 30, and still having money to spend on vacations.</p>
+
+<h3 id="many-insurances">Many Insurances</h3>
+
+<p>As a member of the JET Program, you are automatically enrolled in 3 insurance plans to cover you in most imaginable cases. Many private ALT staffing companies try to get out of enrolling their employees into the National Health Insurance Program by claiming employees' total work time per week as 29.5 hours. In reality ALTs in those companies work closer to 40.</p>
+
+<p>With JET, you are enrolled in the mandatory National Health Insurance Program and two others as well. And all without any paperwork required. Below is a breakdown of the healthcare you would receive:</p>
+
+<ul>
+  <li><strong>The National Health Insurance Program</strong> is the social healthcare program. The majority of Japan is enrolled and nearly every Japanese doctor accepts it. This plan covers 70% of your medical expenses, which includes doctor visits, treatment, medical supplies, operations, hospitalization, nursing, and transportation. Dependents are also covered under this plan and receive all the same benefits of the beneficiary. Dependent care differs in that they must pay 20% of hospitalization costs and 30% of out-patient care.</li>
+  <li><strong>JET Accident Insurance</strong> covers whatever National Health Insurance doesn't. Use it if it's a situation you wouldn't want to pay for out of pocket. It also covers you for up to one month at a time outside of Japan, in case you want to go on vacation or visit your home country.</li>
+  <li><strong>Employment Insurance</strong> is your contribution to the Japanese unemployment fund. This allows you to collect unemployment if you remain in the country after JET and are unemployed for a time. This is an invaluable safety net for those who wish to reside in Japan long term and need to look for a job after JET.
+### Pension Fund (for retirement or unable to work due to injury)</li>
+</ul>
+
+<p>Everyone working in Japan is required to put money away in the National Pension. It's like America's Social Security, except you get back the money you put in. This is used in case you are too ill to work, you die and need to leave money to family, or you retire in Japan. In the event you leave Japan without doing any of these things, you can apply for a refund of the majority of what you put in after you return to your home country.</p>
+
+<h3 id="vacation">Vacation</h3>
+
+<p>JET offers an incredible amount of time off, especially when compared with your Japanese co workers. The exact amount you get depends on what your contracting organization allows. The numbers below should be a close estimate to what you will get:</p>
+
+<ul>
+  <li><strong>Vacation Days</strong> – 12-20 per year</li>
+  <li><strong>Sick Days</strong> – 5-10 per year</li>
+  <li><strong>Special Days</strong> – If you are a prefectural ALT, you may be entitled to a compensatory holiday (<i>daikyuu</i> <ruby>だいきゅう<rp>（</rp><rt>代休</rt><rp>）</rp></ruby>, if the number of work days in a month exceeds the number stated in your contract.</li>
+</ul>
+
+<h3 id="language-practice">Language Practice</h3>
+
+<p>JET gives you an invaluable chance to take textbook Japanese and temper it into real, working fluency. Whether you know a lot or a little, it will get practiced into a smooth buttery flow. And studying on JET means real world application, which smashes the learnings into your brain.</p>
+
+<p>Is it possible to live in Japan and not learn any Japanese? Definitely. But Japan offers so many opportunities for immersion that it's the best place to reach benchmarks of fluency.</p>
+
+<h3 id="the-jet-program-japanese-language-course">The JET Program Japanese Language Course</h3>
+
+<p>CLAIR offers its own Japanese Language Course to all JET participants free of charge. The course is split between Beginner/Intermediate Courses and the Translation and Interpretation Courses. You have to test into the Translation and Interpretation Courses, but the Beginner/Intermediate Courses are open as soon as you start JET.</p>
+
+<p>In years past, the JET Program Japanese Language Course was administered with textbooks and CDs mailed to your contracting organization. However, in recent years it has become an online e-learning course.</p>
+
+<p>It may not ultimately be the best course for <a href="../../learn-japanese.1">studying Japanese</a>, but it's worth trying. It teaches grammar and vocab based on situations you may encounter on JET and it's free. If anything, it at least shows CLAIR's pro-activeness in caring for your development.</p>
+
+<h3 id="international-work-experience">International Work Experience</h3>
+
+<p>The ALT Job, which has its pros and cons, does offer a lot of opportunity to hone skills which look good on a resume. Chief among these is "international work experience," which hiring managers love. To employers this usually means, adaptability, flexibility, and the ability to work with various personalities. If you know how to highlight this on a resume and in an interview, it can be the career strengthener you need to land a better job.</p>
+
+<h3 id="enkai">Enkai!</h3>
+
+<p>Enkai are one of the best perks of the job. You pay some money and go to a party with all your teachers. Eating and drinking ensues. You can only experience this by working in Japan, as enkai are only for those "in the group". No spouses or family allowed.</p>
+
+<p>Tatemae gets pushed to the side at these parties and you see a side of your co workers that you won't see at school. After the fun, there's more fun. Most enkai continue at the <i>nijikai</i> <ruby>二次会<rp>（</rp><rt>にじかい</rt><rp>）</rp></ruby> (second party).</p>
+
+<p>Enkai are fantastic and exclusive experience. Go to as many as you can.</p>
+
+<h3 id="seminars">Seminars</h3>
+
+<p>Yay! Sitting in chairs and listening! There's not a whole ton of training involved on JET (see sections below), but you are offered some. There are several orientations before leaving for JET, one in Tokyo upon arrival, one before you finish JET, and in the middle of every year.</p>
+
+<p>The Skill Development Conferences were the ones I found most helpful. They are conducted by host prefectures and all ALTs in the prefecture attend with one JTE from their school. This means open discussions and workshops with one of your JTEs, and getting to hear from other ALT/JTE teams from the region. Results will vary, but the potential is definitely there.</p>
+
+<h3 id="the-clair-grant-for-tefl-certification">The CLAIR Grant for TEFL Certification</h3>
+
+<p>CLAIR offers grants for JETs to get Teaching English as Foreign Language (TEFL) Certification. This is great if you want to teach English in foreign countries as a career or want to get better at your job as an ALT. More info <a href="http://jetprogramme.org/en/tefl/">here</a>.</p>
+
+<p>A TEFL Certification will allow you to get better teaching jobs in Japan, including universities. Other countries in which English is not the native language open up as well. If you love your job as an ALT and want to travel Japan or the world, a TEFL Certification can help you achieve that goal.</p>
+
+<h3 id="alumni-network">Alumni Network</h3>
+
+<p>JET only lasts five years, so you will need to find another job at some point. This is where the JET Alumni Association (or JETAA) can be a big help. There are 52 chapters in 15 countries totaling over 25,000 members. No matter where you end up after JET, there should be a (relatively) nearby support base built in. Not only does this help with reverse culture shock, but JET Alumni are always eager to help a former JET get adjusted to their new home, whether it be in finding a new job or anything else.</p>
+
+<h3 id="bike">Bike</h3>
+
+<p>Your contracting organization will most likely supply you with a bicycle while on JET. Maybe not, but 90% of the time you will get a bike. Hey kid! You wanna free bike? Why would you say no?</p>
+
+<h3 id="foothold-in-the-country-for-living-long-term">Foothold in the Country for Living Long Term</h3>
+
+<p>For those wanting to live in Japan long-term, this might be the number one reason to go on JET. You can get to Japan and live for a year or two while networking, job searching, and getting acclimated to your new life. Starting a career in a new country is difficult enough without having to blaze your own trail. JET gives you a solid base from which to start your career advancement operation.</p>
+
+<h2 id="intangible-benefits">Intangible Benefits</h2>
+
+<figure class="figure-middle"><img alt="sakura close up" src="https://files.tofugu.com/articles/japan/2015-05-08-reasons-to-join-the-jet-program/sakura-close-up.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/dakiny/11007976076" title="Visit source's website" target="_blank">Toshihiro Gamo</a></figure>
+
+<h3 id="a-chance-to-live-on-your-own-in-a-foreign-country">A Chance to Live on Your Own in a Foreign Country</h3>
+
+<p>It goes without saying that living in Japan is different than visiting. You'll experience Japan as a relative insider, seeing both good and bad aspects of culture, society, religion, government, and daily life. You will also be largely on your own forcing you to become more resilient in a shorter amount of time than you might in your own country.</p>
+
+<h3 id="dealing-with-culture-shock-initially-bad-long-term-good">Dealing with Culture Shock (Initially Bad, Long Term Good)</h3>
+
+<p>Culture shock is a personal disorientation experienced when moving to new countries or environments. While on JET you will be forced to deal with it in varying degrees. This may not sound like a benefit, but it can be if dealt with correctly. If you can gain perspective and adjust in some ways, you'll find it easier to cope during other transitional times. Not fun but certainly beneficial.</p>
+
+<h3 id="learning-more-about-your-own-culture">Learning More About Your Own Culture</h3>
+
+<p>Yes, I did say <em>your own culture</em>. Learning about and interacting with Japanese culture has the funny side effect of teaching you about your own. When confused or frustrated by the way things are done in Japan, eventually you'll start to examine why those things bother you. This usually leads to an examination of your own values and/or the values of your home country. With a lot of these experiences and thinkings compounding on one another, you eventually gain a broader perspective of your own culture and why it functions the way it does.</p>
+
+<h3 id="experience-all-four-seasons-in-japan">Experience All Four Seasons in Japan</h3>
+
+<p>Recently in the Tofugu office, we had a fun argument about which season was the best. I said fall, while Koichi said winter, and Kristen said summer. Seasons in Japan are all wonderful (though fall is definitely the best). This is not so much due to weather, but rather the interesting and exciting ways Japan celebrates each season. Sakura viewing in spring, matsuris galore in summer, momiji hikes in the fall, and nabe at the kotatsu in winter. Living in Japan year round enables you to experience each season and discover reasons to love each one.</p>
+
+<h3 id="the-people">The People</h3>
+
+<p>It's great to talk about mountains, temples, shrines, arcades, and konbinis. But none of these amazing Japanese things would exist without Japanese people to create them. The people you will meet in Japan are the best part of the experience.</p>
+
+<p>A lot of guide books and travel sites say things like, "Japanese people are polite, kind, and hospitable." I'm not arguing that but you'll meet all kinds of characters that fall in line with and defy the stereotypes. There's no telling what you'll encounter when dealing with the cocktail of personalities that is humanity.</p>
+
+<p>You'll certainly always remember places you went and things you did, but people are what make experiences into adventures.</p>
+
+<h3 id="the-horcrux-effect">The Horcrux Effect</h3>
+
+<p>A fellow JET friend of mine likened her leaving Japan to a Horcrux from Harry Potter. For the uninitiated (muggles), a Horcrux is something a wizard can use to split their soul and attach a piece of it to an object, thus anchoring that piece of them to a certain place. This is the best seo_description I've heard for living in and leaving places.</p>
+
+<p>We all leave pieces of ourselves in the various places we've called home, and this is no different when living in Japan. When you leave, there are people, places, and memories that you'll hold dearly. I'm not sure whether or not to call this a benefit. But it's definitely a feeling, though bittersweet, that I wouldn't trade for anything.</p>
+
+<h2 id="reasons-not-to-go-on-jet">Reasons Not to Go on JET</h2>
+
+<figure class="figure-middle"><img alt="visual description of the image" src="https://files.tofugu.com/articles/japan/2015-05-08-reasons-to-join-the-jet-program/alone-in-japan.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/chrisjongkind/16922383042" title="Visit source's website" target="_blank">tokyoform</a></figure>
+<p>After reading the lists above, you may get the impression that JET is a perfectly positive organization offering a perfectly positive experience. Of course, this is not true or possible. JET has its share of pitfalls, miscommunications, and downright crappy situations. Some of these are due to Japanese culture and society conflicting with a JET participant's worldview (ie. Culture Shock), while others may be administrative problems caused by JET or the Japanese school system itself. Below is an overview of cons to consider before jumping into JET with both feet.</p>
+
+<h3 id="every-situation-is-different-thus-you-cant-prepare-for-it">Every Situation is Different (thus you can't prepare for it)</h3>
+
+<p>This was the previous mantra of the JET Program, sometimes abbreviated as ESID. Though CLAIR no longer officially supports this catchphrase, it's still a fact of life on JET. The organization is so large and sends ALTs to such disparate locales, it's impossible for them to predict what will happen to you when and how. On some levels this is understandable, but it came to the point that CLAIR and other JET entities used this idea to deny responsibility or take action when there was a legitimate issue. While it's encouraging to see this motto dropped, it's probably still ingrained in the wiring of the organization.</p>
+
+<p>In reality, JET and CLAIR are not god-like entities that can swing the hammer down any time a JET is in trouble. Part of the point of the program is being on your own in Japanese society. So you are, in essence, signing up for an experience in which the powers that send you have very little ability to help after you are deployed. You may have a great school with attentive students, or a <a href="https://www.tofugu.com/japan/jet-program-bad-school/">difficult school full of street toughs</a>. You may get Japanese co-workers who are thoughtful and caring, or indifferent and rude. You may get housed in a large 2 bedroom home or a tiny shoebox. More than likely, you'll get a mix of good and bad elements to your JET experience (ie. Good teachers, bad students. Small home, close to train station, etc). JET drops you directly into Japanese life and Japanese life, like life anywhere, is complicated.</p>
+
+<h3 id="culture-shock">Culture Shock</h3>
+
+<p>Just a few sections up, I talked about the benefits of culture shock, but to get the benefits one must go through some real sucky times.</p>
+
+<p>Most will go through culture shock and come out on the other end just fine. But it can be detrimental if you have a predisposition to depression or are in the middle of dealing with a tough life situation. It's best to deal with those things first, learn some coping strategies, and then try coming to Japan. Adjusting to Japanese life takes some mental preparedness, so it's best to defer if you aren't ready.</p>
+
+<h3 id="training-sucks">Training Sucks</h3>
+
+<p>Rather, training in Japan is different. Japanese work culture is one of on the job training, wherein you jump in and learn the ropes as you go. If you're coming from a Western country, you may be more used to being trained in what to do before being sent to do the job.</p>
+
+<p>Neither approach is right necessarily, but going from one to the other can be frustrating. This is explained best in <a href="http://www.japanintercultural.com/en/news/default.aspx?newsID=115">this article</a> by Rochelle Kopp. In Japanese culture, training is seen as something that develops the self and therefore should be done on one's own time. Thus, you should be ready to jump into your new job and roll with the punches until you get the hang of it.</p>
+
+<h3 id="youll-most-likely-get-put-in-the-inaka">You'll Most Likely Get Put in the Inaka</h3>
+
+<p>The majority of JET participants are placed in the countryside of Japan (called "inaka" in Japanese). This could be a pro or con depending on your preferences. In general, inaka life means living far from train stations, having only a few shops in your town, being one of the only foreigners in your area, needing a car, and not having a whole lot to do after work. There is a lot of charm to living in the inaka, but we're focusing on the negative here, so let's not get too chipper.</p>
+
+<h3 id="medical-situations">Medical Situations</h3>
+
+<p>Japanese medical practice is a whole issue that is best covered in <a href="https://www.tofugu.com/japan/medical-system/">this article</a>. The Japanese medical system will provide you with the care you need, though you may bump into a number of nuances and roadblocks that give you pause. Certain procedures that are common in the West may not be in Japan. Certain medications you are used to may not be available. Doctors are gods among men who cannot be questioned. The language barrier can feel especially daunting when it comes to medical Japanese. All in all, you will be fine in the Japanese medical system and you won't pay much thanks to all your insurances (see above sections). But unfamiliarity with Japanese medical processes and the differences in medical practices may cause some frustration.</p>
+
+<h3 id="the-japanese-school-system-takes-some-getting-used-to">The Japanese School System Takes Some Getting Used To</h3>
+
+<p>Just as the Japanese medical system takes getting used to, so does the Japanese school system. The difference here is that the majority of your time on JET will be spent in this system.</p>
+
+<p>Understanding the Japanese School System would take an entire article in itself, but the main things to remember are:</p>
+
+<ul>
+  <li><strong>Kids are the center of the school, not the teachers:</strong> Kids stay in their homerooms and teachers go to them. This gives the students a sense that the classroom is their turf.</li>
+  <li><strong>The school school is a group and that group must <i></i> <ruby>がんばります<rp>（</rp><rt></rt><rp>）</rp></ruby> together:</strong> This is more of a dynamic of Japanese work culture, but the basic idea is that the group has to work together, and that means individual needs may get marginalized.</li>
+  <li><strong>Japanese school is test focused: Japanese students have one goal:</strong> to get into a good college. To do this, they need to pass an entrance exam. And to get accepted to take the exam, they need to graduate from a good high school. And to graduate from a good high school, they need to test into a good high school. And to do all these things, Japanese students need to be good at taking tests. This can mean that some or most of the English lessons you teach have very little practical application.
+These are just a few examples, but hopefully they should give you a good idea of how different the Japanese school system may feel.</li>
+</ul>
+
+<h3 id="you-are-a-public-servant-not-simply-a-teacher">You Are a Public Servant, Not Simply a Teacher</h3>
+
+<p>This means that you are bound by the same rules and obligations of other full-time government employees. As a public servant you may be asked to attend functions at the last minute, work on weekends, or stay late. Most schools choose not to ask their ALTs to do these things, but it is in your contract so be aware that your school or Board of Education has the right to rope you into a lot of extra work any time they choose.</p>
+
+<h3 id="the-answer-to-some-questions-is-just-do-it-because-thats-the-way-its-done">The Answer to Some Questions Is "Just Do It Because That's the Way It's Done".</h3>
+
+<p>In the West, we usually want to know why we are doing something before we do it. In Japan sometimes reasons may not be given as to why you need to do something.</p>
+
+<p>For example, a friend of mine asked his Japanese neighbor about paying the NHK man who asks for money door-to-door.</p>
+
+<p>The NHK is a government run public broadcasting service funded partly by the public. Instead of running telethons, the NHK simply goes door-to-door and insists on payment. As a person with a TV that receives NHK (all TVs in Japan do by default), you are expected to pay for the channel.</p>
+
+<p>My friend told his Japanese neighbor that he didn't pay the NHK man because he doesn't watch NHK. The neighbor responded in shock. "You must pay the NHK man!"</p>
+
+<p>When my friend asked why, the neighbor replied, "Because that's what you do!" The real answer is that payment is required by law, but to the Japanese neighbor that wasn't the issue. You just do it because you do it.</p>
+
+<p>Several of your "why" questions on JET may be answered with "Because that's the way it is" or "Because that's the way it's done." This is especially frustrating when your questions are about things more serious than paying for public television.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<figure class="figure-middle"><img alt="mt fuji and sakura together" src="https://files.tofugu.com/articles/japan/2015-05-08-reasons-to-join-the-jet-program/fuji-and-sakura-together-at-last.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/skyseeker/459796928" title="Visit source's website" target="_blank">skyseeker</a></figure>
+<p>JET is without a doubt a worthwhile program with a lot of flaws. There's much to consider when deciding whether or not the JET Program is for you. You'll want to talk it over with family and friends, make your own pros and cons list based on your life situation, and think about overall career goals. Keep in mind that life on JET is an adventure, and adventures are not constant excitement or good times. There's a lot rough patches, boring spots, and downright frustrating obstacles. But peppered in there will be joys and ultimate rewards. An adventure is always a gamble, but hopefully worth it in the end.</p>
+
+
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-jet-program hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2015-07-30-jet-program/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='../../series/jet-program.1' title='View all articles in Series The Tofugu JET Program Guide'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+The Tofugu JET Program Guide
+</span>
+</a>
+</li>
+<li class='pager-next'>
+<a href='../jet-program-application/index.html@series=jet-program' title='View How to Apply for the JET Program'>
+<small>
+Next Article in Series
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+How to Apply for the JET Program
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles reviews-prev japanese-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='reviews' href='https://www.tofugu.com/reviews/an-illustrated-dictionary-of-japanese-onomatopoeic-expressions/' title='View An Illustrated Dictionary of Japanese Onomatopoeic Expressions'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-pencil'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+An Illustrated Dictionary of Japanese Onomatopoeic Expressions
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='https://www.tofugu.com/japanese/baka-meaning/' title='View What Does Baka Mean? Japan’s Most Popular Profanity'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+What Does Baka Mean? Japan’s Most Popular Profanity
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japan'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='https://www.tofugu.com/japan/rice-cooker-history/' title='View Rice Cooker History, Features, Futures, and More'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older japan' class='older-article-pagination'></span>
+</small>
+Rice Cooker History, Features, Futures, and More
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='https://www.tofugu.com/japan/dragon-ball-training-guide/' title='View The Dragon Ball Training Guide to Self-Improvement'>
+<small>
+<span aria-label='Newer japan' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+The Dragon Ball Training Guide to Self-Improvement
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/about/' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.1' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs.1' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese.1' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/news/' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/newsletter/' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/master-2164c2ee.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

@@ -1,0 +1,778 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Linda Lombardi' name='author'>
+<meta content='Matt Alt, creator of Alt Japan, talks about localization and translation from Japanese to English. And he explains the decisions behind the changes that make hardcore anime fans cringe.' name='description'>
+<meta content='translation, culture, shintoism' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Matt Alt, creator of Alt Japan, talks about localization and translation from Japanese to English. And he explains the decisions behind the changes that make hardcore anime fans cringe.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/interviews/2014-07-08-matt-alt-japanese-translation/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='An Exclusive Interview with Matt Alt' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/interviews/matt-alt-japanese-translation/' property='og:url'>
+<meta content='https://www.tofugu.com/japanese/translating-video-games/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/sally-ito/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/short-stories-in-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-become-a-japanese-translator/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/susanna-fessler/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/jonathan-lloyd-davies/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/jocelyne-allen/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/ryan-vandendyck/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-online-translator/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-blood-type/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-horror-movies/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/itadakimasu-meaning/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-work-culture/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/wabi-sabi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/chindogu-japanese-inventions/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-sign-language/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/umbrellas-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/japanese-housewife/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-creativity/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/queen-himiko/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-citizen-study-abroad/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-mushrooms/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-civic-duty/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-work-ethic/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/sued-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/japanese-schoolgirl-confidential/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-beauty-language/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/glasses-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-legal-loopholes/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/garbage-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/bishounen/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/medama-sensei/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kitsune-yokai-fox/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/becoming-a-child-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/origami/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/onigiri-japanese-rice-ball/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-onsen-body-image/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/history-of-ramen/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-poetry-crash-course/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/namahage/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/karuta-japanese-cards/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/takarazuka/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japan-conservative/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/rice-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/less-is-more-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/hikikomori/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tamago-kake-gohan-raw-egg-on-rice/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/fat-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/shinto-tropes-anime/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/taijin-kyofusho/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/beigoma-japanese-tops/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/keisuke-umeda-mustache/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kansai-vs-kanto/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-mustache/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kawaii/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/go-home-signals/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-body-language/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/dog-ownership-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/symbol-of-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/foreign-tourist-on-japanese-tv/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/knitting-for-jizo-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kikokushijo-japanese-raised-abroad/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/asian-but-not-japanese-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ainu-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-birthday/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/brush-teeth-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/stigmatized-property-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/color-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/gift-giving-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/joshi-mane/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/chopsticks-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/hosting-japanese-exchange-students/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jobs-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/the-difficulty-of-names/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/why-i-dont-give-up-my-seat-on-the-train/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/inside-japanese-womans-purse/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/piercings-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-write-letters-in-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/maneki-neko/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/documentaries-about-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/underage-drinking-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/walking-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-car-stickers/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-food-movies/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-architecture/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/purikura/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japan-drive-left-side-road/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-funeral/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/conformity-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/things-you-can-do-in-japan-but-not-america/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japans-other-languages/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tea-ceremony/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/rajio-taiso/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-people-cant-walk-and-talk/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-universities-quality/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/sento/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/table-manners/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-home-visit/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/train-etiquette/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/yaeba/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-swastika/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/drinking-alcohol-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-superstitions/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/careers-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/karoshi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/where-is-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/becoming-a-japanese-citizen/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/drug-laws-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japan-through-karate-kid/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-etiquette/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/weird-japanese-movies/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/why-do-japanese-people-live-so-long/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/amidakuji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/entertaining-japanese-guests/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kancho/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/no-gaijin/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-hells/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/omamori/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Linda Lombardi' property='article:author'>
+<meta content='2014-07-08T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='interviews' property='article:section'>
+<meta content='translation' property='article:tag'>
+<meta content='culture' property='article:tag'>
+<meta content='shintoism' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@wombatarama' name='twitter:creator'>
+<meta content='Matt Alt, creator of Alt Japan, talks about localization and translation from Japanese to English. And he explains the decisions behind the changes that make hardcore anime fans cringe.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/interviews/2014-07-08-matt-alt-japanese-translation/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='An Exclusive Interview with Matt Alt' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#6c71c4' name='twitter:widgets:link-color'>
+<meta content='#6c71c4' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-linda-lombardi-af4ef9cf.jpg",
+    "jobTitle": "Writer",
+    "name": "Linda Lombardi",
+    "sameAs": [
+      "https://www.twitter.com/wombatarama",
+      "http://www.lindalombardi.com"
+    ],
+    "url": "https://www.tofugu.com/about/people/linda-lombardi/",
+    "description": "Writer, unemployed zookeeper, crazy pug lady. Obsessed with weird animals, dessert, Japan, and the intersections thereof."
+  },
+  "datePublished": "2014-07-08T00:00:00Z",
+  "description": "Matt Alt, creator of Alt Japan, talks about localization and translation from Japanese to English. And he explains the decisions behind the changes that make hardcore anime fans cringe.",
+  "headline": "An Interview with Matt Alt, Japanese Localization and Translation Expert",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/interviews/2014-07-08-matt-alt-japanese-translation/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/interviews/2014-07-08-matt-alt-japanese-translation/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "translation, culture, shintoism",
+  "name": "An Interview with Matt Alt, Japanese Localization and Translation Expert",
+  "url": "https://www.tofugu.com/interviews/matt-alt-japanese-translation/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2014-07-08T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/interviews/matt-alt-japanese-translation/"
+}
+</script>
+
+<title>An Interview with Matt Alt, Japanese Localization and Translation Expert</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="../../stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/interviews/matt-alt-japanese-translation/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='../../apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='../../apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='../../apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='../../apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='../../apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='../../favicon.png' rel='shortcut icon'>
+<link href='../../favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='interviews interviews_matt-alt-japanese-translation interviews_matt-alt-japanese-translation_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='../../index.html'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../../japanese/index.html' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='../../japanese/index.html' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.2' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='../../japanese-learning-resources-database/index.html' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../../japan/index.html' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='../../japan/index.html' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../series/index.html' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../travel/index.html' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../reviews/index.html' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../index.html' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='../../podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/interviews/2014-07-08-matt-alt-japanese-translation/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/interviews/2014-07-08-matt-alt-japanese-translation/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+An Exclusive Interview with Matt Alt
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+Translation, Localization, and other Nice Japanese Things
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2014-07-08T00:00:00Z">July 8, 2014</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="http://www.tofugu.com/about/people/linda-lombardi/" rel="author">Linda Lombardi</a>
+•
+Art by
+<a href="../../about/people/aya-francisco/index.html">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/interviews/2014-07-08-matt-alt-japanese-translation/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>When it comes to Japanese pop culture, I'm like a lot of fans. Despite years of off-and-on attempts at studying, I don't know the language well enough to follow the original versions of manga, anime, or live-action drama and movies. And yet, I know enough about the culture – and sometimes the language – to be annoyed about what translators do to them.</p>
+
+<p>Probably all of you have your own pet peeves. One of mine is when <a href="../../japan/tanuki/index.html">tanuki</a> is translated as "raccoon," an error with a history going back to the nineteenth century. And as someone who watches a lot of dramas about food, I groan at how even some of the most devoted fansubbers can't leave well enough alone, and instead come up with many different ridiculous "translations" of "itadakimasu."</p>
+
+<p>Here on Tofugu, these discussions pop up from time to time. <a href="http://www.animenewsnetwork.com/news/2014-05-11/doraemon-anime-visual-and-script-changes-for-u.s-tv-detailed">A recent article about a new American production of Doraemon</a> was the occasion for much weeping and rending of garments on our Facebook page. A comment on <a href="../../japan/yo-kai-watch/index.html">a recent blog post that compared the anime Yokai Watch and Pokemon</a> bemoaned how boring the English version of Pokemon was, since they'd taken out all the Japanese cultural references. You all know what I'm talking about: it's like a dysfunctional relationship. We're totally dependent on translators but, a lot of the time, we hate them. They're the only reason we have access to the stuff we love and, at the same time, we feel like they are why we can't have nice things.</p>
+
+<p>I've always wanted to ask a translator some questions. If they love the products of Japanese culture enough to make a career of translating them, why do they mess with them so much? On the other hand, I also thought: maybe, if we understood more about the process, we wouldn't be so mad all the time.</p>
+
+<p>Well, I was finally lucky enough to have that conversation!</p>
+
+<figure class="figure-middle"><img alt="matt alt localization interview attack book series" src="https://files.tofugu.com/articles/interviews/2014-07-08-matt-alt-japanese-translation/matt-alt-attack-book-series.jpg" /></figure>
+
+<p>Matt Alt is the co-author of a bunch of cool books about some difficult-to-translate parts of Japanese culture: <a href="http://www.amazon.com/exec/obidos/ASIN/480531219X/">yokai</a>, <a href="http://www.amazon.com/exec/obidos/ASIN/4805312149/">yurei</a>, and <a href="http://www.amazon.com/exec/obidos/ASIN/4805312181/">ninja</a>. I've followed him online for a few years, observing that he knows about everything from 1970s robot toys to Japanese giant salamanders. And at some point I discovered what he does for a living: He co-founded a company, called <a href="http://www.altjapan.com/">AltJapan</a>, that specializes in translation and localization. In fact AltJapan is working on the <a href="http://www.amazon.com/s/ref=ntt_athr_dp_sr_1?_encoding=UTF8&amp;field-author=FUJIKO%20F%20FUJIO&amp;search-alias=digital-text">translation of the Doraemon manga</a> right now. I wasn't sure what localization was, but I knew what it sounded like: it's why we can't have nice things, right?</p>
+
+<figure class="figure-middle"><img alt="matt alt localization interview portrait" src="https://files.tofugu.com/articles/interviews/2014-07-08-matt-alt-japanese-translation/portrait-of-matt-alt.jpg" /></figure>
+
+<p>Still, as much as you can tell from just knowing someone on the internet, I felt sure that Matt was a good guy and that his goal would never be to ruin nice Japanese things. He proved both true by being generous enough to answer my questions and – much to my utter shock – managing to convince me for a split second that maybe, just <strong>maybe</strong>, there was more than ignorance behind calling a tanuki a raccoon.</p>
+
+<h3 id="q-localization-vs-translation-in-25-words-or-less-go">Q. Localization vs translation in 25 words or less. Go!</h3>
+
+<p>Localization is the art — and it is an art — of adapting content into different languages and cultures.</p>
+
+<p>Now I'm going to cheat and go way over 25 words. The idea is for content to "feel" the same in the target language as it did in its native language. The reason "localization" is used instead of "translation," incidentally, is because it often involves a lot of work beyond just the translation of text: manipulation of layouts, even the content itself in some cases, all with the aim of reducing the barriers for the target audience. If something's meant as light entertainment in Japan but you need a PhD in East Asian Studies to make heads or tails of the translation, someone messed up.</p>
+
+<h3 id="q-a-good-translation-isnt-always-exact-because-word-for-word-accuracy-might-not-convey-the-intended-effect-with-puns-for-example-a-translation-has-to-either-change-the-content-or-lose-the-wordplay-you-have-to-change-something-to-convey-the-spirit-rather-than-the-letter-of-the-original-right">Q. A good translation isn't always exact, because word for word accuracy might not convey the intended effect. With puns, for example, a translation has to either change the content or lose the wordplay. You have to change something to convey the spirit rather than the letter of the original, right?</h3>
+
+<figure class="figure-right"><img alt="matt alt localization interview doraemon english manga cover" src="https://files.tofugu.com/articles/interviews/2014-07-08-matt-alt-japanese-translation/doraemon-english-manga-cover.jpg" /></figure>
+
+<p>When it comes to Japanese-to-English (and English-to-Japanese) translation, you're talking about two languages with absolutely nothing in common linguistically. Japanese grammar is the reverse of English, it doesn't use articles like English does, it has honorifics, and, in casual speech, often omits subjects entirely. All of that has to be accounted for in translation. The longer and more complicated a sentence gets, the more possible ways there are to translate it.</p>
+
+<p>This is why, for example, the translations of Alfred Birnbaum and Jay Rubin feel so different, even when they're working from the exact same Haruki Murakami texts. It isn't because one is wrong and one is right. It's because there's no precise one-to-one correlation between Japanese and English and translating between them means a constant stream of judgment calls.</p>
+
+<p>Getting to your specific question, yes, wordplay and puns can be really challenging to translate, particularly if they're accompanied by specific images. For example, "time flies when you're having fun" is no problem at all to convey in Japanese conceptually, but it isn't a set idiom. So if there's, say, a drawing of a flying clock on the page, readers might not get that joke.</p>
+
+<p>My company is translating the Doraemon manga series right now. There's one (yet to be released) episode with a gadget that transforms homonyms, words that sound the same, into their different forms. When Nobita points it at some clouds (kumo), it transforms them into spiders (also kumo). Puns with images are extremely difficult to deal with in translation. We handled that one by explaining that it was a tool for learning Japanese and keeping the Japanese homonyms in the English text. But that approach might not work in other contexts.</p>
+
+<h3 id="q-i-get-that-in-some-cases-if-everything-is-translated-or-reproduced-precisely-readersviewers-who-dont-know-japanese-culture-will-be-confused-but-for-those-of-us-who-do-know-the-culture-stuff-that-we-love-gets-lost--and-i-think-we-also-sometimes-feel-our-intelligence-is-being-insulted-lets-talk-about-some-examples-in-the-upcoming-american-version-of-the-doraemon-anime-that-got-our-readers-up-in-arms-some-of-these-changes-seem-necessary-and-trivial-to-me-replacing-the-circle-for-a-grade-with-f-others-make-me-want-to-scream-are-audiences-so-ignorant-that-we-really-need-to-have-chopsticks-replaced-with-forks">Q. I get that, in some cases, if everything is translated or reproduced precisely, readers/viewers who don't know Japanese culture will be confused. But for those of us who do know the culture, stuff that we love gets lost – and I think we also sometimes feel our intelligence is being insulted. Let's talk about some examples in the upcoming American version of the Doraemon anime that got our readers up in arms. Some of these changes seem necessary and trivial to me: replacing the circle for a grade with F. Others make me want to scream. Are audiences so ignorant that we really need to have chopsticks replaced with forks?</h3>
+
+<figure class="figure-middle"><img alt="matt alt localization interview doraemon english japanese comparison 1" src="https://files.tofugu.com/articles/interviews/2014-07-08-matt-alt-japanese-translation/doraemon-english-japanese-localization-comparison-1.jpg" /></figure>
+
+<p>I wasn't involved in the anime and so can't comment about the decisions made there. I can only talk about my experience in general.</p>
+
+<p>But my basic stance is that if you are passionate enough about Japanese culture to want to understand every nuance, you're passionate enough to learn the language and watch or read it in its original form. I wasn't satisfied with the translations of anime and video games I played as a kid, and that spurred me to study the language so I could do a better job myself.</p>
+
+<p>And now that I am doing that job myself, I can see that things aren't nearly as cut and dried as I thought they were when I was a kid. Translators don't work in a vacuum. It's a service business. There's a bigger picture, and translators are only one (important!) part of a larger mix. There are broadcast or publishing regulations, technical issues, cultural issues, demographic considerations, legal and copyright issues, budgets, schedules, and all sorts of things that affect the localization process.</p>
+
+<p>If Hiroko and I are asked to make a change that troubles us, we never hesitate to raise the issue with the higher-ups, but there are some cases where we get overruled for whatever reason. Sometimes it's just out of the translators' hands. Rolling with that is part of being a professional.</p>
+
+<h3 id="q-okay-but-if-these-changes-are-supposed-to-make-the-cartoon-more-accessible-heres-what-i-dont-get-they-havent-re-drawn-the-street-scenes-sliding-doors-etc--all-the-evidence-suggests-that-the-cartoon-is-still-taking-place-in-japan-so-if-theyre-in-japan-why-are-they-eating-american-food-with-american-utensils-and-using-american-money-isnt-that-confusing">Q. Okay, but if these changes are supposed to make the cartoon more accessible, here's what I don't get: They haven't re-drawn the street scenes, sliding doors, etc – all the evidence suggests that the cartoon is still taking place in Japan. So if they're in Japan, why are they eating American food with American utensils and using American money? Isn't that confusing?</h3>
+
+<p>Again, I wasn't directly involved in the anime production, only the manga. But as a localization professional, with any production we're involved with, whether it be a book, a video game, an anime, whatever, we have to clarify who the audience is. Is it for adults? Teenagers? Little kids? If it's for kindergarteners, it's entirely conceivable they've never used chopsticks before, perhaps never even seen them. The people who read this site are deeply interested in Japanese culture, so chopsticks are a no-brainer, but that simply isn't the case for everyone. A lot of people, adults and kids, don't want to learn about Japan. They just want to be entertained. And the Japanese people I know have just as many forks and knives in their kitchens as chopsticks. So it doesn't feel that out of place to me.</p>
+
+<p>Now, I'm not arguing for or against changing chopsticks to forks. I'm just saying that the people who make manga and anime in Japan, in my experience, are open to nearly any changes that might make them popular abroad. We've even had [anime and manga] creators tell us they're okay with changing the genders of protagonists and things like that! That might come as a shock to foreign fans, but it's true. And the bottom line is, when you're talking about a kids' show, how do children feel? Do they enjoy it? That's really what's important in the end.</p>
+
+<h3 id="q-so-part-of-what-youre-saying-is-sometimes-we-have-to-remember-that-were-fans-of-a-show-for-five-years-olds">Q. So part of what you're saying is, sometimes we have to remember that we're fans of a show for five-years-olds.</h3>
+
+<p>Yes, exactly! And there's nothing wrong with that!</p>
+
+<h3 id="q-it-works-the-other-way-round-too-there-are-japanese-fans-of-mickey-mouse-after-all">Q. It works the other way round too. There are Japanese fans of Mickey Mouse, after all.</h3>
+
+<p>I did a homestay in Japan back in high school, and recall being shocked at seeing high school kids wearing Sesame Street shirts and openly, unironically loving the show. Guys and girls. For them, it was just a way to learn English with a bunch of cute characters and there wasn't any context or stigma of wearing something for pre-schoolers.</p>
+
+<h3 id="q-so-in-that-context-some-of-those-changes-i-was-whining-about-make-more-sense-now-a-five-year-old-wont-recognize-that-those-yen-bills-are-money-so-whatever-is-actually-taking-place-in-that-scene-wont-make-sense-whereas-if-you-change-them-to-dollar-bills-a-five-year-old-isnt-going-to-know-that-they-wouldnt-be-using-dollar-bills-in-japan-so-thats-not-really-a-problem-and-something-like-what-the-street-scenes-look-like-is-a-big-deal-to-change-but-probably-not-noticeable-to-a-five-year-old-right">Q. So in that context, some of those changes I was whining about make more sense now. A five-year-old won't recognize that those yen bills are money, so whatever is actually taking place in that scene won't make sense. Whereas if you change them to dollar bills, a five-year-old isn't going to know that they wouldn't be using dollar bills in Japan, so that's not really a problem. And something like what the street scenes look like is a big deal to change but probably not noticeable to a five-year-old. Right?</h3>
+
+<figure class="figure-middle"><img alt="matt alt localization interview doraemon english japanese comparison 2" src="https://files.tofugu.com/articles/interviews/2014-07-08-matt-alt-japanese-translation/doraemon-english-japanese-localization-comparison-2.jpg" /></figure>
+
+<p>Speaking from experience on totally different projects, there's a limited amount of time and money that needs to be spent on the most "high value targets," so to speak. When you're adapting something you need to pick your battles. The more changes, the more work, and that means more money.</p>
+
+<p>When you're translating for fun you can obsess endlessly over your translations, but when you're a pro it becomes about delivering quality within the limited amount of time and money you're given.</p>
+
+<h3 id="q-moving-on-from-things-like-eating-utensils-and-money-which-exist-in-all-cultures--there-are-japanese-wordsthingswhatever-that-simply-dont-have-english-equivalents-tanuki-are-not-raccoons-or-even-related-to-them-and-yokai-are-not-ghostsdemonsmonsters-for-example-to-me-if-disney-needed-the-animals-in-the-ghibli-film-pom-poko-to-be-familiar-to-the-american-audience-they-should-have-redrawn-them-as-raccoons-not-just-called-them-by-the-wrong-name-aaargh-if-american-children-can-watch-a-movie-about-madagascar-with-lemurs-in-it-i-think-a-movie-about-japan-with-tanuki-in-it-would-not-make-their-heads-explode-as-far-as-yokai-we-also-seem-to-be-able-to-deal-with-mythological-beings-from-other-cultures-like-the-yeti-so-why-use-a-bad-translation-for-japanese-monsters-to-me-those-substitutions-are-fundamentally-different-am-i-just-being-crazy-because-i-am-a-geek-about-certain-things">Q. Moving on from things like eating utensils and money, which exist in all cultures – There are Japanese words/things/whatever that simply don't have English equivalents. Tanuki are not raccoons or even related to them, and yokai are not ghosts/demons/monsters, for example. To me, if Disney needed the animals in the Ghibli film Pom Poko to be familiar to the American audience, they should have redrawn them as raccoons, not just called them by THE WRONG NAME. Aaargh! If American children can watch a movie about Madagascar with lemurs in it, I think a movie about Japan with tanuki in it would not make their heads explode. As far as yokai, we also seem to be able to deal with mythological beings from other cultures like the yeti, so why use a bad translation for Japanese monsters? To me, those substitutions are fundamentally different. Am I just being crazy because I am a geek about certain things?</h3>
+
+<figure class="figure-middle"><img alt="matt alt localization interview pompoko gathering of tanuki" src="https://files.tofugu.com/articles/interviews/2014-07-08-matt-alt-japanese-translation/pompoko-gathering-of-tanuki.jpg" /></figure>
+
+<p>Believe me, Hiroko and I are huge proponents of calling yokai "yokai" even in English. We made a special point of emphasizing that in our book "<a href="http://www.amazon.com/exec/obidos/ASIN/480531219X/httpaltjapant-20">Yokai Attack! The Japanese Monster Survival Guide.</a>" So you won't get any argument from us on that front. In fact, a key part of localization as far as we are concerned is when NOT to localize something. The word "yokai" is one example of that, and we often advise clients to leave it as-is when we're working on their stuff. And even though we weren't involved, I was really happy to see that the Yokai Watch people left yokai in the title.</p>
+
+<p>Now, not having been involved in Pom Poko either, I don't know how it was localized, but that is one helluva Japanese movie. It is packed with cultural references both obvious and subtle, and it would be a challenge even for experienced translators like Hiroko and I to do (a challenge we'd welcome!). My inclination would be to let a tanuki be a tanuki, but that doesn't make the existing localization of Pom Poko "bad." It just means they took a different approach.</p>
+
+<figure class="figure-middle"><img alt="matt alt localization interview pompoko tanuki balls" src="https://files.tofugu.com/articles/interviews/2014-07-08-matt-alt-japanese-translation/pompoko-tanuki-jumping-balls.jpg" /></figure>
+
+<p>For Japanese, tanuki are a very common, everyday sort of animal with a lot of culture and folklore associated with them. You don't need to explain that to Japanese audiences and introducing that concept isn't the point of the film. Calling them raccoons is one way to get that baggage off the table in one fell swoop. Even if, technically speaking, it's wrong, because tanuki are canines while raccoons are in the bear family. But if the creator agrees, the change makes it more enjoyable for the viewers, and particularly if it sells, then there's nothing "wrong" from a localization standpoint. It's just shades of gray. Not everyone who watches that film is going to be as up on Japanese folklore as we are.</p>
+
+<h3 id="q-i-never-thought-this-would-happen-but-i-kind-of-get-it--the-way-tanuki-are-drawn-must-have-seemed-like-a-godsend-to-translators-it-is-so-stylized-that-they-could-be-raccoons-the-traditional-incorrect-name-is-raccoon-and-their-folkloric-personality-is-similar-though-i-now-understand-i-still-hate-it">Q. I never thought this would happen, but I kind of get it.  The way tanuki are drawn must have seemed like a godsend to translators. It is so stylized that they could be raccoons. The traditional incorrect name is "raccoon" and their folkloric personality is similar. Though I now understand, I still hate it.</h3>
+
+<h3 id="while-i-try-to-recover-from-the-shock-of-almost-seeing-that-point-of-view-lets-move-on-to-something-i-have-less-of-a-personal-stake-in-your-company-also-localizes-english-stuff-for-the-japanese-market-right-im-curious-about-this-because-i-feel-like-american-culture-dominates-the-world-so-much-whats-left-about-the-us-that-people-arent-familiar-with-im-assuming-a-childrens-cartoon-wouldnt-need-to-substitute-chopsticks-for-forks-for-a-japanese-audience-but-i-have-no-idea-what-you-do-need-to-do-when-going-in-the-other-direction-can-you-give-some-examples">While I try to recover from the shock of almost seeing that point of view, let's move on to something I have less of a personal stake in. Your company also localizes English stuff for the Japanese market, right? I'm curious about this because I feel like American culture dominates the world so much, what's left about the US that people aren't familiar with? I'm assuming a children's cartoon wouldn't need to substitute chopsticks for forks for a Japanese audience, but I have no idea what you do need to do when going in the other direction. Can you give some examples?</h3>
+
+<p>We weren't involved with it, but I heard quite a few changes were made to Grand Theft Auto V, such as editing out the sex scenes.</p>
+
+<p>I can't think of any changes to things we've done off the top of my head. Most recently, we did the Japanese versions of Capcom's Lost Planet 3 and Strider, and helped out on the Japanese subtitles for the film Magic Mike. I can't think of any major cultural changes made to any of those.</p>
+
+<p>But it's a bit of an apples and oranges comparison. Besides the fact that content is for adults, not kids, there is an absolute hunger for translated content in Japan. If something is big abroad, chances are it'll get translated into Japanese. Japan as a nation is very interested in foreign ideas and it isn't at all uncommon to see translated content on bestseller lists.</p>
+
+<p>Meanwhile, with very rare exceptions (such as with manga), there isn't much of a market for books or films to be translated in the US. Americans don't seem to be as interested in what's going on abroad as the citizens of other countries are. It's isn't uncommon for foreign content to get totally remade, such as La Femme Nikita, The Girl With the Dragon Tattoo, or the Godzilla films. Even foreign material already in English, like the British House of Cards series, gets remade for American audiences. Americans have a much lower threshold for "foreignness" than Japanese do.</p>
+
+<h3 id="q-finally--is-there-an-argument-to-be-made-that-even-if-fans-think-that-pom-poko-and-doraemon-are-ruined-by-these-changes-we-should-put-up-with-them-because-in-the-long-run-if-they-are-successful-more-japanese-stuff-will-get-translated-for-us-and-maybe-even-more-accurately-right">Q. Finally – is there an argument to be made that, even if fans think that Pom Poko and Doraemon are ruined by these changes, we should put up with them? Because in the long run, if they are successful, more Japanese stuff will get translated for us, and maybe even more accurately, right?</h3>
+
+<p>The key thing to remember is that this is a business, and the point is to sell product – even in Japan, turning a profit trumps everything else. It isn't some freeform artistic exploration for creativity's sake. And when it comes to localization, nobody wants to change anything for the heck of it. That's more work and effort on top of the already huge effort needed to translate it! They do it because they think it will make the end product more popular and thus more profitable. That's the name of the game.</p>
+
+<p>As I said before, I think that if you're passionate enough to get upset about a localization, you're passionate enough to channel that energy into learning the language. And let me be clear: I am not saying anyone is wrong for expressing their dissatisfaction. I'm not in the business of shutting down personal opinions. What I am saying is to seize that discontent. Passion and emotion are powerful things. Use them to better yourself and, maybe, in the future, better the localization industry. Dissatisfaction with the status quo drove me to learn Japanese as a kid, in the late eighties, when it was far harder to do than it is today. And believe me, I'm not the world's greatest student or linguist. If I can do it, any motivated person can.</p>
+
+<p>So consider this a challenge – if you think you can do better, do it! Study hard, pay your dues, and wait for the chance to prove that you can. But along the way, you might find things aren't nearly as black and white as you think.</p>
+
+<p><strong>Check out a few of Matt's awesome books:</strong></p>
+
+<ul>
+  <li><a href="http://www.amazon.com/exec/obidos/ASIN/480531219X/httpaltjapant-20">Yokai Attack</a></li>
+  <li><a href="http://www.amazon.com/exec/obidos/ASIN/4805312149/httpaltjapant-20">Yurei Attack</a></li>
+  <li><a href="http://www.amazon.com/exec/obidos/ASIN/4805312181/httpaltjapant-20">Ninja Attack</a></li>
+  <li><a href="http://www.amazon.com/s/ref=ntt_athr_dp_sr_1?_encoding=UTF8&amp;field-author=FUJIKO%20F%20FUJIO&amp;search-alias=digital-text">AltJapan's Doraemon manga series translations</a></li>
+</ul>
+
+<div class='article-tldr blog-post-highlight'>
+<div class='container'>
+<div class='article-tldr-additional-information'>
+<div class='article-tldr-social-links'>
+<h4>
+Get in touch with
+Matt Alt
+via...
+</h4>
+<ul><li>
+<i class='fa fa-fw fa-external-link'></i>
+<a href="http://www.amazon.com/Matt-Alt/e/B001JOQTHY/">Website</a>
+</li><li>
+<i class='fa fa-fw fa-twitter-square'></i>
+<a href="https://www.twitter.com/Matt_Alt">Twitter</a>
+</li></ul>
+</div>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-articles interviews-prev japan-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='interviews' href='../hinative/index.html' title='View Interview About Lang-8&#39;s New Service: HiNative'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-users'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+Interview About Lang-8's New Service: HiNative
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='../../japan/ogasawara-islands/index.html' title='View Meet the Ogasawara Islands!'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Meet the Ogasawara Islands!
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category interviews'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='interviews' href='../shinnosuke-saito-matcha/index.html' title='View Traveling The Hidden Spots Of Japan With MATCHA'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-users'></i>
+<span aria-label='Older interviews' class='older-article-pagination'></span>
+</small>
+Traveling The Hidden Spots Of Japan With MATCHA
+</a>
+</li>
+<li class='pager-next'>
+<a class='interviews' href='../hinative/index.html' title='View Interview About Lang-8&#39;s New Service: HiNative'>
+<small>
+<span aria-label='Newer interviews' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-users'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Interview About Lang-8's New Service: HiNative
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='../../about/index.html' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.2' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs/index.html' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese/index.html' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='../../news/index.html' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='../../newsletter/index.html' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='../../podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='../../feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="../../javascripts/master-2164c2ee.js" defer="defer"></script><script src="../../javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

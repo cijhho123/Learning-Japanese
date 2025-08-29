@@ -1,0 +1,686 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Rich' name='author'>
+<meta content='They&#39;re stressful, rigorous, competative, and sometimes fun. They&#39;re Japanese sports festivals. Held at Japanese schools to promote health and sports and torture the tired teachers who also have to participate.' name='description'>
+<meta content='sports, festival' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='They&#39;re stressful, rigorous, competative, and sometimes fun. They&#39;re Japanese sports festivals. Held at Japanese schools to promote health and sports and torture the tired teachers who also have to participate.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japan/2014-07-25-undoukai-sports-festival/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='Surviving Sports Festival' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japan/undoukai-sports-festival/' property='og:url'>
+<meta content='https://www.tofugu.com/japan/plan-a-cycling-trip-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/showa-shinzan-yukigassen-tournament/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/soccer-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-baseball-history/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ski-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kendo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/onbashira/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Rich' property='article:author'>
+<meta content='2014-07-25T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japan' property='article:section'>
+<meta content='sports' property='article:tag'>
+<meta content='festival' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@RichSatsumaimo' name='twitter:creator'>
+<meta content='They&#39;re stressful, rigorous, competative, and sometimes fun. They&#39;re Japanese sports festivals. Held at Japanese schools to promote health and sports and torture the tired teachers who also have to participate.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japan/2014-07-25-undoukai-sports-festival/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='Surviving Sports Festival' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#268bd2' name='twitter:widgets:link-color'>
+<meta content='#268bd2' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-rich-0b0b122f.jpg",
+    "jobTitle": "Writer",
+    "name": "Rich",
+    "sameAs": [
+      "https://www.twitter.com/RichSatsumaimo"
+    ],
+    "url": "https://www.tofugu.com/about/people/rich/",
+    "description": "A running otaku, Rich is currently aiming at the title of Japan's Greatest Teacher of Kindergarten English (if there is one)..."
+  },
+  "datePublished": "2014-07-25T00:00:00Z",
+  "description": "They're stressful, rigorous, competative, and sometimes fun. They're Japanese sports festivals. Held at Japanese schools to promote health and sports and torture the tired teachers who also have to participate.",
+  "headline": "Surviving Sports Festival: Undoukai in Japanese Schools",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japan/2014-07-25-undoukai-sports-festival/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japan/2014-07-25-undoukai-sports-festival/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "sports, festival",
+  "name": "Surviving Sports Festival: Undoukai in Japanese Schools",
+  "url": "https://www.tofugu.com/japan/undoukai-sports-festival/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2014-07-25T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japan/undoukai-sports-festival/"
+}
+</script>
+
+<title>Surviving Sports Festival: Undoukai in Japanese Schools</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japan/undoukai-sports-festival/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='https://www.tofugu.com/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://www.tofugu.com/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://www.tofugu.com/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://www.tofugu.com/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://www.tofugu.com/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='https://www.tofugu.com/favicon.png' rel='shortcut icon'>
+<link href='https://www.tofugu.com/favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japan japan_undoukai-sports-festival japan_undoukai-sports-festival_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='https://www.tofugu.com/'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japanese/' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='https://www.tofugu.com/japanese/' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.1' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-learning-resources-database/' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japan/' id='dJapan'>
+Japan <i class="fa fa-globe"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='https://www.tofugu.com/japan/' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/series/' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/travel/' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/reviews/' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/interviews/' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='https://www.tofugu.com/podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=jet-program#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japan/2014-07-25-undoukai-sports-festival/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japan/2014-07-25-undoukai-sports-festival/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+Surviving Sports Festival
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+Undoukai in Japanese Schools
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2014-07-25T00:00:00Z">July 25, 2014</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="https://www.tofugu.com/about/people/rich/" rel="author">Rich</a>
+•
+Art by
+<a href="https://www.tofugu.com/about/people/aya-francisco/">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japan/2014-07-25-undoukai-sports-festival/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+<p class='article-series series-jet-program hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="../../series/jet-program.1">The Tofugu JET Program Guide
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>In Japan, summer’s end ushers in a nationwide school tradition. Students, teachers, family, and other guests gather for a day of outdoor events known as <i>undoukai</i> <ruby>運動会<rp>（</rp><rt></rt><rp>）</rp></ruby> or sports festival. Undoukai offers something for everyone – some events are taken seriously while others offer light-hearted comic relief. And although a winner is declared at day’s end, undoukai’s true spirit lies beneath its competitive pretenses – one of cooperation.</p>
+
+<h2 id="a-very-quick-history">A (Very) Quick History</h2>
+
+<figure class="figure-middle"><img alt="old photograph of sports day dance" src="https://files.tofugu.com/articles/japan/2014-07-25-undoukai-sports-festival/hamamatsu-girls-high-school-1910-sports-day-dance.jpg" /></figure>
+
+<p>Undoukai’s history dates back to the Meiji period, an era of drastic changes in the formerly isolated nation. In his book <em>Sport and Body Politics in Japan,</em> Wolfram Manzenreiter explains, “The history of school sport days in Japan began with the (probably) first undoukai ever staged by Kaigun Heigakuryou in Tsukiji, Tokyo in March 1873.” Manzenreiter credits English Naval Officer Archibald Douglas with introducing the idea (Manzenreiter 52).</p>
+
+<p>The tradition took off from there as Japan pushed to “catch-up” with the west, adapting many western traditions. Ironically Japan’s militarization and its opposition to the West would further solidify undoukai’s place in Japanese culture as an “ideological device used for nationalistic purposes… Marching formations and mass calisthenics demonstrated the result of a disciplinary education that put the body into service of the collective” (53).</p>
+
+<p>Although sports festival’s roots may lie in the west, Japan has made undoukai a uniquely Japanese tradition. Manzenreiter goes as far as declaring, “Undoukai can be viewed as a contemporary extension of older traditions, such as the cherry blossom viewing” (53). And anyone involved in the Japanese school system can attest, the tradition is still going strong.</p>
+
+<h2 id="surviving-undoukai">Surviving Undoukai</h2>
+
+<figure class="figure-middle"><img alt="vending machine with pocari sweat beverages" src="https://files.tofugu.com/articles/japan/2014-07-25-undoukai-sports-festival/pocari-sweet-vending-machine.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/tamago-moffle/4803269617" title="Visit source's website" target="_blank">Tamago Moffle</a></figure>
+
+<p>Spending an entire day in Japan’s characteristic <i>mushiatsui</i> <ruby>蒸し暑い<rp>（</rp><rt></rt><rp>）</rp></ruby>, or hot and humid, weather warrants proper preparation. But the concept of <em>proper preparation</em> differs by culture. Items considered necessities by native Japanese participants might not be so obvious to an uninitiated foreigner, as I discovered at my first undoukai. Follow this Japanese-centric list to get through the day like a seasoned pro.</p>
+
+<ul>
+  <li><strong>Hat</strong> – Protect your head and eyes from Japan’s merciless sun. Go with a fly fishing hat or a cap with a mullet on the back. Remember, it’s not about making a fashion statement, it’s about survival.</li>
+  <li><strong>Towel/Tenugui</strong> – Use it to wipe away the sweat, protect your neck from the sun and dry your hands after washing them. A towel/tenugui is your all-purpose undoukai utility tool. Using a tenugui will earn you bonus points for Japanese cultural recognition.</li>
+  <li><strong>Sports Wear</strong> – When Japan holds an event, people prefer to look the part. At undoukai, even the most well-dressed teachers will trade in their dress suits for track suits. The more stuff printed on your outfit, the better, as track jackets covered in logos and advertisements are all the rage. But if your team, homeroom, or school has a custom t-shirt made for the day, be sure to wear that instead!</li>
+  <li><strong>Sports Drink</strong> – You can bring water, but people might think you’re crazy. Japan has embraced the sports drink, so if you want to fit in, make it <em>Pocari Sweat, Aquarius</em> or <em>Amino Value.</em> But if sports drinks aren’t your cup of tea, try tea! Barley tea (mugi-cha) is the traditional tea of champions.</li>
+  <li><strong>Bentou Lunch Box</strong> – If you don’t have a school provided bentou, bring your own. If possible, bring enough to share. Undoukai’s lunch often becomes a hodgepodge picnic. Make some friends and sample their home-cooking as they (hopefully) enjoy yours. It doesn’t have to be fancy – a family I shared lunch with loved my simple banana bread. Or at least they said they did.</li>
+</ul>
+
+<figure class="figure-middle"><img alt="bento boxes for picnic" src="https://files.tofugu.com/articles/japan/2014-07-25-undoukai-sports-festival/home-made-bento.jpg" /><figcaption>  </figcaption> Source: <a href="http://commons.wikimedia.org/wiki/File:Home_made_Bento.jpg" title="Visit source's website" target="_blank">kunchan</a></figure>
+
+<ul>
+  <li><strong>A Mat</strong> – Straw or plastic, a mat will keep your rear-end dry and dirt-free while giving you a clean place to enjoy your lunch. It’ll also save your spot when you participate in events or head to the little boy’s or girl’s room.</li>
+  <li><strong>Sunblock</strong> – When it comes to sun protection, some Japanese people don ninja-like outfits, covering themselves from head to toe. These get-ups prevent sun exposure at a cost; they’re sweltering. To avoid melting in your own personal sauna suit embrace sunblock – or better yet, let it embrace you. Bring the entire bottle just incase you need re-apply at lunchtime. Sunblock is the only non-Japanese-centric item on this list so prepare to receive some awkward looks, especially if your sunblock is coconut scented and has gold sparkles in it – like mine did.</li>
+</ul>
+
+<p>Now that everything’s prepared, we’re ready for the big day!</p>
+
+<h2 id="the-venue">The Venue</h2>
+
+<figure class="figure-middle"><img alt="setting up for sports day" src="https://files.tofugu.com/articles/japan/2014-07-25-undoukai-sports-festival/sports-day-setup-in-japan.jpg" /><figcaption>  </figcaption> Source: <a href="http://commons.wikimedia.org/wiki/File:%E9%81%8B%E5%8B%95%E4%BC%9A%E3%81%A8%E6%96%B0%E5%B9%B9%E7%B7%9A.JPG" title="Visit source's website" target="_blank">不可説</a></figure>
+
+<p>In preparation for undoukai, a school’s <i>undoujou</i> <ruby>運動場<rp>（</rp><rt></rt><rp>）</rp></ruby> or all purpose athletic grounds undergo a painstaking transformation. Days before the event, students and teachers spend hours converting the giant sandy lot into a sports festival wonderland. White chalk lines mark the positions for undoukai’s array of activities. Flags and other decorations create a festive atmosphere. Canopies surround the athletic field and offer spectators protection from the elements. Get to the field early to secure a great spot in the shade with a great view of the action.</p>
+
+<h2 id="opening-ceremonies">Opening Ceremonies</h2>
+
+<figure class="figure-middle"><img alt="opening ceremonies for sports day" src="https://files.tofugu.com/articles/japan/2014-07-25-undoukai-sports-festival/sports-day-opening-ceremony.jpg" /></figure>
+
+<p>As with most events in Japan, undoukai kicks off with an opening ceremony. Expect a few speeches – by the principal, the student council president, maybe a PTA member and even a city or town official. And be sure to remove your hat for the national anthem and raising of the Japanese flag.</p>
+
+<p>After waiting through the speeches and national anthem, students will spread out for another Japanese tradition – (<i>rajio</i> <ruby>ラジオ<rp>（</rp><rt></rt><rp>）</rp></ruby> <i>taisou</i> <ruby>体操<rp>（</rp><rt></rt><rp>）</rp></ruby>) or calisthenics. Watch or join students as they stretch and pose to a cheerful narrator and catchy music. Some schools play modern pop tracks, but nothing beats the traditional piano music.</p>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="https://www.youtube.com/embed/GEI5LxkPi-4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="おらほのラジオ体操"></iframe></div>
+
+<p>(Rajio Taisou with some local Tohoku flavor.)</p>
+
+<p>When rajio taisou ends, teams split up and the events begin!</p>
+
+<h2 id="the-events">The Events</h2>
+
+<figure class="figure-middle"><img alt="running track with lanes" src="https://files.tofugu.com/articles/japan/2014-07-25-undoukai-sports-festival/sports-day-relay-race.jpg" /><figcaption>  </figcaption> Source: <a href="http://commons.wikimedia.org/wiki/File:Undoukai.jpg" title="Visit source's website" target="_blank">Ishikawa Ken</a></figure>
+
+<p>Check the schedule to see the order of events. Along with student events, there are sometimes events for teachers, faculty, and guests – so don’t miss out! This is a non-exhaustive list meant to be a sampling of events. Each school has its own contests and traditions.</p>
+
+<p>Popular undoukai events include:</p>
+
+<ul>
+  <li><strong>Mukade Kyoso</strong> – Like a three-legged race but might involve even more legs.</li>
+  <li><strong>Kumitaiso</strong> – Students create various shapes with their bodies (think human pyramids).</li>
+</ul>
+
+<figure class="figure-middle"><img alt="human pyramid" src="https://files.tofugu.com/articles/japan/2014-07-25-undoukai-sports-festival/sports-day-human-pyramid.jpg" /><figcaption>  </figcaption> Source: <a href="http://commons.wikimedia.org/wiki/File:JHS_Undokai_-_Student_Pyramid.jpg" title="Visit source's website" target="_blank">Josh Berglund</a></figure>
+
+<ul>
+  <li><strong>Tama-ire</strong> – Students and guests throw bean bags into an overhead basket.</li>
+  <li><strong>Odori</strong> – Students perform various dances ranging from the traditional to recent pop hits.</li>
+</ul>
+
+<figure class="figure-middle"><img alt="young students perform dance to hip hop" src="https://files.tofugu.com/articles/japan/2014-07-25-undoukai-sports-festival/sports-day-dance-event.jpg" /><figcaption>  </figcaption> Source: <a href="http://commons.wikimedia.org/wiki/File:Sports-Fest1.jpg" title="Visit source's website" target="_blank">MASA’s Father</a></figure>
+
+<ul>
+  <li><strong>Tsunahiki</strong> – A good old-fashioned tug-of-war. There’s often one held for parents/guests as well.</li>
+  <li><strong>Relay</strong> – Japan loves a relay and undoukai is no exception. The event is often the most competitive and usually closes out the day.</li>
+</ul>
+
+<h2 id="the-soundtrack">The Soundtrack</h2>
+
+<figure class="figure-middle"><img alt="stack of audio cds" src="https://files.tofugu.com/articles/japan/2014-07-25-undoukai-sports-festival/stack-of-cds.jpg" /><figcaption>  </figcaption> Source: <a href="https://commons.wikimedia.org/wiki/File:CD_rack.JPG" title="Visit source's website" target="_blank">Arbitrarily0</a></figure>
+
+<p>Undoukai even has its own soundtrack, so expect to listen to music all day long. Every event of every undoukai I’ve ever attended has been accompanied by BGM (Background Music). Sometimes the playlist includes classic tunes, like <em>The William Tell Overture</em> by Gioachino Rossini. Other times anime themes rule the day with titles like <em>Dragon Ball’s Chara Hecchara</em> (チャラ・ヘッチャラ) or any of the <em>One Piece</em> themes. Kindergartens love children’s songs, particularly Anpanman’s March. And of course there’s J-pop. Since arriving in Japan seven years ago, AKB48 has been a mainstay of school life – and undoukai is no exception.</p>
+
+<p>Undoukai’s soundtrack provides English teachers a chance to shine. If you’re a teacher try offering some popular English songs to mix things up!</p>
+
+<h2 id="closing-ceremony">Closing Ceremony</h2>
+
+<figure class="figure-middle"><img alt="chairs with backpacks" src="https://files.tofugu.com/articles/japan/2014-07-25-undoukai-sports-festival/sports-day-closing-ceremony.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/takushib/2892107492/in/photolist-djpDmC-5pyNNh" title="Visit source's website" target="_blank">Taku</a></figure>
+
+<p>After the relay finishes, teams will return to their areas for a break while teachers tally the points. The event ends much as it started, with students and faculty assembled in the middle of the field for (you guessed it!) a closing ceremony. The winning team is announced and awarded a trophy – usually an elaborate flag attached to an even more elaborate staff. Expect more speeches before the Japanese flag is lowered and folded and the event ends…</p>
+
+<p>Or does it?</p>
+
+<p>Although closing ceremony officially ends undoukai, the day is far from over. After the long, exhausting day everyone wants to go home, but no self-respecting attendees do. Instead (almost) everyone, from students to parents to grandparents, helps with the clean-up. Everything – the sports equipment, chairs, canopies, tarps, wires, speakers, and decorations – needs to be dismantled and put away. Once the school field resembles a school field once again, everyone can finally call it a day… Well, except the teachers who might have a closing meeting to attend.</p>
+
+<h2 id="the-spirit-of-cooperation-under-competitions-guise">The Spirit of Cooperation Under Competition’s Guise</h2>
+
+<figure class="figure-middle"><img alt="children doing calisthetics" src="https://files.tofugu.com/articles/japan/2014-07-25-undoukai-sports-festival/rajio-taiso.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/mujitra/7439633124" title="Visit source's website" target="_blank">MIKI Yoshihito</a></figure>
+
+<p>After experiencing years of sports festivals, the term “undoukai” still inspires images of headband wearing students in gym uniforms sprinting around a track. But if I’ve taken anything away from undoukai – other than an appreciation of barley tea on a hot day – it’s that undoukai isn’t all about competition. Under all the dust and sweat lies a spirit of cooperation.</p>
+
+<p>Undoukai’s preparation alone strengthens bonds among students and faculty who put an enormous amount of time and effort into the event. The month leading up to undoukai is a busy one filled with practices for ceremonies, speeches, dances and other events. Even rajio-taiso is drilled to perfection. Days before the event, field and equipment preparation begins.</p>
+
+<p>Undoukai often expands beyond the school, drawing in its wider social environment (Manzenreiter 52). Manzenreiter wrote, “(Local) residents became chiefly involved in preparation tasks of ‘their’ annual undoukai.” With parents and local organizations lending a hand, undoukai fosters a sense of community within the community. Undoukai provides a chance for former students to visit their alma mater. Local TV coverage allows anyone in the community to experience the event.</p>
+
+<p>At the social level, undoukai creates a situation for students to work with and support peers other than their friends. Teams made up of homerooms, grades, or randomly chosen kids encourage students to work with and cheer for peers they might not otherwise interact with.</p>
+
+<p>Teams, often formed according to grade or homeroom membership, work together preparing flags, shirt designs, dances, and marches. Of course group events like dances, kumitaiso, and tug-of-war foster a cooperative spirit among participants. After all, it’d be impossible to pull off a human pyramid without cooperation! But even individual events like the races promote cooperation and group solidarity through cheering.</p>
+
+<p>To most students, undoukai is simply a fun escape from studying. But the event teaches them to cooperate while representing their homerooms, school, and community – whether they realize it or not. And although points are tallied and a winner is declared, at day’s end everyone is brought a little closer together as teams celebrate their hard fought efforts, win or lose.</p>
+
+<aside class="blog-post-highlight article-sources"><div class="container"><h4>Sources</h4><ul><li><a href="http://www.amazon.com/Politics-Routledge-Research-Culture-Society/dp/0415840406" title="View source">Manzenreiter, Wolfram. Sport and Body Politics in Japan. NY: Routledge, 2014. Print.</a></li></ul></div></aside>
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-jet-program hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2015-07-30-jet-program/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='../../series/jet-program.1' title='View all articles in Series The Tofugu JET Program Guide'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+The Tofugu JET Program Guide
+</span>
+</a>
+</li>
+<li class='pager-next'>
+<a href='../jet-program-alt-team-teaching-tips/index.html@series=jet-program' title='View HELP! I Don&#39;t Know How to ALT!'>
+<small>
+Next Article in Series
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+HELP! I Don't Know How to ALT!
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles japan-prev japan-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='https://www.tofugu.com/japan/real-kaiju/' title='View Top Ten Real Life Kaiju of Japan'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+Top Ten Real Life Kaiju of Japan
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='https://www.tofugu.com/japan/jet-program-self-intro-class/' title='View Mastering the ALT Self-Intro Class'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Mastering the ALT Self-Intro Class
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japan'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='https://www.tofugu.com/japan/jet-program-self-intro-class/' title='View Mastering the ALT Self-Intro Class'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older japan' class='older-article-pagination'></span>
+</small>
+Mastering the ALT Self-Intro Class
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='https://www.tofugu.com/japan/real-kaiju/' title='View Top Ten Real Life Kaiju of Japan'>
+<small>
+<span aria-label='Newer japan' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Top Ten Real Life Kaiju of Japan
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/about/' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.1' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs.1' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese.1' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/news/' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/newsletter/' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/master-2164c2ee.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

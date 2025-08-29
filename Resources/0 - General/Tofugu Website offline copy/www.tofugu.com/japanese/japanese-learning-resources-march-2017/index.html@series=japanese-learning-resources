@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Kristen Dexter' name='author'>
+<meta content='Every month Tofugu brings you the best NEW Japanese study tools. This month: kanji mnemonics, language shadowing practice, and &quot;fantasy Japanese.&quot;' name='description'>
+<meta content='Japanese learning, japanese learning resources, tool, app' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Every month Tofugu brings you the best NEW Japanese study tools. This month: kanji mnemonics, language shadowing practice, and &quot;fantasy Japanese.&quot;' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2017-04-07-japanese-learning-resources-march-2017/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='New Japanese Learning Resources: March 2017' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-march-2017/' property='og:url'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-february-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-january-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/anki/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/hellotalk/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/todai-easy-japanese-news-app/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Kristen Dexter' property='article:author'>
+<meta content='2017-04-07T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japanese' property='article:section'>
+<meta content='Japanese learning' property='article:tag'>
+<meta content='japanese learning resources' property='article:tag'>
+<meta content='tool' property='article:tag'>
+<meta content='app' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@karkalla' name='twitter:creator'>
+<meta content='Every month Tofugu brings you the best NEW Japanese study tools. This month: kanji mnemonics, language shadowing practice, and &quot;fantasy Japanese.&quot;' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2017-04-07-japanese-learning-resources-march-2017/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='New Japanese Learning Resources: March 2017' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#d33682' name='twitter:widgets:link-color'>
+<meta content='#d33682' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-kristen-dexter-f04b6ee8.jpg",
+    "jobTitle": "Researcher",
+    "name": "Kristen Dexter",
+    "sameAs": [
+      "https://www.twitter.com/karkalla"
+    ],
+    "url": "https://www.tofugu.com/about/people/kristen-dexter/",
+    "description": "Kristen was a survivor of the Tofugu intern program and wrote articles for Tofugu when she wasn't doing translation work on WaniKani and EtoEto. She graduated from SUNY Albany 2014 and moved straight from the woods of Connecticut to Portland, OR to join the Tofugu Team. She went to Japan as a student ambassador in high school and attended Akita International University as a study abroad student in college. She spends most of her time playing video games and buying too much Sailor Moon merch."
+  },
+  "datePublished": "2017-04-07T00:00:00Z",
+  "description": "Every month Tofugu brings you the best NEW Japanese study tools. This month: kanji mnemonics, language shadowing practice, and \"fantasy Japanese.\"",
+  "headline": "New Japanese Learning Resources: March 2017",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japanese/2017-04-07-japanese-learning-resources-march-2017/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japanese/2017-04-07-japanese-learning-resources-march-2017/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "Japanese learning, japanese learning resources, tool, app",
+  "name": "New Japanese Learning Resources: March 2017",
+  "url": "https://www.tofugu.com/japanese/japanese-learning-resources-march-2017/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2017-04-07T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japanese/japanese-learning-resources-march-2017/"
+}
+</script>
+
+<title>New Japanese Learning Resources: March 2017</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japanese/japanese-learning-resources-march-2017/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='https://www.tofugu.com/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://www.tofugu.com/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://www.tofugu.com/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://www.tofugu.com/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://www.tofugu.com/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='https://www.tofugu.com/favicon.png' rel='shortcut icon'>
+<link href='https://www.tofugu.com/favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japanese japanese_japanese-learning-resources-march-2017 japanese_japanese-learning-resources-march-2017_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='https://www.tofugu.com/'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japanese/' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='https://www.tofugu.com/japanese/' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.1' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-learning-resources-database/' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japan/' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='https://www.tofugu.com/japan/' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/series/' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/travel/' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/reviews/' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/interviews/' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='https://www.tofugu.com/podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=japanese-learning-resources#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japanese/2017-04-07-japanese-learning-resources-march-2017/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japanese/2017-04-07-japanese-learning-resources-march-2017/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+New Japanese Learning Resources: March 2017
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+This month's best tools to help you to learn Japanese
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2017-04-07T00:00:00Z">April 7, 2017</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="https://www.tofugu.com/about/people/kristen-dexter/" rel="author">Kristen Dexter</a>
+•
+Art by
+<a href="https://www.tofugu.com/about/people/aya-francisco/">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japanese/2017-04-07-japanese-learning-resources-march-2017/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+<p class='article-series series-japanese-learning-resources hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="https://www.tofugu.com/series/japanese-learning-resources/">Japanese Learning Resources
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>Welcome to Japanese Learning Resources: March Media edition! <a href="https://www.tofugu.com/series/japanese-learning-resources/">Every month</a> we bring you the best new Japanese resources to help you <a href="../../learn-japanese.1">learn, practice, and improve your Japanese skills</a>. This could be anything from articles to apps to books to games.</p>
+
+<p>March was sparse in the way of traditional learning tools, leaving us with some wonderful media you can consume whether you want to focus on the Japanese language or not. This month we have an audio book, video app, television show, kanji app, and brand spanking new video game. Let's do this thing!</p>
+
+<ul id="markdown-toc">
+  <li><a href="index.html@series=japanese-learning-resources#harry-potter-and-the-prisoner-of-azkaban---audio-book" id="markdown-toc-harry-potter-and-the-prisoner-of-azkaban---audio-book">Harry Potter and the Prisoner of Azkaban - Audio Book</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#caterpillar" id="markdown-toc-caterpillar">Caterpillar</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#samurai-gourmet" id="markdown-toc-samurai-gourmet">Samurai Gourmet</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#dr-moku-kanji-mnemonics" id="markdown-toc-dr-moku-kanji-mnemonics">Dr. Moku Kanji Mnemonics</a></li>
+  <li><a href="index.html@series=japanese-learning-resources#the-legend-of-zelda-breath-of-the-wild" id="markdown-toc-the-legend-of-zelda-breath-of-the-wild">The Legend of Zelda: Breath of the Wild</a></li>
+</ul>
+
+<h2 id="harry-potter-and-the-prisoner-of-azkaban---audio-book">Harry Potter and the Prisoner of Azkaban - Audio Book</h2>
+
+<figure class="figure-right"><img alt="harry potter and the prisoner of azkaban audio book" src="https://files.tofugu.com/japanese-learning-resources-database/harry-potter-and-the-prisoner-of-azkaban-audio-book/harry-potter-and-the-prisoner-of-azkaban-audio-book.jpg" /></figure>
+
+<p>Also known by its Japanese title ハリー・ポッターとアズカバンの<i></i> <ruby>囚人<rp>（</rp><rt>しゅうじん</rt><rp>）</rp></ruby>, the third Japanese audio book of the <em>Harry Potter</em> series has finally been released through the <a href="https://usd.shop.pottermore.com/">Pottermore store</a>. Why did it take so long to come out? Who knows, who cares! What matters is this is an entire book of listening practice and, if you somehow have not read the <em>Harry Potter</em> series, an introduction to a fantastic world of witchcraft and wizardry.</p>
+
+<p>The audio is read by Morio Kazama, who has a deep voice, similar to that of male radio announcer. <a href="https://www.amazon.co.jp/dp/B06XGR1M85">You can listen to a preview on the amazon.co.jp page</a> to make sure that you like his voice, speed, and style, and to see if you're ready for this level of Japanese. While it may not be beginner friendly, it is absolutely a great addition to your reading material. And if you're the type of person who has been desperately looking for something to listen to during your commute, in the shower, or while you sleep, his calming, steady voice may be exactly what you're looking for.</p>
+
+<p>The best way to use this, and the first two audio books in the series, is to read along with the Japanese texts while you listen. Lucky for us, the entire <em>Harry Potter</em> series (and more) is <a href="https://usd.shop.pottermore.com/collections/ebooks/japanese">already available on Pottermore in Japanese</a>. As many of you may already know, <a href="https://www.youtube.com/watch?v=zBJp24EI36U">language shadowing is one of the best methods to improve your reading and speaking skills</a>. So why not do it with a beloved classic?</p>
+
+<p><strong>Update:</strong> The Pottermore store closed in 2021, but you can find the audio book on <a href="https://www.audible.com/pd/Audiobook/B07L4YSM3R?qid=1647155390&amp;sr=1-4&amp;ref=a_search_c3_lProduct_1_4&amp;pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&amp;pf_rd_r=0VE1JAAVXY00XG3M8G0Z">Audible US</a> and <a href="https://www.audible.co.jp/pd/%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A8%E3%82%A2%E3%82%BA%E3%82%AB%E3%83%90%E3%83%B3%E3%81%AE%E5%9B%9A%E4%BA%BA-%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%96%E3%83%83%E3%82%AF/B06XGQ6GNK?qid=1647155614&amp;sr=1-2&amp;ref=f=a_search_c3_lProduct_1_2&amp;pf_rd_p=051ed80d-7075-4d26-8156-6887bfda8699&amp;pf_rd_r=AK4NQY4SNHXYV7MAJYK1">Audible Japan</a>.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> $29.99<br /><a href="https://usd.shop.pottermore.com/collections/audio-books/products/harry-potter-and-the-prisoner-of-azkaban-audio-book3-japanese-morio-kazama?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="caterpillar">Caterpillar</h2>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="150" src="https://www.youtube.com/embed/VENZ5PsBlWA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="Caterpillar App | Learn any language with any movie!"></iframe></div>
+
+<div id="unavailable-banner">Update:  Sadly, this resource is no longer available.</div>
+
+<p>Have you ever finished watching a show or movie in Japanese and realized you didn't really take in or learn anything new? You got the gist, you enjoyed what you watched, but you weren't able to <a href="https://www.tofugu.com/japanese/learn-japanese-from-anime/">really break down the dialogue or pick up any new words or grammar</a>. The Caterpillar app aims to change this passive approach to learning with shows and movies and help you turn it into active, SRS based educational material.</p>
+
+<p>With the Caterpillar app, you are able to upload the video and subtitle files for movies, TV shows, music videos, (any video you like!) and it automatically breaks that video into replayable segments. You can change the speed, quiz and rate yourself, and set certain sections to come back more often so that you can focus on them more. Active learning and the use of SRS (Spaced Repetition Systems) are some of the best ways to learn a language, especially if you aren't able to use that language naturally in your everyday life. Not all of us can live in Japan and chat it up all day, you know?</p>
+
+<p>The best part is this isn't just for one language or one type of video. You can use it to study from anything you have the file for. And while we, and Caterpillar, don't support finding videos illegally, there are plenty of ways to find videos of the language you want to learn and then actively learn from them with this app. Want to learn Japanese, Portuguese, and Italian? No problem. Use Spongebob to learn them all. Nothing is stopping you now.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free to try or $99 forever<br />Product Unavailable</div>
+
+<h2 id="samurai-gourmet">Samurai Gourmet</h2>
+
+<figure class="figure-middle"><img alt="samurai gourmet" src="https://files.tofugu.com/japanese-learning-resources-database/samurai-gourmet/samurai-gourmet.jpg" /></figure>
+
+<p><a href="https://www.tofugu.com/japan/japanese-food-by-prefecture/">Ah, food</a>. The love of food can bring any culture together. And in this case, the love of food can bring you closer to speaking Japanese. <em>Samurai Gourmet</em> just arrived to Netflix and is a charming, slice of life mini-series, with some humor and tons of yummy food mixed in. It revolves around the life of a recently retired 60-year-old Japanese man named Takeshi, who upon realizing he has nothing to do all day, finds a passion for eating food at local establishments. It's relaxing, simple, and very fun to watch.</p>
+
+<figure class="figure-right"><img alt="samurai gourmet beer realization" src="https://files.tofugu.com/articles/japanese/2017-04-07-japanese-learning-resources-march-2017/samurai-gourmet.gif" /></figure>
+
+<p>The Japanese is straightforward and rooted in everyday life, especially food. Different restaurants have different menus, styles of ordering, and mini cultures all their own. The show offers a view into the <a href="https://www.tofugu.com/japan/table-manners/">language, etiquette, and culture that exists when you're dining in Japan</a>. It also has fantastic cinematography and will leave you starving for the food they showcase (at least in most cases).</p>
+
+<p><em>Samurai Gourmet</em> has Japanese subtitles (which we recommend using first), as well as English, Spanish, Traditional and Simplified Chinese. Whether you're <a href="https://www.tofugu.com/japan/traveling-to-japan-for-the-first-time/">prepping for your first trip to Japan</a> (and all the restaurants you'd like to eat at), or you just want to relax with an entertaining Japanese show – we highly recommend you give this a try.</p>
+
+<p>Oh by the way, there's also a thing with Samurai hallucinations, but we won't spoil that. Just watch it for yourself, ね?</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Netflix Subscription<br /><a href="https://www.netflix.com/title/80132738?utm_source=Tofugu">Product Link</a></div>
+
+<h2 id="dr-moku-kanji-mnemonics">Dr. Moku Kanji Mnemonics</h2>
+
+<div id="unavailable-banner">Update: Sadly, this resource is no longer available.</div>
+
+<figure class="figure-right"><img alt="dr. moku kanji mnemonics" src="https://files.tofugu.com/japanese-learning-resources-database/dr-moku-kanji-mnemonics/dr-moku-kanji-mnemonics.jpg" /></figure>
+<p>Mnemonics are a great way to learn <a href="../learn-hiragana.1">hiragana</a>, <a href="../learn-katakana.1">katakana</a>, and even kanji. <a href="https://www.tofugu.com/series/japanese-mnemonics/">They're little stories you use to remember things that would otherwise need straight memorization</a>. The Dr. Moku series has been around for a while, with their hiragana and katakana mnemonics, but their first foray in the world of kanji mnemonics has popped up in the app stores.</p>
+
+<p>While it's still in its infancy, the app offers mnemonics to learn some basic radicals and 30 kanji with the use of original mnemonics and images. The kanji is presented with a simple mnemonic to teach the <a href="https://www.tofugu.com/japanese/onyomi-kunyomi/">on'yomi or kun'yomi reading</a> (or both) and the meaning. As you scroll, more dictionary-style information is listed, including meanings in English, as well as a few other European languages, grade levels, JLPT ranking, frequency, etc. You can choose to hide any of this information in your settings, which is important, because you don't want to try to stuff all of that info into your brain at once.
+On top of the first 30 kanji the app offers, you can purchase something called the "Kanji Package 1 - JLPT5" in the Store tab. This contains "Over 75+ new Kanji Mnemonics including the entire JLPT 5 set." However, that's the extent of the current content. The price point is a bit high for what is basically a flash card app, but all the content other than the mnemonic pictures is included for free. So you can still use it without spending any of that precious cashola.</p>
+
+<p>On top of the first 30 kanji the app offers, you can purchase something called the "Kanji Package 1 - JLPT5" in the Store tab. This contains "Over 75+ new Kanji Mnemonics including the entire JLPT 5 set." However, that's the extent of the current content. The price point is a bit high for what is basically a flash card app, but all the content other than the mnemonic pictures is included for free. So you can still use it without spending any of that precious cashola.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> Free, in-app $2.99<br />Product Unavailable</div>
+
+<h2 id="the-legend-of-zelda-breath-of-the-wild">The Legend of Zelda: Breath of the Wild</h2>
+
+<figure class="figure-middle"><img alt="the legend of zelda breath of the wild" src="https://files.tofugu.com/japanese-learning-resources-database/the-legend-of-zelda-breath-of-the-wild/the-legend-of-zelda-breath-of-the-wild.jpg" /></figure>
+
+<p>The <a href="http://www.nintendo.com/switch/">Nintendo Switch</a> was released this month! And with it, the newest installment in the <em>Legend of Zelda</em> series. For us, the most exciting thing about the Switch is that it is the first Nintendo console in a long, long time that is not region locked. You can take your American (or wherever else you live) Nintendo Switch and change the system settings to Japanese. This will immediately change the language of any game you play to Japanese. In this case, the newest addition to the <em>Zelda</em> series: <em>Breath of the Wild</em>, or ゼルダの<i></i> <ruby>伝説<rp>（</rp><rt>でんせつ</rt><rp>）</rp></ruby> ブレス オブ ザ ワイルド.</p>
+
+<p>This is arguably the first open world <em>Zelda</em> game, and the quests throughout its expansive world are driven by conversations. Many side quests don't even appear in your quest log, but rather are hinted at in short chats with NPCs. With this focus on deciphering conversations and context clues, it becomes a wonderful tool to practice your Japanese. There is very minimal voice acting, so you get to practice your reading above all else. A pretty important skill. Not to mention, the game itself is brilliant.</p>
+
+<p>Just beware — as is the case with many games, many of these conversations will use "fantasy" Japanese, language you wouldn't normally use yourself. But if you want to start playing games in Japanese, the vocabulary you'll learn will be helpful with the rest!</p>
+
+<p>If you're lucky enough to already have a Nintendo Switch, I don't know how you wouldn't have <em>Zelda</em> already, since it's <em>the</em> launch title – but it is definitely worth picking up, as both a game for fun and a game for Japanese practice.</p>
+
+<div class="jlr-db-footer"><strong>Cost:</strong> $59.99<br /><a href="http://www.zelda.com/breath-of-the-wild/?utm_source=Tofugu">Product Link</a></div>
+
+<hr />
+
+<p><em>Stop! Have you found any fancy new Japanese learning resources you really want to tell us about? If so, please let us know on <a href="https://twitter.com/tofugu">Twitter (@tofugu)</a> or send an email over to <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#104;&#101;&#108;&#108;&#111;&#064;&#116;&#111;&#102;&#117;&#103;&#117;&#046;&#099;&#111;&#109;">&#104;&#101;&#108;&#108;&#111;&#064;&#116;&#111;&#102;&#117;&#103;&#117;&#046;&#099;&#111;&#109;</a>. We'll fiddle with them, throw them around in the back yard, and maybe send you some good vibes for the tip. That's all for now. Until next time, バイバイ〜</em></p>
+
+
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-japanese-learning-resources hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2018-11-13-japanese-learning-resources/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='https://www.tofugu.com/series/japanese-learning-resources/' title='View all articles in Series Japanese Learning Resources'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+Japanese Learning Resources
+</span>
+</a>
+</li>
+<li class='pager-next'>
+<a href='../japanese-learning-resources-february-2017/index.html@series=japanese-learning-resources' title='View New Japanese Learning Resources: February 2017'>
+<small>
+Next Article in Series
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+New Japanese Learning Resources: February 2017
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles japan-prev japan-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='https://www.tofugu.com/japan/japanese-blood-type/' title='View Japanese Blood Types: And What They Say About Your Personality'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+Japanese Blood Types: And What They Say About Your Personality
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='https://www.tofugu.com/japan/retire-in-japan/' title='View Moving, Retiring, and Living Out Your Life in Japan'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Moving, Retiring, and Living Out Your Life in Japan
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japanese'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='https://www.tofugu.com/japanese/otonagai/' title='View Otonagai: Spending Your Adult Money on Kid&#39;s Collectibles'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older japanese' class='older-article-pagination'></span>
+</small>
+Otonagai: Spending Your Adult Money on Kid's Collectibles
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='https://www.tofugu.com/japanese/japanese-particle-monono/' title='View Japanese Particle MONONO: The Definitive Guide'>
+<small>
+<span aria-label='Newer japanese' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Japanese Particle MONONO: The Definitive Guide
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/about/' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.1' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs.1' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese.1' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/news/' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/newsletter/' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/master-2164c2ee.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

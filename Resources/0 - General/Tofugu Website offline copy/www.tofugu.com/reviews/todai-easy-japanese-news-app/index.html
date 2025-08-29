@@ -1,0 +1,819 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Ian J. Battaglia' name='author'>
+<meta content='Discover how the Todai Easy Japanese News app (and its bonus features) makes an excellent news reader for Japanese learners' name='description'>
+<meta content='todai easy japanese news, app, reader, japanese learning' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Discover how the Todai Easy Japanese News app (and its bonus features) makes an excellent news reader for Japanese learners' property='og:description'>
+<meta content='https://files.tofugu.com/articles/reviews/2021-11-23-todai-easy-japanese-news-app/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='Todai Easy Japanese News App' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/reviews/todai-easy-japanese-news-app/' property='og:url'>
+<meta content='https://www.tofugu.com/reviews/anki/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/hellotalk/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-march-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-february-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-january-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/tofugu-learn-kana-quiz/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-winter-2022/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2022/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-summer-2022/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-spring-2022/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kedo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-winter-2021/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kosoado/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2021/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/futokoro/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/akeru-aku-hirakeru-hiraku/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/ni-vs-de/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-summer-2021/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/naka-vs-uchi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-spring-2021/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-books-for-upper-beginners/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/anata/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-winter-2020/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/what-should-i-call-you/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2020/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/sasuga/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-summer-2020/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-spring-2020/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-fall-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-summer-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-may-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-april-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-march-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-february-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-january-2019/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-november-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-october-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-september-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-august-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-july-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-may-june-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-april-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-march-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-january-february-2018/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-awards-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-december-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-november-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-matthew-chozick/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-october-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-loretta-kemushichan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-september-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-august-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-july-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-jonathan-kirk/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-michael/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-june-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-james/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-adam/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-may-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-dogen/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-stack-dan-bornstein/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-april-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-particle-monono/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-particle-kana/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/japanese-from-zero/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Ian J. Battaglia' property='article:author'>
+<meta content='2021-11-23T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='reviews' property='article:section'>
+<meta content='todai easy japanese news' property='article:tag'>
+<meta content='app' property='article:tag'>
+<meta content='reader' property='article:tag'>
+<meta content='japanese learning' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@IanJBattaglia' name='twitter:creator'>
+<meta content='Discover how the Todai Easy Japanese News app (and its bonus features) makes an excellent news reader for Japanese learners' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/reviews/2021-11-23-todai-easy-japanese-news-app/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='Todai Easy Japanese News App' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#859900' name='twitter:widgets:link-color'>
+<meta content='#859900' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-ian-j-battaglia-378d8bf5.jpg",
+    "jobTitle": "Writer",
+    "name": "Ian J. Battaglia",
+    "sameAs": [
+      "https://www.twitter.com/IanJBattaglia",
+      "https://mnchrm.co/"
+    ],
+    "url": "https://www.tofugu.com/about/people/ian-j-battaglia/",
+    "description": "Ian J. Battaglia is a writer and photographer based out of Chicago. He is one of the editors of The Chicago Review of Books, and his work has appeared in The LA Review of Books, Input Magazine, The Kenyon Review, and Chicago Reader, among others. He is currently working on a novel. He loves Japanese culture and learning more about the language! Follow him on Twitter <a href="http://www.tofugu.com/reviews/todai-easy-japanese-news-app/\&quot;https://www.twitter.com/IanJBattaglia\&quot;">@IanJBattaglia.</a>",
+    "email": "ianbattaglia@gmail.com"
+  },
+  "datePublished": "2021-11-23T00:00:00Z",
+  "description": "Discover how the Todai Easy Japanese News app (and its bonus features) makes an excellent news reader for Japanese learners",
+  "headline": "A Review of Todai Easy Japanese News App",
+  "image": {
+    "@type": "ImageObject",
+    "author": "ian_battaglia",
+    "contentURL": "https://files.tofugu.com/articles/reviews/2021-11-23-todai-easy-japanese-news-app/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/reviews/2021-11-23-todai-easy-japanese-news-app/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "todai easy japanese news, app, reader, japanese learning",
+  "name": "A Review of Todai Easy Japanese News App",
+  "url": "https://www.tofugu.com/reviews/todai-easy-japanese-news-app/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2021-11-23T00:00:00Z",
+  "mainEntity": {
+    "@type": "Product",
+    "name": "Todai Easy Japanese News",
+    "description": "Discover how the Todai Easy Japanese News app (and its bonus features) makes an excellent news reader for Japanese learners",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 7.0,
+      "ratingCount": 1,
+      "bestRating": 10,
+      "worstRating": 1
+    },
+    "review": {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Ian J. Battaglia"
+      },
+      "datePublished": "2021-11-23T00:00:00Z",
+      "description": "Discover how the Todai Easy Japanese News app (and its bonus features) makes an excellent news reader for Japanese learners",
+      "name": "A Review of Todai Easy Japanese News App",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": 10,
+        "ratingValue": 7.0,
+        "worstRating": 1
+      }
+    },
+    "sameAs": [
+      "https://easyjapanese.net"
+    ]
+  },
+  "mainEntityOfPage": "https://www.tofugu.com/reviews/todai-easy-japanese-news-app/"
+}
+</script>
+
+<title>A Review of Todai Easy Japanese News App</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="../../stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/reviews/todai-easy-japanese-news-app/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='../../apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='../../apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='../../apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='../../apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='../../apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='../../favicon.png' rel='shortcut icon'>
+<link href='../../favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='reviews reviews_todai-easy-japanese-news-app reviews_todai-easy-japanese-news-app_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='../../index.html'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../../japanese/index.html' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='../../japanese/index.html' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.2' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='../../japanese-learning-resources-database/index.html' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../../japan/index.html' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='../../japan/index.html' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../series/index.html' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../travel/index.html' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../index.html' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../interviews/index.html' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='../../podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/reviews/2021-11-23-todai-easy-japanese-news-app/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/reviews/2021-11-23-todai-easy-japanese-news-app/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+Todai Easy Japanese News App
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+A Great First-Foray Into Regular Japanese Language Content
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2021-11-23T00:00:00Z">November 23, 2021</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/ian-j-battaglia/index.html" rel="author">Ian J. Battaglia</a>
+•
+Art by
+<a href="../../about/people/ian-j-battaglia/index.html">Ian J. Battaglia</a>
+<a href="https://files.tofugu.com/articles/reviews/2021-11-23-todai-easy-japanese-news-app/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>Those of us who are learning Japanese are spoiled today by the wealth of educational resources available. However, at some point a student has to look beyond all the textbooks, apps, and videos, and start getting exposure to real Japanese. After all, isn't that why you started studying in the first place? However, knowing where to look is a little more complicated. For many, this is one of the first roadblocks they come across. Finding material that is interesting enough that you want to interact with it, but simple enough to still be comprehensible is no easy feat! As my own Japanese has improved, I've started to read books, play games, watch videos, and interact with more native material. However, I was still looking for something to add to my study habits that offered a wide variety of different texts, but still used standard grammar and vocab.</p>
+
+<p>This is where the Todai Easy Japanese app comes in. Similar to the <a href="https://www3.nhk.or.jp/news/easy/">NHK Web Easy</a> website, Todai Easy Japanese is a website with an iPhone and Android app that aggregates Japanese news articles from a wide range of sources and over a number of different topics, and offers a comprehensive set of tools to help learners maximize what they've just read. In this piece, I'll be specifically referring to the Android app, as it's what I've used most, though this should be applicable to both versions of the app. The website itself is a bit more bare-bones.</p>
+
+<p>In addition to the articles, Todai Easy Japanese has a powerful dictionary and grammar resource, tools to practice speaking and translation, <a href="../../japanese/what-is-the-jlpt/index.html">JLPT</a> practice exams, and fun videos to expand outside of just curated news articles. All of these combine to make a very comprehensive app for experiencing Japanese content, while still giving learners help when they get stuck; though the app is not without its rough edges.</p>
+
+<ul id="markdown-toc">
+  <li><a href="index.html#overview" id="markdown-toc-overview">Overview</a></li>
+  <li><a href="index.html#the-article-reader" id="markdown-toc-the-article-reader">The Article Reader</a></li>
+  <li><a href="index.html#dictionary" id="markdown-toc-dictionary">Dictionary</a></li>
+  <li><a href="index.html#jlpt-study" id="markdown-toc-jlpt-study">JLPT Study</a></li>
+  <li><a href="index.html#videos" id="markdown-toc-videos">Videos</a></li>
+  <li><a href="index.html#settings-and-paid-user-account" id="markdown-toc-settings-and-paid-user-account">Settings and Paid User Account</a></li>
+  <li><a href="index.html#the-bad" id="markdown-toc-the-bad">The Bad</a></li>
+  <li><a href="index.html#conclusion-an-excellent-news-reader-app-with-bonus-features" id="markdown-toc-conclusion-an-excellent-news-reader-app-with-bonus-features">Conclusion: An Excellent News Reader App with Bonus Features</a></li>
+</ul>
+
+<h3 id="overview">Overview</h3>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="https://www.youtube.com/embed/YSOq6PtkzYo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="Easy Japanese: News, JLPT, Dicitonary"></iframe></div>
+
+<p>The main draw of Todai Easy Japanese is of course the news articles. Unlike NHK Web Easy, Todai Easy Japanese pulls from a variety of different news organizations, including The Asahi Shimbun, CNN, BBC, and Chunichi Shimbun, among others. The app has five navigational pages on the bottom of the screen, for articles categorized by "easy" and "hard" difficulty levels, the built-in dictionary, a JLPT practice section, and a video player.</p>
+
+<figure class="figure-left"><img alt="screenshot of todai easy japanese news app" src="https://files.tofugu.com/articles/reviews/2021-11-23-todai-easy-japanese-news-app/todai-easy-japanese-app-overview.jpg" /></figure>
+
+<p>Articles in both the "easy" and "hard" tabs are shown in the same way. They display as cards, with the headline, the article's header image, the source of the article and date it was published, and a small icon to indicate whether or not someone has submitted a translation yet. Along the bottom row of the card is a bar with different colors. These colors indicate the difficulty of the words included, as determined by their JLPT level, displayed in a stacked bar chart. This gives learners a quick and more nuanced way to determine the difficulty of an article beyond the binary "easy" and "hard" categories. For example, blue corresponds to N5, green for N4, yellow for N3, orange for N2, and red for N1. So an article where the yellow bar is larger than the blue bar is going to have more complex vocabulary.</p>
+
+<p>Just above the navigation bar, there is a button that takes you to a "notebook" page. Here, you can make a new "notebook" (like a folder) to sort some of the words you've come across into, for further study within the app in the flashcard tool. Next to the notebook button, there's also a button to toggle on and off furigana globally throughout the app, though there are options to fine-tune the app's furigana usage in the settings.</p>
+
+<p>Along the top of the app, you can search for articles, view the history of articles you've read, toggle between showing all articles or only the ones you've favorited, view the list of audio you've saved from articles, or access the settings. Finally, just below that there are filters to show only articles on a specific topic or from a specific source, a button to access your user profile where you can view statistics about your app usage, and buttons to paste in either a link or Japanese text by itself for Todai Easy Japanese to parse using its tools.</p>
+
+<h3 id="the-article-reader">The Article Reader</h3>
+
+<p>Given that reading articles is the primary function of Todai Easy Japanese, you would hope that a lot of thought has been put into the article reader, and it has! When you click on an article, you're taken into the full text. There's a row of different tools at the top of the page. These include a speaking practice section where you can record yourself reading the article, a page listing a dictionary entry for all the words used, a place to submit a translation for each sentence or view other users' translations, a button to add the article you're reading to your favorites, a button to view your article history, and finally one to access the settings.</p>
+
+<figure class="figure-right"><img alt="screenshot of todai easy japanese news app article reader" src="https://files.tofugu.com/articles/reviews/2021-11-23-todai-easy-japanese-news-app/todai-easy-japanese-app-article-reader.jpg" /></figure>
+
+<p>At the bottom of the page here, there's two buttons to access the notebook and toggle all furigana much like on the home page, as well as an audio player that generates audio for the article. Finally, just below the headline there's a button to toggle between using the system default font, or Yu Kyokasho, a common Japanese font used in textbooks. I'll talk about these tools in more detail later.</p>
+
+<p>In the article itself, you're shown the same header image or video as on the small card, and just below that is the headline. You'll notice right away that both the headline and the body of the article utilize the JLPT highlighting that's shown on the card, putting a small underline under words in the color corresponding to their JLPT level. In addition, certain words are written in orange. These words are the vocabulary words for a given article, and listed beneath the body of the article and defined using a basic Japanese to Japanese dictionary entry.</p>
+
+<p>Beyond these predefined words, any word or phrase in the article can be highlighted, and a small window will pop up defining what was selected in either a Japanese to English or Japanese to Japanese dictionary, depending on what you picked in the settings (though either is selectable in this window). These dictionary entries come from Mazii dictionary, which is made by the same company that makes Todai Easy Japanese. Finally, underneath the pre-selected vocabulary is a list of different grammar points used in the article, with little icons to indicate which JLPT level they correspond to.</p>
+
+<p>Otherwise, things mostly work here as you would expect. If you press play at the bottom, a machine-generated voice will read the article, a feature I was pleasantly surprised with. If you become completely stumped on a sentence, highlighting it in its entirety will provide a translation again through Mazii. The app allows you to make lists of all the unfamiliar words you come across, and has a flashcard component to help drill their meaning and reading into your mind. I appreciated the easy copy feature to let me make my own lists outside of the app, where I log all new words I come across regardless of source.</p>
+
+<figure class="figure-left"><img alt="screenshot of todai easy japanese news app audio player" src="https://files.tofugu.com/articles/reviews/2021-11-23-todai-easy-japanese-news-app/todai-easy-japanese-app-audio-player.jpg" /></figure>
+
+<p>One feature I was really impressed with here is the aforementioned audio player. Using the playhead at the bottom, the app will generate audio for any article, with a wide selection of available voices to choose from. This works surprisingly well. Of course, I wish this were actual recorded native audio, but it would be difficult and expensive to create real audio for every article.</p>
+
+<p>One of the buttons at the top of the page while viewing an article takes you to a speaking section. Here, the article is broken down sentence by sentence, giving you generated audio for each line, and then the ability to record yourself and then play back those recordings to hear your own pronunciation. I've found recording myself speaking to be a hugely valuable practice in improving my own pronunciation of Japanese, and ended up spending a lot of time using this tool for any article I read.</p>
+
+<p>Similarly, there's a translation section that allows you to try and interpret each sentence into your native language, and check it against a machine translation. I found this most useful as a way to verify my understanding of a sentence more so than serious practice, but I used it from time to time nonetheless.</p>
+
+<h2 id="dictionary">Dictionary</h2>
+
+<figure class="figure-right"><img alt="screenshot of todai easy japanese news app dictionary" src="https://files.tofugu.com/articles/reviews/2021-11-23-todai-easy-japanese-news-app/todai-easy-japanese-app-dictionary.jpg" /></figure>
+
+<p>Next is the dictionary function. Like I mentioned earlier, when you highlight a word or phrase, you're given a dictionary entry in either Japanese to English or Japanese to Japanese, depending on what option you choose to default to in the settings. And since the company makes its own dictionary, these entries are really high quality. As someone who still uses a Japanese to English dictionary most of the time, I found the Japanese to Japanese dictionary to be very easy to understand, and quickly switched over to that option as another way to practice.</p>
+
+<p>As you might expect, you're not just limited to looking up words from the articles, but using the dictionary tab, you can look up any word. This works very much the same as most other dictionary apps, with a few stand out features. For one, the handwriting input works really well. I've always struggled to get good results from the Jisho.org handwriting input, but using the built-in dictionary in Todai Easy Japanese, I had no trouble finding each kanji I drew.</p>
+
+<p>Finally, there's a built-in flashcard tool that generates flashcards from the words you've saved into a notebook. These flashcards will be very familiar to anyone who's used <a href="https://apps.ankiweb.net/">Anki</a> before. On one side, they show the character you've saved, and with a tap, you can flip to show the definition. After you review the card, you can press one of three buttons to rate how well you remembered, which helps sort when to review them again. Of course, this is nowhere near as flexible or extensible as Anki, but it's a nice option for those who want to keep things in one place, or to review only a handful of words specific to articles in a casual way.</p>
+
+<p>Finally, there's an image search option. This is a bit unusual, and not something I've seen in other dictionary apps. In practice, the results are a bit scattershot. Searching 傘 will get you pictures of umbrellas, but searching something more abstract like the expression 日に日に (which means "day by day") will mostly return pictures of text that include the phrase or simply the kanji 日. In the past, I have occasionally used image search to help learn the difference between two similar words (like 鐘 and 鈴 — both of which get often translated as "bell," for example) and I'm sure you could use this in a similar way.</p>
+
+<h2 id="jlpt-study">JLPT Study</h2>
+
+<blockquote class="highlight-right">
+  <p>I wish there was better integration with the rest of the app, perhaps letting you know when you've come across grammar structures or words from a specific level a number of times, or keeping track of the content you've read.</p>
+</blockquote>
+
+<p>The next tab over is a JLPT study section. All five JLPT levels are listed, from N5 to N1, with a number of different tests in each category. These tests are timed, and very similar to other JLPT practice exams, with sections matching those on the test. Once you're finished, you can press a submit button and get instantly graded.</p>
+
+<p>Additionally, at the bottom of this page, there are buttons that take you to lists displaying numbers for the different words covered by each JLPT lesson. Here too you can click to be taken to a dictionary entry for the word, or log it to a notebook or your favorites lists for further study. It would be cool if these lists counted down as you learned words through the flashcard component, but as far as I can tell, they stay the same, with words getting a green circle next to them on the list once you've learned them.</p>
+
+<p>Overall, this section is useful, but a little out of place. I wish there was better integration with the rest of the app, perhaps letting you know when you've come across grammar structures or words from a specific level a number of times, or keeping track of the content you've read. I don't personally want to sit down and take a practice test for upwards of two hours on my phone, and found only limited usage in looking over the lists of words from each level. But perhaps if someone wanted to focus most of their study in Todai Easy Japanese, this and the flashcard study would help facilitate that.</p>
+
+<h2 id="videos">Videos</h2>
+
+<figure class="figure-left"><img alt="screenshot of todai easy japanese news app video player" src="https://files.tofugu.com/articles/reviews/2021-11-23-todai-easy-japanese-news-app/todai-easy-japanese-app-video-player.jpg" /></figure>
+
+<p>The final tab is a video player. Here, the app curates a number of videos, primarily music videos, but some fluff viral-esque videos as well. When you click on a video, you're taken to a page with an embedded YouTube video, and the bottom of the page becomes a karaoke-style scroll, highlighting the lyrics or transcript as they're said. Again, this is a bit random for a news-focused app, but I actually enjoyed this section more than I expected to. Music can be a difficult but rewarding component to study in another language, and having the lyrics broken down into phrases can make it easier to parse what's said, especially since music tends to use non sequiturs or unconventional speech.</p>
+
+<p>Clicking one of the lines will jump to the part of the video where it's said, and there's a small magnifying glass icon which will automatically search for the line in the dictionary section. This is great if you're having trouble figuring out what something means, or want to review a line further.</p>
+
+<p>It's a little unexpected, but a welcome addition, as I found it helped show me another way where my skills carried over, allowing me to understand much more of songs and various videos than I would have expected. It's much easier for me to understand Japanese in writing rather than spoken right now, but having the transcript available helped me parse some otherwise tricky lines in real, popular songs that I was listening to anyways.</p>
+
+<h2 id="settings-and-paid-user-account">Settings and Paid User Account</h2>
+
+<p>Beyond all the tools available, I really appreciate the level of control offered over how the various tools are applied in the settings. Most of all, I like being able to disable furigana and underlining for words under N3, the level of content I'm studying primarily now. This helped me really hone in on the level I wanted to focus on, and avoid "cheating" on the readings of words I should already know.</p>
+
+<blockquote class="highlight-right">
+  <p>I like having a profile where I can see how much time I've spent using the app, how many consecutive days I've used it for, and other similar data.</p>
+</blockquote>
+
+<p>There's a few other settings of note, allowing you to toggle between light and dark mode, configure the way text displays with font size and spacing, and the default voice for the generated audio (there really are a lot of them!).</p>
+
+<p>Important to note is that the app is technically free with ads, and has a paid tier ranging from $2.99 to $25.99 depending on the length of your subscription that removes ads and gives a few bonus features like the ability to read articles and use the dictionary offline, and to sync between different versions of the application. I opted to go for a membership, as I didn't want to be distracted by ads, but I think I probably could have gotten as much value out of the app even without paying.</p>
+
+<p>I'm also someone who responds well to gamification and data tracking, so I like having a profile where I can see how much time I've spent using the app, how many consecutive days I've used it for, and other similar data. These profiles aren't limited to the paid version of the app, but if this data is important to you, you might want to be able to sync it across devices through the paid app.</p>
+
+<h2 id="the-bad">The Bad</h2>
+
+<p>Of course, with all of the good comes some bad, and Todai Easy Japanese is not perfect. Mostly, it's just a little rough around the edges. In design and usage, it's not very sleek or cohesive in the way we've come to expect with modern applications. It's clear it's not made by an English-native company, as there are strange translations here and there, like with one of the categories of article you can filter by listed as "Anatomize" (clicking on this filter doesn't exactly make it clear what it's trying to convey, either).</p>
+
+<p>The JLPT and video tools have their upsides, but feel more tacked on than cohesively integrated into the rest of the experience. Clicking a button may take you to another section of the app entirely, like with the flashcard viewer which is a little opaque to locate. It can be difficult to tell "where" you are in the app. Overall, it just feels like it's trying to do too much, rather than just focus on the admittedly excellent news reader.</p>
+
+<h2 id="conclusion-an-excellent-news-reader-app-with-bonus-features">Conclusion: An Excellent News Reader App with Bonus Features</h2>
+
+<blockquote class="highlight-left">
+  <p>There's also a wealth of different topics covered, so there's always something to keep you reading.</p>
+</blockquote>
+
+<p>Overall, Todai Easy Japanese is a really comprehensive app for finding material to immerse yourself in the Japanese language with. The content is simple enough that most upper-beginner or intermediate learners will be able to comprehend what they're reading, while still being complex enough to remain engaging. Honestly, I heard about a few news stories through Todai Easy Japanese first, especially events or happenings in various Japanese prefectures that didn't get international coverage. There's also a wealth of different topics covered, so there's always something to keep you reading. I'm a big fan of baseball, and it was cool to be able to see how the Japanese press covered Ohtani Shohei's historic year, in native reporting, beyond just what was being written about him in America.</p>
+
+<p>As an app, it is a bit hit-or-miss, filled to the brim with features you may or may not use, and a little untidy overall. But I rarely felt like the tools I didn't want to use got in my way. It would be easy to critique the excess if the main function was neglected, but that's not the case here. The article reader is responsive and truly useful; the rest to me was just a bonus. With the videos and music, Todai Easy Japanese can become one of your primary sources for native Japanese content during a specific stage in your study journey.</p>
+
+<section class="individual-review"><div class="individual-review__avatar"><a href="../../about/people/ian-j-battaglia/index.html"><img src="../../images/about/people/avatar-ian-j-battaglia-378d8bf5.jpg" alt="Avatar ian j battaglia 378d8bf5" /></a></div><div class="individual-review__content"><h3 class="individual-review__title">Ian’s Review<i class="fa fa-thumbs-o-up" aria-hidden="true" aria-label="Recommended"></i><span class="individual-review_rating">7/10</span></h3><p>Todai Easy Japanese News is an excellent resource for Japanese learners looking for some new native material to study from. The tools offered are both helpful and fun, making the app something you want to use, though at times the experience feels a bit rough around the edges.</p>
+</div></section>
+
+<div class='article-tldr blog-post-highlight'>
+<div class='container'>
+<h2>
+<span class='article-highlight'>Todai Easy Japanese News</span>
+<small>
+<span class='article-highlight'>
+<span class='conjunction'>by</span>
+Mazii.net
+</span>
+</small>
+</h2>
+<div class='article-tldr-ratings-pros-cons'>
+<div class='container'>
+<div class='row'>
+<div class='col-md-6'>
+<h3 class='article-tldr-pros-cons-title'>Pros</h3>
+<ul>
+<li>Well-made news reader app</li>
+<li>Random, but useful bonus features</li>
+<li>Wide variety of topics and sources</li>
+<li>Nice to be able to paste in your own Japanese links or text</li>
+</ul>
+</div>
+<div class='col-md-6'>
+<h3 class='article-tldr-pros-cons'>Cons</h3>
+<ul>
+<li>Design and usage is not very sleek or cohesive</li>
+<li>Some English translations are awkward</li>
+<li>Some of the features feel tacked on rather than well-integrated</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class='article-tldr-ratings'>
+<div class='article-tldr-ratings-overall'>
+<div class='article-tldr-ratings-header'>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-6'>
+<div class='article-tldr-ratings-header-title'>
+<h3>Overall Rating</h3>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class='article-tldr-ratings-header-rating'>
+<h3>7</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+<progress max='10' value='7.0'></progress>
+</div>
+</div>
+<div class='article-tldr-additional-information'>
+<h3>Additional Information</h3>
+<div class='container'>
+<div class='row'>
+<div class='col-md-6'>
+<p>
+<i class='fa fa-fw fa-external-link'></i>
+<a href='https://easyjapanese.net' target='_blank' title='View Todai Easy Japanese News&#39;s website'>
+Todai Easy Japanese News's
+website
+</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-articles reviews-prev japanese-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='reviews' href='../quartet-vol1/index.html' title='View A Review of &quot;Quartet: Intermediate Japanese Across the Four Language Skills vol. 1&quot;'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-pencil'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+A Review of "Quartet: Intermediate Japanese Across the Four Language Skills vol. 1"
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='../../japanese/kosoado/index.html' title='View How to Use こそあど Words to Refer to Things You Can&#39;t See'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+How to Use こそあど Words to Refer to Things You Can't See
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category reviews'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='reviews' href='../marugoto/index.html' title='View A まるごと Review of the &quot;Marugoto&quot; Textbook Series'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-pencil'></i>
+<span aria-label='Older reviews' class='older-article-pagination'></span>
+</small>
+A まるごと Review of the "Marugoto" Textbook Series
+</a>
+</li>
+<li class='pager-next'>
+<a class='reviews' href='../quartet-vol1/index.html' title='View A Review of &quot;Quartet: Intermediate Japanese Across the Four Language Skills vol. 1&quot;'>
+<small>
+<span aria-label='Newer reviews' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-pencil'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+A Review of "Quartet: Intermediate Japanese Across the Four Language Skills vol. 1"
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='../../about/index.html' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.2' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs/index.html' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese/index.html' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='../../news/index.html' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='../../newsletter/index.html' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='../../podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='../../feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="../../javascripts/master-2164c2ee.js" defer="defer"></script><script src="../../javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

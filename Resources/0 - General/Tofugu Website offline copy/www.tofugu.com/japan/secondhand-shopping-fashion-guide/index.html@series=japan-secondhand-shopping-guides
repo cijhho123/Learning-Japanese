@@ -1,0 +1,1279 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Emily Suvannasankha' name='author'>
+<meta content='Looking for a way to buy clothes, shoes and other fashion items in Japan? Check out used stuff — many times, you can&#39;t even tell they are secondhand.' name='description'>
+<meta content='japan, secondhand used, cheap, clothes, fashion, shoes' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Looking for a way to buy clothes, shoes and other fashion items in Japan? Check out used stuff — many times, you can&#39;t even tell they are secondhand.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japan/2022-06-21-secondhand-shopping-fashion-guide/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='Secondhand Shopping in Japan: How To Get Fashion Items for Cheap' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japan/secondhand-shopping-fashion-guide/' property='og:url'>
+<meta content='https://www.tofugu.com/japan/yuri-manga-anime-recommendations/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/what-is-the-jlpt/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/secondhand-shopping-books-guide/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/secondhand-shopping-general-guide/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/hellotalk/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japan-healthcare-system/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-vocabulary-for-yoga-movements/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-vocabulary-for-yoga-body-parts/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/yoga-in-japanese-getting-started/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/working-holiday-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/ossan-rental/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/ossan-rental-yasashii-shufu/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/ossan-rental-omocha/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tofugu-favorite-posts-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/jet-teaching-senpai/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/kaihou-souko/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/shimokitazawa-tokyo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/umbrellas-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-socks/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/glasses-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/hafu-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/keisuke-umeda-mustache/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/the-reason-i-dont-want-to-dye-my-hair-black-again/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/piercings-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/dekotora-dekochari/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Emily Suvannasankha' property='article:author'>
+<meta content='2022-06-21T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japan' property='article:section'>
+<meta content='japan' property='article:tag'>
+<meta content='secondhand used' property='article:tag'>
+<meta content='cheap' property='article:tag'>
+<meta content='clothes' property='article:tag'>
+<meta content='fashion' property='article:tag'>
+<meta content='shoes' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@tofugu' name='twitter:creator'>
+<meta content='Looking for a way to buy clothes, shoes and other fashion items in Japan? Check out used stuff — many times, you can&#39;t even tell they are secondhand.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japan/2022-06-21-secondhand-shopping-fashion-guide/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='Secondhand Shopping in Japan: How To Get Fashion Items for Cheap' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#268bd2' name='twitter:widgets:link-color'>
+<meta content='#268bd2' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-emily-suvannasankha-be10aaff.jpg",
+    "jobTitle": "Writer",
+    "name": "Emily Suvannasankha",
+    "sameAs": [
+
+    ],
+    "url": "https://www.tofugu.com/about/people/emily-suvannasankha/",
+    "description": "Emily is a writer and translator with a Master's in Linguistics and Cultural Studies from Nagoya University. She aims to connect Asia and the West through cultural exchange, pet a lot of cats, and one day finally visit Thailand. Her <a href="https://www.tofugu.com/japan/secondhand-shopping-fashion-guide/\&quot;https://www.instagram.com/emisuva/\&quot;">Instagram</a> contains many pictures of Japan and almost none of herself, just the way she likes it.",
+    "email": "emisuva@gmail.com"
+  },
+  "datePublished": "2022-06-21T00:00:00Z",
+  "description": "Looking for a way to buy clothes, shoes and other fashion items in Japan? Check out used stuff — many times, you can't even tell they are secondhand.",
+  "headline": "Secondhand Clothes Shopping in Japan: How To Get Fashion Items for Cheap",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japan/2022-06-21-secondhand-shopping-fashion-guide/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japan/2022-06-21-secondhand-shopping-fashion-guide/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "japan, secondhand used, cheap, clothes, fashion, shoes",
+  "name": "Secondhand Clothes Shopping in Japan: How To Get Fashion Items for Cheap",
+  "url": "https://www.tofugu.com/japan/secondhand-shopping-fashion-guide/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2022-06-21T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japan/secondhand-shopping-fashion-guide/"
+}
+</script>
+
+<title>Secondhand Clothes Shopping in Japan: How To Get Fashion Items for Cheap</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japan/secondhand-shopping-fashion-guide/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='https://www.tofugu.com/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://www.tofugu.com/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://www.tofugu.com/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://www.tofugu.com/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://www.tofugu.com/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='https://www.tofugu.com/favicon.png' rel='shortcut icon'>
+<link href='https://www.tofugu.com/favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japan japan_secondhand-shopping-fashion-guide japan_secondhand-shopping-fashion-guide_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='https://www.tofugu.com/'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japanese/' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='https://www.tofugu.com/japanese/' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.1' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-learning-resources-database/' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japan/' id='dJapan'>
+Japan <i class="fa fa-globe"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='https://www.tofugu.com/japan/' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/series/' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/travel/' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/reviews/' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/interviews/' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='https://www.tofugu.com/podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=japan-secondhand-shopping-guides#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japan/2022-06-21-secondhand-shopping-fashion-guide/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japan/2022-06-21-secondhand-shopping-fashion-guide/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+Secondhand Shopping in Japan: How To Get Fashion Items <span class="conjunction">for</span> Cheap
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+Take a Walk in Someone Else's Shoes (Literally)
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2022-06-21T00:00:00Z">June 21, 2022</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="https://www.tofugu.com/about/people/emily-suvannasankha/" rel="author">Emily Suvannasankha</a>
+•
+Art by
+<a href="https://www.tofugu.com/about/people/aya-francisco/">Aya Francisco</a>, <a href="https://www.tofugu.com/about/people/emily-suvannasankha/">Emily Suvannasankha</a>, and <a href="../../about/people/kanae-nakamine.1">Kanae Nakamine</a>
+<a href="https://files.tofugu.com/articles/japan/2022-06-21-secondhand-shopping-fashion-guide/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+<p class='article-series series-japan-secondhand-shopping-guides hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="https://www.tofugu.com/series/japan-secondhand-shopping-guides/">Secondhand Shopping in Japan
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>When I lived in Japan, I shamelessly bought a mountain of clothing, the size of which would make Mt. Fuji blush. Wondering how I pulled this off without an ounce of remorse? The secret is that almost all of it was secondhand. Up until then, I hadn't owned many basics, so I took the opportunity to fill the holes in my wardrobe with <em>very</em> affordable pieces I found while thrifting in Japan. If you're also looking to buy Japanese clothes without breaking the bank (or planet), you've come to the right place!</p>
+
+<p>In this article, I'll introduce some useful Japanese vocabulary, offer advice on where to find the best stuff, and perhaps even convince you to consider buying used next time you need a coat, camisole, or <em>kigurumi</em><sup id="fnref:1"><a href="index.html@series=japan-secondhand-shopping-guides#fn:1" class="footnote">1</a></sup>. Maybe you already read my article on <a href="../secondhand-shopping-general-guide.1">secondhand shopping in Japan</a> in general and are eager to learn more clothing-related phrases. Or maybe you're already a master Japanese haggler and just want to skip to <a href="index.html@series=japan-secondhand-shopping-guides#where-to-find-secondhand-clothing-in-japan">the part where I tell you where to shop</a>.</p>
+
+<p>Regardless, after reading, I hope you'll come away with knowledge that will help you get fabric on your torso in Japan with a little more confidence and eco-friendliness.</p>
+
+<ul id="markdown-toc">
+  <li><a href="index.html@series=japan-secondhand-shopping-guides#why-buy-secondhand-clothes-in-japan" id="markdown-toc-why-buy-secondhand-clothes-in-japan">Why Buy Secondhand Clothes in Japan?</a></li>
+  <li><a href="index.html@series=japan-secondhand-shopping-guides#japanese-words-to-look-for" id="markdown-toc-japanese-words-to-look-for">Japanese Words to Look For</a></li>
+  <li><a href="index.html@series=japan-secondhand-shopping-guides#where-to-find-secondhand-clothing-in-japan" id="markdown-toc-where-to-find-secondhand-clothing-in-japan">Where to Find Secondhand Clothing in Japan</a>    <ul>
+      <li><a href="index.html@series=japan-secondhand-shopping-guides#mercari" id="markdown-toc-mercari">Mercari</a></li>
+      <li><a href="index.html@series=japan-secondhand-shopping-guides#local-thrift-stores--flea-markets" id="markdown-toc-local-thrift-stores--flea-markets">Local Thrift Stores &amp; Flea Markets</a></li>
+      <li><a href="index.html@series=japan-secondhand-shopping-guides#nd-street" id="markdown-toc-nd-street">2nd Street</a></li>
+      <li><a href="index.html@series=japan-secondhand-shopping-guides#treasure-factory" id="markdown-toc-treasure-factory">Treasure Factory</a>        <ul>
+          <li><a href="index.html@series=japan-secondhand-shopping-guides#trefacstyle" id="markdown-toc-trefacstyle">TreFacStyle</a></li>
+          <li><a href="index.html@series=japan-secondhand-shopping-guides#uselet" id="markdown-toc-uselet">UseLet</a></li>
+          <li><a href="index.html@series=japan-secondhand-shopping-guides#trefac-fashion-online" id="markdown-toc-trefac-fashion-online">TreFac Fashion Online</a></li>
+        </ul>
+      </li>
+      <li><a href="index.html@series=japan-secondhand-shopping-guides#zozoused" id="markdown-toc-zozoused">ZOZOUSED</a></li>
+      <li><a href="index.html@series=japan-secondhand-shopping-guides#spinns-used-section" id="markdown-toc-spinns-used-section">SPINNS Used Section</a></li>
+      <li><a href="index.html@series=japan-secondhand-shopping-guides#secondhand-luxury-brands" id="markdown-toc-secondhand-luxury-brands">Secondhand Luxury Brands</a>        <ul>
+          <li><a href="index.html@series=japan-secondhand-shopping-guides#brand-collect" id="markdown-toc-brand-collect">Brand Collect</a></li>
+          <li><a href="index.html@series=japan-secondhand-shopping-guides#komehyo" id="markdown-toc-komehyo">KOMEHYO</a></li>
+          <li><a href="index.html@series=japan-secondhand-shopping-guides#ragtag" id="markdown-toc-ragtag">RAGTAG</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="index.html@series=japan-secondhand-shopping-guides#hand-me-downs-make-the-gaijin" id="markdown-toc-hand-me-downs-make-the-gaijin">Hand-Me-Downs Make the Gaijin</a></li>
+</ul>
+
+<h2 id="why-buy-secondhand-clothes-in-japan">Why Buy Secondhand Clothes in Japan?</h2>
+
+<p>First things first — why would you raid a stranger's closet when you could just buy something new? It's a great question, especially if you're used to wearing shiny new threads fresh off the conveyor belt. My best answer? Chances are someone on this earth has already bought the item of clothing you want, worn it zero to a few times, and doesn't want it anymore. All you have to do is take it off their hands for a <strong>discounted price</strong>. This way, your impact on both the environment and your coin purse is reduced. Save the <em>fugu</em><sup id="fnref:2"><a href="index.html@series=japan-secondhand-shopping-guides#fn:2" class="footnote">2</a></sup> with your shopping habits!</p>
+
+<blockquote class="highlight-left">
+  <p>Japanese sellers tend to describe and post pictures of imperfections meticulously.</p>
+</blockquote>
+
+<p>But more specifically, why buy secondhand clothes in Japan? Well, Japanese used items tend to be pretty <strong>well taken care of</strong>, and this definitely includes clothes. Most garments you buy will (often explicitly) come washed, preserved, and ready for its second life on your beautiful form. Plus, I've found that Japanese sellers tend to describe and post pictures of imperfections much more meticulously than in the US. This high level of transparency means you're generally less likely to encounter unsightly surprises when buying used clothing in Japan.</p>
+
+<blockquote class="highlight-right">
+  <p>Buying used clothing is a great way to try interesting Japanese fashion trends and styles.</p>
+</blockquote>
+
+<p>Lastly, if there are any interesting Japanese fashion trends or styles you want to try but have held back because of the expense, buying used clothing is a great solution. Wouldn't you rather pay 2,000 yen to Hanako from Kagoshima than 5,000 yen to Big Lolita Skirt? If you don't like it, you can just pass it on to someone else.</p>
+
+<p>Nevertheless, I understand if the thought of wearing someone's old hand-me-downs still skeeves you out. But I hope the many benefits outweigh any worries you have. Especially if you've never thrift shopped for clothing before, Japan is one of the best places to start.</p>
+
+<p>So now that I've hopefully prodded your mind open, how do you buy secondhand clothes in Japan like a super smart, edumacated person?</p>
+
+<h2 id="japanese-words-to-look-for">Japanese Words to Look For</h2>
+
+<p>The best way to look like you know what you're talking about is…actually knowing what you're talking about. The words that come out of your mouth (or more likely, fingertips)? You should know them.</p>
+
+<p>Luckily for English speakers, a lot of Japanese fashion words are phonetically borrowed from English. So those who can read <em>katakana</em>, the Japanese writing system used for foreign words, will have an easier time understanding much of this "basically English" lingo. If you don't know <em>katakana</em> yet (no shame), Tofugu has a <a href="../../japanese/learn-katakana.1">Learn Katakana guide</a> that might be up your alley. Otherwise, copy and paste will be your friend.</p>
+
+<p>Here are some words to help you find places to shop for secondhand clothing in Japan:</p>
+
+<p><strong>Secondhand Shopping / Used Clothes-Related Vocabulary</strong></p>
+
+<table class="table table-responsive table-hover table-bordered">
+  <tbody>
+    <tr>
+      <td>通販 (<em>tsūhan</em>)</td>
+      <td>online shopping, mail order</td>
+    </tr>
+    <tr>
+      <td>リサイクルショップ (<em>risaikuru shoppu</em>, "recycle shop")</td>
+      <td>store that sells used goods</td>
+    </tr>
+    <tr>
+      <td>古着 (<em>furugi</em>)</td>
+      <td>secondhand clothing</td>
+    </tr>
+    <tr>
+      <td>ブランド古着 (<em>burando furugi</em>)</td>
+      <td>brand-name secondhand clothing</td>
+    </tr>
+    <tr>
+      <td>古着屋 (<em>furugiya</em>)</td>
+      <td>thrift store for clothing</td>
+    </tr>
+    <tr>
+      <td>フリーマーケット (<em>furī māketto</em>) <br /> フリマ (<em>furima</em>)</td>
+      <td>flea market</td>
+    </tr>
+    <tr>
+      <td>フリマアプリ (<em>furima apuri</em>)</td>
+      <td>flea market/e-commerce app</td>
+    </tr>
+    <tr>
+      <td>買取, 買い取り (<em>kaitori</em>)</td>
+      <td>trade-in, buyback</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Okay, now you know words for where to look, but how about words for <em>what</em> you're looking for? You can use this next chart of vocabulary words to search for what you want, or come back and reference it while reading descriptions of clothes in Japanese. It's not an exhaustive list, but it should give you the basic tools you need to not accidentally buy <em>shitagi</em> ("underwear") when you were looking for <em>uwagi</em> ("outerwear").</p>
+
+<p><strong>Types of Clothes</strong></p>
+
+<table class="table table-responsive table-hover table-bordered">
+  <tbody>
+    <tr>
+      <td>長袖 (<em>nagasode</em>)</td>
+      <td>long sleeve</td>
+    </tr>
+    <tr>
+      <td>半袖 (<em>hansode</em>)</td>
+      <td>short sleeve</td>
+    </tr>
+    <tr>
+      <td>七分袖 (<em>shichibusode</em>)</td>
+      <td>three-quarter sleeve</td>
+    </tr>
+    <tr>
+      <td>シャツ (<em>shatsu</em>)</td>
+      <td>shirt (often collared)</td>
+    </tr>
+    <tr>
+      <td>Tシャツ (<em>T-shatsu</em>)</td>
+      <td>t-shirt</td>
+    </tr>
+    <tr>
+      <td>トップス (<em>toppusu</em>)</td>
+      <td>tops</td>
+    </tr>
+    <tr>
+      <td>ズボン (<em>zubon</em>)</td>
+      <td>pants</td>
+    </tr>
+    <tr>
+      <td>ショーツ (<em>shōtsu</em>) <br /> ショートパンツ (<em>shōto pantsu</em>) <br /> 半ズボン (<em>hanzubon</em>, "half pants")</td>
+      <td>shorts</td>
+    </tr>
+    <tr>
+      <td>ジーンズ (<em>jīnzu</em>)</td>
+      <td>jeans</td>
+    </tr>
+    <tr>
+      <td>ジャケット (<em>jaketto</em>)</td>
+      <td>jacket</td>
+    </tr>
+    <tr>
+      <td>デニムジャケット (<em>denimu jaketto</em>) <br /> Gジャン (<em>jījan</em>)</td>
+      <td>jean jacket</td>
+    </tr>
+    <tr>
+      <td>レザージャケット (<em>rezā jaketto</em>) <br /> 革ジャン (<em>kawajan</em>)</td>
+      <td>leather jacket</td>
+    </tr>
+    <tr>
+      <td>テーラードジャケット (<em>tērādo jaketto</em>, "tailored jacket")</td>
+      <td>blazer</td>
+    </tr>
+    <tr>
+      <td>コート (<em>kōto</em>)</td>
+      <td>coat</td>
+    </tr>
+    <tr>
+      <td>セーター (<em>sētā</em>) <br /> ニット (<em>nitto</em>, "knit")</td>
+      <td>sweater</td>
+    </tr>
+    <tr>
+      <td>アウターウエア (<em>autāuea</em>) <br /> 上着 (<em>uwagi</em>)</td>
+      <td>outerwear</td>
+    </tr>
+    <tr>
+      <td>下着 (<em>shitagi</em>) <br /> パンツ (<em>pantsu</em>)</td>
+      <td>underwear</td>
+    </tr>
+    <tr>
+      <td>ワンピース, ワンピ (<em>wanpīsu</em>, <em>wanpi</em>; "one-piece")</td>
+      <td>dress</td>
+    </tr>
+    <tr>
+      <td>パジャマ (<em>pajama</em>)</td>
+      <td>pajamas</td>
+    </tr>
+    <tr>
+      <td>ルームウエア (<em>rūmu uea</em>, "roomwear")</td>
+      <td>loungewear</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Are you sure of what you want (a sweet, sweet <em>shatsu</em>, perhaps), but not certain which category it falls under? Here are some category and description words that will really help to know when secondhand shopping in Japanese, especially online.</p>
+
+<p><strong>Fashion Categories</strong></p>
+
+<table class="table table-responsive table-hover table-bordered">
+  <tbody>
+    <tr>
+      <td>カテゴリー (<em>kategorī</em>)</td>
+      <td>category</td>
+    </tr>
+    <tr>
+      <td>レディース (<em>redīzu</em>)</td>
+      <td>womenswear, ladies'</td>
+    </tr>
+    <tr>
+      <td>メンズ (<em>menzu</em>)</td>
+      <td>menswear</td>
+    </tr>
+    <tr>
+      <td>ユニセックス (<em>yunisekkusu</em>) <br /> ジェンダーレス (<em>jendāresu</em>, "genderless")</td>
+      <td>unisex</td>
+    </tr>
+    <tr>
+      <td>キッズ (<em>kizzu</em>)</td>
+      <td>kids</td>
+    </tr>
+    <tr>
+      <td>ベビー (<em>bebi</em>)</td>
+      <td>babies</td>
+    </tr>
+    <tr>
+      <td>手作り (<em>tezukuri</em>) <br /> ハンドメイド (<em>handomeido</em>)</td>
+      <td>handmade</td>
+    </tr>
+    <tr>
+      <td>ブランド (<em>burando</em>)</td>
+      <td>brand</td>
+    </tr>
+    <tr>
+      <td>カラー (<em>karā</em>) <br /> 色 (<em>iro</em>)</td>
+      <td>color</td>
+    </tr>
+    <tr>
+      <td>デザイン (<em>dezain</em>) <br /> 柄 (<em>gara</em>)</td>
+      <td>design/pattern</td>
+    </tr>
+    <tr>
+      <td>年代 (<em>nendai</em>)</td>
+      <td>year/generation (for vintage)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Fantastic, now you know how to articulate that you're looking for a 90s leather jacket for babies. But how do you make sure it's the right size? The differences between Western and Asian sizing can be tricky, but this next handy chart should help you and your vintage infant avoid looking like packaged sausage. Many Japanese online sellers list exact measurements, so prepare to measure your crotch in centimeters to see what will fit you.</p>
+
+<p><span id="size-related-vocabulary"><strong>Size-Related Vocabulary</strong></span></p>
+
+<table class="table table-responsive table-hover table-bordered">
+  <tbody>
+    <tr>
+      <td>サイズ (<em>saizu</em>)</td>
+      <td>size</td>
+    </tr>
+    <tr>
+      <td>大きめ (<em>ōkime</em>)</td>
+      <td>on the large side</td>
+    </tr>
+    <tr>
+      <td>小さめ (chīsame)</td>
+      <td>on the small side</td>
+    </tr>
+    <tr>
+      <td>フリーサイズ (<em>furī saizu</em>), FREE SIZE</td>
+      <td>one size fits all/most</td>
+    </tr>
+    <tr>
+      <td>平置き実寸 (<em>hiraoki jissun</em>)</td>
+      <td>actual measurements when placed flat</td>
+    </tr>
+    <tr>
+      <td>丈 (<em>take</em>) <br /> 着丈 (<em>kitake</em>) <br /> 身丈 (<em>mitake</em>)</td>
+      <td>height/length</td>
+    </tr>
+    <tr>
+      <td>幅 (<em>haba</em>) <br /> 身幅 (<em>mihaba</em>)</td>
+      <td>width</td>
+    </tr>
+    <tr>
+      <td>肩幅 (<em>katahaba</em>)</td>
+      <td>shoulder width</td>
+    </tr>
+    <tr>
+      <td>袖丈 (<em>sodetake</em>)</td>
+      <td>sleeve length</td>
+    </tr>
+    <tr>
+      <td>裄丈 (<em>yukitake</em>)</td>
+      <td>length from the center of collar to the top of the sleeve</td>
+    </tr>
+    <tr>
+      <td>ウエスト (<em>uesuto</em>) <br /> 胴幅 (<em>dōhaba</em>) <br /> 腰幅 (<em>koshihaba</em>)<sup id="fnref:3"><a href="index.html@series=japan-secondhand-shopping-guides#fn:3" class="footnote">3</a></sup></td>
+      <td>waist width</td>
+    </tr>
+    <tr>
+      <td>ヒップ (<em>hippu</em>)</td>
+      <td>hip width</td>
+    </tr>
+    <tr>
+      <td>股上 (<em>matagami</em>)</td>
+      <td>front rise (waist to crotch, for pants)</td>
+    </tr>
+    <tr>
+      <td>股下 (<em>matashita</em>)</td>
+      <td>inseam (crotch to hem, for pants)</td>
+    </tr>
+    <tr>
+      <td>裾幅 (<em>susohaba</em>)</td>
+      <td>hem width</td>
+    </tr>
+    <tr>
+      <td>総丈 (<em>sōtake</em>)</td>
+      <td>total length</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Nice job, you've used these words to buy a frilly secondhand sundress for your big post-covid party in 2092. But whatever will you style it with? For all you jewelry-heads out there, don't worry — I didn't forget you. Consult the following list next time you feel the insatiable urge to accessorize.</p>
+
+<p><strong>Accessory-Related Vocabulary</strong></p>
+
+<table class="table table-responsive table-hover table-bordered">
+  <tbody>
+    <tr>
+      <td>アクセサリー (<em>akusesarī</em>) <br /> 小物 (<em>komono</em>)</td>
+      <td>accessories</td>
+    </tr>
+    <tr>
+      <td>ジュエリー (<em>juerī</em>) <br /> 宝飾品 (<em>hōshokuhin</em>)</td>
+      <td>jewelry</td>
+    </tr>
+    <tr>
+      <td>ネックレス (<em>nekkuresu</em>)</td>
+      <td>necklace</td>
+    </tr>
+    <tr>
+      <td>ネクタイ (<em>nekutai</em>)</td>
+      <td>necktie</td>
+    </tr>
+    <tr>
+      <td>指輪 (<em>yubiwa</em>)</td>
+      <td>ring</td>
+    </tr>
+    <tr>
+      <td>ブレスレット (<em>buresuretto</em>) <br /> 腕輪 (<em>udewa</em>)</td>
+      <td>bracelet</td>
+    </tr>
+    <tr>
+      <td>イヤリング (<em>iyaringu</em>)</td>
+      <td>clip-on earrings</td>
+    </tr>
+    <tr>
+      <td>ピアス (<em>piasu</em>)</td>
+      <td>real earrings (for piercings)</td>
+    </tr>
+    <tr>
+      <td>ベルト (<em>beruto</em>)</td>
+      <td>belt</td>
+    </tr>
+    <tr>
+      <td>帽子 (<em>bōshi</em>)</td>
+      <td>hat</td>
+    </tr>
+    <tr>
+      <td>かばん (<em>kaban</em>) <br /> バッグ (<em>baggu</em>)</td>
+      <td>bag</td>
+    </tr>
+    <tr>
+      <td>マフラー (<em>mafurā</em>)</td>
+      <td>scarf</td>
+    </tr>
+    <tr>
+      <td>手袋 (<em>tebukuro</em>)</td>
+      <td>gloves, mittens</td>
+    </tr>
+    <tr>
+      <td>財布 (<em>saifu</em>)</td>
+      <td>wallet</td>
+    </tr>
+    <tr>
+      <td>靴 (<em>kutsu</em>)</td>
+      <td>shoes</td>
+    </tr>
+    <tr>
+      <td>ヘアアクセサリー (<em>hea akusesarī</em>) <br /> 髪飾り (<em>kamikazari</em>)</td>
+      <td>hair accessories</td>
+    </tr>
+    <tr>
+      <td>ヘアクリップ (<em>hea kurippu</em>) <br /> 髪留め (<em>kamidome</em>)</td>
+      <td>hair clip, barrette</td>
+    </tr>
+    <tr>
+      <td>シュシュ (<em>shushu</em>)</td>
+      <td>scrunchie, hair tie</td>
+    </tr>
+    <tr>
+      <td>サングラス (<em>sangurasu</em>)</td>
+      <td>sunglasses</td>
+    </tr>
+    <tr>
+      <td>腕時計 (<em>udedokei</em>)</td>
+      <td>watch</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Be careful not to get hoodwinked by the difference between イヤリング (<em>iyaringu</em>) and ピアス (<em>piasu</em>). This bozo has bought way too many cute earrings in Japan only to get home and discover they're clip-ons (the horror!). Remember, if you've got holes in your ears, what are they? <em>Pierced</em> (ピアス).</p>
+
+<p>But no matter what you're buying, you'll probably want to make sure it's not actively disintegrating on the hanger. Look for the following words in any item's description to learn how it's holding up.</p>
+
+<p><strong>Condition of Fashion Items</strong></p>
+
+<table class="table table-responsive table-hover table-bordered">
+  <tbody>
+    <tr>
+      <td>商品の状態 (<em>shōhin no jōtai</em>)</td>
+      <td>item's condition</td>
+    </tr>
+    <tr>
+      <td>中古品 (<em>chūkohin</em>)</td>
+      <td>used item</td>
+    </tr>
+    <tr>
+      <td>未使用品 (<em>mishiyōhin</em>)</td>
+      <td>unused item</td>
+    </tr>
+    <tr>
+      <td>新品 (<em>shinpin</em>)</td>
+      <td>new item</td>
+    </tr>
+    <tr>
+      <td>毛玉 (<em>kedama</em>) <br /> 毛羽立ち (<em>kebadachi</em>)</td>
+      <td>lint, pilling, fuzz</td>
+    </tr>
+    <tr>
+      <td>汚れ (<em>yogore</em>)</td>
+      <td>dirt, stains, spots</td>
+    </tr>
+    <tr>
+      <td>シミ or 染み (<em>shimi</em>)</td>
+      <td>stain, spot, smudge, discoloration</td>
+    </tr>
+    <tr>
+      <td>シワ, 皺, or 皴 (<em>shiwa</em>)</td>
+      <td>wrinkle, crease</td>
+    </tr>
+    <tr>
+      <td>色褪せ (<em>iroase</em>)</td>
+      <td>fading, discoloration</td>
+    </tr>
+    <tr>
+      <td>虫食い穴 (<em>mushikui ana</em>)</td>
+      <td>holes eaten by bugs/moths</td>
+    </tr>
+    <tr>
+      <td>ほころび (<em>hokorobi</em>)</td>
+      <td>seams that have come apart, tears</td>
+    </tr>
+    <tr>
+      <td>使用感 (<em>shiyōkan</em>)</td>
+      <td>wear and tear, signs of use</td>
+    </tr>
+    <tr>
+      <td>日焼け (<em>hiyake</em>)</td>
+      <td>sun damage/fading</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Keep in mind that sometimes, sellers will say something is "<em>kedama</em>-less" (毛玉レス, <em>kedamaresu</em>) or has "no stains" (汚れなし, <em>yogore nashi</em>). So even if you do see some of the above words, know that the item may still be in good condition. It's all about context, baby. If you're having trouble, learn you some grammar!</p>
+
+<p>And if you're shopping on Mercari (a magical, mystical wonderland that I'll talk about later), I wrote a <a href="../secondhand-shopping-general-guide.1#mercari">whole other chart</a> explaining how to search by item condition using their specific terminology.</p>
+
+<p>Whew…that's a lot of vocab. Japanese, am I right? Now, let's look at some example sentences to start stringing those random words into a semi-cohesive thought.</p>
+
+<ul class="example-sentence">
+  <li>状態はいいと思います。
+<br /><em>Jōtai wa iito omoimasu.</em></li>
+  <li>[The item] is in good condition</li>
+</ul>
+
+<ul class="example-sentence">
+  <li>少し毛玉がありますが問題なくまだまだ着用可能です。
+<br /><em>Sukoshi kedama ga arimasuga mondainaku madamada chakuyōkanō desu.</em></li>
+  <li>There are a few lint balls, but it can still be worn without a problem.</li>
+</ul>
+
+<ul class="example-sentence">
+  <li>ルームウェアとしていかがですか。
+<br /><em>Rūmuuea toshite ikagadesuka?</em></li>
+  <li>Why not wear it as pajamas/loungewear?</li>
+</ul>
+
+<ul class="example-sentence">
+  <li>首元に多少の使用感がありますが、全体的には美品だと思います。
+<br /><em>Kubimoto ni tashō no shiyōkan ga arimasuga, zentaitekiniwa bihindato omoimasu.</em></li>
+  <li>There's a bit of wear and tear around the neck, but on the whole, it's in close to mint condition.</li>
+</ul>
+
+<p>And that's all the secondhand clothes shopping vocabulary I could think of! Armed with that knowledge, and those perhaps-too-plentiful charts I whipped up, you should feel considerably more confident buying clothes in Japan.</p>
+
+<h2 id="where-to-find-secondhand-clothing-in-japan">Where to Find Secondhand Clothing in Japan</h2>
+
+<p>Now that you know how to talk about secondhand clothes shopping in Japanese, how about actually doing it? In this section, I'll give you the details on some of the best spots to thrift shop for clothing in Japan, both online and in person. My personal award for #1 on this list goes to Mercari, but all of these stores have something wonderful to offer your clothing-less physique.</p>
+
+<p>From e-commerce apps to big chain stores to small local shops, I've got solicited and unsolicited advice for every possible mode of bargain bin hunting. So let's get to it!</p>
+
+<h3 id="mercari">Mercari</h3>
+
+<figure class="figure-middle"><img alt="screenshot of the clothes section on mercari" src="https://files.tofugu.com/articles/japan/2022-06-21-secondhand-shopping-fashion-guide/mercari-clothes.jpg" /></figure>
+
+<p>Do you prefer to engage in consumerism from the comfort of your own 布団 (<em>futon</em>)? My top suggestion is to investigate a little place of wonder called Mercari, or メルカリ (<em>Merukari</em>). It's an e-commerce platform where any regular person can sell anything they don't want anymore. Think eBay, but more interactive and less seedy and commercial.</p>
+
+<blockquote class="highlight-left">
+  <p>There are plenty of nihonjin unburdening themselves of their attire on Mercari.</p>
+</blockquote>
+
+<p>Mercari was founded in Japan, then expanded into the US and UK. But while there's a Western, English-based version of the app with different branding, I highly recommend downloading the Japanese version if you're in Japan. This will ensure you're buying goods from within Japan, even if it takes some language learning on your part along the way.</p>
+
+<p>Luckily, there are plenty of <em>nihonjin</em> (and some foreigners) unburdening themselves of their attire on Mercari — often for <em>way</em> cheap. The minimum price you can list something for on Japanese Mercari is 300 yen, so you'll find lots of clothing at and around that low price.</p>
+
+<p>Once you find a frock that speaks to you, you'll want to look at the description. Many sellers on Japanese Mercari list the exact measurements of each piece of clothing, so break out the tape measure and punch サイズの測り方 (<em>saizu no hakarikata</em>, "how to measure size") into Google Images if needed. That should show you some Japanese clothes-measuring diagrams, which you can reference to understand which measurements sellers are talking about. You can also sneak a peek at the <a href="index.html@series=japan-secondhand-shopping-guides#size-related-vocabulary">size vocab chart</a> from earlier to see if any of those words make an appearance.</p>
+
+<blockquote class="highlight-right">
+  <p>Many sellers list the exact measurements of each piece of clothing.</p>
+</blockquote>
+
+<p>Keep in mind that Mercari is a pretty personal experience, especially when you're buying something someone used to put on their body. For example, some sellers want you to comment your interest before buying. Look out for phrases like コメントでやりとりしてから (<em>komento de yaritori shitekara</em>, "once we chat in the comments, [we'll see about you possibly buying]") and 即購入不可 (<em>sokukōnyū fuka</em>, "do not instantly buy this item [without commenting]"). On the other hand, if the description says 即購入可 (<em>sokukōnyūka</em>, "instant purchase is possible") or 即購入OK (<em>sokukōnyū ōkē</em>, "instant purchase is okay"), you're good to go without commenting. Most times you'll find it's okay not to comment, but it's always best to check.</p>
+
+<p>For tips on using Mercari that aren't strictly clothes-related, my article on <a href="../secondhand-shopping-general-guide.1">Secondhand Shopping in Japan</a> includes a lot more general advice on how not to make a dodo of yourself on the platform. You might slip up a few times as a foreigner, especially if you've never used it before, but that's okay. I still think it's worth it to get a good deal, save some polar bears, and help an average person clean out their closet.</p>
+
+<h3 id="local-thrift-stores--flea-markets">Local Thrift Stores &amp; Flea Markets</h3>
+
+<figure class="figure-middle"><img alt="photo of a rack of secondhand clothes in a store" src="https://files.tofugu.com/articles/japan/2022-06-21-secondhand-shopping-fashion-guide/secondhand-clothes.jpg" /></figure>
+
+<p>Okay, you've surfed the internet and discovered the titillating majesty of Mercari. But what if you want — gasp — an in-person experience? (Oh, the humanity!) In that case, I recommend seeing if your city or prefecture has any local thrift stores that could use your business. A smaller retailer could likely benefit the most from your yen, so why not take the opportunity to find some interesting mom-and-pop shops near you?</p>
+
+<blockquote class="highlight-left">
+  <p>Each spot will have its own unique style and specialty.</p>
+</blockquote>
+
+<p>To start exploring, try typing the word 古着屋 (<em>furugiya</em>, "old/secondhand clothes store") into Google Maps. Google-sensei will then show you thrift stores in your area, including both independent shops and big chains. You might even be so lucky as to find a nearby haberdashery, the employees of which can hopefully teach you what the word haberdashery means.</p>
+
+<p>Especially with smaller stores, each spot will have its own unique style and specialty, so don't worry if you find one too <em>obaa-san</em> ("grandma/old lady") or <em>yankī</em> ("delinquent") for your taste. With a bit of shopping around, you'll probably find your niche. (Or just embrace the delinquent grandma aesthetic…what goes better with a pompadour than a warm crocheted sweater?)</p>
+
+<blockquote class="highlight-right">
+  <p>Shōtengai might be your best bet in terms of trendiness.</p>
+</blockquote>
+
+<p>Speaking of style, check whether there are any <em>shōtengai</em> ("shopping streets") near you that are known for selling used or vintage goods. Shōtengai might be your best bet in terms of trendiness, since areas with a lot of foot traffic are more likely to have both new and secondhand stores that cater to younger demographics. For instance, in Nagoya, Osu Kannon's shopping arcade contains dozens of small thrift shops with racks of clothes outside that you can flip through before entering. Ask around and find out where the locals go when they're fishing for a new outfit. Chances are, there'll be some <em>furugiya</em> around there as well for you to support.</p>
+
+<p>Conveniently, if you've hunted down the right area full of thrift stores, you may have also stumbled upon a flea market. Often, Japanese flea markets are held in central locations like <em>shōtengai</em>, shrines, temples, parks, the base of Tokyo Skytree, etc. Maybe not so much during pandemic times, but you'll want to know where these colorful antique fairs are for future reference. Plus, both flea markets and small thrift stores are excellent ways to support your local community, which also leads to feelings of back-pattery for you. Neato!</p>
+
+<h3 id="nd-street">2nd Street</h3>
+
+<figure class="figure-middle"><img alt="photo of the storefront of a 2nd Street store" src="https://files.tofugu.com/articles/japan/2022-06-21-secondhand-shopping-fashion-guide/2nd-street.jpg" /></figure>
+
+<p>If you've read <a href="../secondhand-shopping-general-guide.1#nd-street">Secondhand Shopping in Japan</a>, you know my thoughts on 2nd Street. It's a reliable resource for when you need something basic, like a long-sleeve shirt or purse, that you're not that picky about in terms of style. In fact, 2nd Street is perfect for this, since if you're in a Japanese city, you're probably a stone's throw away from one at any given time.</p>
+
+<blockquote class="highlight-left">
+  <p>2nd Street's overall vibe tends to vary especially widely.</p>
+</blockquote>
+
+<p>Wandering into a 2nd Street is like playing roulette — you might get super lucky, or you might find everything to be covered in sequins. Like any secondhand chain, different locations will have different things in stock at different times, but 2nd Street's overall vibe tends to vary especially widely. I've found some downtown branches that have an upstairs with trendy, pricier brands of streetwear, while others feel like they were stocked exclusively by <em>obā-chan</em>'s<sup id="fnref:4"><a href="index.html@series=japan-secondhand-shopping-guides#fn:4" class="footnote">4</a></sup> shuffleboard club. Definitely check out the 2nd Streets in your area, but leave your expectations at the door and be open to whatever random racks of clothes happen to greet you.</p>
+
+<p>If you don't want to go outside, though, 2nd Street also has items for sale on their website. The online store uses a virtual trying-on system called Virtusize, where you can input your measurements and see how they compare to the clothes' measurements. It's pretty helpful!</p>
+
+<blockquote class="highlight-right">
+  <p>2nd Street has locations in the US, as well as an American online store.</p>
+</blockquote>
+
+<p>And if you're not in Japan, 2nd Street actually has locations in the US, as well as an American online store. They reportedly stock pieces from both the US and Japan, which is helpful for those of us who like Japanese styles but don't want to be bankrupted by shipping fees.</p>
+
+<p>Overall, 2nd Street is the most ubiquitous and well-known secondhand chain in Japan for good reason, but certainly not your only option.</p>
+
+<h3 id="treasure-factory">Treasure Factory</h3>
+
+<figure class="figure-middle"><img alt="photo of the storefront of a Treasure Factory store taken at night" src="https://files.tofugu.com/articles/japan/2022-06-21-secondhand-shopping-fashion-guide/treasure-factory.jpg" /></figure>
+
+<p>And now for the stores I <em>haven't</em> personally shopped at. Since I haven't bought anything from the places in these last few sections, take my words with a grain of salt. But don't let it stop you from scoping them out on my behalf!</p>
+
+<p>In the general secondhand shopping article, I introduced <a href="../secondhand-shopping-general-guide.1#treasure-factory">Treasure Factory</a>. Like the "-Off" series of stores, Treasure Factory is a general flagship store with an umbrella of smaller, more specific shops, including several that specialize in secondhand clothing. Depending on your price point, you can decide which one might meet your sartorial needs.</p>
+
+<h4 id="trefacstyle">TreFacStyle</h4>
+
+<figure class="figure-middle"><img alt="screenshot of the trefac style landing page" src="https://files.tofugu.com/articles/japan/2022-06-21-secondhand-shopping-fashion-guide/trefacstyle.jpg" /></figure>
+
+<p>With the most awkward-to-say name of all time, TreFacStyle (トレファクスタイル) mainly sells basic, everyday casual wear. If you're looking to try your hand at some good old 買取 (<em>kaitori</em>, "trade-in/buyback"), you can do it at TreFacStyle. Just make sure your items match the brands and categories they'll take by checking their <a href="https://www.tf-style.com/items/?utm_source=Tofugu">取扱いアイテム ("Accepted Items") page</a>. They periodically hold "20% UP" campaigns where you get paid 20% more for your whole lot if you include at least one item from specific high-end brands.</p>
+
+<p>All in all, TreFacStyle may be best for people who care about brands and quality a moderate amount, but don't necessarily want to pay huge bucks for them.</p>
+
+<h4 id="uselet">UseLet</h4>
+
+<figure class="figure-middle"><img alt="screenshot of the uselet landing page" src="https://files.tofugu.com/articles/japan/2022-06-21-secondhand-shopping-fashion-guide/uselet.jpg" /></figure>
+
+<p>You've also got two other options, on opposite ends of the price spectrum. On the dirt cheap side, UseLet (ユーズレット) is a warehouse-style secondhand fashion outlet that prides itself on "extreme" affordability. UseLet says you can coordinate a whole outfit for just 1,000 yen, and I'd love to see someone test them on that. They sell new items as well as used, so while you're rummaging around for latex cow-print unitards, you might hit the jackpot and find one with the tag still on.</p>
+
+<p>UseLet seems best for anyone who is on a budget, doesn't care about brand names, and/or just wants to get the most bang for their buck. (If I still lived in Japan, this would be me!) They only exist in Tokyo, Saitama, and Kanagawa though, so if you live outside of those prefectures, you're outta luck.</p>
+
+<h4 id="trefac-fashion-online">TreFac Fashion Online</h4>
+
+<figure class="figure-middle"><img alt="screenshot of the zozoused landing page" src="https://files.tofugu.com/articles/japan/2022-06-21-secondhand-shopping-fashion-guide/trefac-fashion.jpg" /></figure>
+
+<p>Treasure Factory also has an online store called <a href="https://www.trefac.jp/?utm_source=Tofugu">TreFac Fashion</a>, which bears the most similarity to TreFacStyle in terms of price and brands. The majority of their clothes range from about 1,900 yen to 30,000 yen, with a few special vintage items going for 200,000 yen or more. (Who knew a pair of jeans from the 60s could be so expensive?) The <a href="https://www.trefac.jp/info/?utm_source=Tofugu">info page</a> even provides frequent updates about 入荷 (<em>nyūka</em>, "new arrivals") and 値下げ (<em>nesage</em>, "discounts"). So if you want, you can glue yourself to your screen waiting for those precious used Levi's to finally not cost a million dollars.</p>
+
+<h3 id="zozoused">ZOZOUSED</h3>
+
+<figure class="figure-middle"><img alt="screenshot of the used section on spinns" src="https://files.tofugu.com/articles/japan/2022-06-21-secondhand-shopping-fashion-guide/zozoused.jpg" /></figure>
+
+<p>Looking for somewhere to shop outside of the Treasure Factory extended universe? Japanese clothing retailer ZOZOTOWN, which owns the popular Japanese outfit-sharing website/app WEAR, has a secondhand section called ZOZOUSED. Their prices are fairly low, with many items selling for under 3,000 yen, as well as higher-end garments that can get into the tens of thousands of yen. You can peruse their secondhand listings by clicking 新着 (<em>shinchaku</em>), or New Arrivals, and even filter by which day they arrived (e.g. 3月15日発売, or "[Arrived] for Sale on March 15th"). By the staggering number of items available, ZOZO is a highly popular website for clothing resale, so you'll likely have no trouble finding something that floats your boat.</p>
+
+<p>Some special features of ZOZOUSED include the ability to save brands you like, see similar listings on each item's page, and browse the <a href="https://zozo.jp/search/?price=sale&amp;p_pris=500&amp;p_prie=500&amp;p_gtype=2">500 yen sale rack</a>. Just be sure to check the item's condition, rated from S to D like many other secondhand sites.</p>
+
+<p>For shoppers outside of Japan, ZOZOTOWN partners with international shipping company Buyee to ship their clothes overseas. Bear in mind, though, that it'll probably make your cheapo secondhand shopping habits not so cheap.</p>
+
+<h3 id="spinns-used-section">SPINNS Used Section</h3>
+
+<figure class="figure-middle"><img alt="screenshot of the used section on spinns" src="https://files.tofugu.com/articles/japan/2022-06-21-secondhand-shopping-fashion-guide/spinns.jpg" /></figure>
+
+<p>If you're into Japanese fashion, you've likely heard of SPINNS, a streetwear store marketed toward young trendsetters, with their flagship store in Harajuku. The <a href="https://www.spinns.jp/f/used?utm_source=Tofugu">古着 section</a> of their site includes a selection of secondhand clothing that will make you look like the most stylish American hoodlum there is. A lot of their used clothes are 5,000 yen or under, although they have items from pricier brands as well.</p>
+
+<p>Unlike most websites in this article, they don't seem to list much information about the condition of clothes, so buy at your own risk. But at least some physical locations carry secondhand offerings as well, so you can browse the racks in person. All in all, if you enjoy big graphic sweaters, baggy jeans, letterman jackets, Hard Rock Cafe t-shirts, and the like, you could do a lot worse than the used section of SPINNS.</p>
+
+<h3 id="secondhand-luxury-brands">Secondhand Luxury Brands</h3>
+
+<p>At this point, you've learned about where to find affordable used clothes in Japan, mostly regardless of brand names. But wait — are you too good for $7 pants? Have you got a fat pocketbook of yen to spend, but not quite fat enough to buy designer brands at designer prices?</p>
+
+<p>Then check out these three secondhand stores where you can thrift for upscale garments and accessories that will injure your bank account slightly less. If you sip your green tea with your pinky up, you'll feel right at home at any of these shops.</p>
+
+<p>Also, much like other secondhand stores, these places let you trade in your own unwanted items. Thus, if you've got any old Hermes belts lying around, consider taking them to Brand Collect, KOMEHYO, or RAGTAG so some poor, needy banker can hold their fancy pants up for a discount.</p>
+
+<h4 id="brand-collect">Brand Collect</h4>
+
+<figure class="figure-middle"><img alt="screenshot of the brand collect landing page" src="https://files.tofugu.com/articles/japan/2022-06-21-secondhand-shopping-fashion-guide/brand-collect.jpg" /></figure>
+
+<p>You thought we were done with Treasure Factory, eh? Think again, pal. Brand Collect (ブランドコレクト) is the subsidiary of TreFac that specializes in used luxury-brand clothes and accessories. They have locations in Tokyo as well as an <a href="https://brandcollect.com/store.html?utm_source=Tofugu">online store</a>. You'll find all the usual suspects: Gucci, Louis Vuitton, Balenciaga, and all those other fancy designers with hard-to-spell names.</p>
+
+<p>The secondhand items are rated by their 程度 (<em>teido</em>, "degree/amount") of wear and tear on a six-star scale. Helpfully, their online site also offers diagrams with exact measurements, or 計測サイズ (<em>keisoku saizu</em>), for a lot of the products they sell, so you can be extra sure it fits before you buy it.</p>
+
+<p>Price-wise, if you've recently hit it big at <a href="https://www.tofugu.com/japan/pachinko/">pachinko</a> and are looking to blow those stacks of cash, it'll be pretty easy at Brand Collect. Items can cost from about 5,000 yen all the way up to 100,000 yen or more. But you can recoup some of those losses by trading in (買取, <em>kaitori</em>) any of your spare monocles or golden handbags remotely through a LINE app application or in person.</p>
+
+<h4 id="komehyo">KOMEHYO</h4>
+
+<figure class="figure-middle"><img alt="screenshot of the komehyo landing page" src="https://files.tofugu.com/articles/japan/2022-06-21-secondhand-shopping-fashion-guide/komehyo.jpg" /></figure>
+
+<p>Tired of all the Treasure Factory offshoots? KOMEHYO is also a well-known chain that specializes in secondhand clothes, bags, shoes, accessories, and jewelry from high-end brands. Their stock is similar to Brand Collect, with the addition of some other interesting stuff, like fancy pens, fancy kimono, fancy musical instruments, fancy cameras, and of course, fancy diamonds.</p>
+
+<p>For my fellow hermits, their online store has the same sort of opulent offerings as they do in person. Sometimes they have campaigns where shipping is free if you spend at least 5,000 yen, a number you're sure to hit if you buy literally anything. A few items go for less than 10,000 yen, but the majority will cost you several tens of thousands of yen (万円). So if you're some kind of millionaire, or just a spirited debtor, KOMEHYO might be for you!</p>
+
+<p>Not all their products are used, but most of them do say 中古品 (<em>chūkohin</em>), or "used item." KOMEHYO rates their used items on a scale of S, A, B, and C, where S is close to new and C is heavily used. For some items, they even include the 参考上代 (<em>sankōjōdai</em>), or MSRP (manufacturer's suggested retail price), so you can compare and see how much it's marked down. Both prices are usually a bunch of money, but at least you're saving 300,000 yen on a 700,000 yen bag, right? Right?</p>
+
+<h4 id="ragtag">RAGTAG</h4>
+
+<figure class="figure-middle"><img alt="screenshot of the ragtag landing page" src="https://files.tofugu.com/articles/japan/2022-06-21-secondhand-shopping-fashion-guide/ragtag.jpg" /></figure>
+
+<p>RAGTAG is yet another store that sells secondhand luxury clothes for lower prices, seemingly focused on street brands. But if you live in Japan and can't read much Japanese, this one might be your best bet. Of all the stores in this article, it's the only one with an English online store that isn't either 1) nonexistent, or 2) shoddily machine-translated. Also, RAGTAG sells many items for under 10,000 yen, which is less expensive on the whole than KOMEHYO.</p>
+
+<p>Uniquely, their product listings describe items' fabric thickness, lining, sheerness, elasticity, and glossiness. These details are majorly useful for getting a sense of the material and "feel" of a garment before you buy. Anyone who's tried to buy a white shirt only to find it's basically translucent tissue paper knows what I mean!</p>
+
+<p>Like 2nd Street, RAGTAG uses Virtusize to show you the size of clothes using diagrams and your own input measurements. However, RAGTAG also lets you compare items to clothes you've already bought and has a handy "Add to Closet" button. Most impressively, you can even search by image. Just upload a picture of one garment or a complete outfit, set the focus on which article of clothing you want from the outfit, and RAGTAG shows you similar items to buy. It largely works based on color, but still, this function had me exclaiming enthusiastic expletives as I experimented with it. Needless to say, RAGTAG offers the most robust online secondhand shopping system I've found so far.</p>
+
+<p>As usual, you can exchange your used clothing for a modest wad of yen here. Check their <a href="https://www.ragtag.jp/sell/?wovn=en?utm_source=Tofugu">trade-in page</a> to see what brands they'll accept.</p>
+
+<h2 id="hand-me-downs-make-the-gaijin">Hand-Me-Downs Make the Gaijin</h2>
+
+<p>"Cool threads, pal. Where'd you get them? Oh, off the back of a stranger? Radical, me too. There's some guy named Satoshi running around stark naked, all thanks to me." Don't you wish this could be you? Well, with the help of secondhand shopping, some healthy concern for future generations, and a little cheapness, you too can have weird conversations like this one.</p>
+
+<p>So next time you need a pair of jeans, sunglasses, or inflatable clown shoes, consider ripping them off the body of someone you've never met. I mean, er, buying them secondhand! Inspire people all across Japan to embrace what ママ<sup id="fnref:5"><a href="index.html@series=japan-secondhand-shopping-guides#fn:5" class="footnote">5</a></sup> gave 'em by giving their clothes a good home. Your conscience and wallet, along with budding nudist Satoshi, will thank you.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>A Japanese costume onesie that looks like an animal or character. <a href="index.html@series=japan-secondhand-shopping-guides#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>"Pufferfish" in Japanese. The "fugu" in Tofugu ;) <a href="index.html@series=japan-secondhand-shopping-guides#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:3">
+      <p>Lower waist width. <a href="index.html@series=japan-secondhand-shopping-guides#fnref:3" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:4">
+      <p>"Grandma/old lady" in Japanese. <a href="index.html@series=japan-secondhand-shopping-guides#fnref:4" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:5">
+      <p>"Mama" in Japanese. <a href="index.html@series=japan-secondhand-shopping-guides#fnref:5" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+<aside class="blog-post-highlight article-sources"><div class="container"><h4>Sources</h4><ul><li><a href="https://www.komehyo.co.jp/" title="View source">コメ兵｜【公式】日本最大級のリユースデパート</a></li><li><a href="https://www.2ndstreet.jp/" title="View source">セカンドストリート｜リユースショップ</a></li><li><a href="https://www.treasure-f.com/" title="View source">トレファク公式サイト</a></li><li><a href="https://www.trefac.jp/" title="View source">トレファク公式ファッション通販</a></li><li><a href="https://zozo.jp/zozoused/" title="View source">ブランド古着の通販・買取 - ZOZOUSED</a></li><li><a href="https://www.tf-style.com/" title="View source">古着買取トレファクスタイル</a></li><li><a href="https://jp.mercari.com/" title="View source">メルカリ - 日本最大の売れるフリマサービス</a></li><li><a href="https://www.tf-style.com/uselet/" title="View source">ユーズレット(UseLet)</a></li><li><a href="https://brandcollect.com/index_en.html" title="View source">BRAND COLLECT</a></li><li><a href="https://www.ragtag.jp/?wovn=en" title="View source">RAGTAG | Online Thrift Store</a></li><li><a href="https://www.spinns.jp/c/used" title="View source">USED - SPINNS WEB STORE</a></li></ul></div></aside>
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-japan-secondhand-shopping-guides hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2022-06-14-japan-secondhand-shopping-guides/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='https://www.tofugu.com/series/japan-secondhand-shopping-guides/' title='View all articles in Series Secondhand Shopping in Japan'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+Secondhand Shopping in Japan
+</span>
+</a>
+</li>
+<li class='pager-next'>
+<a href='../secondhand-shopping-books-guide/index.html@series=japan-secondhand-shopping-guides' title='View Buying Secondhand Books &amp; Manga in Japan'>
+<small>
+Next Article in Series
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Buying Secondhand Books & Manga in Japan
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles japan-prev japan-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='../secondhand-shopping-general-guide.1' title='View Secondhand Shopping in Japan'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+Secondhand Shopping in Japan
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='https://www.tofugu.com/japan/secondhand-shopping-books-guide/' title='View Buying Secondhand Books &amp; Manga in Japan'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Buying Secondhand Books & Manga in Japan
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japan'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='https://www.tofugu.com/japan/secondhand-shopping-books-guide/' title='View Buying Secondhand Books &amp; Manga in Japan'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older japan' class='older-article-pagination'></span>
+</small>
+Buying Secondhand Books & Manga in Japan
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='../secondhand-shopping-general-guide.1' title='View Secondhand Shopping in Japan'>
+<small>
+<span aria-label='Newer japan' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Secondhand Shopping in Japan
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/about/' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.1' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs.1' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese.1' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/news/' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/newsletter/' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/master-2164c2ee.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

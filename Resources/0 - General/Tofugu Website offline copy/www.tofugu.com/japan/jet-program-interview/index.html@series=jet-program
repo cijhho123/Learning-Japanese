@@ -1,0 +1,881 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Michael Richey' name='author'>
+<meta content='Accepted to the JET Program? Tofugu&#39;s ultimate guide will ensure you ace your JET Program interview. Written by a former JET and JET interview panelist.' name='description'>
+<meta content='jet program, teaching english in japan, jet program interview' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Accepted to the JET Program? Tofugu&#39;s ultimate guide will ensure you ace your JET Program interview. Written by a former JET and JET interview panelist.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japan/2015-02-10-jet-program-interview/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='JET Program Interview: The Definitive Guide To Passing' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japan/jet-program-interview/' property='og:url'>
+<meta content='https://www.tofugu.com/japan/jet-program-recontracting-decision/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/jet-teaching-senpai/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/esl-bulletin-board-ideas/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-work-culture/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-teaching-resources/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-schools-vs-american-schools/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-survival-resources/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/jet-program-japanese-preparation/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/culture-shock-in-japan-on-the-jet-program/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-post-arrival/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-packing-guide/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/post-jet-acceptance/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-statement-of-purpose/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-application/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/reasons-to-join-the-jet-program/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/nine-intelligences/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-self-intro-class/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-alt-team-teaching-tips/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jet-program-bad-school/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/non-teaching-jobs-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/japanese-college-student-english/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/japanese-minecraft-professor/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Michael Richey' property='article:author'>
+<meta content='2015-02-10T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japan' property='article:section'>
+<meta content='jet program' property='article:tag'>
+<meta content='teaching english in japan' property='article:tag'>
+<meta content='jet program interview' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@tofugu' name='twitter:creator'>
+<meta content='Accepted to the JET Program? Tofugu&#39;s ultimate guide will ensure you ace your JET Program interview. Written by a former JET and JET interview panelist.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japan/2015-02-10-jet-program-interview/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='JET Program Interview: The Definitive Guide To Passing' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#268bd2' name='twitter:widgets:link-color'>
+<meta content='#268bd2' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-michael-richey-9c293d25.jpg",
+    "jobTitle": "Designer",
+    "name": "Michael Richey",
+    "sameAs": [
+
+    ],
+    "url": "https://www.tofugu.com/about/people/michael-richey/",
+    "description": "Michael is a designer at Tofugu. He grew up in Charlotte, NC and studied writing and film production at North Carolina School of the Arts. After college, he lived in Hikone, Shiga in Japan for two years on the JET Program. In his spare time, Michael makes comics zines, plays Famicom, and spends time with his family.",
+    "email": "michael@tofugu.com"
+  },
+  "datePublished": "2015-02-10T00:00:00Z",
+  "description": "Accepted to the JET Program? Tofugu's ultimate guide will ensure you ace your JET Program interview. Written by a former JET and JET interview panelist.",
+  "headline": "JET Program Interview: The Ultimate Guide",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japan/2015-02-10-jet-program-interview/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japan/2015-02-10-jet-program-interview/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "jet program, teaching english in japan, jet program interview",
+  "name": "JET Program Interview: The Ultimate Guide",
+  "url": "https://www.tofugu.com/japan/jet-program-interview/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2015-02-10T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japan/jet-program-interview/"
+}
+</script>
+
+<title>JET Program Interview: The Ultimate Guide</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japan/jet-program-interview/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='https://www.tofugu.com/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://www.tofugu.com/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://www.tofugu.com/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://www.tofugu.com/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://www.tofugu.com/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='https://www.tofugu.com/favicon.png' rel='shortcut icon'>
+<link href='https://www.tofugu.com/favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japan japan_jet-program-interview japan_jet-program-interview_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='https://www.tofugu.com/'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japanese/' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='https://www.tofugu.com/japanese/' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.1' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-learning-resources-database/' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japan/' id='dJapan'>
+Japan <i class="fa fa-globe"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='https://www.tofugu.com/japan/' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/series/' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/travel/' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/reviews/' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/interviews/' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='https://www.tofugu.com/podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=jet-program#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japan/2015-02-10-jet-program-interview/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japan/2015-02-10-jet-program-interview/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+JET Program Interview: The Definitive Guide To Passing
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+You've got the interview. Follow this guide to success.
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2015-02-10T00:00:00Z">February 10, 2015</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/michael-richey.1" rel="author">Michael Richey</a>
+•
+Art by
+<a href="https://www.tofugu.com/about/people/aya-francisco/">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japan/2015-02-10-jet-program-interview/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+<p class='article-series series-jet-program hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="../../series/jet-program.1">The Tofugu JET Program Guide
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>After mountains of <a href="https://www.tofugu.com/japan/jet-program-application/">paperwork and stress</a>, you have been accepted for a JET Program interview. If you clear this last hurdle, you'll become a Japanese public servant and <a href="https://www.tofugu.com/japan/reasons-to-join-the-jet-program/">live and work in Japan</a>—which means meeting amazing people and doing things you can't do anywhere else. A life-changing experience, to be sure.</p>
+
+<p>I have been both the interviewee (as a JET hopeful) and the interviewer (as a JET alum), so I know what to expect, how to prepare, and what's going through your interviewer's head. I've also talked with other interviewers and JET alumni about their experience in both positions, and this guide is a compilation of all that knowledge. I hope it helps you nail the interview and land your five-year job in Japan.</p>
+
+<ul id="markdown-toc">
+  <li><a href="index.html@series=jet-program#anatomy-of-the-jet-program-interview" id="markdown-toc-anatomy-of-the-jet-program-interview">Anatomy of the JET Program Interview</a></li>
+  <li><a href="index.html@series=jet-program#preparation" id="markdown-toc-preparation">Preparation</a>    <ul>
+      <li><a href="index.html@series=jet-program#read-over-your-statement-of-purpose" id="markdown-toc-read-over-your-statement-of-purpose">Read over your Statement of Purpose</a></li>
+      <li><a href="index.html@series=jet-program#look-up-commonly-asked-jet-program-interview-questions-but-not-answers" id="markdown-toc-look-up-commonly-asked-jet-program-interview-questions-but-not-answers">Look up commonly-asked JET Program interview questions, but not answers</a></li>
+      <li><a href="index.html@series=jet-program#anticipate-questions-about-your-personal-history" id="markdown-toc-anticipate-questions-about-your-personal-history">Anticipate questions about your personal history</a></li>
+      <li><a href="index.html@series=jet-program#be-ready-to-talk-about-your-time-abroad-if-applicable" id="markdown-toc-be-ready-to-talk-about-your-time-abroad-if-applicable">Be ready to talk about your time abroad (if applicable)</a></li>
+      <li><a href="index.html@series=jet-program#be-ready-to-improvise" id="markdown-toc-be-ready-to-improvise">Be ready to improvise</a></li>
+      <li><a href="index.html@series=jet-program#study-your-japanese" id="markdown-toc-study-your-japanese">Study your Japanese</a></li>
+      <li><a href="index.html@series=jet-program#write-at-least-three-questions-you-want-to-ask-the-interviewers" id="markdown-toc-write-at-least-three-questions-you-want-to-ask-the-interviewers">Write at least three questions you want to ask the interviewers</a></li>
+    </ul>
+  </li>
+  <li><a href="index.html@series=jet-program#how-to-relax" id="markdown-toc-how-to-relax">How to Relax</a></li>
+  <li><a href="index.html@series=jet-program#going-to-the-jet-program-interview" id="markdown-toc-going-to-the-jet-program-interview">Going to the JET Program Interview</a>    <ul>
+      <li><a href="index.html@series=jet-program#what-to-bring" id="markdown-toc-what-to-bring">What to Bring</a></li>
+      <li><a href="index.html@series=jet-program#what-to-wear" id="markdown-toc-what-to-wear">What to wear</a></li>
+      <li><a href="index.html@series=jet-program#how-to-act" id="markdown-toc-how-to-act">How to act</a></li>
+      <li><a href="index.html@series=jet-program#what-the-jet-program-interview-will-be-like" id="markdown-toc-what-the-jet-program-interview-will-be-like">What the JET Program Interview Will Be Like</a></li>
+    </ul>
+  </li>
+  <li><a href="index.html@series=jet-program#final-advice" id="markdown-toc-final-advice">Final Advice</a>    <ul>
+      <li><a href="index.html@series=jet-program#get-more-jet-program-advice" id="markdown-toc-get-more-jet-program-advice">Get More JET Program Advice</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><em>Before you go any further:</em> we also recorded a podcast about the JET Progam interview, though we highly recommend you read the article <em>and</em> listen to the podcast episode (instead of just one or the other).</p>
+
+<div class="embed-container"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F384069386&amp;show_artwork=true"></iframe></div>
+
+<p>And if you like us, you can <a href="https://www.tofugu.com/podcast/">subscribe to the Tofugu podcast</a> wherever podcasts roam.</p>
+
+<h2 id="anatomy-of-the-jet-program-interview">Anatomy of the JET Program Interview</h2>
+
+<p>The interview itself is twenty to twenty-five minutes long, and usually you'll be interviewed by a panel of three people:</p>
+
+<ol>
+  <li>One member of the Consulate or Embassy</li>
+  <li>One professional Japanese educator</li>
+  <li>One former JET participant</li>
+</ol>
+
+<p>Their questions are formulated to reveal your character, abilities, and fitness for the program. Aside from standard interview questions, your <a href="https://www.tofugu.com/japanese/japanese-weak-point/">Japanese language ability</a> will be tested, no matter your ability level (even if that level is zero).</p>
+
+<p>At the end of the interview, you'll have a chance to ask questions to the panel.</p>
+
+<h2 id="preparation">Preparation</h2>
+
+<figure class="figure-middle"><img alt="cartoon person taking notes" src="https://files.tofugu.com/articles/japan/2015-02-10-jet-program-interview/The-Ultimate-JET-Interview-Guide-Inside01.jpg" /></figure>
+
+<p>Just like any job interview, you need to go in prepared. But <em>unlike</em> other job interviews, the panel is looking for all kinds of intangible qualities that are harder to communicate than traditional employment experience. Here are some practical steps you can take to get ready for this very unique challenge.</p>
+
+<h3 id="read-over-your-statement-of-purpose">Read over your Statement of Purpose</h3>
+
+<p>To start prepping for the interview, read over your application's <a href="https://www.tofugu.com/japan/jet-program-statement-of-purpose/">Statement of Purpose essay</a>. Those two pages (probably) got you the interview, and they'll be studied by the panel so you know you'll be asked questions based on what you wrote. Think of your essay as the "spirit" behind what you want to convey.</p>
+
+<h3 id="look-up-commonly-asked-jet-program-interview-questions-but-not-answers">Look up commonly-asked JET Program interview questions, but not answers</h3>
+
+<p>If your Statement of Purpose shows your passion for Japan, answering questions with that passion in mind will reveal how you will act on JET. Thus, looking up questions commonly asked in the JET interview and answering according to your Statement of Purpose is a great way to prepare.</p>
+
+<p>Bear in mind that questions you find online are only what you <em>might</em> be asked. The panel will mostly make up their own questions and any type of situation is possible.</p>
+
+<p>Because you want to communicate a strong image of yourself and what you can offer, the worst thing you can do is search online for "right" answers to these questions.</p>
+
+<p>Giving so-called "correct" answers will make you seem boring at best and disingenuous at worst. An interview is a conversation so you want to be prepared, not rehearsed.</p>
+
+<p>For example, in one interview I conducted, I asked a candidate, "What would you bring to Japan to represent America?"</p>
+
+<p>He answered, "The three things I would bring to Japan would be…"</p>
+
+<p>But I didn't ask about <em>three things</em>. A "common JET interview question" you'll find online is: "What three things would you bring to Japan to represent America?" This didn't make his answer "wrong" necessarily, but it was a red flag for me as an interviewer, and from that point I started trying to uncover his "true answers" because suddenly we weren't having a conversation.</p>
+
+<p>The most important thing is to be respectful, engaged, present, and completely honest. In the end, that's what a teacher is expected to do, isn't it?</p>
+
+<p>Below are some JET Program interview questions you <em>might</em> be asked:</p>
+
+<ol>
+  <li>Why do you want to go on the JET Program?</li>
+  <li>What makes someone a good ALT? What have you done that demonstrates these qualities?</li>
+  <li>How will you represent your home country while in Japan? How will you represent it at school? In the broader community?</li>
+  <li>How would you handle stressful situations at school? A problem student? A problem classroom? Conflicts with co-workers? How will you work together with Japanese colleagues?</li>
+  <li>Is there anything that could bring you down while living in Japan? How would you handle difficult times or situations in Japan?</li>
+  <li>What would you do for games and lessons in Japan? What examples can you give?</li>
+  <li>If your students have very low level English ability, how will you communicate with them? How will you teach them?</li>
+</ol>
+
+<p>If you answer these questions with the "spirit" of your Statement of Purpose, you'll go a long way toward showing a true image of yourself to the panel.</p>
+
+<p>To continue this exercise, look around a <a href="http://www.ithinkimlost.com/">JET Program forum</a> or two and ask others what questions and situations they've encountered.</p>
+
+<h3 id="anticipate-questions-about-your-personal-history">Anticipate questions about your personal history</h3>
+
+<p>If your application states that you had difficult medical history (e.g., depression, anxiety, eating disorder), criminal record, low GPA, or the like, you will definitely be asked about it. Be ready to talk about how you handled these challenges, what you learned from them, and where you are now. Because JET cares about your safety, they want to make sure they aren't sending you into a bad situation, so answer honestly.</p>
+
+<p>If you can show how you've improved from tough experiences, it works in your favor. Someone who has struggled with difficulty and overcome it may be seen as more resilient and more fit for the challenges of JET than someone who has had no difficulty at all.</p>
+
+<p>Here are some things to talk about to show your improvement in problem areas:</p>
+
+<ul>
+  <li>Talk about what you would do differently if you could go through the situation again.</li>
+  <li>Talk about what practical coping strategies you have in place that have helped you grow.</li>
+  <li>Share an article, study, or breakthrough moment you had while dealing with your issue.</li>
+</ul>
+
+<h3 id="be-ready-to-talk-about-your-time-abroad-if-applicable">Be ready to talk about your time abroad (if applicable)</h3>
+
+<p>If your application says you have visited, worked, or studied outside your home country, you will be asked about it. These might be the easiest questions you're asked, and they are mostly aimed at uncovering what you gained from your international experience. If you answer generally, it won't count against you, but it won't work in your favor either. Take some time to reflect on lessons learned and hardships overcome, and be ready with a story or two.</p>
+
+<p>Here are some things to consider while preparing for this section:</p>
+
+<ul>
+  <li>If you had a great time abroad, what made it great? Specifically, what people made it great for you?</li>
+  <li>If you had a difficult time abroad, what made it difficult? Was it something you could have changed or was it outside your control? If you went through the difficulty again, what would you do differently?</li>
+</ul>
+
+<h3 id="be-ready-to-improvise">Be ready to improvise</h3>
+
+<p>When I sat on the JET interview panel, we asked "<a href="https://www.tofugu.com/japan/jet-program-alt-team-teaching-tips/">improvised lesson</a>" question to almost every candidate.</p>
+
+<p>Not everyone gets this request, but some panels may ask you to improvise lessons on the spot by saying something like, "We are your students. Teach us a lesson about a holiday from [your home country]," or, "Explain a grammar point to me as if I was an elementary school student."</p>
+
+<p>This exercise primarily shows the panel two things:</p>
+
+<ol>
+  <li>How well you think on your feet</li>
+  <li>How you might act as a teacher</li>
+</ol>
+
+<p>Anticipating these questions and thinking about how to perform will keep you on track. Here a few tips to help you keep your cool during an impromptu lesson:</p>
+
+<ul>
+  <li>Stand up to present. Imagine a blackboard behind you and move the way a teacher would move.</li>
+  <li>If the panel asks you to pretend they are Japanese students, speak slowly and clearly. You are pretending they are <em>learning</em> English so speaking slowly shows you know how to present to that audience.</li>
+  <li>Don't focus on correctly teaching the facts of the lesson, and instead concentrate on keeping your composure and showing your presentation skills.</li>
+  <li>Jump in. The number one rule of improv acting (which is what you would be doing) is accepting the scene. Don't overthink it.</li>
+</ul>
+
+<h3 id="study-your-japanese">Study your Japanese</h3>
+
+<p>The JET Program interview's Japanese test is what people worry about most, but it matters the least. The points you get for the Japanese language section are extra credit and don't detract from your final score.</p>
+
+<p>Just relax and do your best. The test exists so the program can best determine where to place you. So whether you speak a lot of Japanese or none at all, demonstrating your Japanese level accurately is to your benefit and comfort in your new environment. Brushing up on what you know and <a href="https://www.tofugu.com/japanese/practicing-japanese-to-insanity/">practicing speaking</a> and active listening will be enough.</p>
+
+<p>The Japanese education member of the panel will conduct this test. The content changes year to year, so you may be talking about train rides or a picture the interviewer shows you. Listen, respond, and がんばって！</p>
+
+<h3 id="write-at-least-three-questions-you-want-to-ask-the-interviewers">Write at least three questions you want to ask the interviewers</h3>
+
+<p>As the interview wraps up you'll be asked if you have any questions for the panel. There usually isn't much time to ask more than two or three questions at most, so try not to over-prepare. This is your last chance to impress your interviewers. If you ask thoughtful, conscientious questions it will reflect well on you as an individual.</p>
+
+<p>The common wrap-up question is "When will we hear the results?" and the answer is always, "The beginning of April." Instead, focus on questions that you are truly curious about and reveal your interest in being a productive member of the program. If there is a part of the ALT job you feel you lack experience in, ask the former JET panel member what she did to achieve success in that area. It shows you are proactive and willing to learn.</p>
+
+<p>One candidate who was a "maybe," ended up getting recommended by our panel because of his thoughtful questions to us at the end.</p>
+
+<p>Some good questions to ask the JET Alum panel member might be:</p>
+
+<ul>
+  <li>What are some good ways to get involved in the community?</li>
+  <li>What is something you weren't prepared for when you went on JET?</li>
+  <li>What are some ways to connect with students?</li>
+  <li>How is my [employment/apartment/insurance/something you don't know about] handled while on JET?</li>
+</ul>
+
+<p>Notice that these questions (except the last one) don't have specific answers. They show that you're eager to learn about navigating situations that require <em>flexibility.</em></p>
+
+<p>Try to avoid asking too many questions with answers that are easily found online or in the application materials. It's not necessarily bad to ask about JET Program salaries or when JETs depart. One or two questions like this is probably fine. But if you ask a lot of questions with easily obtainable answers, you may come off as less than thorough.</p>
+
+<h2 id="how-to-relax">How to Relax</h2>
+
+<figure class="figure-middle"><img alt="cartoon person drinking tea" src="https://files.tofugu.com/articles/japan/2015-02-10-jet-program-interview/JET-interview-how-to-relax.jpg" /></figure>
+
+<p>Preparation is great, but it won't mean much if you can't perform under pressure. After all, you're being interviewed for a job in which you will essentially be "performing" for your school. Even during your off-hours, you act as an informal ambassador to the town in which you're placed.</p>
+
+<p>That said, interviews make everyone nervous, so you're not alone. The trick is to alleviate that nervousness so the panel can see the real you.</p>
+
+<p>Easier said than done, right? Here are some tips:</p>
+
+<ul>
+  <li><strong>Remind yourself that you are prepared:</strong> This is what the first section of this article is all about. A lot of nervousness stems from being scared of getting thrown off. But you're reading this right now and afterward you're going to prepare. <a href="http://www.ljlseminars.com/anxiety.htm">Preparation can reduce fear by 75%</a>. So take comfort in your forethought and trust yourself. Believe that no matter what questions get thrown at you, your answers will be fine.</li>
+  <li><strong>Visualization:</strong> <a href="https://www.youtube.com/watch?v=p5FdehS187g">Learn about visualization</a>. The animation is cheesy, but the advice behind it is pure gold. The exercise in this video forces you to take your mind off the interview so your entire body calms down. Once you've got your chemicals under control, you refocus on the interview positively, imagining success, right answers, and confidence. I've used this technique before and can attest it has helped me keep composure and perform well in interviews.</li>
+  <li><strong>Power Poses:</strong> This might be one of the most impactful TED Talks ever. So let's take a few minutes to watch:</li>
+</ul>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="https://www.youtube.com/embed/Ks-_Mh1QhMc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="Your Body Language May Shape Who You Are | Amy Cuddy | TED"></iframe></div>
+
+<p>Essentially, Amy Cuddy tells us that our mood informs our movements and poses. You win a race, you feel confident, your arms fly up and open. You're being scolded, you feel ashamed, your arms and legs cross. Thankfully, this works in reverse. If you assume the positions of confidence and success (basically "open" poses), it lowers your stress hormones and boosts testosterone, and you only need to pose for two minutes. Assume a superhero pose before the interview for two minutes and it will do wonders for relieving stress.</p>
+
+<ul>
+  <li><strong>Don't eat weird foods:</strong> Eat balanced, healthy meals for two days before the interview to make sure your bowels don't betray you. Stop drinking fluids at least two hours before the interview. Stay hydrated, but don't down water and coffee an hour before you meet the panel.</li>
+  <li><strong>Get plenty of rest:</strong> Get plenty of rest. Get plenty of rest. HEY! LISTEN! Go to sleep! Follow some <a href="http://www.wikihow.com/Sleep-with-Heavy-Nerves">tips on falling asleep</a>. Go to bed the same time every night a few nights before your interview, drink decaf tea, and avoid high-energy activities before bed.</li>
+  <li><strong>Listen to the right music:</strong> Our bodies react to music, so listen to what will relax and motivate you. This is a personal decision on your part, so think about how you want to feel as your prepare and the day you go in. Do you want to feel relaxed? Try some smooth jazz. Do you want to get pumped? Crank up the heavy metal.</li>
+  <li><strong>Arrive early:</strong> This goes without saying, but let's say it again. Arrive early. Having time to sit in the waiting room and relax beforehand is invaluable. It gives you time to do your power poses. JET Program interview locations are always at a consulate (or embassy if you live near your nation's capitol). This means big cities, so expect big city hold-ups. Give yourself plenty of time.</li>
+  <li><strong>Remember the panel members are human:</strong> In other words, don't take them too seriously, just seriously enough. They just want to be respected and told the truth. As a human who has interviewed other humans, I can honestly say I look for success, not failure. Others I have asked say the same. Interviewers want you to do well.</li>
+</ul>
+
+<h2 id="going-to-the-jet-program-interview">Going to the JET Program Interview</h2>
+
+<figure class="figure-middle"><img alt="cartoon person getting dressed in mirror" src="https://files.tofugu.com/articles/japan/2015-02-10-jet-program-interview/JET-interview-look-in-mirror.jpg" /></figure>
+<p>Now that you're mentally prepared for the interview, let's straighten out all the practicals.</p>
+
+<h3 id="what-to-bring">What to Bring</h3>
+
+<p>There are only three items to bring, but they are vital.</p>
+
+<ul>
+  <li>Your interview voucher</li>
+  <li>Your signed release form</li>
+  <li>Your photo ID</li>
+</ul>
+
+<p>If you don't have these three things, you can't interview and you can't go on JET. You can forget your shoes, but don't forget these three things.</p>
+
+<p>If you are an early departure candidate, you'll need two more things:</p>
+
+<ul>
+  <li>FBI Background Check</li>
+  <li>Health Certificate</li>
+</ul>
+
+<p>Check with your JET Program coordinator a few days before to make sure there's nothing new or different you need besides these items.</p>
+
+<h3 id="what-to-wear">What to wear</h3>
+
+<p>This is a professional job interview so dress in business attire. Jeans and tees are a no-go. Even khakis and polos are not formal enough.</p>
+
+<p>What then should you wear? Dress shirts and suits for guys. Knee-length skirts, dress pants, blouses, and suit jackets for ladies. This is a Japanese job with Japanese interviewers, so learning <a href="https://www.tofugu.com/japan/job-hunting-in-japan/">what Japanese people do in interviews</a> can be helpful. You're not Japanese so you don't have to follow those rules exactly, but be aware of cultural expectations.</p>
+
+<p>Bring a business folder. You'll need something to keep your required documents in, and it looks nice as part of your ensemble. Don't sweat this detail too much, but use your best judgment in what you choose. A nice black leather folder with metal binding will look nicer than a manila folder.</p>
+
+<p>As a rule of thumb, it's a good idea to bring something to take notes on, whether you use it or not. But in reality, the JET interview doesn't leave much time for note-taking, except <em>maybe</em> at the end while asking questions to the panel.</p>
+
+<h3 id="how-to-act">How to act</h3>
+
+<p>Be professional and be yourself.</p>
+
+<p>Make eye contact, smile, sit up straight, speak clearly, and enunciate. The position you're interviewing for requires you to speak English to young people who don't understand it, <em>so clear speech is imperative.</em> Prepare for this by imitating an actor you like. Don't actually do an impression of that actor in the interview, but as you listen to their speech and copy it, you'll form good speaking habits.</p>
+
+<p>If you make a mistake or bomb on a question, shake it off and move on—don't let it rattle your focus. I made a mistake in my interview and was still accepted to JET. Many candidates I interviewed made mistakes too, and they were accepted by our panel. A lot is considered when choosing JET participants, so don't let one mistake stop you.</p>
+
+<p>Get specific with your answers. A lot of candidates answer generally and are caught off-guard when asked to specify. For example, when answering a question about how to make English lessons fun, many candidates answer, "play games and sing songs." But Japanese classrooms already do this. What specific games and songs would you use? Offer concrete examples of what you uniquely can offer.</p>
+
+<p>If you have visible jitters, nullify them with laughter and a smile. One candidate I interviewed was noticeably nervous, but he continued to smile and laugh (when appropriate) and kept the conversation organic. He asked clarifying questions and made a few jokes, all with a slightly shaky voice. We could tell he was nervous, but we could also tell he wouldn't let nervousness stop him from performing. And that's the determination the panel looks for.</p>
+
+<p>Don't answer questions right away. Allow silence as you think. Time slows down when you're presenting, so three seconds will feel like thirty. Understand that your perception of time is skewed and count to three in your mind. If you need more time to think, repeat the question out loud to yourself: "What would I do to handle a rowdy student? Hmmmmm…" All this will show you're thoughtful and ensure your answer comes out the way you want it to.</p>
+
+<p>Stop as soon as you're done answering. Many of us can end up rambling to try and fill silence, and there will be silence as interviewers write down notes on what you've said. If you want to put a cap on your answer and keep yourself from rambling, end with, "Did that answer the question for you?" This gives you closure and wraps up the conversation.</p>
+
+<h3 id="what-the-jet-program-interview-will-be-like">What the JET Program Interview Will Be Like</h3>
+
+<figure class="figure-middle"><img alt="cartoon person at jet program interview" src="https://files.tofugu.com/articles/japan/2015-02-10-jet-program-interview/JET-interview-sitting-for-interview.jpg" /></figure>
+
+<p>When you arrive, a greeter will welcome you and check to make sure you have your interview voucher and signed release form. (Don't forget those two things!) Be sure to arrive at least thirty minutes before the interview to give yourself time to relax.</p>
+
+<p>Once past the greeter, you'll wait in a room with other JET interviewees. Use this time to relax, stretch out, and talk. Ask questions to the greeter. Talk with other interviewees. You may think this takes your head out of the game, but that's the point. By the time you're in the waiting room, you're as prepared as you're going to be. The best thing you can do is relax.</p>
+
+<p>If you have some sense that you won't be called any time soon, this would be a good time to use the restroom one last time and do some power poses.</p>
+
+<p>When your name is called, a member of the panel will come out to greet you and take you to the interview room. Shake their hand and look them in the eye. Smile.</p>
+
+<p>The panel will introduce themselves. Introduce yourself and shake their hands, if the setup of the room is appropriate.</p>
+
+<p>The interview begins with a set of required questions that you have already been asked on your application: Do you have dual nationality with Japan? Are you over the age of forty? etc. This is a great opportunity to ease into the real interview.</p>
+
+<p>As the interview begins, relax and be yourself. You're well prepared. You being you got you this far, and it will get you through the interview too. You got accepted for an interview because you have something to offer. You just have to tell the interviewers what that is.</p>
+
+<p>If you put on your application that you have Japanese ability, you will be tested, but remember it's all bonus points. Answer as best you can.</p>
+
+<p>As the interview wraps up, you'll be asked if you have any questions for the panel. You've got them prepared, so ask away!</p>
+
+<p>As you leave, don't forget to thank the panel and smile. Walk out the door and wipe the sweat off your brow. You did it!</p>
+
+<h2 id="final-advice">Final Advice</h2>
+
+<figure class="figure-middle"><img alt="cartoon person throwing papers in air" src="https://files.tofugu.com/articles/japan/2015-02-10-jet-program-interview/JET-interview-success.jpg" /></figure>
+
+<p>If you follow this guide and <em>do</em> what it says, you'll maximize your chances of getting accepted to the JET Program. There is more work you can do to prepare.</p>
+
+<p>Read other articles about job interviewing. JET interviews are job interviews. So most advice found on Forbes and YouTube will apply.</p>
+
+<p>Practice your interview skills with a friend or mirror beforehand. Getting comfortable with presenting can go a long way to making you more natural.</p>
+
+<p>To all JET hopefuls, I wish you good luck!</p>
+
+<h3 id="get-more-jet-program-advice">Get More JET Program Advice</h3>
+
+<p>This is only one article in our larger <strong>Tofugu JET Program Guide.</strong> It's your experienced JET friend with the best knowledge and advice. Get help applying to JET, passing the interview, teaching, speeching, and more. The guide covers the JET experience from start to finish. It's written by JET alumni and constantly updated.</p>
+
+<p>Whether you're applying for JET or already there, your new sempai will help you out.</p>
+
+<p><strong>Read:</strong> <a href="../../series/jet-program.1">The Tofugu JET Program Guide</a></p>
+
+
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-jet-program hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2015-07-30-jet-program/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='../../series/jet-program.1' title='View all articles in Series The Tofugu JET Program Guide'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+The Tofugu JET Program Guide
+</span>
+</a>
+</li>
+<li class='pager-next'>
+<a href='../post-jet-acceptance/index.html@series=jet-program' title='View The Post JET Acceptance Checklist'>
+<small>
+Next Article in Series
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+The Post JET Acceptance Checklist
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles reviews-prev japan-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='reviews' href='https://www.tofugu.com/reviews/making-sense-of-japanese/' title='View Making Sense of Japanese'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-pencil'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+Making Sense of Japanese
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='https://www.tofugu.com/japan/okinawa-military-base-controversy/' title='View Japan’s Sacrificial Lamb – The Okinawa Military Base Controversy'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Japan’s Sacrificial Lamb – The Okinawa Military Base Controversy
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japan'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='https://www.tofugu.com/japan/okinawa-military-base-controversy/' title='View Japan’s Sacrificial Lamb – The Okinawa Military Base Controversy'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older japan' class='older-article-pagination'></span>
+</small>
+Japan’s Sacrificial Lamb – The Okinawa Military Base Controversy
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='https://www.tofugu.com/japan/japonism/' title='View Japonism: How Japan Shaped Modern Art'>
+<small>
+<span aria-label='Newer japan' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Japonism: How Japan Shaped Modern Art
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/about/' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.1' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs.1' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese.1' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/news/' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/newsletter/' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/master-2164c2ee.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

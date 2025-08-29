@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="How to use Free Software to learn Japanese, and more." />
+<meta name="author" content="Tatsumoto Ren" />
+<meta name="keywords" content="Learn Japanese, Tatsumoto's Guide to Japanese, Path to Japanese fluency, AJATT, All Japanese All The Time" />
+<link rel="stylesheet" href="res/blog.css" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="Subscribe to this page..." href="feed.rss">
+<link rel="icon" type="image/webp" href="../img/logo.webp"/>
+<title>Mining from manga</title>
+<meta property="og:title" content="Mining from manga">
+<meta property="og:site_name" content="Tatsumoto's guide to learning Japanese">
+<meta property="og:url" content="https://tatsumoto-ren.github.io/blog/mining-from-manga.html">
+<meta property="og:description" content="How to use Free Software to learn Japanese, and more.">
+<meta property="og:image" content="https://tatsumoto-ren.github.io/img/logo.webp">
+<script defer src="res/blog.js"></script>
+</head>
+<body>
+<input type="checkbox" id="menu-btn" />
+<header>
+<a href="index.html" class="logo">
+<img alt="達元" src="../img/logo.webp" />
+<span>Tatsumoto</span>
+</a>
+<div id="description">How to use Free Software to learn Japanese, and more.</div>
+<nav>
+<a href="table-of-contents.html" class="guide_link">Guide</a>
+<a href="our-immersion-learning-toolset.html">Tools</a>
+<a href="resources.html">Resources</a>
+<a href="ankidrone-decks.html">Decks</a>
+<a href="tag_dictionaries.html">Dictionaries</a>
+<a href="tag_faq.html">FAQ</a>
+<a href="donating-to-tatsumoto.html">Donate</a>
+<a href="join-our-community.html" class="important">Join chat</a>
+</nav>
+<label class="menu-btn" for="menu-btn"><span class="menu-icon hamburger"></span></label>
+</header>
+<div id="sidebar">
+<form action="mining-from-manga.html" name="sidebar_header" class="sidebar_header">
+<a href="../index.html" title="Go home">Home</a>
+<input title="Light theme" type="radio" name="blog-theme" id="light" checked>
+<input title="Pink theme" type="radio" name="blog-theme" id="pink">
+<input title="Dark theme" type="radio" name="blog-theme" id="dark">
+<a class="menu-btn" href="mining-from-manga.html#" onclick="close_sidebar()" title="Go to top"><span class="menu-icon up-arrow">Up</span></a>
+<label class="menu-btn" for="menu-btn" title="Close"><span class="menu-icon close-btn">Close</span></label>
+</form>
+<div class="important-links on-mobile">
+<a href="table-of-contents.html">Guide</a>
+<a href="our-immersion-learning-toolset.html">Tools</a>
+<a href="resources.html">Resources</a>
+<a href="ankidrone-decks.html">Decks</a>
+<a href="tag_dictionaries.html">Dictionaries</a>
+<a href="tag_faq.html">FAQ</a>
+</div>
+<hr>
+<div class="page-contents"></div>
+<hr>
+<div class="important-links">
+<a href="donating-to-tatsumoto.html">Donate</a>
+<a href="join-our-community.html">Join chat</a>
+</div>
+</div>
+<div id="divbodyholder">
+<div id="divbody">
+<main>
+<!-- entry begin -->
+<article timestamp="1617260890" position="0">
+<h1 class="title"><a class="ablack" href="mining-from-manga.html">Mining from manga</a></h1>
+<div class="subtitle">April 01, 2021 &mdash; Tatsumoto Ren</div>
+<!-- text begin -->
+<p>When we read manga,
+sometimes there's a need to quickly
+<a href="https://wikipedia.org/wiki/Optical_character_recognition?lang=en">OCR</a>
+a portion of the screen
+to look up new words and add sentences to Anki.
+To do so, you're going to use an optical character recognition program and a few helper tools.</p>
+<hr>
+<h2 id="preface"><a class="anchor" href="mining-from-manga.html#preface" title="Permanent link"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Preface</h2>
+<p>Our goal is to be able to look up words in manga.
+We need a toolchain that does the following:</p>
+<ol>
+<li>Takes a screenshot,
+selecting the part of the screen
+that contains a speech bubble with Japanese text.</li>
+<li>Processes the taken screenshot.</li>
+<li>Returns the recognized text.</li>
+<li>Sends the text to a dictionary program.
+For example, <a href="setting-up-goldendict.html">GoldenDict</a>
+or <a href="what-is-yomichan-search.html">Rikaitan Search</a>.</li>
+<li>We can look up words and make Anki flashcards.</li>
+</ol>
+<p>To recognize text on the pages of a manga,
+you can use <em>Tesseract</em> or <em>Transformers</em>.
+Tesseract is a more lightweight tool but makes more mistakes on average.
+With Transformers, you have to install a big number of
+<a href="https://docs.python.org/3/faq/general.html#what-is-python">Python</a>
+packages that take up several gibibytes of disk space,
+but you get much better text recognition.</p>
+<p>In this article I explain how to set up both.
+The resulting user workflow is identical, see the demo below.</p>
+<video width="1920" autoplay loop controls>
+    <source src="https://user-images.githubusercontent.com/69171671/177458117-ba858b79-0b2e-4605-9985-5801d9685bd6.mp4" type="video/mp4">
+    <source src="https://matrix.cutefunny.art/_matrix/media/r0/download/cutefunny.art/SIYCIEtYEaLsQsQgdaJOQQVE" type="video/mp4">
+    <source src="https://invidious.private.coffee/latest_version?id=-f_uXFPhDt0&itag=22" type="video/mp4">
+    <source src="https://tatsumoto.neocities.org/blog/vid/mining_from_manga.mp4" type="video/mp4">
+    <source src="https://tatsumoto-ren.github.io/blog/vid/mining_from_manga.mp4" type="video/mp4">
+</video>
+<p align="center"><i>Video demonstration.</i></p>
+<h2 id="obtain-manga"><a class="anchor" href="mining-from-manga.html#obtain-manga" title="Permanent link"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Obtain manga</h2>
+<p>See <a href="resources.html#manga">Resources</a> for places where you can get manga.
+For the best image quality, I recommend downloading manga from Torrent sites.
+However, if you don't want to wait for the download,
+you can also read manga online on various websites.
+No matter which option you choose, it's easy to find a great selection of manga to read.</p>
+<h2 id="image-viewer"><a class="anchor" href="mining-from-manga.html#image-viewer" title="Permanent link"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Image viewer</h2>
+<p>To read manga,
+it is nice to have an <a href="resources.html#image-viewers">image viewer</a>.
+I use <code>nsxiv</code>,
+but for this setup you can install any image viewer.
+On many manga sites you can also read online in a web browser.</p>
+<p>To open an entire image folder in <code>nsxiv</code>, you can run <code>nsxiv .</code> in the folder.</p>
+<h2 id="file-manager"><a class="anchor" href="mining-from-manga.html#file-manager" title="Permanent link"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>File manager</h2>
+<p>Another quick topic to cover up front is your file manager.
+Very often when you download manga, you get an archive
+which needs to be unpacked (<code>*.zip</code>, <code>*.rar</code>, etc.).
+For convenience, set up a keyboard shortcut to be able to extract archives in a simple keystroke.</p>
+<p>For example, my file manager is <a href="https://wiki.archlinux.org/title/Lf">lf</a>.
+To extract archives by pressing <kbd>E</kbd>,
+put <code>map E aunpack $fx</code> in the config file at <code>~/.config/lf/lfrc</code>
+(<a href="https://archlinux.org/packages/community/any/atool/">atool</a> needs to be installed as well).</p>
+<p><code>lf</code> supports <strong>tags</strong>.
+When you finish a reading session,
+tag the last page (image file) you've read by pressing <kbd>t</kbd>
+so that you don't lose the position you're at.
+Next time you open the same folder,
+you will see a red asterisk next to the tagged file.</p>
+<p>To have <code>lf</code> automatically select the image currently displayed in <code>nsxiv</code>,
+add the following code to <code>~/.config/nsxiv/exec/image-info</code>.
+The snippet is <a href="https://github.com/tatsumoto-ren/dotfiles/blob/main/.config/nsxiv/exec/image-info">taken from my dotfiles</a>.</p>
+<div class="pre-wrap"><pre><code># If running as a child of lf, select the current file.
+if [ -n &quot;$id&quot; ]; then
+    lf -remote &quot;send $id select \&quot;$1\&quot;&quot;
+fi
+</code></pre></div>
+<p>It is possible to set up a keyboard shortcut in <code>nsxiv</code>
+that tells <code>lf</code> to add a tag to the currently displayed image.
+For example,
+to tag the current file by pressing <kbd>t</kbd>,
+add the following code to <code>~/.config/nsxiv/exec/key-handler</code>.
+The snippet is <a href="https://github.com/tatsumoto-ren/dotfiles/blob/main/.config/nsxiv/exec/key-handler">taken from my dotfiles</a>.</p>
+<div class="pre-wrap"><pre><code>while read file; do
+    case &quot;$1&quot; in
+    # ...
+    # other keys you may have set
+    # ...
+    &quot;t&quot;)
+        # Tag the current file using lf. E.g, the last read manga page.
+        if [ -n &quot;$id&quot; ]; then
+             lf -remote &quot;send $id select \&quot;$file\&quot;&quot;
+             lf -remote &quot;send $id tag x&quot;
+        fi
+        ;;
+    esac
+done
+</code></pre></div>
+<h2 id="ocr-method"><a class="anchor" href="mining-from-manga.html#ocr-method" title="Permanent link"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>OCR method</h2>
+<p>Although Transformers requires more system resources,
+I prefer it to Tesseract.
+Compared to Tesseract it handles manga better.</p>
+<ul>
+<li><a href="mining-from-manga.html#setting-up-transformers">Transformers</a></li>
+<li><a href="mining-from-manga.html#setting-up-tesseract">Tesseract</a></li>
+</ul>
+<h2 id="setting-up-transformers"><a class="anchor" href="mining-from-manga.html#setting-up-transformers" title="Permanent link"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Setting up Transformers</h2>
+<p>Install <a href="https://aur.archlinux.org/packages/transformers_ocr">transformers_ocr</a>
+from the <a href="https://wiki.archlinux.org/title/Arch_User_Repository">AUR</a>.</p>
+<div class="pre-wrap"><pre><code>$ trizen -S transformers_ocr
+</code></pre></div>
+<p><code>transformers_ocr</code> makes use of the following programs:</p>
+<ul>
+<li><a href="https://github.com/naelstrof/maim">maim</a> to take screenshots.</li>
+<li><a href="https://github.com/astrand/xclip">xclip</a> to copy text to the clipboard.</li>
+</ul>
+<p>If you're not running a distribution based on Arch Linux,
+install manually by following the
+<a href="https://github.com/Ajatt-Tools/transformers_ocr">instructions on GitHub</a>.</p>
+<p>By itself <code>transformers_ocr</code> is just a short wrapper script
+that installs Transformers and other required Python packages.
+After the installation you need to download additional dependencies.
+Run the following command.</p>
+<div class="pre-wrap"><pre><code>$ transformers_ocr download
+</code></pre></div>
+<p>It will download <a href="https://pypi.org/project/manga-ocr/">manga-ocr</a>,
+a Python library responsible for optical character recognition.
+The files will be saved to <code>~/.local/share/manga_ocr</code>
+and take up <code>2 GiB</code> of disk space.</p>
+<p><span class="article-note">Note</span>: <code>transformers_ocr</code> saves the Python packages to a standalone directory
+to ensure that later you can uninstall everything by simply removing the directory.</p>
+<h3 id="usage"><a class="anchor" href="mining-from-manga.html#usage" title="Permanent link"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Usage</h3>
+<p>To OCR text on a manga page, run:</p>
+<div class="pre-wrap"><pre><code>$ transformers_ocr recognize
+</code></pre></div>
+<p>When run,
+it will ask you to select an area with Japanese text and try to OCR it.
+The resulting text will be saved to the system clipboard.
+Use it in combination with <a href="what-is-yomichan-search.html">Rikaitan Search</a>
+to quickly lookup Japanese words in real-time.</p>
+<p>The first run will take longer than usual.
+There's yet another set of files that have to be downloaded for the OCR to work.
+The files will be saved to <code>~/.cache/huggingface</code> and take up another <code>500 MiB</code>.</p>
+<p>To send the recognized text directly to <a href="setting-up-goldendict.html">GoldenDict</a>
+without copying it to the system clipboard,
+<a href="https://github.com/Ajatt-Tools/transformers_ocr#send-text-to-an-external-application">append</a>
+<code>clip_command=goldendict %TEXT%</code> to the config file.
+The config file is read from <code>~/.config/transformers_ocr/config</code>.</p>
+<h3 id="keyboard-shortcut"><a class="anchor" href="mining-from-manga.html#keyboard-shortcut" title="Permanent link"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Keyboard shortcut</h3>
+<p>Bind this script to a keyboard shortcut in your DE, WM, sxhkd, xbindkeysrc, etc.
+Here's an example for <a href="https://i3wm.org/">i3wm</a>:</p>
+<div class="pre-wrap"><pre><code>bindsym $mod+o exec --no-startup-id transformers_ocr recognize
+</code></pre></div>
+<h3 id="autostart"><a class="anchor" href="mining-from-manga.html#autostart" title="Permanent link"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Autostart</h3>
+<p>Before <code>transformers_ocr</code> can recognize text,
+it needs to start a background listener.
+Although this is optional,
+to minimize the startup lag,
+add the following command to autostart.</p>
+<div class="pre-wrap"><pre><code>transformers_ocr listen
+</code></pre></div>
+<p>Here's an example for <a href="https://i3wm.org/">i3wm</a>:</p>
+<div class="pre-wrap"><pre><code>exec --no-startup-id transformers_ocr listen
+</code></pre></div>
+<h2 id="setting-up-tesseract"><a class="anchor" href="mining-from-manga.html#setting-up-tesseract" title="Permanent link"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Setting up Tesseract</h2>
+<p>Install the following dependencies:</p>
+<div class="pre-wrap"><pre><code>$ sudo pacman -S --needed tesseract maim xclip imagemagick unzip
+</code></pre></div>
+<ul>
+<li><a href="https://github.com/tesseract-ocr/tesseract">tesseract</a>
+is the OCR engine. It is considered fairly accurate, and many people like it.</li>
+<li><a href="https://github.com/naelstrof/maim">maim</a>
+is a utility for taking screenshots which can take parts of the screen.</li>
+<li><a href="https://github.com/astrand/xclip">xclip</a>
+is a tool for copying text to the clipboard.</li>
+<li><a href="https://wiki.archlinux.org/title/ImageMagick">imagemagick</a>
+is a command-line image editor.
+It's going to come handy to edit the screenshots before Tesseract analyzes them.</li>
+<li><a href="https://archlinux.org/packages/extra/x86_64/unzip/">unzip</a>
+is a tool for extracting zip archives.</li>
+</ul>
+<p>Download
+<a href="https://github.com/tatsumoto-ren/dotfiles/blob/main/.local/bin/maimocr">maimocr</a>
+and save it as <code>~/.local/bin/maimocr</code>.
+<code>maimocr</code> is a script we are going to use to recognize Japanese text.</p>
+<p>Make the file <a href="how-do-i-make-a-file-executable.html">executable</a>:</p>
+<div class="pre-wrap"><pre><code>$ chmod +x ~/.local/bin/maimocr
+</code></pre></div>
+<p>The directory <code>~/.local/bin</code> should be in your
+<a href="how-do-i-add-a-directory-to-the-path.html">PATH</a>.</p>
+<h3 id="usage-1"><a class="anchor" href="mining-from-manga.html#usage-1" title="Permanent link"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Usage</h3>
+<p>Tesseract doesn't work without
+<a href="https://tesseract-ocr.github.io/tessdoc/Data-Files.html">trained data files</a>.
+These files tell Tesseract how to read and recognize text from images.
+When you first run <code>maimocr</code>, it should download Japanese data files <strong>automatically</strong>.
+Check the terminal output to see if the process succeeds.</p>
+<p>When you run it the second time,
+<code>maimocr</code> will ask you to select an area with Japanese text and try to OCR it.
+The resulting text will be saved to the system clipboard.
+Use it in combination with <a href="what-is-yomichan-search.html">Rikaitan Search</a>
+to quickly lookup Japanese words in real-time.</p>
+<h3 id="keyboard-shortcut-1"><a class="anchor" href="mining-from-manga.html#keyboard-shortcut-1" title="Permanent link"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Keyboard shortcut</h3>
+<p>Bind this script to a keyboard shortcut in your DE, WM, sxhkd, xbindkeysrc, etc.
+Here's an example for <a href="https://i3wm.org/">i3wm</a>:</p>
+<div class="pre-wrap"><pre><code>bindsym $mod+o exec --no-startup-id maimocr
+</code></pre></div>
+<p>Now you can quickly call <code>maimocr</code> anywhere by pressing the keyboard shortcut.</p>
+<h3 id="expanding-data-set"><a class="anchor" href="mining-from-manga.html#expanding-data-set" title="Permanent link"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Expanding data set</h3>
+<p>By default, <code>maimocr</code> automatically downloads
+<a href="https://matrix.4d2.org/_matrix/media/v3/download/4d2.org/akBtGDReZvxAbHZvKtHKfbyi">tessdata.zip</a>
+(<a href="https://t.me/ajatt_tools/173">mirror</a>)
+with Tesseract data files,
+then saves the files to <code>~/.local/share/tessdata</code>.</p>
+<p>To use additional data files with <code>maimocr</code>,
+copy any new <code>*.traineddata</code> files to <code>~/.local/share/tessdata</code>.</p>
+<details>
+<summary>Capture2Text files</summary>
+<blockquote>
+<p>These instructions are no longer necessary.
+The files are included by default.</p>
+</blockquote>
+<p>Download <a href="http://capture2text.sourceforge.net/#download">capture2text</a>.
+We won't need the program itself because it's garbage
+but the trained data files are going to be useful.
+Extract the contents of the <code>tessdata</code> folder to <code>~/.local/share/tessdata</code>:</p>
+<div class="pre-wrap"><pre><code>$ unzip -j Capture2Text_v*_64bit.zip 'Capture2Text/tessdata/*' -d ~/.local/share/tessdata
+</code></pre></div>
+<p>Alternatively, download just the Capture2Text Japanese files from
+<a href="https://sourceforge.net/projects/capture2text/files/Dictionaries/Japanese.zip/download">here</a>.</p>
+<p align="center"><img class="shadow" alt="Capture2Text archive" src="img/capture2text.webp"></p>
+<p align="center"><i>Contents of the ZIP archive.</i></p>
+</details>
+<h3 id="troubleshooting"><a class="anchor" href="mining-from-manga.html#troubleshooting" title="Permanent link"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Troubleshooting</h3>
+<p>If you notice that the script fails to OCR certain images,
+try to zoom in or find a scan with a better resolution.
+Tesseract works poorly at low resolutions.</p>
+<p>Nonstandard fonts often fail to OCR properly.
+In this case I don't have a definitive answer at the moment.
+Try searching for more <code>*.traineddata</code> files online
+and adding them to the <code>tessdata</code> folder.</p>
+<h2 id="adding-screenshots"><a class="anchor" href="mining-from-manga.html#adding-screenshots" title="Permanent link"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Adding screenshots</h2>
+<p>If you want to add a screenshot from a manga to your Anki card,
+<a href="https://archlinux.org/packages/community/x86_64/maim/">maim</a>
+can do that too.
+<a href="https://github.com/tatsumoto-ren/dotfiles/blob/main/.local/bin/maimpick">maimpick</a>
+is a script that uses <code>maim</code> to screenshot parts of the screen and copy them to the clipboard.
+Install it to <code>~/.local/bin</code>, make it executable and bind it to a key.
+Explore my <a href="https://github.com/tatsumoto-ren/dotfiles">dotfiles</a> for details.</p>
+<p>In addition to <code>maim</code>, <code>maimpick</code> requires
+<a href="https://wiki.archlinux.org/title/dmenu">dmenu</a>
+and
+<a href="https://archlinux.org/packages/?name=xdotool">xdotool</a>
+to work.</p>
+<p><span class="article-note">Note</span>:
+<a href="https://github.com/Ajatt-Tools/ames">ames</a>
+is another program that can add screenshots to Anki.</p>
+<h2 id="other-software"><a class="anchor" href="mining-from-manga.html#other-software" title="Permanent link"><svg aria-hidden="true" class="aal_svg" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Other software</h2>
+<p>See <a href="resources.html#ocr-for-manga">Resources</a>.</p>
+<p>Tags: <a href="tag_guide.html">guide</a></p>
+<!-- text end -->
+</article>
+<!-- entry end -->
+</main>
+</div>
+</div>
+<footer>
+<div class="footer-linkbox">
+<div>
+<h3>Learn Japanese</h3>
+<ul>
+<li><a href="table-of-contents.html">Table of Contents</a></li>
+<li><a href="our-immersion-learning-toolset.html">Tools</a></li>
+<li><a href="resources.html">Resources</a></li>
+<li><a href="tag_faq.html">FAQ</a></li>
+<li><a href="all_tags.html">All tags</a></li>
+</ul>
+</div>
+<div>
+<h3>Anki</h3>
+<ul>
+<li><a href="setting-up-anki.html">Setup</a></li>
+<li><a href="how-to-review.html">How to study</a></li>
+<li><a href="ankidrone-decks.html">Decks</a></li>
+<li><a href="useful-anki-add-ons-for-japanese.html">Add-ons</a></li>
+</ul>
+</div>
+<div>
+<h3>Software</h3>
+<ul>
+<li><a href="setting-up-qolibri.html">Qolibri</a></li>
+<li><a href="setting-up-goldendict.html">GoldenDict-NG</a></li>
+<li><a href="tag_yomichan.html">Rikaitan</a></li>
+<li><a href="tag_mpv.html">MPV</a></li>
+<li><a href="https://github.com/search?q=topic%3Ampv+org%3AAjatt-Tools+fork%3Atrue&type=repositories">MPV scripts</a></li>
+<li><a href="https://github.com/tatsumoto-ren/dotfiles">My dotfiles</a></li>
+</ul>
+</div>
+<div>
+<h3>Get in touch</h3>
+<ul>
+<li><a href="feed.rss">RSS</a></li>
+<li><a href="join-our-community.html">Our community</a></li>
+<li><a href="https://t.me/ajatt_tools">Telegram</a></li>
+<li><a href="https://freesoftwareextremist.com/tatsumoto?tab=statuses">Pleroma</a></li>
+<li><a href="https://github.com/Ajatt-Tools">GitHub</a></li>
+</ul>
+</div>
+<div>
+<h3>Support us</h3>
+<p>Tatsumoto is a reader-funded site. Consider donating if you found the site useful.</p>
+<p><a class="md-button donations" href="donating-to-tatsumoto.html">Donate</a></p>
+</div>
+</div>
+<div class="footer-bottom">
+<p>Copyright © Tatsumoto Ren 2020-2025</p>
+<p>Generated with <a href="https://github.com/cfenollosa/bashblog">bashblog</a>, a single bash script to easily create blogs like this one</p>
+</div>
+</footer>
+</body>
+</html>

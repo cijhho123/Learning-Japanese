@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Kristen Dexter' name='author'>
+<meta content='When you need a paper kanji dictionary it can be incredibly difficult to choose one. We tell you the best features and qualities to look for.' name='description'>
+<meta content='kodansha, tuttle, linguistics' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='When you need a paper kanji dictionary it can be incredibly difficult to choose one. We tell you the best features and qualities to look for.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='How to Use a Kanji Dictionary' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japanese/how-to-use-a-kanji-dictionary/' property='og:url'>
+<meta content='https://www.tofugu.com/reviews/kodansha-international-bilingual-books/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/a-guide-to-reading-and-writing-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/japanese-respect-language/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-homophones/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-loanword-phonology/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/the-meaning-of-kuni/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/wasei-eigo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/weird-kanji-readings/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-old-kana/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-honorifics/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-adjectives/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-syllable-structure/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-jodoushi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-verbs/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-reading-introduction/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-write-letters-in-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japans-other-languages/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Kristen Dexter' property='article:author'>
+<meta content='2014-11-24T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japanese' property='article:section'>
+<meta content='kodansha' property='article:tag'>
+<meta content='tuttle' property='article:tag'>
+<meta content='linguistics' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@karkalla' name='twitter:creator'>
+<meta content='When you need a paper kanji dictionary it can be incredibly difficult to choose one. We tell you the best features and qualities to look for.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='How to Use a Kanji Dictionary' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#d33682' name='twitter:widgets:link-color'>
+<meta content='#d33682' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-kristen-dexter-f04b6ee8.jpg",
+    "jobTitle": "Researcher",
+    "name": "Kristen Dexter",
+    "sameAs": [
+      "https://www.twitter.com/karkalla"
+    ],
+    "url": "https://www.tofugu.com/about/people/kristen-dexter/",
+    "description": "Kristen was a survivor of the Tofugu intern program and wrote articles for Tofugu when she wasn't doing translation work on WaniKani and EtoEto. She graduated from SUNY Albany 2014 and moved straight from the woods of Connecticut to Portland, OR to join the Tofugu Team. She went to Japan as a student ambassador in high school and attended Akita International University as a study abroad student in college. She spends most of her time playing video games and buying too much Sailor Moon merch."
+  },
+  "datePublished": "2014-11-24T00:00:00Z",
+  "description": "When you need a paper kanji dictionary it can be incredibly difficult to choose one. We tell you the best features and qualities to look for.",
+  "headline": "How to Use a Kanji Dictionary",
+  "image": {
+    "@type": "ImageObject",
+    "author": "kristen_dexter",
+    "contentURL": "https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "kodansha, tuttle, linguistics",
+  "name": "How to Use a Kanji Dictionary",
+  "url": "https://www.tofugu.com/japanese/how-to-use-a-kanji-dictionary/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2014-11-24T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japanese/how-to-use-a-kanji-dictionary/"
+}
+</script>
+
+<title>How to Use a Kanji Dictionary</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="../../stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japanese/how-to-use-a-kanji-dictionary/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='../../apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='../../apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='../../apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='../../apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='../../apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='../../favicon.png' rel='shortcut icon'>
+<link href='../../favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japanese japanese_how-to-use-a-kanji-dictionary japanese_how-to-use-a-kanji-dictionary_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='../../index.html'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../index.html' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='../index.html' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.2' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='../../japanese-learning-resources-database/index.html' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../../japan/index.html' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='../../japan/index.html' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../series/index.html' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../travel/index.html' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../reviews/index.html' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../interviews/index.html' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='../../podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=kanji#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+How to Use a Kanji Dictionary
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+Someday you might use one!
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2014-11-24T00:00:00Z">November 24, 2014</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/kristen-dexter/index.html" rel="author">Kristen Dexter</a>
+•
+Art by
+<a href="../../about/people/kristen-dexter/index.html">Kristen Dexter</a>
+<a href="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+<p class='article-series series-kanji hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="../../series/kanji/index.html">Tofugu's Kanji Knowledge Database
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>There's nothing like a good kanji dictionary at your side. While online resources have become more and more popular, having a good dictionary is still pretty important if you're going to take Japanese classes or plan to work in Japan. There are a lot of different kinds of kanji dictionaries out there and it can be really hard to know which one to buy, let alone trying to figure out how to use the thing. I can't tell you how many people I saw buying the required kanji dictionary for a class and never once picking it up, let alone using it on a daily basis.</p>
+
+<p>I realized that many people don't know how to use the things, and unfortunately, not every kanji dictionary is the same. So for all of you out there who have a kanji dictionary sitting on your desk, in a pile of other books, or propping open their door, hopefully this guide can help you get some miles out of it.</p>
+
+<p>We're going to be looking at three popular kanji dictionaries in depth, the <a href="http://www.tuttlepublishing.com/language-books/japanese/dictionaries/the-new-nelson-japanese-english-character-dictionary-hardcover-with-jacket">New Nelson</a>, <a href="http://www.amazon.com/gp/product/4770028555/">Kodansha's Kanji Learners Dictionary</a>, and <a href="http://www.tuttlepublishing.com/language-books/japanese/kanji-books/the-kanji-dictionary-hardcover-with-jacket">The Kanji Dictionary</a> by Spahn &amp; Hadamitzky.</p>
+
+<h2 id="the-basics">The Basics</h2>
+
+<p>Before we get into the specifics it's important to know what you're looking for when you buy a kanji dictionary. There are a few things you need to consider:</p>
+
+<ol>
+  <li>Is it suitable for your language level?</li>
+  <li>Does it provide the information you're looking for?</li>
+  <li>Is it structured in an easy to understand format?</li>
+</ol>
+
+<p>If you're new to Japanese, if kanji are still a bit frightening or seem like a chore, you might want to go for a beginner's dictionary. They'll usually include a good chunk of the most common Jōyō kanji (taught from elementary to secondary school, usually about 2000 or so), plus a few additional kanji here and there. Usually, this type of dictionary will be sufficient all the way up and through intermediate Japanese. However, once you reach the higher intermediate and more advanced levels, you may notice more and more of the characters you're trying to look up are not included. Once you hit that point it's time to move on to a larger dictionary.</p>
+
+<p>It's rather important to know what it is you're going to be looking up in your dictionary. Generally, if you find a word or character you don't recognize in a book, on a sign, or even online, you would look it up in your dictionary to find the reading and/or the meaning. Some dictionaries only give you the basic meaning for the kanji and list a few compounds (the kanji in the entry plus other kanji to make one word) and their readings and meaning.</p>
+
+<p>Your own preference is also something to consider. If you pick up a dictionary and it makes your head spin, if you can never seem to find what you're looking for, and you just get frustrated, don't blame yourself. Sometimes you won't mesh well with a dictionary. I went through three or four before I found one that I felt comfortable with. If you can, go to a bookstore or a library and flip through a few before you buy one. If you don't live in an area where that's possible, look online and read reviews from other people. See how they feel and try to use your best judgement. Also, don't feel bad about having more than one dictionary. The good thing about their differences is that if you can't find something in your go-to one, you may be able to find it in the one collecting dust on your bookshelf.</p>
+
+<h2 id="the-new-nelson-japanese-english-character-dictionary">The New Nelson Japanese-English Character Dictionary</h2>
+
+<figure class="figure-middle"><img alt="how to use a kanji dictionary new nelson cover" style="width: 550px;" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/new-nelson-cover.jpg" /></figure>
+
+<p>My personal favorite, known simply as <em>New Nelson</em>, uses the <a href="../how-to-find-the-kanji-radical/index.html">Kangxi radical system</a> to organize it's entries. These 214 radicals are listed in order of their strokes with a handy chart located inside the dictionary's cover:</p>
+
+<figure class="figure-middle"><img alt="how to use a kanji dictionary Kangxi Radicals" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/kangxi-radicals-guides.jpg" /></figure>
+
+<p>To find the word you're looking for, first you need to find the radical, and there are a few different ways to tell what the radical is.</p>
+
+<p>You may be thinking, but aren't kanji made up of radicals? How do you find <strong>the</strong> radical? Well lucky for you there is a twelve step guide to figuring out which radical the kanji you're looking for will be listed under. This same guide (in more detail) is included in the appendices of the <em>New Nelson</em> as well.</p>
+
+<p>If you don't know how to find the radical yet, check out my other guide <a href="../how-to-find-the-kanji-radical/index.html">How to Find the Kanji Radical</a>.</p>
+
+<p>Okay, let's use the kanji <i>wani</i> <ruby>鰐<rp>（</rp><rt>わに</rt><rp>）</rp></ruby> as our example. The radical is 魚 which we find in the front cover of the book here:</p>
+
+<figure class="figure-middle"><img alt="nelson radical 11 how to use a kanji dictionary" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/nelson-radical-11.jpg" /></figure>
+
+<p>That number under the radical, in this case 195, tells us what section to flip to in our dictionary. Here we find the section for this radical.</p>
+
+<figure class="figure-middle"><img alt="Nelson fish radical how to use a kanji dictionary" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/nelson-fish-radical.jpg" /></figure>
+
+<p>Now we need to count how many strokes there are in the character OTHER THAN the radical we found. In this kanji there are nine more strokes, so we go to the section labeled nine.</p>
+
+<figure class="figure-middle"><img alt="Nelson 9 radical how to use a kanji dictionary" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/nelson-9-radical.jpg" /></figure>
+
+<p>Flip the page and there's our entry.</p>
+
+<figure class="figure-middle"><img alt="Nelson wani entry how to use a kanji dictionary" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/nelson-wani-entry.jpg" /></figure>
+
+<p>Here is another example, let's use the kanji <i>kani</i> <ruby>蟹<rp>（</rp><rt>かに</rt><rp>）</rp></ruby> this time.</p>
+
+<p>First we find the radical, which in this case is 虫 in our chart.</p>
+
+<figure class="figure-middle"><img alt="nelson radical 6 how to use a kanji dictionary" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/nelson-radical-6.jpg" /></figure>
+
+<p>The radical number is 142, so we go to section 142.</p>
+
+<figure class="figure-middle"><img alt="nelson radical bug how to use a kanji dictionary" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/nelson-radical-bug.jpg" /></figure>
+
+<p>So how many strokes are there minus the radical itself? Thirteen. We go to the section showing the radical plus thirteen strokes.</p>
+
+<figure class="figure-middle"><img alt="nelson radical fish 13 how to use a kanji dictionary" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/nelson-radical-fish-13.jpg" /></figure>
+
+<p>And here we find the kanji entry for 蟹.</p>
+
+<figure class="figure-middle"><img alt="nelson kani entry how to use a kanji dictionary" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/nelson-kani-entry.jpg" /></figure>
+
+<h3 id="entry-content">Entry Content</h3>
+
+<p>It's important to know the kind of information you're getting with your kanji dictionary. Before you buy or commit to one over the other have a look at what it can offer. Here is an example of an entry and what it tells us.</p>
+
+<p>Let's go back to <i>wani</i> <ruby>鰐<rp>（</rp><rt>かに</rt><rp>）</rp></ruby>.</p>
+
+<figure class="figure-middle"><img alt="nelson wani entry closeup how to use a kanji dictionary" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/nelson-wani-entry-closeup.jpg" /></figure>
+
+<p>The first character here is the kanji we were looking up, 鰐. The numbers next to it and separated by lines are</p>
+
+<ul>
+  <li>6901, the New Nelson number,</li>
+  <li>J4f4c, Japan's <a href="http://en.wikipedia.org/wiki/JIS_encoding">Industrial Standard code</a>, and</li>
+  <li>M46337, Morohashi's <em><a href="http://en.wikipedia.org/wiki/Dai_Kan-Wa_Jiten">Dai Kanwa Jiten</a></em>.</li>
+</ul>
+
+<p>There is also another character next to the entry we're looking at, 鱷.</p>
+
+<p>This is a variant form of the character we're looking at. Sometimes characters that are no longer used because they have been simplified to another version can be found here. This is useful because if you are reading something written during or before WWII, they may use these older kanji.</p>
+
+<p>If there was the letter A next to the character, it would mean it is one of the 1006 characters selected by the Ministry of Education that elementary school students should know. On the other hand, a capital B means that while not learned in elementary school, it is still one of the characters on the <a href="http://en.wikipedia.org/wiki/J%C5%8Dy%C5%8D_kanji">Jōyō Kanji List</a>. If you plan on studying kanji on your own and need a list to go off of, you can use these markers to decide which ones you should be studying.</p>
+
+<p>Then we have the on'yomi (capital letters) and kun'yomi (italics) readings, as well as the meaning(s) of the character. Beyond that, there are more kanji with their stroke orders to the left and their readings and definitions to the right when they are used with the entry character before them in a compound word.</p>
+
+<h2 id="kodanshas-kanji-learners-dictionary">Kodansha's Kanji Learner's Dictionary</h2>
+
+<figure class="figure-middle"><img alt="kodansha dictionary cover how to use a dictionary" style="width: 550px;" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/kodansha-dictionary-cover.jpg" /></figure>
+
+<p>Unlike the <em>New Nelson</em>, <em>Kodansha's</em> Kanji dictionary is organized using a pattern system. They look like they use four of the seven general radical locations, but their categorization uses them in an altered fashion from what you may know them as.</p>
+
+<figure class="figure-middle"><img alt="kodansha skip pattern chart how to use a kanji dictionary" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/kodansha-skip-pattern-chart.jpg" /></figure>
+
+<p>This is more of a beginners character dictionary, and it does not have as many entries as the New Nelson, however, it may be more useful to students who are trying to learn the most used kanji. They layout and more durable pages may also be a better fit for someone who doesn't want to sit and pour over their dictionary.</p>
+
+<p>In order to find the character you're looking for, you still need to be able to find the radical. Once you've done that though, you need to also determine it's location. Let's use <i>kuma</i> <ruby>熊<rp>（</rp><rt>くま</rt><rp>）</rp></ruby> as an example.</p>
+
+<p>If we use what we already know, that the radical is 灬 is a variant of 火, then how do we know what pattern it fits in? Well if we look at all four options it is fairly easy to see that this sits on the bottom of the character, making it No. 2 the Up-Down pattern.</p>
+
+<p>At the top of every page there is a pattern, we want to go to the second section labeled with the Up-Down picture.</p>
+
+<figure class="figure-middle"><img alt="kodansha up down pattern how to use a kanji dictionary" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/kodansha-up-down-pattern.jpg" /></figure>
+
+<p>The easiest way to find the radical you're looking for in this dictionary is by using the "skip numbers" that are meant to allow you to skip the tedious work to get to the character quicker. To find the skip number we need to count the number of strokes in the character, but this time we need to know the number of strokes in the shaded area and then in the non-shaded area.</p>
+
+<p>The shaded area, which in this case is the top of the character, contains ten strokes. The un-shaded only contains the radical, which has 4 strokes. At the top of the page next to the Up-Down pattern, we need to find the number 10-4 (though on this page it says 10-5 because that is the highest number this page goes up to):</p>
+
+<figure class="figure-middle"><img alt="kodansha kuma entry how to use a kanji dictionary" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/kodansha-kuma-entry.jpg" /></figure>
+
+<p>Under the character the "skip number" is also listed. It's 2-10-4.</p>
+
+<h3 id="entry-content-1">Entry Content</h3>
+
+<p>Let's look at what this dictionary entry can tell us about 熊.</p>
+
+<figure class="figure-middle"><img alt="kodansha kuma entry details how to use a kanji dictionary" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/kodansha-kuma-entry-details.jpg" /></figure>
+
+<p>The character is in red (showing that it is a frequently used kanji), as well as the english "core" meaning: Bear. The on'yomi (capital letters) and the kun'yomi (lowercase letters) is just below the meaning.</p>
+
+<p>The long box contains the radical 灬, as well other classification data:</p>
+
+<ul>
+  <li>The "Names" means that it is a character in the <a href="http://en.wikipedia.org/wiki/Jinmeiy%C5%8D_kanji">Jinmei Kanji</a> list.</li>
+  <li>S14-4-10 is the total number of strokes, the radical strokes, and the remaining strokes.</li>
+  <li>K2307 indicates how to located the character within the Japan's <a href="http://en.wikipedia.org/wiki/JIS_encoding">Industrial Standard code</a>.</li>
+  <li>B0986 is the frequency level.</li>
+  <li>N2848 is the entry number for this character in the <a href="http://www.amazon.com/Kodansha-Kanji-Dictionary-Jack-Halpern/dp/1568364083">larger version</a> of this dictionary.</li>
+  <li>U718A is the international unicode character encoding standard.</li>
+</ul>
+
+<p>In addition to that we also get come compounds that contain the character, their readings, and English meanings. Stroke order is also provided for all the Jōyō Kanji, but because this is not on that list, it has no stroke order listed.</p>
+
+<p>Instead of flipping through pages looking for the pattern numbers, you can always look for the page number using the pattern index at the back of this dictionary.</p>
+
+<p>You may be wondering why we didn't go with our previous examples 鰐 and 蟹 this time. Well, the downside of getting a smaller, easier to use dictionary is that they usually don't have that many complex kanji. While this is a beginners dictionary, it should still do a very good job of telling you everything you need to know as you start to delve into the wonderful world of kanji. That being said, it's by no means cextensive. And while you're getting a lot of information like in the bullets above, you probably wont need any of that information until you're much farther into your studies. At that point you'll probably need more kanji in your dictionary.</p>
+
+<p>This is the case with every dictionary, eventually you'll have to move on to a bigger, better one, to fill in the gaps, so to speak.</p>
+
+<h2 id="the-kanji-dictionary-by-spahn--hadamitzky">The Kanji Dictionary by Spahn &amp; Hadamitzky</h2>
+
+<figure class="figure-middle"><img alt="the kanji dictionary cover how to use" style="width: 550px;" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/the-kanji-dictionary-cover.jpg" /></figure>
+
+<p>This dictionary is more of an intermediate dictionary, boasting "over 47,000 Japanese character compounds" right on the cover. If you can't get into the <em>New Nelson</em> or <em>Kodansha's Kanji Learner's</em>, then this may be the happy middle ground you're looking for.</p>
+
+<p>Once again, you need to be able to determine the character's radical and the number of strokes in a character to use this dictionary properly. Unlike the other two, however, instead of using the 214 Kangxi radicals or organizing radicals by their location patterns, Spahn and Hadamitzky's uses a smaller set of 79 radicals.</p>
+
+<figure class="figure-middle"><img alt="the kanji dictionary inside covers how to use" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/the-kanji-dictionary-inside-covers.jpg" /></figure>
+
+<p>The authors argue that the kanji commonly used in Japanese do not require the 214 Kangxi radicals created for use in China because there are so few comparatively. They're still using a good chunk of them, just cutting it down. They also offer a cross reference in the indexes if you're used to the traditional system and have trouble transitioning.</p>
+
+<p>Let's go back to the kanji 鰐. We know the radical is 魚 which is listed under 11 because it has 11 strokes. It is also the first of the two radicals in this category so it's 11a. Now we need to flip to the section for 11a.</p>
+
+<figure class="figure-middle"><img alt="the kanji dictionary radical how to use" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/the-kanji-dictionary-radical.jpg" /></figure>
+
+<p>Here we'll see a very convenient chart of all of the characters located in this 11a section, and scanning through we find our kanji in the middle labeled 9.5. Add that to the first part and you get 11a9.5 – that's how the character is classified in this dictionary, it's descriptor. So looking at the top of the pages, we flip to that section to find our entry.</p>
+
+<figure class="figure-middle"><img alt="the kanji dictionary wani entry how to use" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/the-kanji-dictionary-wani-entry.jpg" /></figure>
+
+<p>By now this should feel a lot easier. Let's take a look at what this dictionary has to offer in it's entries.</p>
+
+<h2 id="entry-content-2">Entry Content</h2>
+
+<figure class="figure-middle"><img alt="wani kanji how to use a dictionary" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/wani-kanji.jpg" /></figure>
+
+<p>The first thing we see directly to the right of the character, in capital letters, is the on'yomi GAKU. Then next to that in lowecase is the kun'yomi, wani, and the definition.</p>
+
+<p>Next we have two different categories, 1 and 2. The 1 means it's the first position in a compound word while the 2 means it is the second character. In other entries they can go higher to the third or fourth position but in this case it only occurs in two kanji compounds.</p>
+
+<p>The small numbers next to kanji compounds represents the number of strokes in the other kanji in that compound. This does not include the character in the entry.</p>
+
+<p>Last, you have the romaji reading and then the definitions of those words that include the kanji 鰐.</p>
+
+<p>You may have noticed that this is a lot less information than the other two dictionaries offered. If you're the kind of person who thinks they will never need to know frequency levels, or what grade a kanji is learned, this dictionary contains a lot of words for being so simple. It's probably best for intermediate learners, but you may learn with time that you need something with more, like the <em>New Nelson</em>. But as far as basic information goes, this one is great.</p>
+
+<h2 id="dont-be-afraid-of-kanji">Don't be Afraid of Kanji</h2>
+
+<figure class="figure-middle"><img alt="how to use a pile of dictionaries" src="https://files.tofugu.com/articles/japanese/2014-11-24-how-to-use-a-kanji-dictionary/pile-of-dictionaries.jpg" /></figure>
+
+<p>In the end, picking out and buying a kanji dictionary is up to you. Find one that fits your style and has what you need in it. If you absolutely hate radicals, most dictionaries include on'yomi and kun'yomi indexes, just remember that being able to look up a kanji by it's radical is a really useful skill, and once you get used to it (with your favorite dictionary) you can find things faster than wading through readings.</p>
+
+<p>If you bought or borrowed a kanji dictionary for class and it's collecting dust, pick it up, clean it off, and give it a try. Use it to wade through that manga you keep telling yourself you'll read but has no furigana. When you see something online, in a picture, on a sign in an anime, grab your kanji dictionary, find the radical, and look it up. The extra effort will help your Japanese improve, and your doorstop just found new purpose.</p>
+
+
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-kanji hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2016-04-28-kanji/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='../../series/kanji/index.html' title='View all articles in Series Tofugu&#39;s Kanji Knowledge Database'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+Tofugu's Kanji Knowledge Database
+</span>
+</a>
+</li>
+<li class='pager-next'>
+<a href='../how-to-learn-kanji/index.html@series=kanji' title='View Question: How Should You Learn Kanji?'>
+<small>
+Next Article in Series
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Question: How Should You Learn Kanji?
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles japan-prev japan-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='../../japan/raccoons-in-japan/index.html' title='View Rascal’s Secret Plan: the Raccoon Invasion of Japan'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+Rascal’s Secret Plan: the Raccoon Invasion of Japan
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='../../japan/glasses-in-japan/index.html' title='View Megane Culture: Japan’s Love Affair with Glasses'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Megane Culture: Japan’s Love Affair with Glasses
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japanese'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='../quantity-not-quality-makes-fluent-japanese/index.html' title='View Why Quantity, Not Quality, Makes You Fluent In Japanese'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older japanese' class='older-article-pagination'></span>
+</small>
+Why Quantity, Not Quality, Makes You Fluent In Japanese
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='../how-to-find-the-kanji-radical/index.html' title='View How to Find The Kanji Radical'>
+<small>
+<span aria-label='Newer japanese' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+How to Find The Kanji Radical
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='../../about/index.html' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.2' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs/index.html' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese/index.html' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='../../news/index.html' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='../../newsletter/index.html' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='../../podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='../../feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="../../javascripts/master-2164c2ee.js" defer="defer"></script><script src="../../javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

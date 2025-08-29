@@ -1,0 +1,903 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Moeko Norota' name='author'>
+<meta content='Cameron Lombardo' name='author'>
+<meta content='Ever wondered what &quot;no-adjectives&quot; are and how they are different from na-adjectives? Take a look behind the scenes to see how these two word types are related.' name='description'>
+<meta content='na-adjective, no-adjective, adjectival nouns, nominal adjectivs, noun modification, な, の, Japanese' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Ever wondered what &quot;no-adjectives&quot; are and how they are different from na-adjectives? Take a look behind the scenes to see how these two word types are related.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2020-04-16-na-adjectives-no-adjectives/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='Making Sense of な-Adjectives and の-Adjectives' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japanese/na-adjectives-no-adjectives/' property='og:url'>
+<meta content='https://www.tofugu.com/reviews/anki/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/uchi-soto/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/shirokuma-cafe/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/yo-vs-ne/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/wa-and-ga/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kangaeru-synonyms/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/omou-kangaeru/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/lgbtq-identities/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/da-vs-desu-in-real-life/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-january-2017/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Moeko Norota' property='article:author'>
+<meta content='Cameron Lombardo' property='article:author'>
+<meta content='2020-04-16T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japanese' property='article:section'>
+<meta content='na-adjective' property='article:tag'>
+<meta content='no-adjective' property='article:tag'>
+<meta content='adjectival nouns' property='article:tag'>
+<meta content='nominal adjectivs' property='article:tag'>
+<meta content='noun modification' property='article:tag'>
+<meta content='な' property='article:tag'>
+<meta content='の' property='article:tag'>
+<meta content='Japanese' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@cambardo' name='twitter:creator'>
+<meta content='Ever wondered what &quot;no-adjectives&quot; are and how they are different from na-adjectives? Take a look behind the scenes to see how these two word types are related.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2020-04-16-na-adjectives-no-adjectives/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='Making Sense of な-Adjectives and の-Adjectives' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#d33682' name='twitter:widgets:link-color'>
+<meta content='#d33682' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": [
+    {
+      "@type": "Person",
+      "image": "https://www.tofugu.com/images/about/people/avatar-moeko-norota-cfa2666a.jpg",
+      "jobTitle": "Research Intern",
+      "name": "Moeko Norota",
+      "sameAs": [
+
+      ],
+      "url": "https://www.tofugu.com/about/people/moeko-norota/",
+      "description": "Moeko is a former intern at Tofugu, where she researches Japanese linguistics and writes articles. She earned her BA and teacher's license at the Hokusei Gakuen University in her hometown of Sapporo, Japan. During her undergrad, she studied abroad at Lewis and Clark College in Portland, Oregon. After university, she moved from cold, northerly Hokkaido to the tropical beaches of Oahu, where she completed her MA in Second Language Studies at the University of Hawaii. Her major research interests are second language teaching, critical pedagogy, and social interaction. Besides analyzing language, her favorite activities are tennis and jogging."
+    },
+    {
+      "@type": "Person",
+      "image": "https://www.tofugu.com/images/about/people/avatar-cameron-lombardo-c72c73dc.jpg",
+      "jobTitle": "Researcher / Writer",
+      "name": "Cameron Lombardo",
+      "sameAs": [
+        "https://www.twitter.com/cambardo"
+      ],
+      "url": "https://www.tofugu.com/about/people/cameron-lombardo/",
+      "description": "Cameron is a former full-time researcher and writer for Tofugu and WaniKani. He is fascinated by how languages work, and Japanese is his longest language love affair. After studying Japanese in his native Southern California, he lived in Japan for five years, working as a teacher, translator, and writer. Cameron came to Tofugu after a graduate degree in applied linguistics from Portland State University, and wrote articles and designed language learning content as part of the research team. He is based out of Long Beach, California. ",
+      "email": "cjlombardo@gmail.com"
+    }
+  ],
+  "datePublished": "2020-04-16T00:00:00Z",
+  "description": "Ever wondered what \"no-adjectives\" are and how they are different from na-adjectives? Take a look behind the scenes to see how these two word types are related.",
+  "headline": "The Guide to Na-Adjectives and \"So-Called\" No-Adjectives",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japanese/2020-04-16-na-adjectives-no-adjectives/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japanese/2020-04-16-na-adjectives-no-adjectives/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "na-adjective, no-adjective, adjectival nouns, nominal adjectivs, noun modification, な, の, Japanese",
+  "name": "The Guide to Na-Adjectives and \"So-Called\" No-Adjectives",
+  "url": "https://www.tofugu.com/japanese/na-adjectives-no-adjectives/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2020-04-16T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japanese/na-adjectives-no-adjectives/"
+}
+</script>
+
+<title>The Guide to Na-Adjectives and "So-Called" No-Adjectives</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/master-1de93200.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/articles/japanese/2020-04-16-na-adjectives-no-adjectives-02d4f03c.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japanese/na-adjectives-no-adjectives/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='https://www.tofugu.com/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://www.tofugu.com/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://www.tofugu.com/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://www.tofugu.com/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://www.tofugu.com/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='https://www.tofugu.com/favicon.png' rel='shortcut icon'>
+<link href='https://www.tofugu.com/favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japanese japanese_na-adjectives-no-adjectives japanese_na-adjectives-no-adjectives_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='https://www.tofugu.com/'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japanese/' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='https://www.tofugu.com/japanese/' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.1' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-learning-resources-database/' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japan/' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='https://www.tofugu.com/japan/' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/series/' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/travel/' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/reviews/' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/interviews/' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='https://www.tofugu.com/podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=common-japanese-beginner-questions#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japanese/2020-04-16-na-adjectives-no-adjectives/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japanese/2020-04-16-na-adjectives-no-adjectives/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+Making Sense of な-Adjectives <span class="conjunction">and</span> の-Adjectives
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+Do な-adjectives "always" take な? The answer is の (Pun Intended).
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2020-04-16T00:00:00Z">April 16, 2020</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/moeko-norota/index.html" rel="author">Moeko Norota</a> and <a href="../../about/people/cameron-lombardo/index.html" rel="author">Cameron Lombardo</a>
+•
+Art by
+<a href="https://www.tofugu.com/about/people/aya-francisco/">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japanese/2020-04-16-na-adjectives-no-adjectives/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+<p class='article-series series-common-japanese-beginner-questions hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="https://www.tofugu.com/series/whats-the-difference/">What's The Difference? Common Japanese Beginner Questions
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>Early on in your Japanese studies, you’ll have been exposed to the wonderful mystery of Japanese adjectives. We’re usually taught that there are two kinds: <a href="../../japanese-grammar/i-adjective.1">い-adjectives</a> and <a href="../../japanese-grammar/na-adjective.1">な-adjectives</a>, each of which are named after the hiragana character they end in when they appear before a noun. For example, in 美しい景色 (pretty scenery), 美し<strong>い</strong> ends in い, and in きれいな人 (beautiful person), きれい<strong>な</strong> ends in な. Simple enough, right?</p>
+
+<blockquote class="highlight-right">
+  <p>This mixing and matching of different word types undoubtedly leaves you with some questions: When do we use な and の? Are な and の interchangeable?</p>
+</blockquote>
+
+<p>However, when we take a closer look at な-adjectives, things start to get a little tricky. Some words that you’d expect to take な, such as 病気 (sick), actually tend to take の before a noun, as in 病気の人. Look this up in most Japanese-English dictionaries, and you’ll see it listed as a の-adjective. Even weirder, some words, such as 真実 (reality), are even listed as a noun, な-adjective, and の-adjective.</p>
+
+<p>This mixing and matching of different word types undoubtedly leaves you with some questions: When do we use な and の? Are な and の interchangeable? Does the choice between の and な change the meaning of the sentence?</p>
+
+<p>Fear not, dear reader. In this article, we will answer these questions one step at a time. We will cover what な and の actually do when modifying a noun. We will explain why certain words tend to take な or の more often, and what happens when you choose the more uncommon of the two. After reading this article, you will have a better grasp on the meaning of な and の, and how to choose between them to say what you want to say, and say it well.</p>
+
+<ul id="markdown-toc">
+  <li><a href="index.html@series=common-japanese-beginner-questions#the-basics-of-noun-modification-using--and-" id="markdown-toc-the-basics-of-noun-modification-using--and-">The Basics of Noun Modification using な and の</a></li>
+  <li><a href="index.html@series=common-japanese-beginner-questions#the-adjective--noun-spectrum" id="markdown-toc-the-adjective--noun-spectrum">The Adjective ↔ Noun Spectrum</a>    <ul>
+      <li><a href="index.html@series=common-japanese-beginner-questions#the-adjective-side-of-the-spectrum" id="markdown-toc-the-adjective-side-of-the-spectrum">な: The Adjective Side of the Spectrum</a></li>
+      <li><a href="index.html@series=common-japanese-beginner-questions#the-noun-side-of-the-spectrum" id="markdown-toc-the-noun-side-of-the-spectrum">の: The Noun Side of the Spectrum</a></li>
+      <li><a href="index.html@series=common-japanese-beginner-questions#or--the-middle-of-the-spectrum" id="markdown-toc-or--the-middle-of-the-spectrum">な or の: The Middle of the Spectrum</a></li>
+    </ul>
+  </li>
+  <li><a href="index.html@series=common-japanese-beginner-questions#for-when-youre-in-a-mood" id="markdown-toc-for-when-youre-in-a-mood">〜な気分 For When You’re in a Mood</a>    <ul>
+      <li><a href="index.html@series=common-japanese-beginner-questions#for-cravings" id="markdown-toc-for-cravings">For Cravings</a></li>
+      <li><a href="index.html@series=common-japanese-beginner-questions#for-self-expression" id="markdown-toc-for-self-expression">For Self Expression</a></li>
+      <li><a href="index.html@series=common-japanese-beginner-questions#for-places-and-activities" id="markdown-toc-for-places-and-activities">For Places and Activities</a></li>
+    </ul>
+  </li>
+  <li><a href="index.html@series=common-japanese-beginner-questions#section" id="markdown-toc-section">終わりな気分</a></li>
+</ul>
+
+<blockquote>
+  <p><strong>Prerequisites:</strong> This article assumes you already know hiragana and katakana. If you need to brush up, have a look at our <a href="../learn-hiragana.1">Ultimate Hiragana Guide</a> and <a href="../learn-katakana.1">Ultimate Katakana Guide</a>. Beginners who are starting to learn about adjectives can enjoy reading this article, but to get most out of it, the basic knowleadge of <a href="../../japanese-grammar/na-adjective.1">な-adjectives</a> and a particle の would be a nice-to-have. If you haven't already, we also recommend installing a text translator plug-in for your browser, such as <a href="https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp?hl=en">Rikaikun</a> or <a href="https://apps.apple.com/us/app/safarikai/id1437951175?mt=12">Safarikai</a>. This article is a bit kanji-heavy, and having a hover-over translator might be nice to have!</p>
+</blockquote>
+
+<p><em>Heads up:</em> we also recorded a podcast episode about this topic on な-adjectives and の-adjectives. In it, we have some exercises for you to review what you're about to read, so we highly recommend listening to it after reading this article.</p>
+
+<div class="embed-container"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F842839117&amp;show_artwork=true"></iframe></div>
+
+<p>If you haven't yet, please <a href="https://www.tofugu.com/podcast/">subscribe to the Tofugu podcast</a> and check out our other episodes there!</p>
+
+<h2 id="the-basics-of-noun-modification-using--and-">The Basics of Noun Modification using な and の</h2>
+
+<figure class="figure-middle"><img alt="a beautiful person holding a beauty magazine" src="https://files.tofugu.com/articles/japanese/2020-04-16-na-adjectives-no-adjectives/beauty-hints.jpg" /></figure>
+
+<p>To begin our exploration of な vs の, we first need to talk about what “noun modification” is, and how な and の are used for different kinds of noun modification.</p>
+
+<p>So first, what is noun modification? Put simply, it’s using another word (often, but not always, an adjective) to give more information about that noun. For example:</p>
+
+<ul class="example-sentence">
+  <li>きれいな人</li>
+  <li>beautiful person</li>
+</ul>
+
+<p>In this example, the noun 人 (person) is being modified by the な-adjective きれい (beautiful), which tells us a characteristic or quality of the person (that they are beautiful). This type of noun modification is called “describing”, and is typical of both い-adjectives and な-adjectives. So, when a な-adjective is used to <em>describe</em> a noun, it uses な to do so.</p>
+
+<p>Now let’s examine what noun modification looks like when we use particle の, rather than な:</p>
+
+<ul class="example-sentence">
+  <li>きれいのヒント</li>
+  <li>beauty hints</li>
+</ul>
+
+<p>In this example, the noun ヒント (hint) is being modified by きれい, just like in the first example. This time though, きれい is followed by の. If you’ve learned anything about particle の, you might know that it is used to express the relationship between two nouns. In our English translation of きれいのヒント, you can see that きれい is translated as “beauty” (a noun), rather than “beautiful” (an adjective), as it was in the previous example.</p>
+
+<blockquote class="highlight-right">
+  <p>な is used when you want to describe a noun, and の is used when you want to label a noun.</p>
+</blockquote>
+
+<p>Wait — So if きれい a noun in this example, how is it able to modify another noun? As it turns out, nouns can modify other nouns, but in a different way than な-adjectives. Adjectives describe a quality or characteristic of a noun, whereas nouns <em>label</em> other nouns, telling us the type or category. So in our example, きれい does not describe ヒント (i.e. the hints <em>themselves</em> are not beautiful), it is telling us about the <em>type</em> of hints at hand. In other words, it helps us know that the hints are about <em>beauty</em>, not <em>finance</em> or <em>dating</em>. We'll call this type of noun modification “labeling”, and の is frequently used to express this.</p>
+
+<p>To quickly sum up, な is used when you want to <em>describe</em> a noun, and の is used when you want to <em>label</em> a noun.</p>
+
+<h2 id="the-adjective--noun-spectrum">The Adjective ↔ Noun Spectrum</h2>
+
+<p>With that knowledge of noun modification (describing vs labeling) under our belts, let’s take a closer look at the な-adjective word type. As we saw above, きれい can take either な or の, straddling the boundary between adjectives and nouns. In fact, linguists refer to な-adjectives as “adjectival nouns” and “nominal (noun-like) adjectives”, since so many can transform from adjective to noun based on whether な or の follow them.</p>
+
+<p>When individual words are examined, it becomes clear that most な-adjectives tend to be used more frequently in one way or the other — some tend towards use as adjective-like descriptors (and we think of as the typical な-adjectives), while others tend toward the noun-like label use (and are sometimes called の-adjectives in dictionaries and textbooks). For this reason, we like to think of these words as existing on an adjective ↔ noun spectrum, as you can see in the image and the chart below.</p>
+
+<figure class="figure-middle"><img alt="adjective and noun spectrum" src="https://files.tofugu.com/articles/japanese/2020-04-16-na-adjectives-no-adjectives/spectrum.jpg" /></figure>
+
+<table style="width:100%" table-layout="fixed" class="table table-bordered table-responsive">
+  <tr>
+   <td colspan="2" bgcolor="#E59F25"></td>
+   <td bgcolor="#FBD94C"></td>
+   <td bgcolor="#5BB7EA"></td>
+   <td bgcolor="#0077B7"></td>
+  </tr><tr>
+   <td colspan="2" bgcolor="#F5F5F5"><strong>Usually take な</strong></td>
+   <td bgcolor="#F5F5F5"><strong>な＞の</strong></td>
+   <td bgcolor="#F5F5F5"><strong>の＞な</strong></td>
+   <td bgcolor="#F5F5F5"><strong>Usually take の</strong></td>
+  </tr><tr>
+   <td width="14%">好き</td>
+   <td width="14%">困難</td>
+   <td width="24%">元気</td>
+   <td width="24%">大量</td>
+   <td width="24%">少し</td>
+  </tr>
+  <tr>
+   <td>簡単</td>
+   <td>苦手</td>
+   <td>健康</td>
+   <td>病気</td>
+   <td>本当</td>
+  </tr><tr>
+   <td>大切</td>
+   <td>危険</td>
+   <td>安全</td>
+   <td>最高</td>
+   <td>永遠</td>
+  </tr><tr>
+   <td>だめ</td>
+   <td>嫌い</td>
+   <td>美人</td>
+   <td>普通</td>
+   <td>最大</td>
+  </tr><tr>
+   <td>静か</td>
+   <td>無理</td>
+   <td>不思議</td>
+   <td>未定</td>
+   <td>たくさん</td>
+  </tr><tr>
+   <td>大変</td>
+   <td>異常</td>
+   <td>平和</td>
+   <td>独自</td>
+   <td>真実</td>
+  </tr><tr>
+   <td>すてき</td>
+   <td>正直</td>
+   <td>幸せ</td>
+   <td>最速</td>
+   <td>一杯</td>
+  </tr><tr>
+   <td>勝手</td>
+   <td>親切</td>
+   <td>不幸</td>
+   <td>一流</td>
+   <td></td>
+  </tr><tr>
+   <td>複雑</td>
+   <td>残酷</td>
+   <td>不安</td>
+   <td>個別</td>
+   <td></td>
+  </tr><tr>
+   <td>妙</td>
+   <td>有能</td>
+   <td>高級</td>
+   <td>固有</td>
+   <td></td>
+  </tr><tr>
+   <td>正確</td>
+   <td>冷静</td>
+   <td>平等</td>
+   <td>別</td>
+   <td></td>
+  </tr><tr>
+   <td>変</td>
+   <td>真剣</td>
+   <td></td>
+   <td>無名</td>
+   <td></td>
+  </tr><tr>
+   <td>必要</td>
+   <td>慎重</td>
+   <td></td>
+   <td>未知</td>
+   <td></td>
+  </tr><tr>
+   <td>深刻</td>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td></td>
+  </tr>
+</table>
+
+<p>Words that are most frequently used with な as adjectives, such as 大切 (important/importance) and 便利 (convenient/convenience), are placed on the far left of the spectrum. On the far right, you’ll find words that are most frequently used with の as nouns, such as 本当 (true/truth) and 永遠 (eternal/eternity). Words that get used as both adjectives and nouns are found in the middle of the spectrum (but even these tend to favor one use over the other). In the next few sections, will take a deeper look at the words on left, right, and center of the spectrum, noting characteristics of each to help you gain confidence in choosing between な and の in your own Japanese.</p>
+
+<h3 id="the-adjective-side-of-the-spectrum">な: The Adjective Side of the Spectrum</h3>
+
+<p>Words that tend towards the adjective side of the spectrum, such as 簡単 (simple) and 静か (quiet), are most frequently used with な to describe qualities or characteristics of nouns. These words will typically be listed as “な-adjectives” in Japanese-English dictionaries.</p>
+
+<ul class="example-sentence">
+  <li>草取りは<u>すごく</u><strong>簡単な</strong>作業だと思っていたけど、実は大変です。</li>
+  <li>I thought that pulling weeds is a super simple task, but it’s actually terrible.</li>
+</ul>
+
+<ul class="example-sentence">
+  <li>森に囲まれた、<u>とても</u><strong>静かな</strong>環境に暮らしています。</li>
+  <li>I live in a very quiet environment, surrounded by the forest.</li>
+</ul>
+
+<p>In the first example, 簡単な describes a quality of 作業 (task). Similarly, 静かな describes the quality of 環境 (environment) in the second example. Neither adjective can be thought of as a label here, since they are based on a description of the speaker’s subjective or personally felt experience of the noun. While a label is meant to tell us what type of noun we’re talking about, a descriptive adjective simply embellishes the noun to add a more specific meaning.</p>
+
+<p>Descriptive な-adjectives can usually be modified themselves, by an adverb of degree. Take a moment to examine the underlined word just before the な-adjective in each sentence. In the first, we see すごく (super) and in the second we see とても (very). These are both adverbs of degree, meaning that they tell us just <em>how</em> simple the task is, and just <em>how</em> quiet the environment is. A few more examples of degree adverbs are ちょっと (a little), かなり (fairly), and あまり (not very).</p>
+
+<h3 id="the-noun-side-of-the-spectrum">の: The Noun Side of the Spectrum</h3>
+
+<p>Words that tend towards the noun side of the spectrum are usually used with の to label the noun that they modify. These are the words that you’ll see listed as a “の-adjective” in many Japanese-English dictionaries. Words on this side of the spectrum can be loosely divided into two groups: words that express absolutes, like 本当 (true) and 最大 (the biggest), and words that express quantities, like たくさん (many) and 大量 (large amount).</p>
+
+<p>Let’s start with a closer look at these nouns that express absolutes:</p>
+
+<ul class="example-sentence">
+  <li>恋人ができない<strong>本当の</strong>理由を知りたい？</li>
+  <li>Do you want to know the true reason no one will date you?</li>
+</ul>
+
+<ul class="example-sentence">
+  <li>歯を失う<strong>最大の</strong>原因は歯を磨かないことです。</li>
+  <li>The biggest cause of tooth loss is not brushing your teeth.</li>
+</ul>
+
+<p>In the first example, 本当の labels the noun 理由 (reason) - it tells us that the reason is the truth, as opposed not the truth. In the second example, 最大の labels the noun 原因 (cause) — it tells us that this is the biggest, most significant cause, and we all know there can only be one <em>biggest</em> cause of something.</p>
+
+<figure class="figure-middle"><img alt="a dog saying yes and a cat saying no" src="https://files.tofugu.com/articles/japanese/2020-04-16-na-adjectives-no-adjectives/dog-b-w.png" /></figure>
+
+<blockquote class="highlight-right">
+  <p>Something either is or isn’t a dog, is or isn’t true, and is or isn’t the biggest.</p>
+</blockquote>
+
+<p>The fact that 本当 and 最大 are acting as nouns here might be hard for English speakers to see, since “true” and “biggest” are adjectives in English. Here’s the logic behind it — just like a more recognizable noun like “dog”, these words express absolutes. Something either is or isn’t a dog, is or isn’t true, and is or isn’t the biggest. That’s not the case with words on the adjective side of the spectrum, like 静か (quiet). While it’s quite possible to say ちょっと静か (a little quiet), the lack of a gray area for absolutes like 最大 means they generally can’t take adverbs of degree like とても (very) or ちょっと (a little).</p>
+
+<p>However, there are plenty of words that tend to take の when modifying a noun that <em>can</em> take an adverb of degree. These include words that express quantities, such as たくさん (many) and 大量 (large amount):</p>
+
+<ul class="example-sentence">
+  <li>昨日すごく<strong>たくさんの</strong>魚が釣れました。</li>
+  <li>I was able to catch incredibly many fish yesterday.</li>
+</ul>
+
+<ul class="example-sentence">
+  <li>電源が切れた途端に、かなり<strong>大量の</strong>データが消されてしまいました。</li>
+  <li>Right when the power ran out, quite a large amount of data was erased.</li>
+</ul>
+
+<p>In the first example, たくさんの labels the noun 魚 (fish) — it tells us that this is “a lot of fish”, rather than “not a lot of fish”. Likewise, 大量の labels the noun データ (data) — it tells us this is “a large amount of data”, as opposed to “not a large amount of data”. By using の rather than な here, the quantities expressed are treated like objective facts. Anyone who looked at the fish or the data would agree, there’s a lot!</p>
+
+<p>However, quantities are inherently gradable; if we add more fish to たくさんの魚, then it would be fair to use an adverb of degree like すごく (incredibly) to say すごくたくさんの魚. This is why you’ll see that we’ve included such adverbs in our example sentences above.</p>
+
+<h3 id="or--the-middle-of-the-spectrum">な or の: The Middle of the Spectrum</h3>
+
+<p>As this is a spectrum, there are many words that fall in the middle, and can take な or の. These words tend to have subtle shifts in meaning when one な or の is chosen over the other. In most cases, one use is still more frequent than the other, which is why you’ll see them slightly to the right or left on the spectrum table above.</p>
+
+<p>Let’s kick this off with a discussion of 普通 (normal). This word usually finds itself placed on the の side of the spectrum, but using it as a な-adjective is possible too. To understand how the meaning shifts when used with な or の, let’s imagine a scene. Your sister has a new boyfriend, and he looks familiar, like maybe you’ve seen him on TV. Being the annoying little sibling you are, you start asking those pesky questions:</p>
+
+<ul class="example-sentence">
+  <li>新しい彼氏、有名人なの？</li>
+  <li>Is your new boyfriend a famous person?</li>
+</ul>
+
+<ul class="example-sentence">
+  <li>ううん、普通<strong>の</strong>人だよ。</li>
+  <li>No, he’s a normal person.</li>
+</ul>
+
+<p>Bummer, looks like he’s not famous after all! In this exchange, your sister chooses to answer your question by calling her boyfriend 普通<strong>の</strong>人. This is because she treats “normal” as a label for a type of people, and suggests that her boyfriend belongs in that category. While 普通<strong>な</strong>人 would not sound too outlandish here, it still would suggest that she’s describing his personality as normal. Let’s check out one more exchange, where な would sound more appropriate:</p>
+
+<ul class="example-sentence">
+  <li>新しい彼氏、変な人なの？</li>
+  <li>Is your new boyfriend a weirdo?</li>
+</ul>
+
+<ul class="example-sentence">
+  <li>ううん、普通<strong>な</strong>人だよ。</li>
+  <li>No, he’s a normal person.</li>
+</ul>
+
+<p>This second question was less about labeling the boyfriend or putting him into a category, and more so a question about his own personality. For this reason, your sister chose to use 普通<strong>な</strong>人 to describe him, highlighting normalness as a trait that characterizes him. 普通<strong>の</strong>人 is possible here too, if we decide to treat “weirdos” and “normal people” as categories of people, and assign membership to one or the other.</p>
+
+<p>This system of な vs の applies to many words that fall in the middle of the spectrum, such as 病気 (sick). Generally, Japanese textbooks will tell you that you should select の with this word, and usually, that’s the safest bet. But the truth is, it can take な as well. Let’s see both uses in context to paint a clearer picture:</p>
+
+<ul class="example-sentence">
+  <li>その施設には、病気<strong>の</strong>人が多い。</li>
+  <li>There are many sick people at that institution.</li>
+</ul>
+
+<ul class="example-sentence">
+  <li>その施設には、病気<strong>な</strong>人が多い。</li>
+  <li>There are many sick people at that institution.</li>
+</ul>
+
+<p>In the first example, 病気の modifies the noun 人 (people) through labeling. It tells us that the sentence applies to people <em>who have a disease</em>, as opposed to people who do not. This is the typical way that 病気 is used to modify nouns, and has the neutral, objective tone that is characteristic of labeler with の.</p>
+
+<p>On the other hand, the second example features 病気な, which modifies 人 through description. In this (possible, but uncommon) use, 病気 is treated as a quality or characteristic of those people, which sounds negative — rude even. It sounds something akin to “sick in the head” in English.</p>
+
+<p>You can apply this system to many words on the spectrum. As you encounter these differences in use out in the wild, think back on how な vs の affect the meaning in a nuanced way, and you’ll be able to better understand the intention of the speaker or writer.</p>
+
+<h2 id="for-when-youre-in-a-mood">〜な気分 For When You’re in a Mood</h2>
+
+<p>One of the best things about language is that it can be used in creative ways. The fact that nouns and adjectives exist on a spectrum allows us to do interesting things with these words, such as totally flip the script and use unexpected nouns in adjective-like ways. One place this is happening more and more is in social media, with the phrase 〜な気分.</p>
+
+<p>気分 is a noun itself, which means “feeling” or “mood”. You might have learned it in common phrases such as 気分がいい (I’m in a good mood) or 気分が悪い (I’m in a bad mood). Let’s take a look at some interesting ways 〜な気分 is used by native speakers of Japanese:</p>
+
+<figure class="figure-middle"><img alt="social media posts that would go along with captions or hashtag using 〜な気分" src="https://files.tofugu.com/articles/japanese/2020-04-16-na-adjectives-no-adjectives/social-media-posts.jpg" /></figure>
+
+<h3 id="for-cravings">For Cravings</h3>
+
+<p>Food and drink nouns can transformed into adjectives when paired up with 〜な気分. This allows you to express cravings and desires for specific beverages and dishes.</p>
+
+<p>For example, ワインな気分 can be a perfect hashtag for images featuring glasses of wine, people toasting with one another, and tables of delicious meals. It’s used in a similar way as “I’m feeling like wine tonight” or “It’s a wine kinda evening” in English.</p>
+
+<h3 id="for-self-expression">For Self Expression</h3>
+
+<p>Have you ever been in the mood to wear a certain color, or express a certain look? Colors, styles, and fashion choice nouns are often used as adjectives with 〜な気分. Check it out:</p>
+
+<p>90年代な気分 could be used if you wake up feeling like you really want to look like a blast from the past. “The 90’s” is a noun, but you can use this phrase to say “I’m feeling really 90’s today”.</p>
+
+<h3 id="for-places-and-activities">For Places and Activities</h3>
+
+<p>Another use of 〜な気分 is to express your desire to be in a particular place or do a particular activity. For example:</p>
+
+<p>海な気分 is used in a similar way that we might say “feeling those beachy vibes” in English. You might see it captioning a picture featuring palm trees and blue skies, or perhaps describing a particularly summery outfit. You might even say it if you wake up on a super sunny day, and have an urge to go hit the beach.</p>
+
+<h2 id="section">終わりな気分</h2>
+
+<p>If you’ve made it all the way to the end, congratulations! Now you know that Japanese adjectives and nouns exist on a spectrum, which explains why they can take な and の in different contexts and situations. な suggests that the word is a description, whereas の tells us that it is labeling another noun. As you go out into the world and see な-adjectives and nouns acting in unexpected ways, you’ll have the tools to analyze these instances and understand the meaning on a deeper level. それでは、素敵な一日を！</p>
+
+<aside class="blog-post-highlight article-sources"><div class="container"><h4>Sources</h4><ul><li><a href="https://www.amazon.com/Handbook-Japanese-Formation-Handbooks-Linguistics/dp/1614512752" title="View source">Kishimoto, H., & Uehara, S. (2016). Lexical categories. In T. Kageyama & H. Kishimoto (Eds.), <i>Handbook of Japanese Lexicon and Word Formation, 29-03</i> (51-90). Mouton De Gruyter.</a></li><li><a href="http://www.math-ling.org/archives/pdf/29/KK290301.pdf" title="View source">Lee, J. (2013). Corpus-based study on the co-occurrence of nominal adjectives "na" and "no". <i>Keiryō Kokugogaku, 29-03</i>, 77-95.</a></li><li><a href="http://petit.lib.yamaguchi-u.ac.jp/G0000006y2j2/metadata/C060034000009" title="View source">Shimada, K. (2011). Nihongo gakushūsha no goyō bunseki: chūgokugo bogowasha no jirei kenkyū. <i>Yamaguchi Kokubun, 34</i>, 96-106.</a></li><li><a href="https://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E6%96%87%E6%B3%95%E3%82%92%E8%80%83%E3%81%88%E3%82%8B-%E5%B2%A9%E6%B3%A2%E6%96%B0%E6%9B%B8-%E9%BB%84%E7%89%88-53-%E5%A4%A7%E9%87%8E/dp/4004200539" title="View source">Susumu, O. (1978). 6 jōtai to jōi. <i>Nihongo no bunpō o kangaeru</i>, (81-98). Tokyo: Iwanami Shoten.</a></li></ul></div></aside>
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-common-japanese-beginner-questions hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2022-08-09-whats-the-difference/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='https://www.tofugu.com/series/whats-the-difference/' title='View all articles in Series What&#39;s The Difference? Common Japanese Beginner Questions'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+What's The Difference? Common Japanese Beginner Questions
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles travel-prev japan-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='travel' href='https://www.tofugu.com/travel/aoi-ike-pond/' title='View Aoi Ike Pond: Literally, &quot;Blue Pond&quot;'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-plane'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+Aoi Ike Pond: Literally, "Blue Pond"
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='../../japan/lgbtq-identities.1' title='View Coming Out in Japan'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Coming Out in Japan
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japanese'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='https://www.tofugu.com/japanese/omou-kangaeru/' title='View Let&#39;s Think About &quot;Thinking&quot;: 思う vs 考える'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older japanese' class='older-article-pagination'></span>
+</small>
+Let's Think About "Thinking": 思う vs 考える
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='https://www.tofugu.com/japanese/japanese-learning-resources-spring-2020/' title='View New Japanese Learning Resources: Spring 2020'>
+<small>
+<span aria-label='Newer japanese' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+New Japanese Learning Resources: Spring 2020
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/about/' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.1' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs.1' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese.1' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/news/' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/newsletter/' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/master-2164c2ee.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

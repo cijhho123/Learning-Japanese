@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Carla Sinclair' name='author'>
+<meta content='Thanksgiving in Japan isn’t so easy for expats. Where do they find turkey? How do they plan a feast on a workday? We asked – here’s the scoop.' name='description'>
+<meta content='Thanksgiving, food, expat, turkey, shichimenchō, Costco Japan,' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Thanksgiving in Japan isn’t so easy for expats. Where do they find turkey? How do they plan a feast on a workday? We asked – here’s the scoop.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japan/2016-11-22-thanksgiving-japan/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='Thanksgiving in Japan?' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japan/thanksgiving-japan/' property='og:url'>
+<meta content='https://www.tofugu.com/travel/dezuka-suisan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/mochi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/yatai/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/pocky-day/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/kagaya-izakaya/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/japan-crate/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/okonomiyaki/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/hamburgirl-z-idol-group/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/ramen-museum-shin-yokohama/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/daiki-suisan-sushi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ekiben-train-station-bento/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/tonkatsu-shimizu/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/tokushima-ramen-festival/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-mushrooms/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/rice-cooker-history/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/kiku-masamune/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/katsuobushi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/niconico-headquarters-cafe/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/clamp-coffee-sarasa/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/nabe-hot-pot/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/kashiya-yokochou-edoya/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japans-dependence-chinas-unsafe-food/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/amezaiku-japanese-candy/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-delicacy/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/fukuro-no-mise-owl-cafe/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/kuzukiri-yamaga/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/shunkado-unagi-pie-factory/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-seaweed/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-foods-lost-in-translation/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kamaboko-fish-cake/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/onigiri-japanese-rice-ball/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/history-of-ramen/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/rice-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/unagi-japanese-eel/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/gensho-nishigaki-tankuma/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/tankuma-egg-rice-restaurant-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/kita-no-aisu-ya-san-otaru/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/egg-vending-machine-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tamago-kake-gohan-raw-egg-on-rice/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/nuts-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/sampuru/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/me-me-me-cafe/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-coffee/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kawaii-japanese-food-characters/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/omotesando-koffee/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/goat-cafe-sakuraoka/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/hige-man-ume-chan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-food-dramas/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/lies-and-sushi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/wasabi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/learn-japanese-through-cooking/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-soy-foods/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-chocolate/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/chopsticks-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tea-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-food-movies/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-whisky/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/what-i-dont-miss-about-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/spirited-away-food/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/what-i-miss-about-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-food-by-prefecture/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-mayonnaise/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ramen-survival-guide/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/cold-stomach-sickness/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/buddhist-monk-diet/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/table-manners/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/what-is-kobe-beef/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-beer-wars/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/viking-buffet/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/unique-japanese-fruit/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ramen-noodle-diary/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-convenience-stores/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/umami/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-fast-food/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/zauo-fish-restaurant/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Carla Sinclair' property='article:author'>
+<meta content='2016-11-22T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japan' property='article:section'>
+<meta content='Thanksgiving' property='article:tag'>
+<meta content='food' property='article:tag'>
+<meta content='expat' property='article:tag'>
+<meta content='turkey' property='article:tag'>
+<meta content='shichimenchō' property='article:tag'>
+<meta content='Costco Japan' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@Carla_Sinclair' name='twitter:creator'>
+<meta content='Thanksgiving in Japan isn’t so easy for expats. Where do they find turkey? How do they plan a feast on a workday? We asked – here’s the scoop.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japan/2016-11-22-thanksgiving-japan/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='Thanksgiving in Japan?' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#268bd2' name='twitter:widgets:link-color'>
+<meta content='#268bd2' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-carla-sinclair-cf45db57.jpg",
+    "jobTitle": "Executive editor",
+    "name": "Carla Sinclair",
+    "sameAs": [
+      "https://www.twitter.com/Carla_Sinclair"
+    ],
+    "url": "https://www.tofugu.com/about/people/carla-sinclair/",
+    "description": "Carla is a former editor at Tofugu and student of WaniKani. In her spare time she drinks strong tea and thinks about places she can travel to next."
+  },
+  "datePublished": "2016-11-22T00:00:00Z",
+  "description": "Thanksgiving in Japan isn’t so easy for expats. Where do they find turkey? How do they plan a feast on a workday? We asked – here’s the scoop.",
+  "headline": "Thanksgiving in Japan: We asked 5 expats how to do turkey day abroad",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japan/2016-11-22-thanksgiving-japan/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japan/2016-11-22-thanksgiving-japan/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "Thanksgiving, food, expat, turkey, shichimenchō, Costco Japan,",
+  "name": "Thanksgiving in Japan: We asked 5 expats how to do turkey day abroad",
+  "url": "https://www.tofugu.com/japan/thanksgiving-japan/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2016-11-22T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japan/thanksgiving-japan/"
+}
+</script>
+
+<title>Thanksgiving in Japan: We asked 5 expats how to do turkey day abroad</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="../../stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japan/thanksgiving-japan/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='../../apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='../../apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='../../apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='../../apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='../../apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='../../favicon.png' rel='shortcut icon'>
+<link href='../../favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japan japan_thanksgiving-japan japan_thanksgiving-japan_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='../../index.html'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../../japanese/index.html' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='../../japanese/index.html' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.2' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='../../japanese-learning-resources-database/index.html' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../index.html' id='dJapan'>
+Japan <i class="fa fa-globe"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='../index.html' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../series/index.html' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../travel/index.html' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../reviews/index.html' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../interviews/index.html' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='../../podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japan/2016-11-22-thanksgiving-japan/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japan/2016-11-22-thanksgiving-japan/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+Thanksgiving in Japan?
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+We asked 5 expats how they spend their turkey day abroad
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2016-11-22T00:00:00Z">November 22, 2016</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="http://www.tofugu.com/about/people/carla-sinclair/" rel="author">Carla Sinclair</a>
+•
+Art by
+<a href="../../about/people/aya-francisco/index.html">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japan/2016-11-22-thanksgiving-japan/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>Thanksgiving is a simple holiday that packs a powerful cultural punch for Americans and Canadians. It combines the gathering of family and friends with a feast of turkey and hearty autumn foods, accompanied by sentiments of thanks and gratitude by everyone at the table. For people who have grown up with this tradition, spending Thanksgiving in another country can be hard and lonely. But maybe it doesn’t have to be.</p>
+
+<p>With approximately <a href="https://en.wikipedia.org/wiki/Americans_in_Japan">51,000 Americans</a>
+and <a href="https://en.wikipedia.org/wiki/Canadian_diaspora">11,000 Canadians</a> living in Japan, we decided to interview a few of these folks to see how they spend their Thanksgiving abroad.</p>
+
+<blockquote class="highlight-right">
+  <p>Spending Thanksgiving in another country can be hard and lonely. But maybe it doesn’t have to be.</p>
+</blockquote>
+
+<h2 id="a-thanksgiving-in-japan-interview">A Thanksgiving-in-Japan Interview</h2>
+
+<p>After going through a JET source and a call out on Twitter, we found four Americans and one Canadian to interview over email. We sent them each the same list of nine questions, but got back varied answers, which made this all the more interesting. Before getting to the Qs and As, we’d like to introduce you to our participants:</p>
+
+<p><strong>Joel Neff</strong> is from Arizona. As a permanent resident, he lives in Tochigi Prefecture with his wife and works as an English teacher and journalist. He has lived in Japan for 16 years, so he’s got Thanksgiving in Japan down pat.</p>
+
+<p><strong>Annamarie Carlson</strong> is also from Arizona, and has been living in Shimada, Shizuoka
+for the last 16 months. She works as a JET Program ALT and an editor for the Culture section of <em>Connect Magazine</em>. She celebrated her first Thanksgiving in Japan not once but <em>twice</em> last year!</p>
+
+<p><strong>Katie Dreke</strong> is originally from Seattle, WA but then, after living in Amsterdam for six years, Sydney for two years, and Portland, OR for two years, she finally moved to Tokyo last March. She lives with her two kids and husband and works for Nike. This coming Thanksgiving will be her first in Japan.</p>
+
+<p><strong>Mark Friesen</strong> is from Vancouver, Canada. He lives with his family in Japan and works as a Brand Manager at a design company. Growing up, his family never made a big deal out of Thanksgiving, but he still celebrates it in Japan.</p>
+
+<p><strong>Billy Farmer</strong> is from Florida. He’s lived in Nagoya, right next to Nagoya Castle, for about seven years. Before coming to Nagoya he moved around between Shizuoka, Osaka, and Kyoto for four years. He’s not so into Thanksgiving, but still has some words of wisdom on the subject.</p>
+
+<p>And now, for the interview.</p>
+
+<h3 id="lets-start-with-food-the-centerpiece-of-all-thanksgiving-celebrations-how-difficult-is-it-to-get-a-turkey-in-japan">Let’s start with food, the centerpiece of all Thanksgiving celebrations. How difficult is it to get a turkey in Japan?</h3>
+
+<figure class="figure-middle"><img alt="costco turky shopping" src="https://files.tofugu.com/articles/japan/2016-11-22-thanksgiving-japan/costco.jpg" /></figure>
+
+<p><strong>Joel:</strong> It's a lot easier these days between <a href="https://www.costco.co.jp/">Costco</a> and the Internet. But I can't walk into my local grocery store with any hope of finding one.</p>
+
+<p><strong>Annamarie:</strong> I have never been able to buy a turkey in Japan, though I can’t say I’ve ever tried. But last year, I was able to have turkey along with stuffing, mashed potatoes, and green bean casserole for my second Thanksgiving dinner at <a href="https://tabelog.com/en/shizuoka/A2202/A220202/22027414/">Happy Days</a>, a restaurant here in Shizuoka! A group of friends and I celebrated there over the weekend, since it’s difficult in the rural area I live in to meet with friends during the week. Personally, not having a turkey does not ruin a Thanksgiving for me. Turkey is tasty, but it’s never been the highlight of a Thanksgiving dinner in my opinion. I’m here for the stuffing and cranberry sauce more than anything. Well, and the pie.</p>
+
+<p><strong>Katie:</strong> I have no idea. I'm still trying to find toothpaste that doesn't turn my stomach.</p>
+
+<p><strong>Mark:</strong> If you have a Costco, quite easy. If not, then impossible unless you're military and have a PX. Also needed is an oven big enough to cook it. My Healsio convection oven fits the Costco turkey by millimeters.</p>
+
+<p><strong>Billy:</strong> About as difficult as it is to explain to people here what a turkey is if you don’t know the word <i>shichimenchō</i> <ruby>七面鳥<rp>（</rp><rt>しちめんちょう</rt><rp>）</rp></ruby>. You can probably special order them, or buy them online, I suppose.</p>
+
+<h3 id="if-you-cant-get-a-turkey-what-takes-its-place-as-the-star-of-the-dinner">If you can't get a turkey, what takes its place as "the star of the dinner"?</h3>
+
+<figure class="figure-right"><img alt="ham on plate" src="https://files.tofugu.com/articles/japan/2016-11-22-thanksgiving-japan/ham.jpg" /></figure>
+
+<p><strong>Joel:</strong> Ham. Pork, in all its glorious stylings, is readily available here, and it's easy to find a good ham to be the main protein. Chicken runs a very close second, as many grocery store meat counters can do a whole roast chicken if you order far enough in advance.</p>
+
+<p><strong>Annamarie:</strong> As I’m writing this, I’m thinking back to the times I’ve had a holiday dinner without turkey as “the star.” It’s fun to branch out! I have a very distinct memory of having bow tie pasta for Thanksgiving as a child. Last year on Thanksgiving Day proper, I had a solo feast at <a href="http://sato-res.com/store/0547330202/">Washoku Sato</a> with soba, tempura, beer, and a giant parfait. It had none of the traditional foods but all of the “I’m so full, I’ll just put my head down on the table and take a nap” that I look for in a good Thanksgiving dinner. If you’re making Thanksgiving dinner and want something to replace turkey, I think the best solution is to be creative. I’m thinking of inventing Thanksgiving gyoza this year. (Maybe meat, carrot, potato, and a little bit of orange zest? I’ll get back to you.)</p>
+
+<p><strong>Katie:</strong> If we cook Thanksgiving at home this year, we will have salmon as the star of the dinner. A taste of our Pacific Northwest home and our new home all at once (and super easy to get, fresh and delicious).</p>
+
+<p><strong>Mark:</strong> We've been lucky, always turkey.</p>
+
+<p><strong>Billy:</strong> I occasionally spot whole chickens at the grocery store.</p>
+
+<h3 id="what-kinds-of-other-traditional-thanksgiving-foods-are-you-able-to-make-in-japan-how-easy-or-hard-is-it-to-get-the-ingredients">What kinds of other traditional Thanksgiving foods are you able to make in Japan? How easy or hard is it to get the ingredients?</h3>
+
+<figure class="figure-middle"><img alt="thanksgiving veggies" src="https://files.tofugu.com/articles/japan/2016-11-22-thanksgiving-japan/thanksgiving-food.jpg" /></figure>
+
+<p><strong>Joel:</strong> Mashed potatoes, sweet potatoes, and pumpkin are all readily available, so anything with those veggies is pretty easy to do. Same with greens (Brussels sprouts, asparagus, broccoli, spinach, etc.). Stuffing has been problematic, but again, because of Costco and whatnot, it's a lot easier than it used to be.</p>
+
+<p><strong>Annamarie:</strong> The easiest Thanksgiving food that can (and should) be made anytime, anywhere, is mashed potatoes. All you need is potatoes, water, milk, butter, salt, pepper, and your fists (or I guess some other tool for mashing). These things are all readily available in Japan no matter where you are.</p>
+
+<p>If you’re looking for things like everyone’s favorite canned cranberry sauce (it’s not the same without the ridges from the side of the can) or instant stuffing (just add water!) you might have to work a bit harder. For some ingredients you can improvise, but if you’re looking for a very specific taste from home and have some disposable income, I’ve heard of Internet ordering services that can mail you many of the brands you are used to. Pumpkin pie filling is just one of those things that is impossible to find here. I grew up in a pumpkin farming town, so I dream of pumpkin pie pretty much constantly from October to December.</p>
+
+<p><strong>Katie:</strong> Some traditional things that would be pretty easy to find and make: mashed potatoes, sweet yams, steamed vegetables (carrots, broccoli, Brussels sprouts).</p>
+
+<p><strong>Mark:</strong> If you have specific favorites, you need to import them or buy them from specialty wholesalers like <a href="https://www.fbcusa.com/">Foreign Buyer’s Club</a>. About the only common staple is cranberry sauce, which you can buy at <a href="https://www.seijoishii.co.jp/shop/">Seijo Ishii</a>.</p>
+
+<p><strong>Billy:</strong> You could make stuffing and sweet potato pie with no problems at all. For pumpkin pie
+you’d have to make do with Japanese “kabocha,” which is pumpkin-ish, but not the same as what we’re used to in the States. A bag of cranberries would probably cost you about five thousand dollars here, but I’ve never actually seen one.</p>
+
+<h3 id="what-kinds-of-japanese-foods-do-you-bring-to-the-meal">What kinds of Japanese foods do you bring to the meal?</h3>
+
+<figure class="figure-right"><img alt="man eating turkey leg" src="https://files.tofugu.com/articles/japan/2016-11-22-thanksgiving-japan/eating-restaurant.jpg" /></figure>
+
+<p><strong>Joel:</strong> One year we did <i>matcha</i> <ruby>抹茶<rp>（</rp><rt>まっちゃ</rt><rp>）</rp></ruby> (powdered green tea – very frothy and strong flavored) between courses and it worked really well. And we usually do a round of <i>nihonshu</i> <ruby>日本酒<rp>（</rp><rt>にほんしゅ</rt><rp>）</rp></ruby> (hot sake) after the main course.</p>
+
+<p><strong>Annamarie:</strong> Other than my fledgling recipe for Thanksgiving gyoza? I think it’s fun to incorporate as many Japanese foods and flavors in western recipes as possible. Maybe try adding a little bit of ginger to your mashed potatoes, or replacing pumpkin pie with some delicious sweet potatoes. There is always, of course, <a href="../japanese-beer-wars/index.html">Japanese beer</a> to bring together any meal.</p>
+
+<p><strong>Katie:</strong> Dunno yet…</p>
+
+<p><strong>Mark:</strong> We try to stay western, but baked Sweet potato (<i>yaki imo</i> <ruby>焼き芋<rp>（</rp><rt>や　いも</rt><rp>）</rp></ruby>) is often included.</p>
+
+<p><strong>Billy:</strong> I’m trying to think of what Japanese foods would be good with a traditional Thanksgiving dinner, if such a thing existed here. Baked sweet potatoes would be a good match…maybe roasted chestnuts or something reminiscent of the fall.</p>
+
+<h3 id="where-do-you-gather-for-the-festivities">Where do you gather for the festivities?</h3>
+
+<p><strong>Joel:</strong> Usually at someone's house or apartment.</p>
+
+<p><strong>Annamarie:</strong> If anyone is willing to open up their apartment for a group dinner, the homey feeling of meeting at a friend’s apartment is always nice during the holidays. But I think Thanksgiving festivities at restaurants can be even nicer. You get delicious food you didn’t have to cook, and you don’t have to do any cleaning up!</p>
+
+<p><strong>Katie:</strong> This year is a weird Thanksgiving for us. We just moved here in March, and my husband will be going back to celebrate a combined Thanksgiving-family-reunion-festivus in the US, so it will be just me and the kiddos this year. I'm torn between getting together with other American families we've befriended, or just cocooning at home and watching movies with the kids. They both sound awesome right now.</p>
+
+<p><strong>Mark:</strong> At my home, we squeeze in 12 people.</p>
+
+<p><strong>Billy:</strong> I don’t know of anyone gathering anywhere. As Thanksgiving is always on a Thursday, I’d imagine most Americans are too busy working. <a href="https://www.tofugu.com/japan/japanese-thanksgiving/">Japanese Labor Thanksgiving Day</a> is on November 23rd, so if that happened to fall on Thanksgiving, I suppose I would do something for it now that I have a child.</p>
+
+<h3 id="what-do-japanese-people-know-about-thanksgiving">What do Japanese people know about Thanksgiving?</h3>
+
+<figure class="figure-right"><img alt="turkey or chicken" src="https://files.tofugu.com/articles/japan/2016-11-22-thanksgiving-japan/turkey-chicken.jpg" /></figure>
+
+<p><strong>Joel:</strong> Not very much. Unlike Christmas and Halloween, school kids tend not to learn much about it other than, "Americans eat turkey." There also seems to be a lot of confusion with young kids regarding turkey versus chicken. Explaining that they are not the same animal results in a lot of baffled looks.</p>
+
+<p><strong>Annamarie:</strong> I have found very few people are familiar with American Thanksgiving. Apart from the knowledge that it exists and that we usually eat turkey, most people I’ve spoken to about it are at a loss. This isn’t a bad thing. I appreciate the opportunity to explain both the storybook and historical origins of the holiday.</p>
+
+<p><strong>Katie:</strong> I'm still discovering what Japanese folks know about Thanksgiving. Since I work for an American company (Nike) I find most of my coworkers are pretty savvy about things like Fourth of July and other very American holidays, but I can't tell what my neighbors think, or even if it registers on their radar at all.</p>
+
+<p>The most interesting insight for me this year was when a colleague said they were going home to visit family for the Obon festival, “you know, kind of like your Thanksgiving holiday.” I thought it was a good sign that he equated Thanksgiving with “homecoming” and not overeating and football games. So there's that.</p>
+
+<p><strong>Mark:</strong> Not much, it's not observed here. Mostly from US media they see it as a family holiday.</p>
+
+<p><strong>Billy:</strong> In my experience, most Japanese people don’t know about Thanksgiving. If only an ambitious company would come along and market something tangentially related to the traditional holiday festivities…I’m picturing a marketing rep, after seeing a YouTube video of Macy’s Thanksgiving Day Parade, pitching “Balloon Day” to toy companies across the nation.</p>
+
+<h3 id="do-you-bring-japanese-friends-or-friends-of-other-nationalities-to-your-celebration-if-so-what-did-they-think-of-it">Do you bring Japanese friends or friends of other nationalities to your celebration? If so, what did they think of it?</h3>
+
+<p><strong>Joel:</strong> Sure. Most of them seem to really like the food, although sometimes the desserts are too sweet, especially if made with modern recipes. They all seem to appreciate the spirit, even if being a little confused about the origins of the holiday.</p>
+
+<blockquote class="highlight-right">
+  <p>"sharing our understanding and memories of the holiday with our Japanese friends made it a happier experience for us."</p>
+</blockquote>
+
+<p><strong>Annamarie:</strong> Last year, for our traditional Thanksgiving meal at a nearby BBQ place, we went with two Japanese friends. I think sharing our understanding and memories of the holiday with our Japanese friends made it a happier experience for us, and our Japanese friends enjoyed learning more about our culture and eating great food. Everyone likes eating good food, although at last year’s celebration, I learned that apparently not everyone likes root beer.</p>
+
+<p><strong>Katie:</strong> Probably not this year - but would love to next year.</p>
+
+<p><strong>Mark:</strong> Just immediate family, and they've enjoyed the event so far.</p>
+
+<h3 id="what-personal-thanksgiving-traditions-do-you-bring-to-the-celebration">What personal Thanksgiving traditions do you bring to the celebration?</h3>
+
+<p><strong>Joel:</strong> Because most people have to work on Thanksgiving day, some years we have had Thanksgiving breakfast. I don't know if that counts as a personal tradition or not, but…</p>
+
+<p><strong>Annamarie:</strong> There is of course drinking and eating too much, which can be a part of any celebration if you wish. I think the best part of Thanksgiving is taking time to think about the things that we are thankful for. For many people, it can be hard spending the holidays away from their families, but there are always things to be thankful for.</p>
+
+<p><strong>Katie:</strong> Hoping to whip up some warm cinnamon cider this year - makes the whole house smell wonderful!</p>
+
+<p><strong>Mark:</strong> None, other than the turkey meal.</p>
+
+<p><strong>Billy:</strong> I don’t celebrate Thanksgiving, so none.</p>
+
+<h3 id="are-there-any-fun-thanksgiving-anecdotes-or-anything-else-youd-like-to-add">Are there any fun Thanksgiving anecdotes or anything else you'd like to add?</h3>
+
+<p><strong>Joel:</strong> It can be easy to forget that Thanksgiving is an American holiday. If you're living abroad, take a minute to find out if your other expat friends have a similar holiday (looking at you Canadians!). If they do, try to remember to do something nice and / or encourage them to have celebrations as well.</p>
+
+<p><strong>Annamarie:</strong> Having holidays away from the familiarity of home can be rough, but it can also be exciting. Whether you’re recreating the perfect traditional Thanksgiving dinner or coming up with a new way to celebrate, I hope everyone has a great holiday season!</p>
+
+<blockquote class="highlight-right">
+  <p>"Having holidays away from the familiarity of home can be rough, but it can also be exciting."</p>
+</blockquote>
+
+<p><strong>Katie:</strong> When we lived in Amsterdam, we were a part of a bunch of American friends that would get together for Thanksgiving and invite folks from other countries to participate. They always seemed to get such a kick out of being at an “actual” Thanksgiving celebration (just like they saw in the movies!). When we lived in Australia, our fantastic friends down the road offered to host Thanksgiving one year and even cooked a Turkey on the BBQ. We watched baseball games, drank champagne, and ate ourselves silly. It was epic for all of us.</p>
+
+<p><strong>Mark:</strong> It's all about family. The meal is secondary.</p>
+
+<p><strong>Billy:</strong> I could be mistaken, but I’m guessing most Americans don’t celebrate Thanksgiving here for a number of reasons. Finding a turkey is difficult. Even if you can procure a turkey, many (I’d venture to say most) Japanese households don’t have an oven, because Japanese cooking doesn’t require one. Thanksgiving generally falls on a working day, which, considering the hours most people work, makes preparing a gigantic meal impossible. Thanksgiving, to me at least, is a holiday tied to family and America, so it seems out of place to celebrate it if I’m not back home.</p>
+
+<h2 id="thanksgiving-in-japan-takeaways">Thanksgiving-in-Japan Takeaways</h2>
+
+<p>Between what our American and Canadian friends had to say about spending Thanksgiving in Japan and doing our own research, we learned that it’s not as easy to celebrate overseas as one might think. But it’s not impossible either. Here are our Thanksgiving-in-Japan takeaways:</p>
+
+<h3 id="where-to-find-turkey-and-the-rest">Where to find turkey (and the rest)</h3>
+
+<figure class="figure-right"><img alt="order on computer" src="https://files.tofugu.com/articles/japan/2016-11-22-thanksgiving-japan/online-shopping.jpg" /></figure>
+
+<p>Depending on where you live in Japan, turkey might be a challenge to find in a store, but it’s not necessarily impossible. Your best bet is Costco, if you happen to live near one (there are over two dozen stores in the country). Here is a <a href="https://www.costco.co.jp/store-finder">store locator</a>
+ to help you see if Costco is an option.</p>
+
+<p>One sure way you’ll find turkey is to go online to <a href="http://www.themeatguy.jp">The Meat Guy</a>. Their site says that if you order by 8:00 p.m. (from the main island) you can receive a frozen turkey by the next day. They’ve got an impressive list of other types of meat as well, including grass-fed beef, Iberico ham, and game. Best of all, they’ve got a wicked sense of humor, which you’ll enjoy as soon as you go to their site.</p>
+
+<p>And then there is always <a href="https://www.amazon.co.jp/s/ref=sr_nr_n_0?rh=n%3A57239051%2Ck%3Aターキー%2Cn%3A70934051&amp;keywords=ターキー&amp;ie=UTF8&amp;qid=1347604674&amp;rnid=57240051">Amazon Japan</a>. You won’t find the humor or variety of meats that you’ll find at The Meat Guy, but it’s another way to get a bird.</p>
+
+<p>For your side dishes, you can try shopping at  <a href="https://translate.google.com/translate?hl=en&amp;sl=ja&amp;u=https://www.seijoishii.co.jp/shop/&amp;prev=search">Seijo Ishii</a> if you have one nearby, as well as the online stores above.</p>
+
+<h3 id="turkey-replacements">Turkey replacements</h3>
+
+<p>If you have a hard time finding a turkey and don’t want to order it online, ham and chicken are also festive, fairly traditional, and, according to Joel, readily available. Just make sure to order the chicken from a grocery store meat counter “far in advance.” And if you live in Tokyo, you can check out the <a href="https://translate.google.com/translate?hl=en&amp;sl=ja&amp;u=http://www.honeybaked.co.jp/&amp;prev=search">Honey Baked Ham</a> shop in the Kamiyacho area.</p>
+
+<p>If celebrating in a traditional style isn’t that important to you, get creative. You can cook something that feels festive yet is easily available, such as Katie’s idea of serving salmon. It’s sure to be fresh, easy to find, and delicious.</p>
+
+<p>For all you vegetarians, sorry. We researched vegan turkeys in Japan, but it’s slim pickin’s – we couldn’t find a store that sold a meatless bird. So we perused various tofu turkey recipes, and chose this one at <a href="http://allrecipes.com/recipe/14113/tofu-turkey-i/">allrecipes</a> for its Japan-friendly ingredients, most of which you should be able to find at a large grocery store.</p>
+
+<h3 id="eating-out">Eating Out</h3>
+
+<p>If you and your guests will be too tired to cook a feast after work (it is on Thursday, after all), you can find a restaurant that serves Thanksgiving dinner – if you live in Tokyo. For instance, you can order a whole roast turkey, cornbread stuffing, mashed potatoes, and pumpkin pie at the <a href="http://restaurants.tokyo.grand.hyatt.com/oak-door-restaurant/index.html">Oak Door</a> steak house in Roppongi, according to <a href="http://bestlivingjapan.com/american-thanksgiving-dinner-tokyo-2016/">this article in Best Living Japan</a>, which has a list of six Thanksgiving-friendly restaurants in the city, as well as Thanksgiving takeout and catering.</p>
+
+<p>If you live outside of Tokyo, chances are slimmer that you’ll find turkey and mashed potatoes at a restaurant, but Annamarie found a turkey dinner at <a href="https://www.facebook.com/HappyDaysFukuroi/">Happy Days</a> in Fukuroi, Shizuoka Prefecture, and last year <a href="http://www.japantimes.co.jp/life/2015/11/20/food/give-thanks-restaurants-providing-turkey-dinners-thanksgiving/#.WCJdyTKZN0s">The Japan Times ran this article</a> that lists a Thanksgiving special at <a href="http://www.shooters-nagoya.com/home">Shooters Sports Bar and Grill</a> in Nagoya (as well as more ideas for Tokyo). Check with American-themed restaurants or American hotels in your area and you might hit the jackpot.</p>
+
+<h3 id="other-turkey-day-tips">Other Turkey Day Tips</h3>
+
+<figure class="figure-right"><img alt="turkey squeezed in oven" src="https://files.tofugu.com/articles/japan/2016-11-22-thanksgiving-japan/turkey-oven.jpg" /></figure>
+
+<ul>
+  <li>
+    <p>Make sure to measure the size of your oven – if you have one – before buying a turkey. Japanese ovens are usually smaller than those in turkey-roasting countries like the United States and Canada, so make sure the big bird is going to fly, er, fit.</p>
+  </li>
+  <li>
+    <p>Be flexible with the timing of your holiday. Our Thanksgiving Thursday is just another workday in Japan. While you might be accustomed to serving your Thanksgiving feast at 3:00 p.m., in Japan it probably ain’t gonna to happen ­– it’s unlikely that everyone included in your group will be able to get the day off. So go to Plan B and either have a morning holiday, like Joel sometimes does, or have a late night celebration. You can even move it to Saturday! It’s the spirit of the holiday that counts after all.</p>
+  </li>
+  <li>
+    <p>Thanksgiving is about enjoying a delicious meal and saying arigatou. Don’t worry about getting the exact right foods – mix in some Japanese vegetables, sake, or matcha tea if you want. Have fun introducing people of other nationalities to your holiday if that’s possible. In the end, it’s about friends, family, thanks, and appreciation, and these things can be celebrated anywhere, any time, and with any kind of spread on the table.</p>
+  </li>
+</ul>
+
+<aside class="blog-post-highlight article-sources"><div class="container"><h4>Sources</h4><ul><li><a href="http://www.japantimes.co.jp/life/2015/11/20/food/give-thanks-restaurants-providing-turkey-dinners-thanksgiving/#.WCJdyTKZN0s" title="View source">The Japan Times</a></li><li><a href="http://bestlivingjapan.com/american-thanksgiving-dinner-tokyo-2016/" title="View source">Best Living Japan</a></li><li><a href="https://en.wikipedia.org/wiki/Americans_in_Japan" title="View source">Wikipedia - Americans in Japan</a></li><li><a href="https://en.wikipedia.org/wiki/Canadian_diaspora" title="View source">Wikipedia - Canadian Diaspora</a></li></ul></div></aside>
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-articles japan-prev japanese-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='../tengu/index.html' title='View Tengu: The Japanese Demon That&#39;s Basically a Mini-God'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+Tengu: The Japanese Demon That's Basically a Mini-God
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='../../japanese/tsujigiri/index.html' title='View Tsujigiri: A Japanese word you don&#39;t see in other languages'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Tsujigiri: A Japanese word you don't see in other languages
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japan'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='../state-shinto/index.html' title='View State Shinto: A Religion Interrupted'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older japan' class='older-article-pagination'></span>
+</small>
+State Shinto: A Religion Interrupted
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='../tengu/index.html' title='View Tengu: The Japanese Demon That&#39;s Basically a Mini-God'>
+<small>
+<span aria-label='Newer japan' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Tengu: The Japanese Demon That's Basically a Mini-God
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='../../about/index.html' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.2' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs/index.html' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese/index.html' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='../../news/index.html' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='../../newsletter/index.html' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='../../podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='../../feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="../../javascripts/master-2164c2ee.js" defer="defer"></script><script src="../../javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

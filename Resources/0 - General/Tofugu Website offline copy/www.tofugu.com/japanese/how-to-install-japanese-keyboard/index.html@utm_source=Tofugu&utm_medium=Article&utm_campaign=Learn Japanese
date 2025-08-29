@@ -1,0 +1,1008 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Kristen Dexter' name='author'>
+<meta content='(ノ｀m´)ノ ~┻━┻ Installing Japanese keyboards is easy. Most are already on your device. Follow our guide for Mac, Windows, iOS, and Android.' name='description'>
+<meta content='typing, keyboard, japanese keyboard, how to install, technology' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='(ノ｀m´)ノ ~┻━┻ Installing Japanese keyboards is easy. Most are already on your device. Follow our guide for Mac, Windows, iOS, and Android.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='How to Install a Japanese Keyboard' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japanese/how-to-install-japanese-keyboard/' property='og:url'>
+<meta content='https://www.tofugu.com/japanese/how-to-type-in-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/chindogu-japanese-inventions/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kaomoji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/solar-energy/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/line-social-network-in-japan/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Kristen Dexter' property='article:author'>
+<meta content='2016-04-18T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japanese' property='article:section'>
+<meta content='typing' property='article:tag'>
+<meta content='keyboard' property='article:tag'>
+<meta content='japanese keyboard' property='article:tag'>
+<meta content='how to install' property='article:tag'>
+<meta content='technology' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@karkalla' name='twitter:creator'>
+<meta content='(ノ｀m´)ノ ~┻━┻ Installing Japanese keyboards is easy. Most are already on your device. Follow our guide for Mac, Windows, iOS, and Android.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='How to Install a Japanese Keyboard' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#d33682' name='twitter:widgets:link-color'>
+<meta content='#d33682' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-kristen-dexter-f04b6ee8.jpg",
+    "jobTitle": "Researcher",
+    "name": "Kristen Dexter",
+    "sameAs": [
+      "https://www.twitter.com/karkalla"
+    ],
+    "url": "https://www.tofugu.com/about/people/kristen-dexter/",
+    "description": "Kristen was a survivor of the Tofugu intern program and wrote articles for Tofugu when she wasn't doing translation work on WaniKani and EtoEto. She graduated from SUNY Albany 2014 and moved straight from the woods of Connecticut to Portland, OR to join the Tofugu Team. She went to Japan as a student ambassador in high school and attended Akita International University as a study abroad student in college. She spends most of her time playing video games and buying too much Sailor Moon merch."
+  },
+  "datePublished": "2016-04-18T00:00:00Z",
+  "description": "(ノ｀m´)ノ ~┻━┻ Installing Japanese keyboards is easy. Most are already on your device. Follow our guide for Mac, Windows, iOS, and Android.",
+  "headline": "How to Install Japanese Keyboard on Everything",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "typing, keyboard, japanese keyboard, how to install, technology",
+  "name": "How to Install Japanese Keyboard on Everything",
+  "url": "https://www.tofugu.com/japanese/how-to-install-japanese-keyboard/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2016-04-18T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japanese/how-to-install-japanese-keyboard/"
+}
+</script>
+
+<title>How to Install Japanese Keyboard on Everything</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japanese/how-to-install-japanese-keyboard/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='https://www.tofugu.com/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://www.tofugu.com/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://www.tofugu.com/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://www.tofugu.com/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://www.tofugu.com/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='https://www.tofugu.com/favicon.png' rel='shortcut icon'>
+<link href='https://www.tofugu.com/favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japanese japanese_how-to-install-japanese-keyboard japanese_how-to-install-japanese-keyboard_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='https://www.tofugu.com/'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japanese/' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='https://www.tofugu.com/japanese/' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.1' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-learning-resources-database/' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japan/' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='https://www.tofugu.com/japan/' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/series/' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/travel/' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/reviews/' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/interviews/' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='https://www.tofugu.com/podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+How to Install a Japanese Keyboard
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+On Apple, Windows, Computers, Phones, You name it!
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2016-04-18T00:00:00Z">April 18, 2016</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="https://www.tofugu.com/about/people/kristen-dexter/" rel="author">Kristen Dexter</a>
+•
+Art by
+<a href="https://www.tofugu.com/about/people/aya-francisco/">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>Installing Japanese keyboards on non-Japanese computers has gotten much easier in the past ten years. No more special discs with complicated software. In fact, just about every computer has a Japanese keyboard ready and waiting inside of it.</p>
+
+<p>You just have to know how to get in there, turn it on, and make it work for you.</p>
+
+<p>That's where we come in. We get a lot of emails from people struggling to install and switch between Japanese keyboards. In this guide we'll show you how to install Japanese keyboard inputs, set awesome shortcuts for <a href="https://www.tofugu.com/japanese/be-more-productive/">better productivity</a>, and type anything you could ever want, all without needing a "real" Japanese computer or keyboard.</p>
+
+<p>Ready? レツゴーー！</p>
+
+<ul id="markdown-toc">
+  <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#how-to-install-japanese-keyboards-on-your-computer" id="markdown-toc-how-to-install-japanese-keyboards-on-your-computer">How to Install Japanese Keyboards on your Computer</a>    <ul>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#mac-osx" id="markdown-toc-mac-osx">Mac OSX</a>        <ul>
+          <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#osx-shortcuts" id="markdown-toc-osx-shortcuts">OSX Shortcuts</a></li>
+        </ul>
+      </li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#windows-10" id="markdown-toc-windows-10">Windows 10</a>        <ul>
+          <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#windows-10-shortcuts" id="markdown-toc-windows-10-shortcuts">Windows 10 Shortcuts</a></li>
+          <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#windows-10-ime-pad" id="markdown-toc-windows-10-ime-pad">Windows 10 IME Pad</a></li>
+        </ul>
+      </li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#windows-7" id="markdown-toc-windows-7">Windows 7</a>        <ul>
+          <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#windows-7-language-bar" id="markdown-toc-windows-7-language-bar">Windows 7 Language Bar</a></li>
+          <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#windows-7-shortcuts" id="markdown-toc-windows-7-shortcuts">Windows 7 Shortcuts</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#how-to-install-japanese-keyboards-on-your-phone-or-tablet" id="markdown-toc-how-to-install-japanese-keyboards-on-your-phone-or-tablet">How to Install Japanese Keyboards on your Phone or Tablet</a>    <ul>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#ios" id="markdown-toc-ios">iOS</a>        <ul>
+          <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#ios-chinese-secrets" id="markdown-toc-ios-chinese-secrets">iOS Chinese Secrets</a></li>
+        </ul>
+      </li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese#android" id="markdown-toc-android">Android</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="how-to-install-japanese-keyboards-on-your-computer">How to Install Japanese Keyboards on your Computer</h2>
+
+<p>The first thing you need to do is figure out what kind of computer you're using. If you don't know, here's an easy way to tell:</p>
+
+<ul>
+  <li>If there's an apple on it, you've got a Mac.</li>
+  <li>If not, you've a got a PC.</li>
+</ul>
+
+<p>Kidding aside, you probably already know what kind of computer you have. It's a really good thing to know.</p>
+
+<h3 id="mac-osx">Mac OSX</h3>
+
+<p>We'll start off with Mac instructions for installing Japanese keyboards.</p>
+
+<p>Go to <code>System Preferences</code> &gt; <code>Language &amp; Region</code>.</p>
+
+<figure class="figure-middle"><img alt="mac osx settings" style="width: 674px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/osx-settings-page.jpg" /></figure>
+
+<p>Once in <code>Language &amp; Region</code>, click the <code>+</code> (plus) sign under the <code>Preferred languages</code> box. It will bring up a list of languages.</p>
+
+<figure class="figure-middle"><img alt="mac osx language and region" style="width: 669px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/osx-language-and-region.jpg" /></figure>
+
+<p>Select <code>日本語 — Japanese</code>.</p>
+
+<figure class="figure-middle"><img alt="mac osx japanese language selection" style="width: 670px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/osx-choose-japanese.jpg" /></figure>
+
+<p>Hit <code>Add</code>.</p>
+
+<p>You'll get a prompt asking whether you'd like to change your primary language from English (or whatever it currently is) to Japanese. Unless you're fluent in Japanese, don't switch. Just choose <code>Use English</code> for now.</p>
+
+<figure class="figure-middle"><img alt="mac osx language setting" style="width: 669px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/osx-use-english.jpg" /></figure>
+
+<p>Next click on <code>Keyboard Preferences</code> at the bottom.</p>
+
+<figure class="figure-middle"><img alt="mac osx language and region dialog box" style="width: 670px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/osx-language-and-region-with-japanese.jpg" /></figure>
+
+<p>It will bring you to a menu called <code>Input Sources</code>. Click the <code>+</code> (plus) at the bottom left and choose <code>Japanese</code> and hit <code>Add</code>.</p>
+
+<figure class="figure-middle"><img alt="mac osx input sources" style="width: 669px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/osx-input-sources.jpg" /></figure>
+
+<p>Now you'll have the option to choose which inputs to use.</p>
+
+<figure class="figure-middle"><img alt="mac osx japanese keyboard input sources" style="width: 668px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/osx-choose-input-source.jpg" /></figure>
+
+<p>I use <code>Full-width Alphanumeric (Google)</code> for English (better than your default <code>U.S.</code>), and <code>Hiragana (Google)</code> for Japanese. (If you don't already have Google Japanese Input on your computer, you can get it <a href="https://www.google.co.jp/intl/ja/ime/">here</a>)</p>
+
+<p>You don't need anything else from this list because you're able to choose everything you need with these two alone.</p>
+
+<p>Now that you have your keyboards set up, you'll see them in the top right toolbar, right near the time.</p>
+
+<p>If you want to be a slow, sad person, you can drag your mouse up there and click through when you want to switch between your keyboards.</p>
+
+<p>Or, you can be an efficient Japanese beast switching from English to Japanese and back without even blinking! Shortcuts will show you the way.</p>
+
+<h4 id="osx-shortcuts">OSX Shortcuts</h4>
+
+<p>Your keyboards will probably already have some shortcuts associated with them. Here are the defaults, which you can use whenever you want to switch between English and Japanese:</p>
+
+<blockquote>
+  <p>English: <code>control + shift + ;</code></p>
+
+  <p>Japanese: <code>control + shift + j</code></p>
+</blockquote>
+
+<p>But now there's a small problem. When you added the Japanese keyboard, it probably enabled another shortcut that conflicts with other programs. It's <code>command + space</code>. This filters through your language options, always going to the next one.</p>
+
+<p>If you're like me, you already use <code>command + space</code> for search programs like Spotlight or Alfred.</p>
+
+<p>Here's how you turn that off:</p>
+
+<p>Go to back to <code>System Preferences</code> &gt; <code>Keyboard</code> &gt; <code>Shortcuts</code>.</p>
+
+<figure class="figure-middle"><img alt="mac osx shortcuts" style="width: 669px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/osx-shortcuts-input-sources.jpg" /></figure>
+
+<p>Once in shortcuts click on <code>Input Sources</code>.</p>
+
+<p>Now just uncheck both:</p>
+
+<blockquote>
+  <p><code>Select the previous input source</code></p>
+
+  <p><code>Select next source in Input menu</code></p>
+</blockquote>
+
+<p>Or, instead of unchecking them, change the inputs to something you aren't already using.</p>
+
+<p>And that's it! Now you have an easy to use Japanese keyboard at your fingertips!</p>
+
+<h3 id="windows-10">Windows 10</h3>
+
+<p>Next, let's walk through how to install a Japanese keyboard in Windows 10.</p>
+
+<p>First, click on the little Windows symbol (the one that replaced the old Start bar) in the bottom left corner. From there, click on the cogwheel icon to naviate to <code>Settings</code>.</p>
+
+<figure class="figure-middle"><img alt="windows 10 start menu" style="width: 669px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/win-10-1.jpg" /></figure>
+
+<p>Inside <code>Settings</code>, you'll see a menu with eight buttons. Click on <code>Time &amp; Language</code>.</p>
+
+<figure class="figure-middle"><img alt="windows 10 settings" style="width: 669px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/win-10-2.jpg" /></figure>
+
+<p>A window will open with <code>Date &amp; time</code> settings. Click on <code>Region &amp; language</code>.</p>
+
+<figure class="figure-middle"><img alt="windows 10 time and language" style="width: 669px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/win-10-3.jpg" /></figure>
+
+<p>Once you're on the <code>Region &amp; language</code> screen, click the <code>Add a language</code> button.</p>
+
+<figure class="figure-middle"><img alt="windows 10 region &amp; language" style="width: 669px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/win-10-4.jpg" /></figure>
+
+<p>You'll see a bunch of languages in big boxes. Either Scroll down or use the search box to find <code>日本語</code> (Japanese) and click <code>Next</code>.</p>
+
+<figure class="figure-middle"><img alt="windows 10 choose language" style="width: 669px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/win-10-5.jpg" /></figure>
+
+<p>Next you'll have a couple of options. Chances are you'll want to unselect the box that says <code>Set as my Windows display language</code> (unless you are looking for some total immersion!). You can also choose to install speech and handwriting tools as well. Once you've made your selections, click <code>Install</code>.</p>
+
+<figure class="figure-middle"><img alt="windows 10 japanese install options" style="width: 669px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/win-10-6.jpg" /></figure>
+
+<p>Once the installation is complete, you'll see <code>Language pack installed</code> in the <code>日本語</code> box. That's it! You're ready to type away in Japanese.</p>
+
+<figure class="figure-middle"><img alt="windows 10 language pack installed" style="width: 669px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/win-10-7.jpg" /></figure>
+
+<h4 id="windows-10-shortcuts">Windows 10 Shortcuts</h4>
+
+<p>There are shortcuts for switching between language keyboards already on your PC! To switch between the two, here's what you do:</p>
+
+<p><code>Windows button + spacebar</code></p>
+
+<p>This will cycle between the two languages.</p>
+
+<figure class="figure-middle"><img alt="windows 10 japanese keyboard selected" style="width: 300px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows10-japanese-english-switch.jpg" /></figure>
+
+<figure class="figure-middle"><img alt="windows 10 english keyboard selected" style="width: 300px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows10-english-japanese-switch.jpg" /></figure>
+
+<p>You'll also be able to see what mode you're in at the bottom of the screen in your toolbar.</p>
+
+<figure class="figure-middle"><img alt="windows 10 toolbar switching keyboards" style="width: 301px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows10-toolbar-english-japanese-switch.jpg" /></figure>
+
+<figure class="figure-middle"><img alt="windows 10 keyboard toolbar with english highlighted" style="width: 301px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows10-tooblar-japanese-english-switch.jpg" /></figure>
+
+<p>And you can choose your input method by right-clicking on the <code>A</code> or the <code>あ</code>.</p>
+
+<figure class="figure-middle"><img alt="windows 10 hiragana input options" style="width: 344px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows10-hiragana-input-options.jpg" /></figure>
+
+<p>Now you can type in Japanese like this:</p>
+
+<figure class="figure-middle"><img alt="using windows 10 to type in google" style="width: 548px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows10-typing-in-google.jpg" /></figure>
+
+<h4 id="windows-10-ime-pad">Windows 10 IME Pad</h4>
+
+<p>As an added bonus, when you use Windows you get this neat little option called <code>IME Pad</code>.</p>
+
+<figure class="figure-middle"><img alt="windows 10 ime pad drawing example" style="width: 530px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows10-ime-pad-handwriting.jpg" /></figure>
+
+<p>You can use it to draw a kanji character you don't remember the reading for, or to <a href="https://www.tofugu.com/japanese/look-up-kanji/">look up a kanji you don't know</a>. The <a href="https://www.tofugu.com/japanese/kanji-stroke-order/">stroke order kind of matters</a>, but the quality of your drawing doesn't so much, as you can see here:</p>
+
+<figure class="figure-middle"><img alt="poorly drawn windows 10 ime character" style="width: 528px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows10-bad-character-ime-pad.jpg" /></figure>
+
+<p>There are also tabs that let you look up kanji by radical.</p>
+
+<figure class="figure-middle"><img alt="kanji radicals in windows 10 ime pad" style="width: 474px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows10-ime-pad-radical.jpg" /></figure>
+
+<p>Or the number of strokes.</p>
+
+<figure class="figure-middle"><img alt="kanji strokes in windows 10 ime pad" style="width: 455px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows10-ime-pad-strokes.jpg" /></figure>
+
+<p>Very useful for language learners!</p>
+
+<h3 id="windows-7">Windows 7</h3>
+
+<p>A lot of people still have Windows 7 and swear by it. So time to reveal the secrets of Windows 7 Japanese input. The process is a little different than 10, so here's how to do it:</p>
+
+<p>Go to <code>Start</code> or the little <code>Windows Button</code> and click on the <code>control panel</code>.</p>
+
+<figure class="figure-middle"><img alt="start menu for windows 7" style="width: 411px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-start-menu.jpg" /></figure>
+
+<p>Click on <code>Change keyboards or other input methods</code> under <code>Clock, Language, and Region</code>.</p>
+
+<figure class="figure-middle"><img alt="control panel for windows 7" style="width: 867px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-control-panel.jpg" /></figure>
+
+<p>This will bring you to another menu where you choose <code>Change keyboards or other input methods</code>.</p>
+
+<figure class="figure-middle"><img alt="clock, language, region section of windows 7" style="width: 867px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-clock-language-region.jpg" /></figure>
+
+<p>Make sure you're in the <code>Keyboard and Languages</code> tab and click <code>Change keyboards</code>.</p>
+
+<figure class="figure-middle"><img alt="keyboards and languages setting in windows 7" style="width: 867px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-keyboards-and-languages.jpg" /></figure>
+
+<p>Then click on <code>Add...</code></p>
+
+<figure class="figure-middle"><img alt="adding languages in windows 7" style="width: 869px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-add-language.jpg" /></figure>
+
+<p>And scroll to the middle and expand the <code>Japanese (Japan)</code> option.</p>
+
+<figure class="figure-middle"><img alt="installing japanese keyboard in windows 7" style="width: 869px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-add-japanese.jpg" /></figure>
+
+<p>You'll have a few options. Choose <code>Microsoft IME</code> and hit <code>OK</code>. You can add <code>Japanese</code> too, if you'd like.</p>
+
+<figure class="figure-middle"><img alt="windows 7 keyboard options" style="width: 869px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-keyboard-options.jpg" /></figure>
+
+<p>Now <code>Apply</code> it and/or hit <code>OK</code>.</p>
+
+<figure class="figure-middle"><img alt="applying settings in windows 7" style="width: 869px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-apply-settings.jpg" /></figure>
+
+<p>This will add a little <code>EN</code> to the right side of your toolbar.</p>
+
+<figure class="figure-middle"><img alt="the en english keyboard in windows 7 toolbar" style="width: 347px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-en-in-toolbar.jpg" /></figure>
+
+<p>You can click on it to switch between English and Japanese.</p>
+
+<figure class="figure-middle"><img alt="en jp switching toolbar in windows 7" style="width: 292px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-en-jp-toolbar.jpg" /></figure>
+
+<p>When you do switch to Japanese it will automatically put you into Alphanumeric mode, which isn't very helpful since you want to be typing in Japanese and not English.</p>
+
+<figure class="figure-middle"><img alt="windows 7 alphanumeric toolbar" style="width: 322px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-alpha-toolbar.jpg" /></figure>
+
+<p>Click on the <code>A</code> to change it to <code>Hiragana</code>.</p>
+
+<figure class="figure-middle"><img alt="input options toolbar in windows 7" style="width: 288px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-input-options-toolbar.jpg" /></figure>
+
+<p>And the <code>A</code> will change to <code>あ</code>. That's how you know your Japanese input method.</p>
+
+<figure class="figure-middle"><img alt="windows 7 input options toolbar" style="width: 299px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-hiragana-toolbar.jpg" /></figure>
+
+<h4 id="windows-7-language-bar">Windows 7 Language Bar</h4>
+
+<p>If you have trouble with all your language options being smooshed into your toolbar, you can go back to the language menu and choose <code>Show the Language Bar</code>.</p>
+
+<figure class="figure-middle"><img alt="japanese keyboard toolbar in windows 7" style="width: 292px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-en-jp-toolbar.jpg" /></figure>
+
+<p>This will open up a movable bar with all your options attached to it. It also gives easy access to the IME Pad, which is pretty much the same as the one in Windows 10.</p>
+
+<figure class="figure-middle"><img alt="windows 7 language bar" style="width: 674px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-language-bar.jpg" /></figure>
+
+<p>You can draw kanji to look them up.</p>
+
+<figure class="figure-middle"><img alt="ime pad handwriting in windows 7" style="width: 530px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-ime-pad-handwriting.jpg" /></figure>
+
+<p>Look up kanji by radical.</p>
+
+<figure class="figure-middle"><img alt="ime pad radicals in windows 7" style="width: 474px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-ime-pad-radicals.jpg" /></figure>
+
+<p>And by number of strokes.</p>
+
+<figure class="figure-middle"><img alt="windows 7 ime pad strokes" style="width: 455px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-ime-pad-strokes.jpg" /></figure>
+
+<p>Good stuff!</p>
+
+<h4 id="windows-7-shortcuts">Windows 7 Shortcuts</h4>
+
+<p>Like Windows 10, Windows 7 has shortcuts automatically assigned to switching between your languages.</p>
+
+<p>To cycle through your languages use:</p>
+
+<p><code>left alt + shift</code></p>
+
+<p>But if you don't want to use that (for some reason) you can change the settings like this:</p>
+
+<p>Go back to <code>control panel</code> &gt; <code>Change keyboards or other input methods</code> &gt; <code>Change keyboards</code>.</p>
+
+<figure class="figure-middle"><img alt="applying settings to windows 7" style="width: 869px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-apply-settings.jpg" /></figure>
+
+<p>Now here's where things get different.</p>
+
+<p>Go to the <code>Advanced Key Settings</code>.</p>
+
+<figure class="figure-middle"><img alt="advanced key settings in windows 7" style="width: 869px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-advanced-key-settings.jpg" /></figure>
+
+<p>And select whichever language you'd like to change the shortcuts for.</p>
+
+<figure class="figure-middle"><img alt="key bindings in windows 7" style="width: 869px;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/windows7-key-bindings.jpg" /></figure>
+
+<p>You only have a few options.</p>
+
+<p>Basically:</p>
+
+<blockquote>
+  <p><code>ctrl + number</code></p>
+
+  <p><code>ctrl + shift + number</code></p>
+
+  <p><code>left alt + shift + number</code></p>
+</blockquote>
+
+<p>These can be really helpful if you're typing in more than 2 languages. For example, if you're writing a paper using English, Japanese, Korean, and Mandarin, this can help make the process much less frustrating.</p>
+
+<p>But you should be careful. If any other shortcuts (which may be default on your computer) are the same as the shortcuts you're making, they won't work. So it's probably best to stick with the default cycle shortcut if you aren't dealing with 3+ language keyboards.</p>
+
+<h2 id="how-to-install-japanese-keyboards-on-your-phone-or-tablet">How to Install Japanese Keyboards on your Phone or Tablet</h2>
+
+<p>It's the future and installing a Japanese keyboard is easy-peasy! Well, mostly. But once you learn how to do it, you'll have opened a whole new world of fun.</p>
+
+<h3 id="ios">iOS</h3>
+
+<p>Installing Japanese keyboards on your iPhone or iPad is a breeze. These instructions will (or should) work for all current iOS devices.</p>
+
+<p>If you've installed the emoji keyboard, then this should be very familiar. If you haven't, then follow these instructions but switch out <code>Japanese</code> for <code>Emoji</code>, and you can thank me later.</p>
+
+<p>First, go to your <code>Settings</code> and click on <code>General</code>.</p>
+
+<figure class="figure-middle"><img alt="ios settings" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/ios-settings.jpg" /></figure>
+
+<p>Then <code>Keyboard</code>.</p>
+
+<figure class="figure-middle"><img alt="ios keyboard settings" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/ios-keyboard.jpg" /></figure>
+
+<p>And then <code>Keyboards</code> with an s.</p>
+
+<figure class="figure-middle"><img alt="installing japanese ios keyboards" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/ios-keyboards.jpg" /></figure>
+
+<p>You'll see a list of the keyboards you already have installed.</p>
+
+<p>Click on <code>Add New Keyboard</code>.</p>
+
+<figure class="figure-middle"><img alt="ios add new keyboard" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/ios-add-new-keyboard.jpg" /></figure>
+
+<p>Scroll down to <code>Japanese</code>. (Mine is suggested because I've used it before.)</p>
+
+<figure class="figure-middle"><img alt="choosing japanese keyboard input on ios" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/ios-choose-japanese.jpg" /></figure>
+
+<p>Now choose <code>Kana</code> and/or <code>Romaji</code> and <code>Done</code> at the top right.</p>
+
+<figure class="figure-middle"><img alt="choosing between kana or romaji methods on ios" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/ios-kana-or-romaji.jpg" /></figure>
+
+<p>That's it! To use it go to your messages and start as you normally would. But now you'll see that there is a new symbol, this little globe circle.</p>
+
+<figure class="figure-middle"><img alt="ios keyboard layout" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/ios-language-globe.jpg" /></figure>
+
+<p>It will switch to the next (or whatever it thinks you want) keyboard, which should be Japanese!</p>
+
+<p>Some versions of Android/Google IME do not show the globe, but fear not! You can also hold down the space bar to switch between input languages.</p>
+
+<p>The Kana mode looks like this:</p>
+
+<figure class="figure-middle"><img alt="ios 12 key japanese keyboard layout" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/ios-kana-keyboard.jpg" /></figure>
+
+<p>And the Romaji mode looks like this:</p>
+
+<figure class="figure-middle"><img alt="ios romaji keyboard layout" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/ios-romaji-keyboard.jpg" /></figure>
+
+<h4 id="ios-chinese-secrets">iOS Chinese Secrets</h4>
+
+<p>Want to quickly look up kanji on your phone without using an outdated app, waiting for your browser, or having to pay for a drawing tool? We've got a hack for you!</p>
+
+<p>Follow all those iOS keyboard instructions above, but stop after you hit the <code>Add New Keyboard</code> step.</p>
+
+<p>Instead, scroll down until you reach <code>Chinese (Simplified)</code>. Then under the keyboard choices choose <code>Handwriting</code>.</p>
+
+<figure class="figure-middle"><img alt="choosing handwriting option in ios chinese keyboard" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/ios-chinese-handwriting.jpg" /></figure>
+
+<p>Now you have a new keyboard option that opens up a drawing IME. It may be for Chinese, but remember a ton of Japanese and Chinese characters are shared. And it works for both!</p>
+
+<figure class="figure-middle"><img alt="poorly drawn kanji in ios chinese lookup" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/ios-chinese-lookup.jpg" /></figure>
+
+<p>This works when you're texting your friends and trying to look up or save a kanji to look up later on. Even better, it doesn't care about stroke order like most Japanese apps. And it doesn't use the same database as most Japanese - English dictionaries (Jim Breen, Jisho.org, Tangorin, etc.). Also you don't need an internet connection to use it! Handy, right?</p>
+
+<h3 id="android">Android</h3>
+
+<p>For non-Apple people, there's only one way to go. Time to look at installing Japanese keyboards on Android. These instructions will (or should) work for all current Android devices.</p>
+
+<p>First, you need to download a Japanese keyboard. To do this open the <code>Play Store</code>.</p>
+
+<figure class="figure-middle"><img alt="android home screen" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/android13-play-store.jpg" /></figure>
+
+<p>Then in the search bar type in <code>gboard</code>.</p>
+
+<figure class="figure-middle"><img alt="searching for gboard on google play store" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/android13-gboard-search.jpg" /></figure>
+
+<p>The first non-advertisement option will almost definitely be the <code>Gboard</code> app.</p>
+
+<figure class="figure-middle"><img alt="play store search results for gboard" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/android13-search-results.jpg" /></figure>
+
+<p>This one is free and easy to use so let's <code>INSTALL</code>.</p>
+
+<figure class="figure-middle"><img alt="play store page for gboard" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/android13-gboard-app-page.jpg" /></figure>
+
+<p>Give it permission and download that baby.</p>
+
+<figure class="figure-middle"><img alt="downloading gboard on android" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/android13-downloading-app.jpg" /></figure>
+
+<p>Open it up and tap the button to be brought to your keyboard settings menu.</p>
+
+<figure class="figure-middle"><img alt="step 1 of gboard onboarding" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/android13-enable-in-settings.jpg" /></figure>
+
+<p>You should be brought to your phone's <code>Keyboard &amp; Input Method</code> screen. This may look a little different depending on what phone you have. Look for Gboard and turn it on!</p>
+
+<figure class="figure-middle"><img alt="enabling gboard from keyboard menu" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/android13-gboard-enable.jpg" /></figure>
+
+<p>Navigate back to the Gboard app and you should now be on step 2! Tap the <code>Select Input Method</code> button next.</p>
+
+<figure class="figure-middle"><img alt="step 2 of gboard onboarding" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/android13-select-input-method.jpg" /></figure>
+
+<p>A pop-up menu should appear with <code>Gboard</code> as one of your possible options.</p>
+
+<figure class="figure-middle"><img alt="input method pop-up menu" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/android13-input-method-popup.jpg" /></figure>
+
+<p>Once you select Gboard, you should be brought to the settings menu for you new Gboard keyboard! Select <code>Languages</code> at the top of the settings menu next.</p>
+
+<figure class="figure-middle"><img alt="settings menu for gboard" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/android13-gboard-settings.jpg" /></figure>
+
+<p>From the languages screen, tap <code>+ Add Keyboard</code>.</p>
+
+<figure class="figure-middle"><img alt="languages menu for gboard" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/android13-languages-menu.jpg" /></figure>
+
+<p>Next, search for <code>Japanese</code> and select it.</p>
+
+<figure class="figure-middle"><img alt="searching Japanese on gboard" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/android13-search-japanese.jpg" /></figure>
+
+<p>You'll be brought to another settings menu for the Japanese keyboard. Select your preferred methods of input at the top of the screen and tap <code>Done</code></p>
+
+<figure class="figure-middle"><img alt="selecting Japanese input methods" style="width: 60%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/android13-select-keyboards.jpg" /></figure>
+
+<p>Now when you go to type, you can click the (new) little globe near the bottom left to switch between your different languages and input methods within Gboard.</p>
+
+<p>Here is your new keyboard:</p>
+
+<figure class="figure-middle"><img alt="gboard 12 key kana japanese keyboard" style="width: 70%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/android13-12-keys.jpg" /></figure>
+
+<p>You tap and pull toward the character you'd like to input.</p>
+
+<figure class="figure-middle"><img alt="typing ku on android japanese keyboard" style="width: 70%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/android13-12-key-swipe.jpg" /></figure>
+
+<p>And even better, there is a <a href="https://www.tofugu.com/japanese/kaomoji/">kaomoji</a> keyboard built in!</p>
+
+<figure class="figure-middle"><img alt="kaomoji keyboard for android" style="width: 70%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/android13-kaomoji.jpg" /></figure>
+
+<p>If you enabled other input methods from the Japanese settings screen, you can tap the globe icon on your keyboard to switch between your different Japanese input methods!</p>
+
+<figure class="figure-middle"><img alt="qwerty japanese keyboard for android" style="width: 70%;" src="https://files.tofugu.com/articles/japanese/2016-04-18-how-to-install-japanese-keyboard/android13-qwerty-input.jpg" /></figure>
+
+<hr />
+
+<p>And there you have it! You know how to install Japanese keyboard inputs. More than you ever dreamed. But what to do with them?</p>
+
+<p>Keep an eye out for Part II, where we teach you <strong>how</strong> to type in Japanese, using the keyboards you just installed. See ya then.</p>
+
+<!-- Durt Durt! Hmm, not bad, you're on the right track! -->
+
+<aside class="blog-post-highlight article-sources"><div class="container"><h4>Sources</h4><ul><li><a href="https://coscom.co.jp/learnjapanese801/index.html" title="View source">CosCom - How to Type in Japanese</a></li><li><a href="http://nihonshock.com/2010/04/12-japanese-ime-tips/" title="View source">12 Japanese IME Tips</a></li><li><a href="https://www.google.co.jp/intl/ja/ime/" title="View source">Google - 日本語入力</a></li><li><a href="https://en.wikipedia.org/wiki/Japanese_typographic_symbols" title="View source">Wikipedia - Japanese Typographic Symbols</a></li><li><a href="http://www.hadamitzky.de/english/lp_special_chars.htm" title="View source">Wolfgang Hadamitzky - Special Characters and Symbols</a></li></ul></div></aside>
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-articles japan-prev japanese-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='https://www.tofugu.com/japan/wabi-sabi/' title='View Wabi-Sabi and Understanding Japan'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+Wabi-Sabi and Understanding Japan
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='https://www.tofugu.com/japanese/chibi/' title='View Chibi: The Japanese Word That&#39;s Cute And Offensive'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Chibi: The Japanese Word That's Cute And Offensive
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japanese'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='https://www.tofugu.com/japanese/chibi/' title='View Chibi: The Japanese Word That&#39;s Cute And Offensive'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older japanese' class='older-article-pagination'></span>
+</small>
+Chibi: The Japanese Word That's Cute And Offensive
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='https://www.tofugu.com/japanese/hiragana-chart/' title='View 27 Hiragana Charts: Stroke Order, Practice, Mnemonics, and More'>
+<small>
+<span aria-label='Newer japanese' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+27 Hiragana Charts: Stroke Order, Practice, Mnemonics, and More
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/about/' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.1' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs.1' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese.1' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/news/' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/newsletter/' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/master-2164c2ee.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

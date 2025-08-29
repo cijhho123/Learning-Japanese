@@ -1,0 +1,889 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Michael Richey' name='author'>
+<meta content='Why is November 11th Pocky Day? Where did it start? And why is it so delicious?' name='description'>
+<meta content='food' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Why is November 11th Pocky Day? Where did it start? And why is it so delicious?' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='Pocky Day: Celebrating Japan&#39;s Favorite Stick Snack' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japan/pocky-day/' property='og:url'>
+<meta content='https://www.tofugu.com/travel/dezuka-suisan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/mochi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/yatai/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/thanksgiving-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/kagaya-izakaya/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/japan-crate/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/okonomiyaki/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/hamburgirl-z-idol-group/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/ramen-museum-shin-yokohama/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/daiki-suisan-sushi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ekiben-train-station-bento/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/tonkatsu-shimizu/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/tokushima-ramen-festival/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-mushrooms/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/rice-cooker-history/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/kiku-masamune/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/katsuobushi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/niconico-headquarters-cafe/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/clamp-coffee-sarasa/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/nabe-hot-pot/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/kashiya-yokochou-edoya/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japans-dependence-chinas-unsafe-food/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/amezaiku-japanese-candy/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-delicacy/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/fukuro-no-mise-owl-cafe/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/kuzukiri-yamaga/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/shunkado-unagi-pie-factory/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-seaweed/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-foods-lost-in-translation/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kamaboko-fish-cake/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/onigiri-japanese-rice-ball/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/history-of-ramen/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/rice-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/unagi-japanese-eel/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/gensho-nishigaki-tankuma/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/tankuma-egg-rice-restaurant-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/kita-no-aisu-ya-san-otaru/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/egg-vending-machine-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tamago-kake-gohan-raw-egg-on-rice/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/nuts-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/sampuru/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/me-me-me-cafe/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-coffee/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kawaii-japanese-food-characters/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/omotesando-koffee/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/goat-cafe-sakuraoka/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/hige-man-ume-chan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-food-dramas/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/lies-and-sushi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/wasabi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/learn-japanese-through-cooking/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-soy-foods/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-chocolate/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/chopsticks-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tea-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-food-movies/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-whisky/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/what-i-dont-miss-about-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/spirited-away-food/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/what-i-miss-about-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-food-by-prefecture/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-mayonnaise/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ramen-survival-guide/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/cold-stomach-sickness/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/buddhist-monk-diet/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/table-manners/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/what-is-kobe-beef/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-beer-wars/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/viking-buffet/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/unique-japanese-fruit/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ramen-noodle-diary/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-convenience-stores/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/umami/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-fast-food/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/zauo-fish-restaurant/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Michael Richey' property='article:author'>
+<meta content='2016-11-11T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japan' property='article:section'>
+<meta content='food' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@tofugu' name='twitter:creator'>
+<meta content='Why is November 11th Pocky Day? Where did it start? And why is it so delicious?' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='Pocky Day: Celebrating Japan&#39;s Favorite Stick Snack' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#268bd2' name='twitter:widgets:link-color'>
+<meta content='#268bd2' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-michael-richey-9c293d25.jpg",
+    "jobTitle": "Designer",
+    "name": "Michael Richey",
+    "sameAs": [
+
+    ],
+    "url": "https://www.tofugu.com/about/people/michael-richey/",
+    "description": "Michael is a designer at Tofugu. He grew up in Charlotte, NC and studied writing and film production at North Carolina School of the Arts. After college, he lived in Hikone, Shiga in Japan for two years on the JET Program. In his spare time, Michael makes comics zines, plays Famicom, and spends time with his family.",
+    "email": "michael@tofugu.com"
+  },
+  "datePublished": "2016-11-11T00:00:00Z",
+  "description": "Why is November 11th Pocky Day? Where did it start? And why is it so delicious?",
+  "headline": "Pocky Day: Celebrating Japan's Favorite Stick Snack",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "food",
+  "name": "Pocky Day: Celebrating Japan's Favorite Stick Snack",
+  "url": "https://www.tofugu.com/japan/pocky-day/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2016-11-11T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japan/pocky-day/"
+}
+</script>
+
+<title>Pocky Day: Celebrating Japan's Favorite Stick Snack</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="../../stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japan/pocky-day/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='../../apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='../../apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='../../apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='../../apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='../../apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='../../favicon.png' rel='shortcut icon'>
+<link href='../../favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japan japan_pocky-day japan_pocky-day_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='../../index.html'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../../japanese/index.html' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='../../japanese/index.html' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.2' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='../../japanese-learning-resources-database/index.html' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../index.html' id='dJapan'>
+Japan <i class="fa fa-globe"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='../index.html' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../series/index.html' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../travel/index.html' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../reviews/index.html' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../interviews/index.html' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='../../podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+Pocky Day: Celebrating Japan's Favorite Stick Snack
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+The official snack of late night anime binges gets its own day
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2016-11-11T00:00:00Z">November 11, 2016</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/michael-richey/index.html" rel="author">Michael Richey</a>
+•
+Art by
+<a href="../../about/people/aya-francisco/index.html">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>Pocky is one of the most delicious Japanese snacks ever. Every time you buy it or <a href="../../reviews/japan-crate/index.html">receive it in a monthly subscription box</a>, it makes you happy. Light and crunchy. Perfectly portable. Doesn't Pocky's excellence make you wish you could celebrate it somehow? Like dedicate some kind of 24 hour period to its shape, size, flavor, and texture?</p>
+
+<p>Good news! You can (and you will). Every 11th of November, all of Japan celebrates Pocky Day. If you want to get in on the fun, keep reading. We've got the story behind Pocky Day's creation and tons of tips for celebrating like a pious Pocky acolyte.</p>
+
+<h2 id="what-is-pocky-day">What Is Pocky Day?</h2>
+
+<figure class="figure-middle"><img alt="a box of chocolate pocky opened with pocky sticks coming out" src="https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/plain-pocky.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/rhinoneal/6779941252/" title="Visit source's website" target="_blank">RHiNO NEAL</a></figure>
+
+<p>Pocky is the Japanese snack you'll see almost everywhere. They're breadish/cookie-ish sticks with chocolate on them. They're popular all over the world. But it's most popular in Japan, its country of origin. Every November 11 (11-11), Japan goes Pocky crazy, because the date is made up of ones. And ones are the same shape as Pocky.</p>
+
+<p>Sure, it seems obvious in retrospect. Ones = sticks. But it wasn't so obvious to Pocky's creators. Then what inspired this national cookie eating phenomenon? Turns out nothing. Pocky Day wasn't inspired. It was stolen.</p>
+
+<h2 id="the-history-of-pocky-day">The History of Pocky Day</h2>
+
+<figure class="figure-middle"><img alt="the original pocky box design from 1966" src="https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/pocky-1966.jpg" /></figure>
+
+<p>In 1963, the Ezaki Glico food corporation created Pretz, a bready-stick snack. Three years later in 1966, Glico decided to add chocolate to Pretz for a new kind of sweet stick treat. But covering the entire stick in chocolate was no good. Holding a chocolatey end made for a messy eating experience. To solve this, Glico thought to cover one end in removable foil. But that would be too costly to implement (not to mention annoying for the consumer).</p>
+
+<p>Ultimately, the company decided to remove some of the chocolate from the end of the snack, creating a kind of "handle." They called their new product <i>chocotekku</i> <ruby>チョコテック<rp>（</rp><rt></rt><rp>）</rp></ruby> because <i>tekuteku</i> <ruby>テクテク<rp>（</rp><rt></rt><rp>）</rp></ruby> is the <a href="../../japanese/japanese-onomatopoeia/index.html">Japanese onomatopoeia</a> for walking. Unfortunately, another company had already trademarked that name. So Glico turned to another onomatopoeia for inspiration: <i>pokkin</i> <ruby>ポッキン<rp>（</rp><rt></rt><rp>）</rp></ruby> the sound of something long snapping in two. A natural sound to associate with Glico's new snack. And thus, <i>Pocky</i> <ruby>ポッキー<rp>（</rp><rt></rt><rp>）</rp></ruby> was born!</p>
+
+<p>Of course, Pocky grew in popularity. And it wasn't long before a rival company took notice.</p>
+
+<figure class="figure-middle"><img alt="boxes of lotte pepero" src="https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/pepero-boxes.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/alshain49/4095195555/" title="Visit source's website" target="_blank">Mark Zastrow</a></figure>
+
+<p>In 1983, South Korean food company Lotte launched a similar (identical) product called Pepero. Over ten years later a holiday called Pepero Day organically emerged.</p>
+
+<p>On November 11th, people in South Korea exchange Pepero in a sort of autumnal Valentine's Day. It's actually a major event. <a href="http://blogs.wsj.com/korearealtime/2013/11/11/on-pepero-day-a-japanese-rival-lurks/">One story claims</a> two schoolgirls in Yeongnam started the tradition. Supposedly they ate Lotte Pepero on November 11, 1994 in the hopes of becoming tall and thin. The logic: eating stick-shaped foods on a stick shaped date will make you stick shaped.</p>
+
+<p>The story got passed around and others in Korea began eating Pepero on 11-11. In 1997, Lotte decided to capitalize on the trends and officially started promoting Pepero Day. It grew so popular that by 2012, <a href="http://blogs.wsj.com/korearealtime/2013/11/11/on-pepero-day-a-japanese-rival-lurks/">Lotte was making 50% of its annual profits from Pepero Day</a>.</p>
+
+<p>Back in Japan, Glico was not amused. Pocky was the original, but there was no such hysteria going on there. If schoolchildren weren't going to drum up annual Pocky mania, Glico would do it themselves.</p>
+
+<p>The company had a simple plan: deploy advertising on November 11th and tell everyone it's Pocky Day. And that's exactly what they did in 1999. If 1999 seems like a random year to start a holiday, it's not. 1999 is the 11th year of Heisei in the <a href="../japanese-calendar/index.html">Japanese calendar</a>. Thus November 11, 1999 in Japan was 11-11-11. Since that day, Glico just kept spamming November 11th with advertising until everyone agreed it was a good excuse to eat cookies.</p>
+
+<h2 id="how-glico-celebrates-their-own-holiday">How Glico Celebrates Their Own Holiday</h2>
+
+<figure class="figure-middle"><img alt="a special promotional chopsticks gift pack for pocky day" src="https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/pocky-day-special-item.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/u-suke/8174507990/" title="Visit source's website" target="_blank">Yusuke Kawasaki</a></figure>
+
+<p>Since Pepero Day had a 16 year head start, Glico has been trying its hardest to establish a Pocky holiday in Japan. Every year, they release ad campaigns, contests, collaborations, and skydiving events. It's an all out marketing blitz. Here are a few of the many promotional events Glico has tried.</p>
+
+<h3 id="world-challenge">World Challenge</h3>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="https://www.youtube.com/embed/-gLKieVUVNk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="ポッキー　WORLD CHALLENGE 11.11 世界記録達成 記念  グリコ"></iframe></div>
+
+<p>In 2014, Glico held a "World Challenge" from October 14 to November 11. They invited people from all over the world to submit pictures of themselves with Pocky. This was done as an official attempt to set a Guinness World Record for the "<a href="http://www.prnewswire.com/news-releases/ezaki-glico-aiming-to-set-a-guinness-world-record-title-with-pocky-photos-281285751.html">Largest Online Photo Montage of Cookies/Biscuits</a>." Of course, they set the record. I don't think there ever was (or ever will be) much competition for that title. (And ultimately, it's not the dumbest Japanese world record attempt.) Glico gathered 16,825 photos of people eating Pocky and Pretz. You can't view all the photos from that world record attempt individually, but you can view most of them in <a href="http://photo.pocky.jp/">Glico's victory video.</a></p>
+
+<p>They continued the photo tradition on Pocky Day 2015, though they didn't break any records this time. <a href="http://cp.pocky.jp/photo/">2015's collection</a> is viewable in full.</p>
+
+<h3 id="most-mentions-of-a-brand-on-twitter">Most Mentions of a Brand on Twitter</h3>
+
+<figure class="figure-middle"><img alt="the logo for the guinness world record" src="https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/guinness-record-logo.jpg" /></figure>
+
+<p>"Largest Online Photo Montage of Cookies/Biscuits" isn't the only Guinness record held by Glico. They also hold the record for "<a href="http://www.guinnessworldrecords.com/world-records/most-mentions-of-a-brand-name-on-twitter-in-24-hours">Most mentions of a brand name on Twitter in 24 hours</a>." This was set by asking Pocky fans to tweet like crazy. And they did. On Pocky Day 2012, "Pocky" got 1,843,733 mentions on Twitter. That record was broken <a href="https://en.wikipedia.org/wiki/Pocky_%26_Pretz_Day">the following year</a> when Pocky was mentioned 3,710,044 times on Pocky Day 2013.</p>
+
+<h3 id="tsutenkaku-collaboration">Tsutenkaku Collaboration</h3>
+
+<figure class="figure-middle"><img alt="the osaka skyline featuring the tsutenkaku tower where pocky day was celebrated" src="https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/tsutenkaku-tower-in-osaka.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/heididorf/8581432927/" title="Visit source's website" target="_blank">yuki_alm_misa</a></figure>
+
+<p>Glico doesn't stick to online promotion only. They take their message to the streets. Streets directly beneath a tower to be exact.</p>
+
+<p>The <a href="../kansai-vs-kanto/index.html">Tsutenkaku tower</a> is a popular landmark in Osaka. <a href="http://www.pocky.jp/event/tsutenkaku2015/index.html">Glico went here</a> on November 1, 2, 7, 8, and 11 to hand out free Pocky and Pretz. They also had games. "Doki Doki Pocky Roulette" was a wheel spinning game that told your personality type based on what Pocky flavor the wheel landed on. From November 1st to 11th, they offered a game called "Just 11." It was basically a giant stopwatch shaped like a Pocky box. If you could stop the timer on 11:11, you would win a box of Pocky.</p>
+
+<p>After your Pocky gaming, you could enjoy an exhibition detailing the history of the Tsutenkaku tower and Pocky. Educational!</p>
+
+<p>In 2016, Glico kicked the Tsutenkaku collab up a notch <a href="http://www.pocky.jp/event/tsutenkaku2016/">with <em>seven</em> simultanerous events</a>. It seems like Tsutenkaku is <em>the</em> place to celebrate Glico's chocolate biscuit stick holiday.</p>
+
+<ol>
+  <li>
+    <p><strong>Huge Pocky Streamers:</strong> Giant five millimeter Pocky and Pretz streamers were pinned atop Tsutenkaku. Not an event, but still big and eye-catching.</p>
+  </li>
+  <li>
+    <p><strong>Golden Pocky Mystery Word Hunt:</strong> Eight golden Pocky boxes were hidden in Tsutenkaku. Each box had a word, and if you put all eight words together, it revealed a hidden message. If you got the message, you could win a prize. The prize was a secret for winners only, so we'll never know, unless we can track down someone who successfully put the eight golden words together.</p>
+  </li>
+  <li>
+    <p><strong>Pocky Ring Toss:</strong> Tsutenkaku had a special Pocky ring toss in which each peg had a number on it. Players would throw a certain number of rings, hoping to land them on numbers that would add up exactly to "11." Because y'know, Pocky Day.</p>
+  </li>
+  <li>
+    <p><strong>Free Pocky Sampling:</strong> This was a bunch of cups of free Pocky set out for people to take. Not a huge deal, but I wouldn't complain if someone handed me free stick cookies.</p>
+  </li>
+  <li>
+    <p><strong>Sharehappi Slot Machine:</strong> This event taught kids a valuable lesson: gambling always pays off eventually, so just keep doing it until you win.</p>
+  </li>
+  <li>
+    <p><strong>Tsutenkaku-Jack:</strong> - Sorry, folks. This one doesn't make sense to me. I'm just the messenger. Number six of the seven listed events at Tsutenkaku tower was…events at Tsutenkaku tower. "Tsutenkaku-Jack" stands for hijack of Tsutenkaku tower, referring to Pocky and Pretz taking over Tsutenkaku to hold all the events listed here. So within the list of events is an event which contains all the events, which contains itself… I think we're getting into Pocky-ception, here.</p>
+  </li>
+  <li>
+    <p><strong>Pocky and Pretz "Spot the Difference" Room:</strong> This was a special room in which the wallpaper had a pattern of Pocky and Pretz boxes. But there are minor differences all over the room. It's like those maddening activities on snack packages, except all around you in every direction.</p>
+  </li>
+</ol>
+
+<h3 id="pocky-rocket">Pocky Rocket</h3>
+
+<figure class="figure-middle"><img alt="special rockets shaped like pocky that launched for pocky day 2014" src="https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/pocky-rocket-project.jpg" /></figure>
+
+<p>Maybe going to a location and handing out Pocky is too mundane for you. Any company can do that. Well Glico steps it up with <a href="http://1111.pocky.jp/challenge/blog/detail3.html">Pocky Rockets</a>.</p>
+
+<p>This is exactly what it sounds like. Glico hired a team to launch Pocky and Pretz shaped rockets on November 11, 2013 at 11:11am.</p>
+
+<p>Leading up to the launch, they created a website where users could create their own virtual Pocky Rockets and launch along with the actual rocket.</p>
+
+<p>The real life Pocky Rocket launched on a <a href="http://ch.nicovideo.jp/pocky-rocket-project">livestream</a> to an audience of over 94,000.</p>
+
+<p>You can relive the magic by <a href="https://vimeo.com/101175561">watching the video</a>.</p>
+
+<p>Of course, the Pocky Rocket team had the foresight to put a camera on the Pocky Rocket, so you can <a href="https://www.youtube.com/watch?v=ZpgVI0PSbyQ">become a bready cookie stick</a> flying into the stratosphere.</p>
+
+<h3 id="pocky-pole-project">Pocky Pole Project</h3>
+
+<figure class="figure-middle"><img alt="the logo for glico's pocky pole project enacted for pocky day 2015" src="https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/pocky-pole-project.jpg" /></figure>
+
+<p>You know exactly what's up when you hear "Pocky" and "rockets" together. The "<a href="http://1111.pocky.jp/challenge/">Pocky Pole Project</a>" is a bit more confusing. Confusion aside, it's a lot more creative and interesting than simply shooting Pocky into the air.</p>
+
+<p>On November 11, 2014, skydivers were taken to 1,111 meters in the air. Skydivers jumped out of the helicopter. At 111 meters at 11:11am, they dropped giant Pocky onto a giant target painted on the ground below.</p>
+
+<p>The drop was <a href="http://live.nicovideo.jp/watch/lv196967607">livestreamed</a> on NicoNico. If you'd like to watch it, you have to sign up for an account.</p>
+
+<p>Otherwise you can read all about their success in the project's <a href="http://1111.pocky.jp/challenge/blog/detail21.html">final blog entry</a>.</p>
+
+<h3 id="sharehappi-live-event-on-niconico">Sharehappi Live Event on NicoNico</h3>
+
+<figure class="figure-middle"><img alt="the three member band sharehappi formed for pocky day" src="https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/sharehappi.jpg" /></figure>
+
+<p>This is a three member music and dance group made up of members from EXILE<sup id="fnref:1"><a href="index.html#fn:1" class="footnote">1</a></sup> and J-Soul Brothers<sup id="fnref:2"><a href="index.html#fn:2" class="footnote">2</a></sup>. Glico really kicks it up a notch, forming a band that is Pocky promotion specific.</p>
+
+<p>The three-man team starred in <a href="https://www.youtube.com/watch?v=neRF0Fy9Acw">Pocky commercials</a> doing their signature Pocky dance.</p>
+
+<p>And of course, Glico didn't stop there. They offered a <a href="http://live.nicovideo.jp/watch/lv240120636">full live event</a> starring the Sharehappi on NicoNico Douga on Pocky Day 2015.</p>
+
+<p>During this event, they announced the <a href="http://cp.pocky.jp/sharehappi/">winners of the Sharehappi dance contest</a>. That's right. All of Japan was asked to submit their best Sharehappi dance video. The grand prize winners won ¥110,000 directly from Sharehappi themselves. The winner's video was broadcast on the Glicovision screen in Shibuya. 111 runners-up were chosen randomly to receive an exclusive Pocky uniform. 200 were randomly selected to attend the Sharehappi event on November 11th. The event was so successful, <a href="http://cp.pocky.jp/2016/dance/">they continued the event in 2016</a> with "Sharehappi Dance Contest 2."</p>
+
+<h3 id="concert-at-bigcat">Concert at BIGCAT</h3>
+
+<figure class="figure-middle"><img alt="the bigcat sign in osaka" src="https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/big-cat-venue-in-osaka.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/athenakina/4610893038/" title="Visit source's website" target="_blank">Athen Li</a></figure>
+
+<p>Maybe you're not into "synchronized dancing," or "handsome men," or "the internet." Maybe you prefer your music performance live at a real venue.</p>
+
+<p>Glico gets you. They're the uncorporate corporation. That's why they held <a href="http://www.pocky.jp/event/live_next/index.html">Glico Live "Next" Special</a> at BIGCAT in Osaka. Bands that performed were Hitorie, Fujifabric, and frederic, the polar opposites of Sharehappi. Good on Glico to find a way to appeal to consumers who inherently hate them for selling products.</p>
+
+<h3 id="pocky-photo-mosaic">Pocky Photo Mosaic</h3>
+
+<figure class="figure-middle"><img alt="pocky in front of a mosaic" src="https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/mosaic-pocky.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/awaywego210/8459166157/" title="Visit source's website" target="_blank">AwayWeGo210</a></figure>
+
+<p>In 2016, Glico schemed to kick their photo collage idea up a notch…by launching a <a href="http://cp.pocky.jp/2016event/mozaic-art/">photo <em>mosaic</em> campaign</a>. This time, random peoples' pictures come together to form…something!</p>
+
+<p>To partake, customers had to <em>go</em> to special Sharehappi event areas in Japan to submit their photos, at large train stations in Tokyo, Osaka, Nagoya, Sapporo, Hiroshima, Sendai, and Fukuoka. Why not let people <em>digitally</em> send their <em>digital</em> photo? Because there are prizes to be had, my friend.</p>
+
+<p>After people took their photo at the designated Sharehappi spot, they got to play a slot machine to win one of three prizes:</p>
+
+<ol>
+  <li>11 kinds of assorted Pocky and Pretz</li>
+  <li>Limited Edition Sharehappi Clear File</li>
+  <li>Inflatable plastic Pocky stick (not for eating)</li>
+</ol>
+
+<p>On November 11, 2016, the photos were assembled into a mosaic on <a href="http://cp.pocky.jp/2016event/mozaic-art/">this site</a>. The photo efforts of 11,111 people went into the mosaic. And it certainly is…11,111 photos.</p>
+
+<h3 id="assorted-online-campaigns">Assorted Online Campaigns</h3>
+
+<figure class="figure-middle"><img alt="members of sharehappi" src="https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/sharehappi-boys.jpg" /></figure>
+
+<p>Any multimillion dollar company in the modern era will take to social media on special event days, and Glico is no different. In 2016, there were three we could find.</p>
+
+<ol>
+  <li>
+    <p><strong><a href="http://cp.pocky.jp/photo/">Pocky Photo Campaign</a>:</strong> Between November 4 and 11, the official Pocky Twitter and Instagram ran a photo contest. Post a photo of yourself with their products with the hashtag #ポッキーフォト and you could win 1,111 boxes of Pocky. For an average otaku, that might last two or three binge-watching sessions.</p>
+  </li>
+  <li>
+    <p><strong><a href="http://mamari.jp/22239">Mamari X Pocky</a>:</strong> Mamari is a Japanese site about moms and families and babies. Kids are cute and shareable, so the contest revolves around posting photos with a hashtag to win a prize. We said Glico was active on social media, not creative.</p>
+  </li>
+  <li>
+    <p><strong><a href="http://prw.kyodonews.jp/opn/release/201610285723/">Sharehappi Event Livestream</a>:</strong> Just as they did in 2015, Glico hosted a live event of dancing and guests and handsome men. But instead of streaming on NicoNico Douga, they moved to LINE's livestreaming service. And instead of streaming on Pocky Day, they did it on November 5, which isn't any kind of day. Just Saturday. This is strange because 2016 marked <em>50 years</em> of Pocky! Kind of a big deal, Glico. Oh well. Maybe they're saving the big festivities for their 100 year anniversary.</p>
+  </li>
+</ol>
+
+<h2 id="what-you-can-do-to-celebrate-pocky-day">What You Can Do to Celebrate Pocky Day</h2>
+
+<figure class="figure-middle"><img alt="two people fighting with pocky poles" src="https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/pocky-fight.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/norio-nakayama/8737725168/" title="Visit source's website" target="_blank">Norio NAKAYAMA</a></figure>
+
+<p>Glico may celebrate its own holiday by throwing marketing at you, but you should decide how to celebrate it yourself. Here are a few ways you can celebrate along with Japan.</p>
+
+<h3 id="eat-pocky">1. Eat Pocky</h3>
+
+<figure class="figure-middle"><img alt="a strawberry pocky package" src="https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/strawberry-pocky.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/geishabot/2073345808/" title="Visit source's website" target="_blank">Janine</a></figure>
+
+<p>I know this seems obvious. But you'd be surprised how often you get wrapped up in hanging decorations and singing songs, that you just plain forget to eat Pocky.</p>
+
+<p>Buy as many varieties as you can get your hands on and eat! More importantly, share them with friends. Pocky is all about sharing.</p>
+
+<h3 id="watch-pocky-commercials">2. Watch Pocky Commercials</h3>
+
+<figure class="figure-middle"><img alt="a woman eating pocky in a 1986 commercial" src="https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/pocky-commercial-1986.jpg" /></figure>
+
+<p>You have to do something while eating your Pocky. And nothing goes better with eating than watching. Fire up some classic Pocky CM<sup id="fnref:3"><a href="index.html#fn:3" class="footnote">3</a></sup> and start munching. Honestly, they're all pretty entertaining. I'm always happy to give my money to a company that knows how to mix art with advertising. Here are a few of Tofugu's favorites.</p>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="150" src="https://www.youtube.com/embed/iTN03fM1Dzc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="仲間由紀恵・柴咲コウ・松浦亜弥・石原さとみ　ポッキーチョコレート デビュー篇 (approx.0410)"></iframe></div>
+
+<p>Anata mo watashi mo…</p>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="150" src="https://www.youtube.com/embed/wHsbuQN4lZo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="ポッキーCM"></iframe></div>
+
+<p>This one takes a really quick turn… for the better?</p>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="150" src="https://www.youtube.com/embed/2XbzVPmWMHg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="ウザCM ポッキー"></iframe></div>
+
+<p>Holy Crap! So Retro!</p>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="150" src="https://www.youtube.com/embed/LBIsFcAtDCU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="Glico: Pocky Mousse Commercial"></iframe></div>
+
+<p>Another "I Can't Believe That Happened" commercial.</p>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="https://www.youtube.com/embed/xlkj2rzy7e0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="Pocky - YMO"></iframe></div>
+
+<p>Yellow Magic Orchestra may have the most creative Pocky commercial ever.</p>
+
+<h3 id="play-the-pocky-game">3. Play the Pocky Game</h3>
+
+<figure class="figure-middle"><img alt="a young man and a statue playing the pocky game on pocky day" src="https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/pocky-game.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/omnia_mutantur/2618578269/" title="Visit source's website" target="_blank">cristian</a></figure>
+
+<p>Checking Japanese news<sup id="fnref:4"><a href="index.html#fn:4" class="footnote">4</a></sup> or tweets on Pocky Day means seeing people playing the Pocky Game, the easiest (and grossest) way to get your Pocky holiday kiss. It's a game of chicken with a spin-the-bottle line of thinking behind it. To play, put a Pocky stick in your mouth and your friend's mouth on the other end of the stick. Eat toward each other. The first person to the middle wins. <a href="https://en.wikipedia.org/wiki/Konpa#Pocky_game">If the players kiss, it's a tie</a>.</p>
+
+<p>A variant of the rules say you have to eat toward each other <em>until</em> you kiss. First one to break the kiss loses. This version seems less like a game and more a weird reason to kiss with food in your mouth. Gross.</p>
+
+<h3 id="build-pocky-towers">4. Build Pocky Towers</h3>
+
+<p>A very common sight on November 11th is Pocky towers. Using the Jenga theory of architecture, Japanese people build towers out of Pocky sticks. Some of them get impressively high!</p>
+
+<p>As cool as these look, it feels like a waste of Pocky to me. You can't eat the ones at the base (unless that surface is really clean or you're really gross). I suppose you can eat your way down the tower. Just don't let the tower fall or it'll be <em>mechakuyashii</em> めちゃ<i></i> <ruby>悔<rp>（</rp><rt>くや</rt><rp>）</rp></ruby>しい!</p>
+
+<h3 id="decorate-pocky">5. Decorate Pocky</h3>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="https://www.youtube.com/embed/TPbSjA3N83A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="glico Decorate MIKADO/Pocky DIY Making kit"></iframe></div>
+
+<p>Regular Pocky too boring for you? Wish it had a little more pizzazz? (Where's your sense of showmanship, Pocky?) Glico provides directions for various types of <a href="http://www.pocky.jp/products/decopocky/">DecoPocky</a>.</p>
+
+<p>These range from simple to complex, but they're all really neat looking when they're done. And Glico's DecoPocky are only the beginning. Twitter and Instagram users post their DecoPocky creations online too. So even if you're not up for making any of your own, there's plenty of pretty Pocky to look at.</p>
+
+<h3 id="make-pocky-art">6. Make Pocky Art</h3>
+
+<figure class="figure-middle"><img alt="small anime figures surrounding a box of pocky" src="https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/pocky-with-figures.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/kodomut/" title="Visit source's website" target="_blank">Zhao!</a></figure>
+
+<p>Probably the truest way to celebrate Pocky Day is with Pocky creations. I'm talking fan art, fan videos, photos, and more. Fan fiction even? It probably exists.</p>
+
+<p>People from all over the world prepare for the trending topic with fun and imaginative creations. <a href="https://www.pixiv.net/search.php?s_mode=s_tag&amp;word=%E3%83%9D%E3%83%83%E3%82%AD%E3%83%BC%E3%81%AE%E6%97%A5">Fan art</a> is one of the most obvious outlets.</p>
+
+<p>My personal favorites are videos made by YouTubers. Here are a few of the best YouTube videos for your Pocky-lovin' delight:</p>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="https://www.youtube.com/embed/S0sOyZgLNTo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="ポッキーの日ねぇ...ふうん...何か質問ある？"></iframe></div>
+
+<p>Hajime's mannerisms and reactions are always funny. Make sure to keep an eye on the Pocky boxes on the wall.</p>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="https://www.youtube.com/embed/hCw7uBwj7uo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="【ポッキーの日】ポッキーでアイスクレープ作ってみた【赤髪のとも】How to make of an iced crepe with Pocky"></iframe></div>
+
+<p>This video shows you how to make a crepe out of Pocky.</p>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="https://www.youtube.com/embed/SAWcf5wcETY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="本日 11月11日はポッキーの日！"></iframe></div>
+
+<p>Seikin eats a bunch of different types of Pocky. So you can get inspired. Or jealous.</p>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="https://www.youtube.com/embed/oqyWDfrM_P8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="【リズム動画】ポッキーの日の2013 feat. Toppo"></iframe></div>
+
+<p>And finally, this. Quite possibly the crown jewel of Pocky Day celebration videos. Bravissimo.</p>
+
+<h2 id="how-will-you-celebrate-pocky-day">How Will You Celebrate Pocky Day?</h2>
+
+<figure class="figure-middle"><img alt="two large signs that look like pocky boxes" src="https://files.tofugu.com/articles/japan/2016-11-11-pocky-day/large-pocky-signs.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/archangeli/187778791/" title="Visit source's website" target="_blank">Patty</a></figure>
+
+<p>That's enough reading. Time's running out! It's Pocky Day and you don't want to waste a second without Pocky in your mouth (but no Mikado or Meiji Lucky Stick. That's cheating).</p>
+
+<p>Celebrate Pocky to its fullest and we'll see you when we share this article again next year!</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Exile is a Japanese boy band with 19 members. They are very popular. <a href="index.html#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>J Soul Brothers is a Japanese boy band that has spawned three generations of the same band. They are also very popular. <a href="index.html#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:3">
+      <p>CM is the Japanese abbreviation for commercial <a href="index.html#fnref:3" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:4">
+      <p>In Japan, it's just called "news." <a href="index.html#fnref:4" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+<aside class="blog-post-highlight article-sources"><div class="container"><h4>Sources</h4><ul><li><a href="http://d.hatena.ne.jp/keyword/%A5%DD%A5%C3%A5%AD%A1%BC%A1%F5%A5%D7%A5%EA%A5%C3%A5%C4%A4%CE%C6%FC" title="View source">Hatena Keyword</a></li><li><a href="http://www.konest.com/contents/korean_life_detail.html?id=581" title="View source">Konest</a></li><li><a href="http://www.recordchina.co.jp/a123135.html" title="View source">Record Chine</a></li><li><a href="http://pocky.glico.com/1111/" title="View source">Glico</a></li><li><a href="https://nanokajourney.wordpress.com/2014/11/11/11-11-pocky-pretz-day/" title="View source">Nanoka Journey</a></li><li><a href="http://www.animenewsnetwork.com/interest/2014-11-10/watch-the-pocky-pole-project-drop-giant-pocky-and-pretz-shaped-sticks-via-skydivers/.80874" title="View source">Anime News Network</a></li><li><a href="http://ch.nicovideo.jp/pockypoleproject" title="View source">Nico Video</a></li></ul></div></aside>
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-articles reviews-prev japan-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='reviews' href='../../reviews/tonoharu/index.html' title='View Tonoharu Part Three'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-pencil'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+Tonoharu Part Three
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='../tengu/index.html' title='View Tengu: The Japanese Demon That&#39;s Basically a Mini-God'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Tengu: The Japanese Demon That's Basically a Mini-God
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japan'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='../tengu/index.html' title='View Tengu: The Japanese Demon That&#39;s Basically a Mini-God'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older japan' class='older-article-pagination'></span>
+</small>
+Tengu: The Japanese Demon That's Basically a Mini-God
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='../jet-program-recontracting-decision/index.html' title='View Making Your JET Program Recontracting Decision'>
+<small>
+<span aria-label='Newer japan' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Making Your JET Program Recontracting Decision
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='../../about/index.html' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.2' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs/index.html' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese/index.html' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='../../news/index.html' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='../../newsletter/index.html' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='../../podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='../../feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="../../javascripts/master-2164c2ee.js" defer="defer"></script><script src="../../javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

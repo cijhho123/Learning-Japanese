@@ -1,0 +1,725 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Rochelle' name='author'>
+<meta content='Learn the actioning of ancient Japanese. How to use verbs the way classically speaking Japanese people did.' name='description'>
+<meta content='guide, linguistics, grammar, kobun' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Learn the actioning of ancient Japanese. How to use verbs the way classically speaking Japanese people did.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2014-03-10-kobun-verbs/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='Kobun (Classical Japanese) Verbs &amp;amp; How To Use Them' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japanese/kobun-verbs/' property='og:url'>
+<meta content='https://www.tofugu.com/japan/working-holiday-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/jikoshoukai/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/citing-japanese-sources/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-loanword-phonology/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kaomoji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-become-a-japanese-translator/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-old-kana/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-honorifics/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-adjectives/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-syllable-structure/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-jodoushi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kobun-reading-introduction/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/import-japanese-video-games/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-write-letters-in-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/look-up-kanji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-homophones/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/the-meaning-of-kuni/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-use-a-kanji-dictionary/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/wasei-eigo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/weird-kanji-readings/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japans-other-languages/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/bunpro/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/online-japanese-grammar-guides/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/youtube-channels-for-learning-japanese-grammar/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-particle-monono/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-puns/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-onomatopoeia/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-fluency/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/dictionary-of-basic-japanese-grammar/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/japanese-respect-language/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/at-the-same-time-grammar/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/desu-meaning/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Rochelle' property='article:author'>
+<meta content='2014-03-10T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japanese' property='article:section'>
+<meta content='guide' property='article:tag'>
+<meta content='linguistics' property='article:tag'>
+<meta content='grammar' property='article:tag'>
+<meta content='kobun' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@tofugu' name='twitter:creator'>
+<meta content='Learn the actioning of ancient Japanese. How to use verbs the way classically speaking Japanese people did.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2014-03-10-kobun-verbs/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='Kobun (Classical Japanese) Verbs &amp;amp; How To Use Them' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#d33682' name='twitter:widgets:link-color'>
+<meta content='#d33682' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-rochelle-e5c8446b.jpg",
+    "jobTitle": "Writer",
+    "name": "Rochelle",
+    "sameAs": [
+
+    ],
+    "url": "https://www.tofugu.com/about/people/rochelle/",
+    "description": "Nature freak, foodie, & D&D player, putting a linguistics undergrad degree to work in Japanese English classrooms."
+  },
+  "datePublished": "2014-03-10T00:00:00Z",
+  "description": "Learn the actioning of ancient Japanese. How to use verbs the way classically speaking Japanese people did.",
+  "headline": "Kobun (Classical Japanese) Verbs &amp; How To Use Them",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japanese/2014-03-10-kobun-verbs/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japanese/2014-03-10-kobun-verbs/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "guide, linguistics, grammar, kobun",
+  "name": "Kobun (Classical Japanese) Verbs &amp; How To Use Them",
+  "url": "https://www.tofugu.com/japanese/kobun-verbs/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2014-03-10T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japanese/kobun-verbs/"
+}
+</script>
+
+<title>Kobun (Classical Japanese) Verbs &amp; How To Use Them</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japanese/kobun-verbs/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='https://www.tofugu.com/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://www.tofugu.com/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://www.tofugu.com/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://www.tofugu.com/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://www.tofugu.com/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='https://www.tofugu.com/favicon.png' rel='shortcut icon'>
+<link href='https://www.tofugu.com/favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japanese japanese_kobun-verbs japanese_kobun-verbs_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='https://www.tofugu.com/'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japanese/' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='https://www.tofugu.com/japanese/' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.1' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-learning-resources-database/' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japan/' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='https://www.tofugu.com/japan/' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/series/' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/travel/' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/reviews/' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/interviews/' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='https://www.tofugu.com/podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=kobun-guide#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japanese/2014-03-10-kobun-verbs/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japanese/2014-03-10-kobun-verbs/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+Kobun (Classical Japanese) Verbs &amp; How To Use Them
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+Actioning in an ancient way
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2014-03-10T00:00:00Z">March 10, 2014</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="https://www.tofugu.com/about/people/rochelle/" rel="author">Rochelle</a>
+•
+Art by
+<a href="https://www.tofugu.com/about/people/aya-francisco/">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japanese/2014-03-10-kobun-verbs/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+<p class='article-series series-kobun-guide hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="../../series/kobun-guide.1">Kobun: Classical Japanese
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>Brave Kobun pupils! I'm going to take you further into the woods of Classical Japanese with <strong>verbs</strong>. Remember, Kobun is very different from Modern Japanese, and, as such, you'll see new and unfamiliar features. In starting with verbs, I'm being biased and deliberate. It's my opinion that verbs are top priority in a Kobun education because:</p>
+
+<ul>
+  <li>Classical Japanese, like Modern, can omit the subject.</li>
+  <li>Again like Modern, adjectives work like light verbs.</li>
+  <li>Verbs take longer to look up and identify accurately than nouns, particles, etc.</li>
+</ul>
+
+<p>Seriously – it's a long process to decode verbs. I'll describe an approach each for the short-term and long-term Kobun students. Both approaches involve puzzling a verb's meaning by 1) establishing what kind of verb you're dealing with and 2) looking at what shape it's in.</p>
+
+<h2 id="the-short-term-approach">The Short-term Approach</h2>
+
+<figure class="figure-middle"><img alt="kobun verbs man and son climbing hill" src="https://files.tofugu.com/articles/japanese/2014-03-10-kobun-verbs/man-and-son-climbing-hill.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/61089917@N00/5316044647" title="Visit source's website" target="_blank">Anu and Anant</a></figure>
+
+<p>If you've never used <a href="http://rikaichan.mozdev.org/">Rikaichan/kun</a>, check it out. Rikaichan is an app that doles out meaning and readings for unfamiliar Japanese words and kanji if you hover your mouse over in-browser text. The short-term approach to Kobun verbs is equivalent to using Rikaichan on a news article: unless you're really pro at Japanese, you won't mentally store all the new words and characters Rikaichan breaks down for you, but you can read and comprehend the news article. This kind of approach is about understanding a text you have time to sit with but don't expect to quote or write commentary about.</p>
+
+<p>Let's start with this line, the first in <em><a href="https://en.wikipedia.org/wiki/The_Tale_of_the_Bamboo_Cutter">Taketori Monogatari</a></em>:</p>
+
+<p>いまは昔、竹取の翁といふもの<strong>有りけり</strong>。</p>
+
+<p>Here's the non-verb stuff in the sentence :</p>
+
+<ul>
+  <li>いまは<i>mukashi</i> <ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>: now (subject) an ancient time</li>
+  <li><i>taketori</i> <ruby>竹取<rp>（</rp><rt>たけとり</rt><rp>）</rp></ruby>: bamboo-lumberjack (AKA "bamboo wood-cutter")</li>
+  <li>の<i>okina</i> <ruby>翁<rp>（</rp><rt>おきな</rt><rp>）</rp></ruby>といふもの: an old man.</li>
+</ul>
+
+<p>といふもの is technically a verb phrase. I'm ignoring it because it has carried on into modern Japanese as というもの. That leaves just one verb phrase to decypher: <i>a</i> <ruby>有<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>りけり.</p>
+
+<p>Given this information, I want you to spend a moment searching around in a <a href="http://kobun.weblio.jp/">kogo-jiten</a> for what you think 有りけり means. Don't look up translations. Honestly look to see if you can analyze 有りけり the way you could "食べました", which is ["eat" + past + polite + affirmative + end of a sentence]. Did you give it your best shot? I hope so. Here's what I do:</p>
+
+<h3 id="step-1-id-the-verb">Step 1: ID the Verb</h3>
+
+<p>First, we'll need to figure out what kind of verb we're looking at. Find the verb in a kogo-jiten. 「有りけり」 as a whole doesn't get results. However, breaking it up into「有り」and 「けり」gives us results. Here's 有り.</p>
+
+<figure class="figure-middle"><img alt="kobun verbs ari dictionary entry" src="https://files.tofugu.com/articles/japanese/2014-03-10-kobun-verbs/ari-dictionary-entry.png" /></figure>
+
+<p>The top orange box outlines the verb type: 有り is a ra-gyou henkaku ("ra-sound irregular") verb. The second box encapsulates the most common meaning: "to exist", "to be", etc. But wait — do you see the sample usage they provide? I've underlined it: it's the sentence we're trying to translate! We've definitely ID'd the right 有り. As for けり…</p>
+
+<figure class="figure-middle"><img alt="kobun verbs keri dictionary entry" src="https://files.tofugu.com/articles/japanese/2014-03-10-kobun-verbs/keri-dictionary-entry.png" /></figure>
+
+<p>In the previous search, we could tell that what we'd found was a verb because <i>jidoushi</i> <ruby>自動詞<rp>（</rp><rt>じどうし</rt><rp>）</rp></ruby> (transitive verb) was written before ラ行変格 (the verb type). But here the Kogo-jiten entry lists けり as 「<i>jodoushi</i> <ruby>助動詞<rp>（</rp><rt>じょどうし</rt><rp>）</rp></ruby>」, which means "helper verb". Jodoushi won't appear on their own but, instead, always connect to something else.</p>
+
+<p>The orange box in the screencap outlines that this 助動詞 is used to create a past tense verb. So, this けり is like the "-ed" in English "highlighted" and the "た" in Modern Japanese "食べた". Again, underlined in orange, the example provided is the very sentence we're translating! For other verbs, though, you won't be as lucky.</p>
+
+<p>Pretend the sentence they provided wasn't the exact one we're looking at now. Two other search results appeared for "けり": one is a verb (not a helper verb) that means "to come along" and the other is a verb for "to be wearing". How do you know which is the right one? Mostly from meaning and context. While it's definitely possible to see verbs chained together, "live" (verb) + "past tense" (helper verb) makes more sense here than "live" + "came along/comes along"or "live" + is "wearing", especially after looking at the next step.</p>
+
+<h3 id="step-2-listen-to-the-verb">Step 2: Listen to the Verb</h3>
+
+<p>The next step: identify what form, or <i>kei</i> <ruby>形<rp>（</rp><rt>けい</rt><rp>）</rp></ruby> the verb is in. I've translated another part of the entry for けり in that screencap: "Attaches to an inflecting word in the Renyoukei". If this けり attaches to a Renyoukei verb, we need to check if 有り is in the Renyoukei or not. Then we'll know for sure which of the three けり's is in this sentence. Ugh, homophones.</p>
+
+<p>To check which "form" the verb is in (Renyoukei, etc.), think about the last sound in 「有り」 and check this chart:</p>
+
+<figure class="figure-middle"><img alt="kobun verb forms" src="https://files.tofugu.com/articles/japanese/2014-03-10-kobun-verbs/verb-forms.jpg" /></figure>
+
+<p><em>This chart was made by <a href="http://www.sengokudaimyo.com/bungo/bungo.html">Anthony Stewart</a>. The original chart has more cool things and is available <a href="http://www.sengokudaimyo.com/bungo/graphics/bungochart.PDF">here</a>.</em></p>
+
+<p>Using the charts is like playing Battleship. The verb types are the x-axis points which intersect with sound-based forms on the y-axis. As the chart lists, 有り, a ラ行変格 verb, could appear as -あら, -あり, -ある, or -あれ. The form in our sentence ends in -り, which means we either have the Renyoukei or the Shuushikei.</p>
+
+<p>Renyoukei is a connective form, like the Modern Japanese pre-masu stem. Shuushikei is a form that marks the end of a sentence, like how "-ました" in modern Japanese always comes at the end of a sentence and never in the middle. 有り doesn't end the sentence, so it's not in the Shuushikei. Plus, 有り is connected to something, which means it's the Renyoukei 「あり」. We were right with our context judgement: the right けり is the past tense helper verb. けり also happens to be in the Shuushikei, the sentence-ending form, so all the pieces line up.</p>
+
+<p>It's helpful to know what all of those y-axis forms mean. But an in-depth knowledge of those verb forms isn't necessary in the short-term approach since you can just look them up.</p>
+
+<p>If you put the pieces together ["live" or "exist" + past tense + end of sentence], it becomes clear what 有りけり as a whole means. <a href="https://kafkafuura.wordpress.com/2009/07/18/%E7%AB%B9%E5%8F%96%E7%89%A9%E8%AA%9E%E3%83%BC%E3%80%8C%E3%81%8B%E3%81%90%E3%82%84%E5%A7%AB%E3%81%AE%E7%94%9F%E3%81%84%E7%AB%8B%E3%81%A1%E3%80%8Dtaketori-monogatari-the-birth-of-the-shining-princ/">Kafka-fuura</a> skillfully translates this sentence as: "In a time now long past, <strong>there was</strong> an old man who was a bamboo cutter."</p>
+
+<p>You might be getting curious about some patterns. Could 有り sit on its own in the Renyoukei? While using the short-term approach, don't fill your head with such stuff. Just look things up until they make sense. Eventually, some patterns will settle in your memory, and that's great, but memorizing patterns isn't the aim. The aim is to give you a process for sporadic Kobun dealings. That said, the short-term approach only works if you have time to sit with a Classical sentence and some dictionaries and charts.</p>
+
+<h2 id="the-long-term-approach">The Long-term Approach</h2>
+
+<figure class="figure-middle"><img alt="kobun verb chart" src="https://files.tofugu.com/articles/japanese/2014-03-10-kobun-verbs/verb-chart.jpg" /></figure>
+
+<p>The short term method will hold back folks who really want to learn the lingo of the ancients. So, I've made the above flow chart for your referencing pleasure. Short-term and long-term students can benefit from the chart, but long-term learners should know it thoroughly.</p>
+
+<p>To read more than the first couple pages of one Classical Japanese text, it's more efficient to have verb types steadily memorized on the front end of your learning journey.</p>
+
+<p>Actually, that's how my Latin education was; we learned verb conjugations and noun declensions while reading increasingly difficult sentences at a slow pace. At first I was reading "In the picture is a Roman girl named Flavia", but by the end of the year, I could eek out a paragraph from the eloquent Cicero. If I had had a prior knowledge of Italian, my reading comprehension probably wouldn't have taken me a year, though, because of common vocabulary and roots. So if you have a functional grasp of modern Japanese (and motivation!), it won't take you a year to teach yourself what's necessary to read Kobun.</p>
+
+<h3 id="step-1-know-thine-verb-types">Step 1: Know Thine Verb Types</h3>
+
+<p>As I briefly pointed out earlier, Kobun verbs come in different types. Think of them as flavors. Things that are watermelon flavored just get called some variety of "watermelon-flavored", right? Verb type names aren't misleading. For example, <i>yo-dan</i> <ruby>四段<rp>（</rp><rt>よだん</rt><rp>）</rp></ruby> verbs are called "quadrigrade" because they conjugate into four different vowel endings. 知る is a 四段 verb, and conjugates as outlined in orange:</p>
+
+<figure class="figure-middle"><img alt="kobun verbs shiru dictionary entry" src="https://files.tofugu.com/articles/japanese/2014-03-10-kobun-verbs/shiru-dictionary-entry.png" /></figure>
+
+<p>The vowels あ、い、う、and え added together make four grades of sound, see? Hence 四 (four) 段 (grades or steps).</p>
+
+<p>The other eight verb types are: <i>kami-ichidan</i> <ruby>上一段<rp>（</rp><rt>かみいちだん</rt><rp>）</rp></ruby>, <i>kami-nidan</i> <ruby>上二段<rp>（</rp><rt>かみにだん</rt><rp>）</rp></ruby>, <i>shimo-ichidan</i> <ruby>下一段<rp>（</rp><rt>しもいちだん</rt><rp>）</rp></ruby>, <i>shimo-nidan</i> <ruby>下二段<rp>（</rp><rt>しもにだん</rt><rp>）</rp></ruby>, and the irregular <i>na-gyou henkaku</i> <ruby>ナ行変格<rp>（</rp><rt>なぎょうへんかく</rt><rp>）</rp></ruby>, <i>ra-gyou henkaku</i> <ruby>ラ行変格<rp>（</rp><rt>らぎょうへんかく</rt><rp>）</rp></ruby>, <i>ka-gyou henkaku</i> <ruby>カ行変格<rp>（</rp><rt>かぎょうへんかく</rt><rp>）</rp></ruby>, and <i>sa-gyou henkaku</i> <ruby>サ行変格<rp>（</rp><rt>さぎょうへんかく</rt><rp>）</rp></ruby> verbs. For the first four, see the next image. The last four conjugate mostly as 四段 verbs, but with irregularities you can reference in a traditional chart.</p>
+
+<figure class="figure-middle"><img alt="kobun verb type chart" src="https://files.tofugu.com/articles/japanese/2014-03-10-kobun-verbs/verb-type-chart.png" /><figcaption> Ichi-dan = one vowel in the Katsuyou. Kami = "upper" vowel (almost always い). Shimo = "lower" vowel (え). Ni-dan = either upper or lower vowel plus the median う. </figcaption> </figure>
+
+<p>My favorite author on Classical Japanese, Vovin, actually boils those verb categories down to just three: verbs with a vowel stuck at the end of the root (like mi-, "see"), verbs stuck with a consonant at the end (shin-, "die), and irregular verbs.</p>
+
+<h3 id="step-2-know-thy-charts">Step 2: Know Thy Charts</h3>
+
+<figure class="figure-middle"><img alt="kobun verbs drawers of parts" src="https://files.tofugu.com/articles/japanese/2014-03-10-kobun-verbs/drawers-of-parts.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/79729522@N00/201715020" title="Visit source's website" target="_blank">Linus Bohman</a></figure>
+
+<p>There are a variety of charts out there, but they're all basically the same x/y-axis combo between verb types and forms. Hard-core classicists probably have, either intentionally or over time, memorized which sounds correspond to which verb forms.</p>
+
+<p>Personally, I don't think you need to have the sounds memorized. It would suffice to just be really familiar with the form boxes and what they represent:</p>
+
+<ul>
+  <li><i>Mizenkei</i> <ruby>未然形<rp>（</rp><rt>みぜんけい</rt><rp>）</rp></ruby>: Imperfective, but not really, since it usually tags an action that has not yet begun. Connects often to form the negative.</li>
+  <li><i>Renyoukei</i> <ruby>連用形<rp>（</rp><rt>れんようけい</rt><rp>）</rp></ruby>: Stem form, like pre-<a href="../../japanese-grammar/masu.1">ます</a>.</li>
+  <li><i>Shuushikei</i> <ruby>終止形<rp>（</rp><rt>しゅうしけい</rt><rp>）</rp></ruby>: Sentence ender.</li>
+  <li><i>Rentaikei</i> <ruby>連体形<rp>（</rp><rt>れんたいけい</rt><rp>）</rp></ruby>: Attributive. Modifies other parts of sentence, like 「かかる人…」, "such a person…". Can also make gerunds and participials. Sometimes, this ends a sentence.</li>
+  <li><i>Izenkei</i> <ruby>已然形<rp>（</rp><rt>いぜんけい</rt><rp>）</rp></ruby>: Perfective. Action started or completed.</li>
+  <li><i>Meireikei</i> <ruby>命令形<rp>（</rp><rt>めいれいけい</rt><rp>）</rp></ruby>: Command form. Usually on its own and at the end of a sentence.</li>
+</ul>
+
+<p>These forms are what I'm personally trying to memorize and understand, especially since I am now noticing Kobun forms in Japanese media a lot more. It's easy for me to notice and remember things like "けり", but not as easy to translate, say, a folk song as I hear it.</p>
+
+<h2 id="all-roads-lead-to-rome">All Roads Lead to Rome</h2>
+
+<p>No matter which interest group you fall in for Classical Japanese, both translation approaches I've described emphasize looking at these four parts of verbs:</p>
+
+<figure class="figure-middle"><img alt="kobun verb pie chart" src="https://files.tofugu.com/articles/japanese/2014-03-10-kobun-verbs/verb-pie-chart.jpg" /></figure>
+
+<p>If you wish I'd provided more examples, check out the cool stuff below — especially the source with quizzes. Deciphering Kobun is a strategic process that takes practice (and time) to get right. If you have any questions, please say something <a href="https://twitter.com/tofugu">on Twitter</a>. The sources I've been using are have more fun tidbits than I have space in this article to fully explore (after all, they are <em>books</em> on the subject). Ditto for comments or criticisms: I want to hear your take on Kobun verbs, especially if you are learning it in class or on your own!</p>
+
+<h3 id="cool-stuff">Cool Stuff</h3>
+
+<ul>
+  <li><a href="http://www.raku-kobun.com/mondaiall.html">Classical readings with multiple-choice quizzes (Japanese)</a></li>
+  <li><a href="http://www.sengokudaimyo.com/bungo/bungo.html">Anthony Bryant's page for verbs (English)</a></li>
+  <li><a href="http://www.jade.dti.ne.jp/~teacher/gakushuujp.htm">Various Kobun readings (Japanese)</a></li>
+  <li><a href="https://ja.wikibooks.org/wiki/%E5%8F%A4%E8%AA%9E%E6%B4%BB%E7%94%A8%E8%A1%A8">Wikimedia book for Kobun verbs, oriented with verb type on the y-axis (Japanese)</a></li>
+</ul>
+
+<aside class="blog-post-highlight article-sources"><div class="container"><h4>Sources</h4><ul><li>Barczikay, Zoltan. Classical Japanese Grammar: Japanese verbs</li><li><a href="http://www.sengokudaimyo.com/bungo/bungo.html" title="View source">Stewart, Anthony. Bungo Nyuumon, Paradigm Chart &amp; Verbs</a></li><li><a href="https://kafkafuura.wordpress.com/2009/07/18/%E7%AB%B9%E5%8F%96%E7%89%A9%E8%AA%9E%E3%83%BC%E3%80%8C%E3%81%8B%E3%81%90%E3%82%84%E5%A7%AB%E3%81%AE%E7%94%9F%E3%81%84%E7%AB%8B%E3%81%A1%E3%80%8Dtaketori-monogatari-the-birth-of-the-shining-princ/" title="View source">Kafka-Fuura 竹取物語ー「かぐや姫の生い立ち」Taketori Monogatari – The Birth of The Shining Princess</a></li><li>Shirane, Haruo. Classical Japanese: A Grammar. New York: Columbia University Press, 2005. p. 24, 44.</li><li>Vovin, Alexander. A Reference Grammar of Classical Japanese Prose. London: RoutledgeCurzon, 2003. p. 163- 172, 213.</li></ul></div></aside>
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-kobun-guide hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2016-02-11-kobun-guide/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='../../series/kobun-guide.1' title='View all articles in Series Kobun: Classical Japanese'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+Kobun: Classical Japanese
+</span>
+</a>
+</li>
+<li class='pager-next'>
+<a href='../kobun-jodoushi/index.html@series=kobun-guide' title='View Kobun (Classical Japanese) and How To Use Helper Verbs'>
+<small>
+Next Article in Series
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Kobun (Classical Japanese) and How To Use Helper Verbs
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles japan-prev interviews-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='https://www.tofugu.com/japan/narita-airport-history/' title='View Narita Airport&#39;s Troubled Past'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+Narita Airport's Troubled Past
+</a>
+</li>
+<li class='pager-next'>
+<a class='interviews' href='https://www.tofugu.com/interviews/hige-man-ume-chan/' title='View The Picturesque Bento Art Of Hige-Man Ume-Chan'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-users'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+The Picturesque Bento Art Of Hige-Man Ume-Chan
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japanese'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='https://www.tofugu.com/japanese/kobun-jodoushi/' title='View Kobun (Classical Japanese) and How To Use Helper Verbs'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older japanese' class='older-article-pagination'></span>
+</small>
+Kobun (Classical Japanese) and How To Use Helper Verbs
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='https://www.tofugu.com/japanese/kanji-study-methods/' title='View The 7 Different Ways to Learn Kanji (As I See It)'>
+<small>
+<span aria-label='Newer japanese' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+The 7 Different Ways to Learn Kanji (As I See It)
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/about/' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.1' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs.1' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese.1' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/news/' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/newsletter/' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/master-2164c2ee.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

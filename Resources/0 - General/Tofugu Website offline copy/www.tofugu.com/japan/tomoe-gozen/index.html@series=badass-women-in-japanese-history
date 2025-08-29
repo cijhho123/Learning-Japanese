@@ -1,0 +1,806 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Chelsea Bernard' name='author'>
+<meta content='Tomoe Gozen is one of the most illustrious female warriors in Japanese history. Learn about her skills in strong bow, long sword, and mounted archery.' name='description'>
+<meta content='history, samurai' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Tomoe Gozen is one of the most illustrious female warriors in Japanese history. Learn about her skills in strong bow, long sword, and mounted archery.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='Tomoe Gozen: Badass Women in Japanese History' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japan/tomoe-gozen/' property='og:url'>
+<meta content='https://www.tofugu.com/travel/abashiri-prison-museum/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/maach-ecute/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tofugu-favorite-posts-2016/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/state-shinto/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/itadakimasu-meaning/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/higuchi-ichiyo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/otaku-meaning/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/moshi-moshi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ancient-japanese-weapons/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/queen-himiko/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/rice-cooker-history/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/katsuobushi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/the-meaning-of-kuni/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/hiroaki-sato-legends-of-the-samurai/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/history-of-christianity/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/showa-a-history-of-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/bushido/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/oldest-businesses-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-legal-loopholes/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kamaboko-fish-cake/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/satou-japanese-name/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/komainu/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/history-of-japanese-names/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/cow-poop-is-a-japanese-surname/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/origami/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/onigiri-japanese-rice-ball/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ryukyu-king-parade/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/history-of-ramen/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kato-kiyomasa/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/karuta-japanese-cards/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/rice-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/sannai-maruyama-jomon-historical-site/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tenugui/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/silent-era-anime/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/narita-airport-history/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-mustache/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/wasabi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ainu-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ryukyu-dynasty-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/chopsticks-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/mt-fuji-the-ticking-timebomb/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tanaka-hisashige/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/maneki-neko/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-architecture/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/rajio-taiso/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-beer-wars/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/fart-scrolls/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/hentaigana-history-of-japanese-writing-system/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/country-names-for-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/burakumin/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kana-changes-in-history/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/yamato-kotoba-language/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kanji-history/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/tsujigiri/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/reigando-cave/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ashigaru/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/takahiro-hotta-samurai/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/toei-uzumasa-eigamura/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/how-to-samurai-film/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/namba-aruki/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/seizo-fukumoto-samurai-actor/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/samurai-speech/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Chelsea Bernard' property='article:author'>
+<meta content='2014-06-12T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japan' property='article:section'>
+<meta content='history' property='article:tag'>
+<meta content='samurai' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@tofugu' name='twitter:creator'>
+<meta content='Tomoe Gozen is one of the most illustrious female warriors in Japanese history. Learn about her skills in strong bow, long sword, and mounted archery.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='Tomoe Gozen: Badass Women in Japanese History' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#268bd2' name='twitter:widgets:link-color'>
+<meta content='#268bd2' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-chelsea-bernard-bfd1d747.jpg",
+    "jobTitle": "Writer",
+    "name": "Chelsea Bernard",
+    "sameAs": [
+
+    ],
+    "url": "https://www.tofugu.com/about/people/chelsea-bernard/",
+    "description": "Professional student, semi-professional matcha connoisseur, and certifiably obsessed with Japanese performing arts, literature, history, gender/sexuality, and the supernatural."
+  },
+  "datePublished": "2014-06-12T00:00:00Z",
+  "description": "Tomoe Gozen is one of the most illustrious female warriors in Japanese history. Learn about her skills in strong bow, long sword, and mounted archery.",
+  "headline": "Tomoe Gozen: Badass Women in Japanese History",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "history, samurai",
+  "name": "Tomoe Gozen: Badass Women in Japanese History",
+  "url": "https://www.tofugu.com/japan/tomoe-gozen/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2014-06-12T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japan/tomoe-gozen/"
+}
+</script>
+
+<title>Tomoe Gozen: Badass Women in Japanese History</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japan/tomoe-gozen/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='https://www.tofugu.com/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://www.tofugu.com/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://www.tofugu.com/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://www.tofugu.com/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://www.tofugu.com/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='https://www.tofugu.com/favicon.png' rel='shortcut icon'>
+<link href='https://www.tofugu.com/favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japan japan_tomoe-gozen japan_tomoe-gozen_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='https://www.tofugu.com/'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japanese/' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='https://www.tofugu.com/japanese/' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.1' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-learning-resources-database/' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japan/' id='dJapan'>
+Japan <i class="fa fa-globe"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='https://www.tofugu.com/japan/' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/series/' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/travel/' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/reviews/' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/interviews/' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='https://www.tofugu.com/podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=badass-women-in-japanese-history#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+Tomoe Gozen: Badass Women in Japanese History
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+A warrior worth a thousand men
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2014-06-12T00:00:00Z">June 12, 2014</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/chelsea-bernard/index.html" rel="author">Chelsea Bernard</a>
+•
+Art by
+<a href="https://www.tofugu.com/about/people/aya-francisco/">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+<p class='article-series series-badass-women-in-japanese-history hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="https://www.tofugu.com/series/badass-women-in-japanese-history/">Badass Women in Japanese History
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p><em>First in a series chronicling—you guessed it—female badassery in Japan.</em></p>
+
+<p>Japanese history, like most national histories, tends to be a bit of a sausage fest–an emperor here, a samurai there, and some Buddhist monks thrown in for good measure. It's my hope that this series will fill in some of those gender gaps and show you why the badassery of Japan's womenfolk deserves to be recognized too! On top of that, individual biographies are one of my favorite ways to imagine and learn more deeply about Japanese history as it was lived–almost like my very own low-tech RPG.</p>
+
+<p>So without further ado, allow me to introduce to you the one and only Tomoe Gozen, a 12th century warrior woman who slashed her way to samurai stardom, leaving severed heads and several manga series in her wake. Tomoe stands out as one of Japan's extraordinarily rare woman warriors who engaged in offensive battle, known as <em>onna musha</em>. These women can be differentiated from the defensive female fighters known as <em>onna bugeisha</em>. Although most representations of Tomoe depict her wielding a naginata, the traditional "woman's weapon" of an <em>onna bugeisha</em>, her weapons of choice were actually the long sword and the bow and arrow.</p>
+
+<p>But before we dig further into the nitty gritty details of Tomoe's illustrious military career, let's set the stage for slaughter.</p>
+
+<h2 id="japans-civil-war">Japan's Civil War</h2>
+
+<p>Tomoe Gozen had the misfortune to live during a time of extraordinary political and social upheaval. The Genpei War laid waste to capital and countryside from 1180 until 1185, marking a dramatic end to the aristocratic Heian period (794-1185) and ushering in the age of the samurai. But what got everyone's panties into such a bunch in the first place?</p>
+
+<figure class="figure-middle"><img alt="tomoe gozen genpei war" src="https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/genpei-war.jpg" /></figure>
+
+<p>Well, Japan's civil war was essentially an over-the-top family feud over control of the imperial throne, pitting the refined, aristocratic, Kyoto-based Taira clan against the rough, countrified, provincial-based Minamoto clan. The Taira had the upper hand until they were driven out of Kyoto by their alienated vassals in 1183. The Minamoto then proceeded to win key battles at Yashima and Dannoura, virtually wiped out the Taira in the wake of victory, and established Japan's very first shogunate in Kamakura, where Minamoto descendants would rule from until 1333.</p>
+
+<figure class="figure-right"><img alt="tomoe gozen red and white song battle" src="https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/red-and-white-song-battle.jpeg" /></figure>
+
+<p>More than 800 years after the last battlefield casualty had fallen, the Genpei War continues to be fought within the Japanese cultural imagination. Numerous movies, novels, and video games have been based on the war, and the Taira and Minamoto fighting colors (red for the former, white for the latter) are not only emblematic of Japan (including the national flag) but also are used to divide people into competitive teams.</p>
+
+<p>Look no further than the annual New Years' singing competition <em>NHK Kohaku Uta Gassen</em>, also known as "Red and White Song Battle."</p>
+
+<h2 id="concubine-today-samurai-tomorrow">Concubine Today, Samurai Tomorrow</h2>
+
+<figure class="figure-middle"><img alt="tomoe gozen close up" src="https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/tomoe-gozen-close-up.jpg" /></figure>
+
+<p>Needless to say, the Genpei War was a brutal and bloody affair. And it was in this <em>inu</em> eat <em>inu</em> world that Tomoe Gozen—against all odds—made a name for herself as a legendary warrior renowned for her beauty, physical strength, and martial skills.</p>
+
+<p>Due to the contradictory nature of medieval sources and legends that accumulated over the years, Tomoe's personal life remains an enigma. Her love life, however, is one of the few things we can be relatively certain about. She was definitely more than friends with Lord Kiso no Yoshinaka (otherwise known as Minamoto no Yoshinaka)–most likely she was one of his concubines but she's also been described as one of his wives or "female attendants."</p>
+
+<p>Although details such as Tomoe's birth and death date were and are contested, there is overwhelming consensus regarding her military career and her status as an exceptionally skilled and brave warrior.</p>
+
+<h2 id="occupation-badass">Occupation: Badass</h2>
+
+<p>Tomoe was undoubtedly a force to be reckoned with—equipped with strong bow and long sword, sheathed in armor, and charging on horseback to defend friends and vanquish foes. Lord Kiso no Yoshinaka was so impressed by her skill as an archer and her courage as a warrior that he appointed her as his leading commander (<em>ippo no taisho</em>) in the Genpei War.</p>
+
+<p>Key instances of Tomoe's badassery include:</p>
+
+<ul>
+  <li>6th month of 1181 at the Battle of Yokotagawara: Tomoe defeats and collects the heads of 7 mounted warriors (at a time and in a place when head collections were coveted like Oscar trophies).</li>
+</ul>
+
+<figure class="figure-middle"><img alt="tomoe gozen with a cut off head" src="https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/tomoe-gozen-with-a-cut-off-head.jpg" /></figure>
+
+<ul>
+  <li>
+    <p>5th month of 1183 at the Battle of Tonamiyama: Leads over 1,000 of Lord Kiso no Yoshinaka's cavalry to victory.</p>
+  </li>
+  <li>
+    <p>1st month of 1184 at the Battle of Uchide no Hama: Leads 300 of Lord Kiso no Yoshinaka's forces into an impossible battle against 6,000 Taira cavalry and emerges as one of only 5 Minamoto survivors.</p>
+  </li>
+</ul>
+
+<p>Little did Tomoe know that her head-severing days were almost over—her military exploits came to a dramatic end with her unexpected retirement during the 1184 Battle of Awazu. By this point, the Minamoto had turned the tide against the Taira and were poised to take over the country. But just when you'd think the Minamoto clan would be joining in a big sweaty group hug, they ramped up the family drama with a knock-down drag-out fight for the right to be shogun.</p>
+
+<p>Contestant number one was none other than Lord Kiso no Yoshinaka with Tomoe Gozen by his side, and the challenger was his cousin Minamoto no Yoritomo with the legendary Minamoto no Yoshitsune fighting on his behalf. It was a bad day for Camp Tomoe.</p>
+
+<figure class="figure-middle"><img alt="tomoe gozen in battle" src="https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/tomoe-gozen-in-battle.jpg" /></figure>
+
+<p>When Lord Kiso Yoshinaka's forces dwindled to five, he commanded Tomoe to quit the field. Reluctant to desert the battle and reluctant to disobey him, Tomoe made a compromise—she would follow orders, but not before engaging in one final battle to impress her lord and lover, demonstrate her loyalty, and redeem her honor.</p>
+
+<figure class="figure-left"><img alt="tomoe gozen cuts off more heads" src="https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/tomoe-gozen-cuts-off-more-heads.jpg" /></figure>
+
+<p>Ever the overachiever, Tomoe rode head on into a pack of 30 mounted Taira warriors, picked the worthiest opponent among them (famed strongman Onda no Hachiro), and promptly beheaded him. You know, as one does.</p>
+
+<h2 id="after-awazu">After Awazu</h2>
+
+<p>Not long after Tomoe's final triumph, Lord Kiso no Yoshinaka was fatally wounded, leaving Minamoto no Yoritomo uncontested in his role as head of the clan and ultimately as shogun of the country.</p>
+
+<p>But what became of our heroine? Unfortunately no one knows for sure.</p>
+
+<p>Some say she was captured by Minamoto no Yoritomo's henchman Wada Yoshimori during the battle of Kyoto, forced to become his concubine, and then gave birth to the legendary strongman Asahina Saburo Yoshihide. Others say she became a Buddhist nun, reciting sutras on behalf of the late Lord Kiso no Yoshinaka's soul until her death at the ripe old age of 91. Still others say she avenged Lord Kiso no Yoshinaka by killing his attackers, stealing back Yoshinaka's head so no one else could defile it, and then walked out into the sea—head in hand—to drown. And sometimes elements from all three of these stories get put into a blender to churn out yet another whimsical and speculative tale.</p>
+
+<figure class="figure-right"><img alt="tomoe gozen and a shocked horse" src="https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/tomoe-gozen-and-a-shocked-horse.jpg" /></figure>
+
+<p>Whatever the circumstances of her subsequent life and death, Tomoe has accumulated quite a reputation for herself over the last eight centuries, blurring history and myth in genres as divergent as kabuki and television, woodblock prints and manga. Let's check out a few of her many reincarnations…</p>
+
+<h2 id="the-warrior-worth-a-thousand">The "Warrior Worth A Thousand"</h2>
+
+<p>Before there were Netflix-equipped iPhones, there were itinerant biwa-playing blind priests. Not long after the Genpei War ended, these entertainers fashioned the raw material of recent history into the <em>Heike monogatari</em> (The Tale of the Heike), Japan's greatest war epic (or <em>gunkimono</em>). Comparable in scope and influence to the West's <em>Iliad</em>, the <em>Heike monogatari</em> recasts the Genpei War as a struggle between the Heike and the Genji clans (the Taira and Minamoto, respectively), emphasizing the tragic downfall of the Taira family as a metaphor for the Buddhist philosophy of the transitory nature of all things. These storytellers <em>were</em> priests, after all.</p>
+
+<figure class="figure-middle"><img alt="tomoe gozen blind musician" src="https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/blind-musician.jpg" /></figure>
+
+<p>The <em>Heike monogatari</em> text's definitive form was reached in the 14th century, and its celebrated opening lines can give you a pretty good sense of what it's all about:</p>
+
+<blockquote>
+  <p>The sound of the Gion Shoja bells echoes the impermanence of all things, the color of the sala flowers reveals the truth that the prosperous must decline. The proud do not endure, they are like a dream on a spring night; the mighty fall at last, they are as dust before the wind.<sup id="fnref:1"><a href="index.html@series=badass-women-in-japanese-history#fn:1" class="footnote">1</a></sup></p>
+</blockquote>
+
+<p>Now if that's not epic, I don't know what is. But let's not forget who brought us here in the first place. Tomoe's brief but unforgettable appearance in Chapter 4, "The Death of Lord Kiso," is one of the most frequently studied passages in the entire <em>Heike monogatari</em>. She gets a pretty impressive introduction:</p>
+
+<figure class="figure-middle"><img alt="tomoe gozen looking awesome on a horse" src="https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/tomoe-gozen-looking-awesome-on-a-horse.jpg" /></figure>
+
+<blockquote>
+  <p>Kiso no Yoshinaka had brought with him from Shinano two female attendants, Tomoe and Yamabuki. Yamabuki had fallen ill and stayed in the capital. Of the two, Tomoe was especially beautiful, with white skin, long hair, and charming features. She was also a remarkably strong archer, and as a swordswoman she was a warrior worth a thousand, ready to confront a demon or god, mounted or on foot. She handled unbroken horses with superb skill; she rode unscathed down perilous descents. Whenever a battle was imminent, Yoshinaka sent her out as his first captain, equipped with strong armor, an oversized sword, and a mighty bow; and she performed more deeds of valor than any of his other warriors. Thus she was now one of the seven who remained after all the others had fled or perished. <sup id="fnref:1:1"><a href="index.html@series=badass-women-in-japanese-history#fn:1" class="footnote">1</a></sup></p>
+</blockquote>
+
+<p>And when those remaining seven dwindled to five…</p>
+
+<blockquote>
+  <p>Even then, Tomoe remained alive.</p>
+
+  <p>"Quickly now," Lord Kiso said to Tomoe. "You are a woman, so be off with you; go wherever you please. I intend to die in battle, or kill myself if I am wounded. It would be unseemly to let people say, 'Lord Kiso kept a woman with him during his last battle.'</p>
+
+  <p>Reluctant to flee, Tomoe rode with the others until she could resist no longer. Then she pulled up. "Ah! If only I could find a worthy foe. I would fight a last battle for his lordship to watch." She thought.</p>
+
+  <p>As she sat there, thirty riders came into view, led by Onda no Hachiro Moroshige, a man renowned in Musashi province for his great strength. Tomoe galloped into their midst, rode up alongside Moroshige, seized him in a powerful grip, pulled him down against the pommel of her saddle, held him motionless, twisted off his head, and threw it away. Afterward, she discarded helmet and armor and fled toward the eastern provinces. <sup id="fnref:1:2"><a href="index.html@series=badass-women-in-japanese-history#fn:1" class="footnote">1</a></sup></p>
+</blockquote>
+
+<p>This "battlefield retreat" scene has been heavily debated. Why does Yoshinaka suddenly give the middle finger to Tomoe, his greatest ally? What's up with that? Was it simply out of embarrassment about Tomoe's gender, even though he never seemed to mind that before? Did he fear for her safety? Was he jealous of the possibility that she might die a more glorious death than him? Did he just want someone from his own army to survive, someone to pray for his soul to the gods and to sing his praises to the people?</p>
+
+<figure class="figure-middle"><img alt="tomoe gozen being awesome on a scroll" src="https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/tomoe-gozen-being-awesome-on-a-scroll.jpg" /></figure>
+
+<p>All speculation aside, the <em>Heike monogatari</em> was an important first step towards imortalizing Tomoe as a legendary figure–but it certainly was not the last.</p>
+
+<h2 id="tomoe-takes-the-stage">Tomoe Takes the Stage</h2>
+
+<p>What the heck happened to Tomoe after she fled to the "eastern provinces"? One 15th century Noh play offers a theory. Imaginatively titled "Tomoe," this theatrical ghost story resurrects Tomoe Gozen as a grieving, resentful spirit bound to Lord Kiso no Yoshinaka's shrine at Awazu. As it turns out, she's pretty pissed that she wasn't allowed to die with her master and has been stewing at this shrine ever since. The Buddhist monk who finds her prays for her soul, but there's no telling how effective that was.</p>
+
+<p>While Noh plays are generally more famous for their meditative calm than their action-packed fight scenes, Tomoe does show off some of her moves with a naginata in this scene (despite the fact that she actually used a sword and bow):</p>
+
+<div class="embed-container embed-responsive embed-responsive-16by9"><iframe width="200" height="113" src="https://www.youtube.com/embed/rsHeydT7FiY?start=182&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="能　巴はともかくも涙に咽ぶよりほかなすすべもなかった"></iframe></div>
+
+<p>After this depressing role, Tomoe turned to live-action comedy. She stole the show as the lead in <em>Onna shibaraku</em>, a one-hour extravaganza that continues to be one of the most popular and frequently performed kabuki plays even though it first appeared in 1746. <em>Onna shibaraku</em> is parody of the original <em>Shibaraku</em>, a flamboyant and flashy tale of a samurai hero who thwarts an evil lord about to execute innocent nobles who oppose him. When the samurai hero swoops in to save the day, he halts the villain in his tracks by shouting "<em>Shibaraku</em>!" ("Wait a minute!") and then proceeds to mow down the evil lord and his cronies.</p>
+
+<figure class="figure-middle"><img alt="tomoe gozen in red" src="https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/tomoe-gozen-in-red.jpg" /></figure>
+
+<p><em>Onna shibaraku</em> replaces the original samurai hero with none other Tomoe Gozen. However, as a parody, the actor who plays her undercuts Tomoe's achievements by behaving with exaggerated feminine helplessness and confusion, exploiting the presumption that a woman single-handedly defeating these men is laughably ridiculous. You can see for yourself in this scene:</p>
+
+<figure class="figure-middle"><img alt="Embed for https://www.youtube.com/watch?time_continue=719&amp;v=LsbAlsupuYo no longer exists" src="https://www.tofugu.com/images/images/layout/placeholders/missing-media.jpg" /></figure>
+
+<p>Flash forward to the 21st century and Tomoe Gozen is unapologetically kicking ass and taking names. In August of 2013, Meijiza Theater staged "Tomoe Gozen: Legend of the Female Warrior," a time-travel action-adventure epic. The basic premise? A modern 21st century woman suddenly finds herself transplanted into a 12th century war zone—and everyone is calling her Tomoe for some reason. All in all, it delivers a pretty contemporary message about the potential every woman has to be strong, independent…and to wear anachronistically revealing leather armor! Check out the trailer below:</p>
+
+<figure class="figure-middle"><img alt="Embed for https://www.youtube.com/watch?v=v0OPacuZZys no longer exists" src="https://www.tofugu.com/images/images/layout/placeholders/missing-media.jpg" /></figure>
+
+<p>From tortured Buddhist ghost to punch line of a parody to contemporary role model, Tomoe Gozen's stage appearances have been numerous and varied, reflecting centuries of shifting values. The Noh theater's "Tomoe" and Kabuki's "Onna Shibaraku" continue to be periodically performed, and Meijiza Theater's "Legend of the Woman Warrior" just might get a revival, but it'd be a gamble to book travel plans on their behalf. Luckily, there other more reliable venues where you can still catch a glimpse of Tomoe for yourself.</p>
+
+<h2 id="tomoe-today">Tomoe Today</h2>
+
+<p>If you're the festive type, don't miss Tomoe's annual appearance in Kyoto's extravagant "Festival of the Ages" (<em>Jidai Matsuri</em>). One of Kyoto's "Three Great Festivals," the <em>Jidai Matsuri</em> happens every year on October 22nd. The jidai gyoretsu is no doubt the highlight of the festivities: a five-hour, two-kilometer pageant-parade featuring around 2,000 people dressed as historical figures from Japan's earliest recorded times up through the Meiji period (until 1912). As you can imagine, important figures from the Genpei War era are well-represented and Tomoe rides among them in a curious combination of courtly make-up and warrior gear.</p>
+
+<figure class="figure-middle"><img alt="tomoe gozen in a parade" src="https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/tomoe-gozen-in-a-parade.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/automatic-joy/8130288209/" title="Visit source's website" target="_blank">Elena Gabrielli</a></figure>
+
+<p>If crowds and costumes aren't your thing, you might want to stop by one of the numerous graveyards that claim to be Tomoe's final resting place. The two most worthwhile to visit in their own right are probably the ones located at Gichuji Temple in Shiga prefecture and Tokuonji Temple in Nagano prefecture.</p>
+
+<figure class="figure-middle"><img alt="tomoe gozen jizo statue" src="https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/jizo-statue.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/ax2groin/2165155484/" title="Visit source's website" target="_blank">Michael Daines</a></figure>
+
+<p>Although its origins are obscure, Gichuji Temple claims to have been founded in the 12th century with the purpose of mourning Lord Kiso no Yoshinaka. Legend has it that Tomoe built a thatched hut near his grave, began holding memorial services there, and was buried on the site. There's a stone bearing her name and the surrounding temple scenery is beautiful—after all, this was one of the famous haiku poet Matsuo Basho's favorite stomping grounds and he's also buried there by his request.</p>
+
+<figure class="figure-middle"><img alt="tomoe gozen's grave" src="https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/tomoe-gozen-grave.jpg" /><figcaption> Tomoe's Grave </figcaption> Source: <a href="https://ja.wikipedia.org/wiki/%E7%BE%A9%E4%BB%B2%E5%AF%BA" title="Visit source's website" target="_blank">Wikipedia</a></figure>
+
+<p>A statue of Tomoe stands guard next to Kiso no Yoshinaka at Tokuonji, the Kiso family temple. Here you'll find a museum displaying all things Kiso, Yoshinaka's mausoleum (a memorial more than a grave, because his body isn't there), and another one of Tomoe's graves overlooking a small shrine and a bronze statue of herself on horseback.</p>
+
+<figure class="figure-middle"><img alt="Tomoe-Gozen-and-Kiso Yoshinaka statue" src="https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/Tomoe-Gozen-and-Kiso-Yoshinaka-statue.jpg" /><figcaption> Tomoe Gozen and Kiso Yoshinaka statue </figcaption> Source: <a href="https://ca.wikipedia.org/wiki/Guerres_Genpei#mediaviewer/Fitxer:Kiso-Yoshinaka%26Tomoe-gozen_statue_Kiso-t.jpg" title="Visit source's website" target="_blank">Wikimedia</a></figure>
+
+<p>But if you don't want to leave the house at all, you can always lock yourself in your mother's basement with a stack of Tomoe-related TV shows, manga, video games, and novels. Even not counting pop culture that deals more broadly with the Genpei War, there's still plenty of Tomoe to go around.</p>
+
+<figure class="figure-middle"><img alt="tomoe gozen in a game" src="https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/tomoe-gozen-in-a-game.jpg" /></figure>
+
+<p>How about Samurai Deeper Kyo, a manga series that ran from 1999 to 2006 and featured Saisei as the zombie-like reincarnation of Tomoe Gozen? Or maybe <em>Tomoe ga yuku</em> ("There Goes Tomoe"), the popular Bessatsu Shojo comic serial and short-lived anime following the misadventures of bad-girl biker Tomoe and her hidden love for stuntman Tokoro? You can immerse yourself in a fantastical murder mystery as Tomoe Gozen in the RPG video game Shin Megami Taisei: Persona 4. Or you can immerse yourself in a historical fantasy with American writer Jessica Amanda Salmonson's Tomoe Gozen trilogy. And that's just the tip of the iceberg. After all this, you might be asking yourself…</p>
+
+<h2 id="whats-so-great-about-tomoe-gozen">What's So Great About Tomoe Gozen?</h2>
+
+<figure class="figure-middle"><img alt="tomoe gozen on a horse in the snow" src="https://files.tofugu.com/articles/japan/2014-06-12-tomoe-gozen/tomoe-gozen-on-a-horse-in-the-snow.jpg" /></figure>
+
+<p>By all accounts, Tomoe possessed exceptional military skills—in archery, swordsmanship, and horsemanship—that made her a valued warrior in her own time and a celebrated figure for future generations. Furthermore, according to cultural historian Professor Steven T. Brown, Tomoe Gozen's name "has become synonymous with the image of the woman warrior in Japanese cultural history."</p>
+
+<p>Even if you're not personally inclined toward slinging arrows and swinging swords (or even if you're a pacifist like myself), it's hard not to be impressed by the sheer fact of Tomoe's existence—that the patriarchal samurai class accepted this woman warrior into their ranks, and that she was able to make contributions in the very area that the male-dominated military establishment valued most. Her very rarity heightens her importance as a symbolic figure of female independence and achievement.</p>
+
+<h3 id="bonus-trivia-just-one-of-many-tomoe">Bonus Trivia: Just One of Many Tomoe?</h3>
+
+<p>As it turns out, Tomoe might not have been such a rare specimen, after all. Recent archeological evidence has detected a staggering female presence in warrior grave sites, women otherwise unaccounted for in–and possibly deliberately excluded from–traditional historical texts. A headmound excavated from the site of the 1580 Battle of Senbon Matsubaru revealed that 35 of the 105 heads buried there were female. DNA testing on two other battlefield gravesites had similarly gender-stratified results. Only time (and shrunken heads) will tell if this pattern bears out more widely across place and time, so stay tuned…</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p><a href="http://www.amazon.com/The-Tale-Heike-Helen-McCullough/dp/0804718032">The Tale of the Heike</a>. <em>Helen McCullough</em>. Retrieved at <time datetime="Thu, 12 Jun 2014 00:00:00 GMT">2014 June 12</time> <a href="index.html@series=badass-women-in-japanese-history#fnref:1" class="reversefootnote">&#8617;</a> <a href="index.html@series=badass-women-in-japanese-history#fnref:1:1" class="reversefootnote">&#8617;<sup>2</sup></a> <a href="index.html@series=badass-women-in-japanese-history#fnref:1:2" class="reversefootnote">&#8617;<sup>3</sup></a></p>
+    </li>
+  </ol>
+</div>
+
+
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-badass-women-in-japanese-history hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2016-02-11-badass-women-in-japanese-history/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='https://www.tofugu.com/series/badass-women-in-japanese-history/' title='View all articles in Series Badass Women in Japanese History'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+Badass Women in Japanese History
+</span>
+</a>
+</li>
+<li class='pager-next'>
+<a href='../murasaki-shikibu/index.html@series=badass-women-in-japanese-history' title='View Murasaki Shikibu: Badass Women in Japanese History'>
+<small>
+Next Article in Series
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Murasaki Shikibu: Badass Women in Japanese History
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles interviews-prev japan-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='interviews' href='https://www.tofugu.com/interviews/takimoto-somesho-tenugui/' title='View Making Traditional Tenugui With Cloth Artisan Takimoto Somesho'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-users'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+Making Traditional Tenugui With Cloth Artisan Takimoto Somesho
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='https://www.tofugu.com/japan/yo-kai-watch/' title='View Better Than Pokémon!?'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Better Than Pokémon!?
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japan'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='https://www.tofugu.com/japan/yo-kai-watch/' title='View Better Than Pokémon!?'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older japan' class='older-article-pagination'></span>
+</small>
+Better Than Pokémon!?
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='https://www.tofugu.com/japan/tamago-kake-gohan-raw-egg-on-rice/' title='View Raw Egg On Rice Is A Japanese Feast'>
+<small>
+<span aria-label='Newer japan' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Raw Egg On Rice Is A Japanese Feast
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/about/' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.1' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs.1' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese.1' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/news/' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/newsletter/' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/master-2164c2ee.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Ian J. Battaglia' name='author'>
+<meta content='Check out a review of Anki, one of the most popular SRS flashcard apps in the Japanese learning community.' name='description'>
+<meta content='anki, SRS, Japanese, learning, flashcard, app' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Check out a review of Anki, one of the most popular SRS flashcard apps in the Japanese learning community.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/reviews/2022-07-26-anki/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='A Review of Anki' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/reviews/anki/' property='og:url'>
+<meta content='https://www.tofugu.com/reviews/bunpro/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/uchi-soto/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/shirokuma-cafe/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/yo-vs-ne/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/wa-and-ga/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kangaeru-synonyms/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/omou-kangaeru/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/lgbtq-identities/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/na-adjectives-no-adjectives/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/da-vs-desu-in-real-life/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-january-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/katakanization/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/ehon-japanese-childrens-picture-books/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/yotsubato/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/bao-nakashima/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-punctuation/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/warau-eikaiwa/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/be-more-productive/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/what-i-learned-about-learning-japanese-from-spending-3-weeks-in-taiwan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/stay-motivated/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/learn-with-pictures/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/learning-epiphanies/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/jfdi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/seinfeld-kanji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/little-victories/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/study-habits/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/hellotalk/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/todai-easy-japanese-news-app/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-march-2017/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-learning-resources-february-2017/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Ian J. Battaglia' property='article:author'>
+<meta content='2022-07-26T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='reviews' property='article:section'>
+<meta content='anki' property='article:tag'>
+<meta content='SRS' property='article:tag'>
+<meta content='Japanese' property='article:tag'>
+<meta content='learning' property='article:tag'>
+<meta content='flashcard' property='article:tag'>
+<meta content='app' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@IanJBattaglia' name='twitter:creator'>
+<meta content='Check out a review of Anki, one of the most popular SRS flashcard apps in the Japanese learning community.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/reviews/2022-07-26-anki/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='A Review of Anki' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#859900' name='twitter:widgets:link-color'>
+<meta content='#859900' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-ian-j-battaglia-378d8bf5.jpg",
+    "jobTitle": "Writer",
+    "name": "Ian J. Battaglia",
+    "sameAs": [
+      "https://www.twitter.com/IanJBattaglia",
+      "https://mnchrm.co/"
+    ],
+    "url": "https://www.tofugu.com/about/people/ian-j-battaglia/",
+    "description": "Ian J. Battaglia is a writer and photographer based out of Chicago. He is one of the editors of The Chicago Review of Books, and his work has appeared in The LA Review of Books, Input Magazine, The Kenyon Review, and Chicago Reader, among others. He is currently working on a novel. He loves Japanese culture and learning more about the language! Follow him on Twitter <a href="https://www.tofugu.com/reviews/anki/\&quot;https://www.twitter.com/IanJBattaglia\&quot;">@IanJBattaglia.</a>",
+    "email": "ianbattaglia@gmail.com"
+  },
+  "datePublished": "2022-07-26T00:00:00Z",
+  "description": "Check out a review of Anki, one of the most popular SRS flashcard apps in the Japanese learning community.",
+  "headline": "A Review of the Anki Application",
+  "image": {
+    "@type": "ImageObject",
+    "author": "ian_battaglia",
+    "contentURL": "https://files.tofugu.com/articles/reviews/2022-07-26-anki/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/reviews/2022-07-26-anki/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "anki, SRS, Japanese, learning, flashcard, app",
+  "name": "A Review of the Anki Application",
+  "url": "https://www.tofugu.com/reviews/anki/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2022-07-26T00:00:00Z",
+  "mainEntity": {
+    "@type": "Product",
+    "name": "Anki",
+    "description": "Check out a review of Anki, one of the most popular SRS flashcard apps in the Japanese learning community.",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 9.0,
+      "ratingCount": 1,
+      "bestRating": 10,
+      "worstRating": 1
+    },
+    "review": {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Ian J. Battaglia"
+      },
+      "datePublished": "2022-07-26T00:00:00Z",
+      "description": "Check out a review of Anki, one of the most popular SRS flashcard apps in the Japanese learning community.",
+      "name": "A Review of the Anki Application",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": 10,
+        "ratingValue": 9.0,
+        "worstRating": 1
+      }
+    },
+    "sameAs": [
+      "https://apps.ankiweb.net/",
+      "https://apps.ankiweb.net/"
+    ]
+  },
+  "mainEntityOfPage": "https://www.tofugu.com/reviews/anki/"
+}
+</script>
+
+<title>A Review of the Anki Application</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='anki.1' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='https://www.tofugu.com/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://www.tofugu.com/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://www.tofugu.com/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://www.tofugu.com/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://www.tofugu.com/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='https://www.tofugu.com/favicon.png' rel='shortcut icon'>
+<link href='https://www.tofugu.com/favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='reviews reviews_anki reviews_anki_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='https://www.tofugu.com/'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japanese/' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='https://www.tofugu.com/japanese/' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../japanese-grammar.1' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-learning-resources-database/' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japan/' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='https://www.tofugu.com/japan/' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/series/' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/travel/' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/reviews/' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/interviews/' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='https://www.tofugu.com/podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='anki.1#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/reviews/2022-07-26-anki/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/reviews/2022-07-26-anki/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+A Review of Anki
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+A Spaced-Repetition System That Grows With You
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2022-07-26T00:00:00Z">July 26, 2022</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="https://www.tofugu.com/about/people/ian-j-battaglia/" rel="author">Ian J. Battaglia</a>
+•
+Art by
+<a href="https://www.tofugu.com/about/people/ian-j-battaglia/">Ian J. Battaglia</a>
+<a href="https://files.tofugu.com/articles/reviews/2022-07-26-anki/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>For those of us learning Japanese, there's a lot we have to do. From active studying like reading textbooks, to practicing skills like speaking, and trying to read and watch native material, the work needed to reach a high level of Japanese proficiency is vast. But regardless of your method of active studying, there are a lot of things you'll simply need to memorize. Specifically for Japanese study, learning new words is a big memorization project, but thankfully one that can be made easier. Through various spaced-repetition systems or SRS, a learner can take the guesswork out of when to review a specific term to make sure it sticks. There are <a href="../japanese/spaced-repetition.1">a number of SRS programs</a>, but I'd like to take a look at one that remains enduringly popular over the 15 years since its initial release: Anki.</p>
+
+<p>With its expansive range of add-ons and shared user "decks," the ability to be synced across platforms, and its deep customizability, it's no wonder Anki has found a thriving and vocal group of enthusiasts, including a community of supportive Japanese learners. Still, with great power comes great responsibility, as Anki has a well-earned reputation for its Byzantine options, and all but requires serious configuration and additions to make the most out of it.</p>
+
+<p>For years, I put off getting set up with Anki, as every time I tried, I soon became frustrated by its myriad options and at-times dogmatic users all extolling the "One True Method." Hopefully, for learners who are unfamiliar with Anki or just hesitant like I was, I can provide some of the details I wish I'd known earlier, talk a bit about the setup process, and show why it's so beloved in the Japanese learning community. Once you get off the ground with Anki, it can be a super powerful application, but you should know what you're getting into before you jump into the deep end.</p>
+
+<ul id="markdown-toc">
+  <li><a href="anki.1#what-is-anki" id="markdown-toc-what-is-anki">What Is Anki?</a>    <ul>
+      <li><a href="anki.1#built-in-srs-spaced-repetition-system" id="markdown-toc-built-in-srs-spaced-repetition-system">Built-in SRS (Spaced Repetition System)</a></li>
+    </ul>
+  </li>
+  <li><a href="anki.1#okay-so-why-use-anki" id="markdown-toc-okay-so-why-use-anki">Okay, So Why Use Anki?</a>    <ul>
+      <li><a href="anki.1#making-your-own-flashcards" id="markdown-toc-making-your-own-flashcards">Making Your Own Flashcards</a></li>
+      <li><a href="anki.1#the-need-for-speed" id="markdown-toc-the-need-for-speed">The Need for Speed!</a></li>
+      <li><a href="anki.1#integrations--workflows" id="markdown-toc-integrations--workflows">Integrations &amp; Workflows</a></li>
+    </ul>
+  </li>
+  <li><a href="anki.1#anki-terminology" id="markdown-toc-anki-terminology">Anki Terminology</a>    <ul>
+      <li><a href="anki.1#cards" id="markdown-toc-cards">Cards</a></li>
+      <li><a href="anki.1#notes" id="markdown-toc-notes">Notes</a></li>
+      <li><a href="anki.1#decks" id="markdown-toc-decks">Decks</a></li>
+    </ul>
+  </li>
+  <li><a href="anki.1#setting-up-your-own-anki-deck" id="markdown-toc-setting-up-your-own-anki-deck">Setting Up Your Own Anki Deck</a></li>
+  <li><a href="anki.1#studying-with-anki" id="markdown-toc-studying-with-anki">Studying with Anki</a></li>
+  <li><a href="anki.1#the-bad" id="markdown-toc-the-bad">The Bad</a></li>
+  <li><a href="anki.1#is-anki-worth-the-hassle" id="markdown-toc-is-anki-worth-the-hassle">Is Anki Worth the Hassle?</a></li>
+</ul>
+
+<h2 id="what-is-anki">What Is Anki?</h2>
+
+<figure class="figure-middle"><img alt="a screenshot of the anki landing page" src="https://files.tofugu.com/articles/reviews/2022-07-26-anki/anki7.jpg" /></figure>
+
+<p>Anki is an open-source SRS app available on Windows, Mac, and Linux, as well as iOS and Android. It's free on every platform except iOS, where it costs $24.99 as a means of supporting the rest of the development.</p>
+
+<p>At its core, Anki is a flashcard application. Users make digital flashcards with pieces of information arranged on the "front" and "back" sides of the cards — Japanese words and their English translations, for example. As you might imagine, these cards are then grouped into "decks" for you to review from, and you can even share your decks with other users, or download their decks to use for yourself.</p>
+
+<h3 id="built-in-srs-spaced-repetition-system">Built-in SRS (Spaced Repetition System)</h3>
+
+<p>But rather than simply letting you review flashcards at your own pace, Anki has a built-in SRS algorithm, which automatically adjusts which cards it shows you and how long until it asks you to review them again, all while you're doing your reviews. In short, after you create a card and review it for the first time, you're asked to grade how well you were able to recall the information on the card. Based on your response, Anki's algorithm will adjust how long until it shows you that card again — if you tell it you remembered it well, it'll wait a little longer, and if you say you struggled to remember it, it'll show you that card sooner. The intent is to show you a card <em>just</em> before you forget the information you put on it, so that you can efficiently move it to your long-term memory rather than leaving it as something you're likely to forget. Because of how this process works and the effectiveness of it, SRS apps are very well suited to building a large vocabulary in a new language, though you can use them to memorize basically any set of data you want to.</p>
+
+<blockquote class="highlight-left">
+  <p>SRS apps are very well suited to building a large vocabulary in a new language.</p>
+</blockquote>
+
+<p>This is all well and good, but do you really need to use an SRS? You certainly don't <em>have</em> to, but doing so makes it a lot easier to reach a high level of Japanese proficiency. At some point as a second language learner, you'll need to build up your vocabulary. You don't want to be caught in a conversation and suddenly realize you don't know the Japanese word for "grapes" (true story!). <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5126970/">Studies</a> have shown SRS programs to be highly effective, so why not leverage that efficiency for your own goals? Really, it's no different from the textbook or classroom study you're already taking advantage of — think of all these methods simply as multipliers to your own natural acquisition ability.</p>
+
+<blockquote class="highlight-right">
+  <p>Studies have shown SRS programs to be highly effective, so why not leverage that efficiency for your own goals?</p>
+</blockquote>
+
+<p>But couldn't you just read a bunch and learn things naturally? Native speakers don't use an SRS, after all. Of course that's a valid point, but you should remember that native speakers have years and years of immersion experience you don't have. While you probably could just try and read a lot of books (<a href="https://puroh.it/reading-for-a-fine-vocabulary/">maybe around 150 or so</a>) and slowly build your vocabulary over time, that process is haphazard, and without a way to capture and practice those new words, you might end up forgetting them anyways.</p>
+
+<p>It's cool to see my vocabulary grow in specific directions based on my interests or the media I'm interacting with at any specific time. For example, while playing <em>Zelda</em> in Japanese I picked up words like 研修 (<em>kenshū</em>, training), 剣 (<em>ken</em>, sword), 広場 (<em>hiroba</em>, town square), and 勇者 (<em>yūsha</em>, hero), but would've learned completely different words if I had instead read a romance novel. I can't tell you how many times I've been having a conversation in Japanese, only to realize I don't know some word that seems shockingly common, but that I simply never came across in native material before. Unfortunately, this is probably an inevitable situation, but makes it all the more important to make sure the words you're coming across do stick.</p>
+
+<h2 id="okay-so-why-use-anki">Okay, So Why Use Anki?</h2>
+
+<p>Alright, you've sold me, I'm ready to boost my vocabulary. But why should I use Anki, especially when I could use something I don't have to fuss around with?</p>
+
+<blockquote class="highlight-left">
+  <p>Almost everything in Anki can be tweaked.</p>
+</blockquote>
+
+<p>I felt the same way for years, and though I'm of course biased, the ease of getting started is one of the main reasons I feel WaniKani is a great option for learners at any level to start learning to read Japanese. But with any system that you don't make yourself, including the premade user decks on Anki, you're stuck learning words that might only be somewhat relevant to your interests or your Japanese level, and you're limited in the information that you're able to decide is important.</p>
+
+<p>Additionally, almost everything in Anki can be tweaked, from the way cards look and the information they contain, to functionality (such as adding in an input field instead of the grading buttons), to the range of add-ons that shape the experience — even the algorithm itself can be modified based on your preferences or needs.</p>
+
+<blockquote class="highlight-right">
+  <p>Making your own flashcards is also just a great study practice.</p>
+</blockquote>
+
+<p>Making your own flashcards is also just a great study practice. Think about borrowing your friend's notebook before a big test, versus making your own notes during the class. When you're making your own deck, you can choose what words you're learning, where they come from, and what information you want to learn with them.</p>
+
+<h3 id="making-your-own-flashcards">Making Your Own Flashcards</h3>
+
+<figure class="figure-middle"><img alt="a screenshot of the browse section on the anki desktop app" src="https://files.tofugu.com/articles/reviews/2022-07-26-anki/anki2.jpg" /></figure>
+
+<blockquote class="highlight-left">
+  <p>I think "input" has to be a pretty big part of your study process to get the most out of Anki.</p>
+</blockquote>
+
+<p>Sounds great, right? Well, not so fast. Personally, I think Anki isn't quite for everyone. While you can jump right in with a premade user deck such as one of the popular Japanese "Core" decks (which usually contain somewhere between 2,000 and 6,000 of the most common words in Japanese by frequency), you'll get the most bang for your buck by making your own decks. There are a number of reasons for this. For one, it pairs rote memorization with language input (since you'll need to find the words you want to memorize from somewhere), and input is essential to reach a high level of proficiency. Then you also get the benefit of deciding what words are worth making a card of, the active thought process of which is useful. Finally and perhaps most importantly, through this process you'll know the cards you're making are relevant to your interests and ability, rather than just being pulled from a list.</p>
+
+<p>But because of all this, I think "input" has to be a pretty big part of your study process to get the most out of Anki; that makes it more suited to intermediate learners rather than absolute beginners. Of course, I think it's great to start incorporating input as early as possible, and you can use Anki to help get yourself to the intermediate level — maybe you'll make a deck of the kana, for example.</p>
+
+<blockquote class="highlight-right">
+  <p>Anki is not only something that takes time to set up, but also time to maintain.</p>
+</blockquote>
+
+<p>Finally, you should know that Anki is not only something that takes time to set up, but also time to maintain. It's a program meant to grow and adapt with you as you learn more, and as your learning needs change. Language learning itself is a big commitment, and of course there's nothing preventing you from stopping using Anki whenever it doesn't suit you; but you should know what you're getting yourself into.</p>
+
+<h3 id="the-need-for-speed">The Need for Speed!</h3>
+
+<p>But this customizability isn't the only reason to use Anki. One of my favorite parts of studying with Anki is just how fast it is. I mentioned this earlier, but by default Anki doesn't ask you to select the correct answer or type in a definition. Instead, you're only asked to grade yourself on how well you were able to recall a word. Because you don't have to type anything in, it's easy for you to take out your phone and flip through some flashcards while you wait for your coffee or something. Of course, this also means it's easy to cheat, something that would only hurt you down the road. But on the other hand, this makes reviews insanely fast.</p>
+
+<blockquote class="highlight-left">
+  <p>Anki doesn't ask you to select the correct answer or type in a definition. This makes reviews insanely fast.</p>
+</blockquote>
+
+<p>Before starting a review session, Anki will estimate how long it will take, based on the time you've spent before. I like to think I've got a good strategy for handling my WaniKani reviews, but my review sessions still take me an average of 30 to 45 minutes every morning; I can finish Anki in no more than 15 or 20.</p>
+
+<p>Now that I've got everything set up, neither making new cards nor studying with them takes much time at all, leaving me plenty of room to do more stuff in Japanese — the primary reason I'm studying Japanese at all. I have more time to spend reading, which is the main way I study right now. Of course, reading is a lot more fun than looking at flashcards or "studying" in a traditional way anyways; it's a win-win!</p>
+
+<h3 id="integrations--workflows">Integrations &amp; Workflows</h3>
+
+<p>The other big reason to use Anki is all of the integrations it offers. Anki is notoriously dense to set up, a claim I think is true, but because of this there is a whole cottage industry of add-ons and integrations that make using Anki a breeze. Let's say you wanted to watch an anime like Yuru Camp and make flashcards out of all the words you don't know. This is easy with a support application like <a href="https://www.migaku.io/">Migaku</a>, which can do all the heavy lifting of making flashcards with the relevant info for you.</p>
+
+<blockquote class="highlight-right">
+  <p>There is a whole cottage industry of add-ons and integrations that make using Anki a breeze.</p>
+</blockquote>
+
+<p>For my money, the single best integration is with the pop-up dictionary browser extension <a href="https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami?hl=en-US">Yomichan</a>. Yomichan allows you to make a new flashcard with a single click of a button after using it to look up a word.</p>
+
+<p>There's also a ton of incredible plugins for Anki, some of which can automatically pull audio for a word, resize images, generate furigana, add pitch-accent diagrams, and much more. No matter what type of cards you want to make, or from what source, you can bet there's a good add-on or support app to make it easy.</p>
+
+<p>With that out of the way, let's talk a bit about how Anki works and some key concepts to understanding it.</p>
+
+<h2 id="anki-terminology">Anki Terminology</h2>
+
+<p>Back when I was Anki-curious, I kept seeing the same refrain offered to Japanese learners hoping to get started with Anki: read the manual! Doing so dropped me into a massive and dense document, filled with terms like "ease" and "cloze." Thankfully, there are only a few pieces of information you'll need to get started, and even better, there are tons of guides on specifically customizing Anki's default options to suit learning Japanese vocabulary, such as the <a href="https://animecards.site/ankisetup/">Animecards site</a> or <a href="https://refold.la/roadmap/stage-1/a/anki-setup">Refold's guide</a>.</p>
+
+<p>Let's look at some of the basic information you'll need to hit the ground running.</p>
+
+<h3 id="cards">Cards</h3>
+
+<p>As I said before, Anki is basically the digital version of a deck of flashcards you might've used in school. But Anki, being digital, has a number of benefits, like the ability to nestle decks inside one another. By default, an Anki card contains some information you put on the "front" of a card, which prompts you to recall the rest of the information. Specifically for studying Japanese vocabulary, most learners make cards that present you with a word in Japanese, or a sentence that contains a word you don't know.</p>
+
+<p>Then, after you think about it, you can press a button to see the "back" side of the card, where most people put the definition of the word in either Japanese or English, a sentence, maybe a definition of the sentence, audio of the word being read, etc. As you can see, these cards are quite flexible, and you can put what you think is useful on them. I would encourage putting a definition in simple Japanese, audio of the word being read, and a sentence showing the word in context (ideally the sentence where you found the word; pulling sentences with unknown words from native material like this is known as "sentence mining"), but don't feel like you have to spend 15 minutes making every single card. Anki is so popular and powerful because many of its add-ons and integrations make it quick and easy to create cards that have all the info you need — without having to fuss around too much.</p>
+
+<h3 id="notes">Notes</h3>
+
+<p>Great, so we understand what a card is, but what exactly is a note? A note is just a collection of different pieces of information. Isn't that the same as a card? It's close, but not quite. Basically, a note allows you to group information in a more fluid way than simply collecting information rigidly into the front and back of a card.</p>
+
+<p>For example, in the card above, we have at least 4 "fields," or pieces of information: the word itself, the definition of the word, a sentence, and an audio recording of the word being read. If you were limited to only cards, you'd have to group the definition, sentence, and audio together on one side, and the word itself on another, meaning you'd need to make a whole new card if you simply wanted a set of cards that gave you the audio and asked you to recall the written word. But because these items aren't grouped like this, you're given a lot more flexibility in making new cards, if you want to test from English-Japanese instead of Japanese-English, for example.</p>
+
+<h3 id="decks">Decks</h3>
+
+<figure class="figure-middle"><img alt="a screenshot of shared decks on the anki website" src="https://files.tofugu.com/articles/reviews/2022-07-26-anki/anki6.jpg" /></figure>
+
+<p>Finally, a deck is a collection of cards. Anki lets you put decks inside one another, so while it's technically possible to have a number of smaller decks of more specialized info, I wouldn't recommend it. One reason for this is that it can make things a bit too easy if you already know that the word you're looking at has to be an "animal name" for example, or that it came from <em>Yotsubato!</em> Instead, I would recommend adding all of your vocabulary cards, whether you decide to make them sentence or word based, into a single deck. That way, you're not giving yourself any context clues as to what you might be looking at. (It also makes reviewing even quicker, since you only have to select the one deck to start!)</p>
+
+<h2 id="setting-up-your-own-anki-deck">Setting Up Your Own Anki Deck</h2>
+
+<p>Now that you know what Anki is and how it works, let me talk a bit about how I decided to set up my Anki deck. Deck setup is very personal, depending on your own needs and preferences, and as I've mentioned before, there are tons of different guides online with different suggestions on what's most efficient. I'm someone who doesn't want to spend a bunch of time messing around with settings, so I decided to set up my deck in-line with one of these guides. I'm sure there are people who would recommend something different, or wouldn't choose the same settings I have, but using a guide allowed me to hit the ground running, and so far I have no complaints with how the review system has worked.</p>
+
+<p>Additionally, I decided to use <a href="https://ankiweb.net/shared/info/151553357">this shared deck</a> as the template for my cards, removing the need for me to get into the CSS (a programming language that tells websites how to look, and is also used by Anki) to adjust how the cards look or the information they contain.</p>
+
+<p>Like I said earlier, my primary method of making new cards is with Yomichan. I use Yomichan with a couple of Japanese-Japanese dictionaries, and based on the card template, Yomichan will automatically add the sentence the word came from, the reading, a pitch-accent graph, the audio of the word, and more into a new card in my Japanese deck. There are also fields to add a picture for context or the audio of the sentence, if you're pulling material from a TV show for example.</p>
+
+<p>For adding images and sentence audio, many recommend the free application <a href="https://getsharex.com/">ShareX</a> for Windows. This lets you assign a keyboard shortcut to make a new screenshot or audio recording, which can be copied to your clipboard and then pasted directly into Anki.</p>
+
+<p>Finally, I'm also using the <a href="https://ankiweb.net/shared/info/2055492159">AnkiConnect add-on</a>, which is necessary to connect Yomichan and Anki together. I use the add-on called <a href="https://ankiweb.net/shared/info/1214357311">ImageResizer</a> to — you guessed it — resize images, <a href="https://ankiweb.net/shared/info/3918629684">Japanese Support</a> to generate furigana and much more to make studying Japanese quick and painless, and <a href="https://ankiweb.net/shared/info/580654285">Yomichan Forvo Server</a> to give Yomichan access to the Forvo pronunciation dictionary website to pull audio from if it doesn't have audio for a word already.</p>
+
+<h2 id="studying-with-anki">Studying with Anki</h2>
+
+<figure class="figure-middle"><img alt="a screenshot of an anki flashcard with an example sentence, image, and pitch graph" src="https://files.tofugu.com/articles/reviews/2022-07-26-anki/anki4.jpg" /></figure>
+
+<p>So now that you've got everything set up, what's studying with Anki actually like? As I've mentioned, you're simply asked to grade yourself on recall once you flip a card and reveal whatever information you've decided to test yourself on. Then, Anki shows you 4 buttons: Again, Hard, Good, and Easy. As many have noted, pressing either the "Hard" or "Easy" buttons not only tells Anki if you did well or poorly recalling the item, but it actually changes the interval between that review and whenever the next one will be from that point on. Basically, if you tell Anki a card was "Hard," not only will it show it to you sooner, but it will always show it to you sooner than it would have otherwise in the future, even if you start to learn it better over time.</p>
+
+<p>Because of this, I only press the "Again" or "Good" buttons while I'm studying. This keeps the interval the same, but lets Anki decide how long to wait before it shows me the card again. If I'm learning a word for the first time, pressing "Again" will literally show the card to me again in the same session, whereas for a card I'm learning pretty well, pressing "Good" might delay how long until I see the card again for weeks or months.</p>
+
+<p>I've added a range of cards, from books, anime, visual novels, and web articles, with a range of different fields used. Still, reviewing all of these together is a breeze.</p>
+
+<h2 id="the-bad">The Bad</h2>
+
+<p>For the right type of learner, Anki is a super powerful application. That said, it's one with a ton of caveats and qualifications. To start, it looks and feels like an application from 2006. It's a gray window on a desktop, and while a few parts of the application have been updated over time, like the "deck options" page, it's a far cry from the elegant and streamlined apps we've come to expect in 2022. You have to manually press a "Sync" button to sync between platforms, for example.</p>
+
+<blockquote class="highlight-left">
+  <p>Anki looks and feels like an application from 2006.</p>
+</blockquote>
+
+<p>Like a lot of studying, what you'll get from Anki is what you'll put into it: from the quality of your cards, to making sure you don't cheat yourself, it's as powerful a tool as you make it. But Anki itself sure doesn't make it easy. Even deciding what type of cards you want to make is a difficult and dogmatic decision, let alone how you choose to set your intervals, ease, and modifiers. I highly recommend finding a guide you like online and sticking with it; you can always adjust things as you go. There's also a ton of helpful YouTube videos, including many specifically for Japanese language learners, that aim to illuminate some of Anki's darkest corners.</p>
+
+<p>If you've spent any amount of time in any of the online Japanese language learning communities, you'll find scores of people who swear by Anki as an essential tool to achieving high Japanese proficiency. And I agree, it can be extremely helpful in building a vocabulary. But I think it's important to note the difficulty in getting Anki to a helpful place, as it definitely doesn't come that way out of the box. Instead, expect to spend at least a bit of time finding various guides, integrations, add-ons, and templates to get things <em>just</em> right; or even longer if you want to set things up by yourself from scratch.</p>
+
+<blockquote class="highlight-right">
+  <p>It's important to note the difficulty in getting Anki to a helpful place, as it definitely doesn't come that way out of the box.</p>
+</blockquote>
+
+<p>Even once that's all set up, it's important to keep Anki in perspective. At its most fundamental, it's best for building a vocabulary. Certainly, this is a huge and important part of language learning, but only a single component of it. Even if you decide to focus your cards on sentences to promote reading and context, you're still just learning new words. I tend to think the people who ask online, "I know 6k words, why can't I smoothly read <em>__</em> yet?" have the wrong idea. Even in a perfectly optimal studying environment (whatever that might be), you'll need to study kana, grammar, phonetics, and more — especially if you want to reach a high level in all domains of Japanese, instead of just learning to read, for example. Of course, all these items should be cemented and improved upon by immersing yourself in native material, but you still need that foundation to start. Anki can help you get there, but not without some work.</p>
+
+<h2 id="is-anki-worth-the-hassle">Is Anki Worth the Hassle?</h2>
+
+<p>So, if it's a hassle, is it worth it? Well, if you're an intermediate Japanese learner, who's starting to engage with more native material and wondering, "What am I supposed to do with all these words I'm looking up?" Anki might be just what you need. There's a reason such a clunky, annoying application has endured and remained oddly beloved, even over 15 years since its release: and that's the power, flexibility, and customizability it offers, all for free.</p>
+
+<p>But free as it may be, it still comes with a price: the annoyance of getting everything in its right place. With all the guides and support apps, it's never been easier to get Anki set up, but that doesn't mean it's easy. Despite the allure, I hesitated for years, rebuffed by the complex options and intimidating experience. But once I got everything set up, I was glad to finally understand what all the hype is about. Anki has already become a key part of the next step of my Japanese study journey, and a tool I expect to use for years to come.</p>
+
+<section class="individual-review"><div class="individual-review__avatar"><a href="https://www.tofugu.com/about/people/ian-j-battaglia/"><img src="https://www.tofugu.com/images/about/people/avatar-ian-j-battaglia-378d8bf5.jpg" alt="Avatar ian j battaglia 378d8bf5" /></a></div><div class="individual-review__content"><h3 class="individual-review__title">Ian’s Review<i class="fa fa-thumbs-o-up" aria-hidden="true" aria-label="Recommended"></i><span class="individual-review_rating">9/10</span></h3>
+<p>As a Japanese learner, you’ll need some way to grow your vocabulary, and because of the expansive range of options and deep customizability, it might as well be Anki. The ability to make your own flashcards is extremely powerful, though getting started is more than a little frustrating. If you can make Anki’s workflows suit your needs, it’s a great way to memorize a ton of words, but doing so isn’t as user-friendly as we’ve come to expect from applications in 2022.</p>
+
+</div></section>
+
+<div class='article-tldr blog-post-highlight'>
+<div class='container'>
+<h2>
+<span class='article-highlight'>Anki</span>
+<small>
+<span class='article-highlight'>
+<span class='conjunction'>by</span>
+Damien Elmes
+</span>
+</small>
+</h2>
+<div class='article-tldr-ratings-pros-cons'>
+<div class='container'>
+<div class='row'>
+<div class='col-md-6'>
+<h3 class='article-tldr-pros-cons-title'>Pros</h3>
+<ul>
+<li>The ability to make your own flashcards is extremely powerful</li>
+<li>Deep customizability allows you to shape Anki to your needs</li>
+<li>Tons of add-ons and plugins to make Anki even more useful</li>
+<li>Theoretically it's a system you could use and adapt for years, rather than a tool you might outgrow.</li>
+</ul>
+</div>
+<div class='col-md-6'>
+<h3 class='article-tldr-pros-cons'>Cons</h3>
+<ul>
+<li>Initial configuration is complex and frustrating</li>
+<li>Dated user interface and experience</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class='article-tldr-ratings'>
+<div class='article-tldr-ratings-overall'>
+<div class='article-tldr-ratings-header'>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-6'>
+<div class='article-tldr-ratings-header-title'>
+<h3>Overall Rating</h3>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class='article-tldr-ratings-header-rating'>
+<h3>9</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+<progress max='10' value='9.0'></progress>
+</div>
+</div>
+<div class='article-tldr-additional-information'>
+<h3>Additional Information</h3>
+<div class='container'>
+<div class='row'>
+<div class='col-md-6'>
+<p>
+<i class='fa fa-fw fa-external-link'></i>
+<a href='https://apps.ankiweb.net/' target='_blank' title='View Anki&#39;s website'>
+Anki's
+website
+</a>
+</p>
+</div>
+<div class='col-md-6'>
+<p>
+<i class='fa fa-fw fa-gift'></i>
+<a href='https://apps.ankiweb.net/' target='_blank' title='Buy Anki'>
+Buy
+Anki
+</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-articles japanese-prev reviews-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='https://www.tofugu.com/japanese/what-is-the-jlpt/' title='View What is the Japanese Language Proficiency Test (JLPT)?'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+What is the Japanese Language Proficiency Test (JLPT)?
+</a>
+</li>
+<li class='pager-next'>
+<a class='reviews' href='https://www.tofugu.com/reviews/bunpro/' title='View A Review of Bunpro'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-pencil'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+A Review of Bunpro
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category reviews'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='reviews' href='https://www.tofugu.com/reviews/bunpro/' title='View A Review of Bunpro'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-pencil'></i>
+<span aria-label='Older reviews' class='older-article-pagination'></span>
+</small>
+A Review of Bunpro
+</a>
+</li>
+<li class='pager-next'>
+<a class='reviews' href='https://www.tofugu.com/reviews/japanese-pod-101/' title='View A Review of JapanesePod101.com'>
+<small>
+<span aria-label='Newer reviews' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-pencil'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+A Review of JapanesePod101.com
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/about/' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../contact.1' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../jobs.1' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../learn-japanese.1' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/news/' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/newsletter/' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/master-2164c2ee.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

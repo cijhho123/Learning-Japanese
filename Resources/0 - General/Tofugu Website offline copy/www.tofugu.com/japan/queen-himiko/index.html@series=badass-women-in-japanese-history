@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Chelsea Bernard' name='author'>
+<meta content='She was a queen, a shamaness, and the first recorded Japanese person ever. Learn everything there is to know about our Queen Himiko.' name='description'>
+<meta content='history, culture' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='She was a queen, a shamaness, and the first recorded Japanese person ever. Learn everything there is to know about our Queen Himiko.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japan/2015-07-06-queen-himiko/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='Queen Himiko: Badass Women in Japanese History' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japan/queen-himiko/' property='og:url'>
+<meta content='https://www.tofugu.com/travel/abashiri-prison-museum/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/maach-ecute/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tofugu-favorite-posts-2016/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/state-shinto/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/itadakimasu-meaning/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/higuchi-ichiyo/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/otaku-meaning/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/moshi-moshi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ancient-japanese-weapons/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/rice-cooker-history/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/katsuobushi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/the-meaning-of-kuni/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/hiroaki-sato-legends-of-the-samurai/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/history-of-christianity/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/showa-a-history-of-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/bushido/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/oldest-businesses-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-legal-loopholes/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kamaboko-fish-cake/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/satou-japanese-name/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/komainu/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/history-of-japanese-names/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/cow-poop-is-a-japanese-surname/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/origami/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/onigiri-japanese-rice-ball/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ryukyu-king-parade/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/history-of-ramen/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kato-kiyomasa/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/karuta-japanese-cards/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/rice-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tomoe-gozen/' property='og:see_also'>
+<meta content='https://www.tofugu.com/travel/sannai-maruyama-jomon-historical-site/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tenugui/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/silent-era-anime/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/narita-airport-history/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-mustache/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/wasabi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ainu-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/ryukyu-dynasty-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/chopsticks-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/mt-fuji-the-ticking-timebomb/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tanaka-hisashige/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/maneki-neko/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-architecture/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/rajio-taiso/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-beer-wars/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/fart-scrolls/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/hentaigana-history-of-japanese-writing-system/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/country-names-for-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/burakumin/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kana-changes-in-history/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/yamato-kotoba-language/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kanji-history/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-blood-type/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-horror-movies/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-work-culture/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/wabi-sabi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/chindogu-japanese-inventions/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-sign-language/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/umbrellas-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/japanese-housewife/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-creativity/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-citizen-study-abroad/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-mushrooms/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-civic-duty/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-work-ethic/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/sued-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/japanese-schoolgirl-confidential/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-beauty-language/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/glasses-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/garbage-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/bishounen/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/medama-sensei/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kitsune-yokai-fox/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/becoming-a-child-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-onsen-body-image/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-poetry-crash-course/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/namahage/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/takarazuka/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japan-conservative/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/matt-alt-japanese-translation/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/less-is-more-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/hikikomori/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tamago-kake-gohan-raw-egg-on-rice/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/fat-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/shinto-tropes-anime/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/taijin-kyofusho/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/beigoma-japanese-tops/' property='og:see_also'>
+<meta content='https://www.tofugu.com/interviews/keisuke-umeda-mustache/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kansai-vs-kanto/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kawaii/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/go-home-signals/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-body-language/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/dog-ownership-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/symbol-of-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/foreign-tourist-on-japanese-tv/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/knitting-for-jizo-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kikokushijo-japanese-raised-abroad/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/asian-but-not-japanese-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-birthday/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/brush-teeth-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/stigmatized-property-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/color-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/gift-giving-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/joshi-mane/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/hosting-japanese-exchange-students/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/jobs-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/the-difficulty-of-names/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/why-i-dont-give-up-my-seat-on-the-train/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/inside-japanese-womans-purse/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/piercings-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-write-letters-in-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/documentaries-about-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/underage-drinking-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/walking-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-car-stickers/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-food-movies/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/purikura/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japan-drive-left-side-road/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-funeral/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/conformity-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/things-you-can-do-in-japan-but-not-america/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japans-other-languages/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/tea-ceremony/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-people-cant-walk-and-talk/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-universities-quality/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/sento/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/table-manners/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-home-visit/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/train-etiquette/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/yaeba/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-swastika/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/drinking-alcohol-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-superstitions/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/careers-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/karoshi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/where-is-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/becoming-a-japanese-citizen/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/drug-laws-in-japan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japan-through-karate-kid/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/japanese-etiquette/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/weird-japanese-movies/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/why-do-japanese-people-live-so-long/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/amidakuji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/entertaining-japanese-guests/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/kancho/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japan/no-gaijin/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Chelsea Bernard' property='article:author'>
+<meta content='2015-07-06T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japan' property='article:section'>
+<meta content='history' property='article:tag'>
+<meta content='culture' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@tofugu' name='twitter:creator'>
+<meta content='She was a queen, a shamaness, and the first recorded Japanese person ever. Learn everything there is to know about our Queen Himiko.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japan/2015-07-06-queen-himiko/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='Queen Himiko: Badass Women in Japanese History' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#268bd2' name='twitter:widgets:link-color'>
+<meta content='#268bd2' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-chelsea-bernard-bfd1d747.jpg",
+    "jobTitle": "Writer",
+    "name": "Chelsea Bernard",
+    "sameAs": [
+
+    ],
+    "url": "https://www.tofugu.com/about/people/chelsea-bernard/",
+    "description": "Professional student, semi-professional matcha connoisseur, and certifiably obsessed with Japanese performing arts, literature, history, gender/sexuality, and the supernatural."
+  },
+  "datePublished": "2015-07-06T00:00:00Z",
+  "description": "She was a queen, a shamaness, and the first recorded Japanese person ever. Learn everything there is to know about our Queen Himiko.",
+  "headline": "Queen Himiko: Badass Women in Japanese History",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japan/2015-07-06-queen-himiko/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japan/2015-07-06-queen-himiko/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "history, culture",
+  "name": "Queen Himiko: Badass Women in Japanese History",
+  "url": "https://www.tofugu.com/japan/queen-himiko/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2015-07-06T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japan/queen-himiko/"
+}
+</script>
+
+<title>Queen Himiko: Badass Women in Japanese History</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japan/queen-himiko/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='https://www.tofugu.com/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://www.tofugu.com/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://www.tofugu.com/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://www.tofugu.com/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://www.tofugu.com/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='https://www.tofugu.com/favicon.png' rel='shortcut icon'>
+<link href='https://www.tofugu.com/favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japan japan_queen-himiko japan_queen-himiko_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='https://www.tofugu.com/'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japanese/' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='https://www.tofugu.com/japanese/' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.1' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-learning-resources-database/' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japan/' id='dJapan'>
+Japan <i class="fa fa-globe"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='https://www.tofugu.com/japan/' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/series/' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/travel/' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/reviews/' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/interviews/' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='https://www.tofugu.com/podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=badass-women-in-japanese-history#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japan/2015-07-06-queen-himiko/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japan/2015-07-06-queen-himiko/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+Queen Himiko: Badass Women in Japanese History
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+The people loved her. The gods loved her. 8th century historians didn't love her.
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2015-07-06T00:00:00Z">July 6, 2015</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/chelsea-bernard/index.html" rel="author">Chelsea Bernard</a>
+•
+Art by
+<a href="https://www.tofugu.com/about/people/aya-francisco/">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japan/2015-07-06-queen-himiko/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+<p class='article-series series-badass-women-in-japanese-history hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="https://www.tofugu.com/series/badass-women-in-japanese-history/">Badass Women in Japanese History
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>When you were a wee one, <a href="https://www.tofugu.com/japan/jobs-in-japan/">did you dream of being a doctor or a lawyer when you grew up?</a> Or maybe something even more ambitious like an astronaut? How about a shamaness-queen? Almost 2000 years ago, Queen Himiko of Yamatai raised the bar for women everywhere when she was crowned high priestess and supreme ruler of her kingdom. As the political and religious leader of the proto-Japanese federation of Yamatai, she was beloved at home for her peaceful rule and respected abroad for her diplomatic savvy.</p>
+
+<p>Himiko (also known as Pimiko) is not just any old badass chick in Japanese history. She holds the distinct honor of being the first badass chick in Japanese history. In fact, she's the first named and confirmed (male or female) figure in Japanese history, period. Most people on earth who lived and died during the 3rd century have been rendered anonymous by temporal and cultural distance. But not the queen. According to a recent survey by the Ministry of Education and Sciences, 99% of Japanese schoolchildren recognize and can identify her. Like Oprah or Madonna, Himiko's on a first name basis with the Japanese general public. Meanwhile, she continues to fuel intense debate among amateurs and scholars alike concerning the exact location of her kingdom, a debate that more or less hinges on the location of her grave.</p>
+
+<ul id="markdown-toc">
+  <li><a href="index.html@series=badass-women-in-japanese-history#before-japan-was-japan" id="markdown-toc-before-japan-was-japan">Before Japan Was Japan</a></li>
+  <li><a href="index.html@series=badass-women-in-japanese-history#chinese-records-of-queen-himiko" id="markdown-toc-chinese-records-of-queen-himiko">Chinese Records of Queen Himiko</a></li>
+  <li><a href="index.html@series=badass-women-in-japanese-history#queen-himikos-legacy-from-hero-to-zero-and-back" id="markdown-toc-queen-himikos-legacy-from-hero-to-zero-and-back">Queen Himiko's Legacy: From Hero to Zero and Back</a></li>
+  <li><a href="index.html@series=badass-women-in-japanese-history#himiko-today-town-mascot-role-model-x-rated-fantasy" id="markdown-toc-himiko-today-town-mascot-role-model-x-rated-fantasy">Himiko Today: Town Mascot, Role Model, X-Rated Fantasy?</a></li>
+  <li><a href="index.html@series=badass-women-in-japanese-history#whats-so-great-about-queen-himiko" id="markdown-toc-whats-so-great-about-queen-himiko">What's So Great About Queen Himiko?</a></li>
+</ul>
+
+<h2 id="before-japan-was-japan">Before Japan Was Japan</h2>
+
+<figure class="figure-middle"><img alt="queen-himiko-kofun-scenery" src="https://files.tofugu.com/articles/japan/2015-07-06-queen-himiko/kofun-scenery.jpg" /><figcaption>  </figcaption> Source: <a href="https://commons.wikimedia.org/wiki/File:Yoshinogari-iseki_zenkei.JPG" title="Visit source's website" target="_blank">Saigen-Jiro</a></figure>
+
+<p>Himiko's reign roughly spanned the first half of the 3rd century, long before the Japanese islands were the single political entity that we now call Japan. Rather, the archipelago was scattered with hundreds of "countries" or clan-nations linked into regional confederations. Agricultural communes had started giving way to diversified kingdoms. Political power became increasingly consolidated and social status increasingly stratified. Historians and archeologists often refer to these decades as a "transitional era" between the Yayoi (300BC-300AD) and Kofun (250-538AD) periods—hence the overlap in dates.</p>
+
+<p>What qualified someone to rule one of these emerging kingdoms? Well, it helped if you were on speaking terms with the gods, or at least could convince other people that you were. As in many other ancient (and not so ancient) societies, religious authority was linked to spiritual authority in 3rd century Japan. Luckily for Himiko, female shamans were highly regarded in the folk religion and proto-Shintoism of the time, considered to be capable of banishing pesky malignant spirits on the one hand and speaking on behalf of divine spirits on the other. Since women had equal access to the spiritual realm, they also had access to the political realm. So far from being <strong>the</strong> shamaness-queen, she was likely one of many shamaness-queens.</p>
+
+<figure class="figure-right"><img alt="queen-himiko-kofun-graves" src="https://files.tofugu.com/articles/japan/2015-07-06-queen-himiko/kofun-graves.jpg" /><figcaption>  </figcaption> Source: <a href="https://upload.wikimedia.org/wikipedia/ja/0/05/Hashihaka_kohun_aerial.jpg" title="Visit source's website" target="_blank">Japan's-Ministry-of Land, Infrastructure, and Transportation</a></figure>
+
+<p>Another quirky characteristic of the times lent its name to the Kofun Period. At their most basic, <em>kofun</em> are big piles of dirt. Impressively big piles of dirt shaped like keyholes. First constructed in the mid-3rd century, these large earthen mounds served as mausoleums for deceased rulers. They began to appear in the Kyoto-Osaka-Nara region and then spread throughout the archipelago in tandem with the increasing dominance of the Yamato clan. Over 5,200 have been identified so far in a variety of standardized shapes and uniformly staggering sizes. Himiko may have received one of the first such burials. Stay tuned for more about that.</p>
+
+<h2 id="chinese-records-of-queen-himiko">Chinese Records of Queen Himiko</h2>
+
+<figure class="figure-left"><img alt="queen himiko bronze mirror" src="https://files.tofugu.com/articles/japan/2015-07-06-queen-himiko/bronze-mirror.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/jondresner/7605647552" title="Visit source's website" target="_blank">Jonathan Dresner</a></figure>
+
+<p>The little we know about the life and times of Himiko has been gleaned from a combination of written Chinese (and Korean) histories along with archeological verification. Before the Japanese began to record their own history, the Chinese did everyone the favor of writing some of it for them. <em>The History of the Kingdom of Wei</em> (297 AD) stands alone as the first written source about Japan. However, at that time Chinese historians relegated information about the "Land of Wa" (their name for Japan) and its peoples to the flattering "Accounts of the Eastern Barbarians" section of their histories, almost as an afterthought. At any rate, it's got lots of juicy information about the shaman queen and her kingdom. Later Chinese dynastic histories reiterated and confirmed the information included in this first history, and the oldest surviving Korean text (<em>Historical Records of the Three Kingdoms</em>, 1145 AD) briefly describes Himiko's relationship with the Korean peninsula. Collectively, this is what they can tell us:</p>
+
+<p>During the second half of the 2nd century (ca. 147-190 AD), the lack of a capable leader plunged the Land of Wa into political turmoil and violent upheaval. Finally, in 190 AD the unmarried shamaness was chosen by the people to rule. Installed in a palace with armed guards and watch towers, she was served by "1,000" female attendants while her "brother" acted as a medium of communication, transmitting her instructions and pronouncements to the outside world. After ascending to the throne, she went on to restore order and maintain peace like a boss for the next 50 or 60 years.</p>
+
+<p>In addition to upholding her religious duties, Himiko presided over more than 100 "countries" that acknowledged her as their ruler. But she didn't just stay in her own backyard. On behalf of the entire federation of Yamatai, the shamaness queen dispatched diplomatic missions to China at least four times during her reign. In recognition of her legitimacy, the Chinese Wei Dynasty bestowed upon her the title "Queen of Wa Friendly to Wei" along with a nifty golden seal and over 100 ceremonial bronze mirrors. I know that might not seem very exciting now, but back then mirrors were THE ULTIMATE status symbol. A decent stash of mirrors could turn you into the coolest kid on the block.</p>
+
+<p>Unfortunately, the party couldn't last forever. In 248, Queen Himiko died. Some uppity dude reportedly attempted to succeed the throne in the wake of her death, but his reign was heavily resisted and short-lived. According to Chinese sources, order was restored again only once the 13-year-old Queen Iyo took the throne—who just so happened to be her relative. I guess badassery ran in the family.</p>
+
+<p>But that's not all. In Himiko's honor "a great mound was raised, more than a hundred paces in diameter" and 100 of her attendants, um, euphemistically "followed her to the grave." The aforementioned "great mound" was almost certainly one of the first <em>kofun</em> ever erected. Just a few years ago in 2009, a group of Japanese archeologists claimed that they had identified the great shamaness queen's tomb as the Hashihaka Kofun in Sakurai City near Nara. Radiocarbon-dated artifacts found on the periphery of the Hashihaka Kofun date to between 240 and 260 AD. In other words, the time of Himiko's death. Unfortunately, the Imperial Household Agency has designated Hashihaka a royal tomb and thereby forbids further excavation, so we may never know with certainty.</p>
+
+<h2 id="queen-himikos-legacy-from-hero-to-zero-and-back">Queen Himiko's Legacy: From Hero to Zero and Back</h2>
+
+<figure class="figure-middle"><img alt="queen himiko statue" src="https://files.tofugu.com/articles/japan/2015-07-06-queen-himiko/queen-himiko-statue.jpg" /></figure>
+
+<p>Truth be told, Himiko didn't have much of a legacy until the late Edo period (1600-1868). How did such badassery go unrecognized for so long? Well, in large part this is because she was conspicuously snubbed in the first Japanese texts, the mythic <em>Kojiki</em> (712) and the mytho-history <em>Nihongi</em> (720). Neither shamaness queen nor her kingdom are mentioned in either, despite the fact that the writers of the <em>Nihongi</em> clearly reference and cite the Chinese histories where she appears. Did they just skip those pages or something? Scholars attribute this blindness to the fact that the 8th century Japanese ruling house was consciously emulating patriarchal Chinese ideals and institutions. And this ideological framework didn't leave much room for the existence of shamaness-queens. Meanwhile, the Japanese adoption of Buddhism and Confucianism didn't do much to elevate the status of women, either. So in the interest of looking cool by Chinese standards, the Japanese court just decided to pretend the great shamaness queen and her ilk hadn't existed.</p>
+
+<p>Luckily, she wasn't permanently erased. Queen Himiko and her kingdom of Yamatai resurfaced during the Edo period with the work of philosopher-statesman Arai Hakuseki and scholar Motoori Norinaga. Between the two of them, they started one of the oldest and most heated controversies in Japanese scholarship: where was the queen's kingdom of Yamatai? Hakuseki rejected the Japanese histories as inaccurate, threw his weight behind the veracity of the Chinese records, and claimed that Yamatai had been in the heart of Japan—the Kyoto-Osaka-Nara region known as the Kinai Plain. Norinaga, on the other hand, rejected the Chinese histories as inaccurate, upheld the veracity of the Japanese histories, and went so far as to claim that the queen's kingdom of Yamatai had merely fooled the Chinese government into thinking that they were the ruling clan.</p>
+
+<p>Norinaga's view became dominant throughout the ensuing decades from the Meiji era through the end of World War II. During this time questions about Himiko's kingdom became tangled with the nationalist-imperialist politics of the day. With the emperor enshrined as divine, rejecting the ancient Japanese histories could be viewed as an attack on the imperial system in general—and some historians who refused to conform lost everything at the hands of censorship laws. One such professor was Naka Michiyo, who from 1878 until the end of his life continually criticized the chronology of the ancient histories and disproved Norinaga's claims about Yamatai.</p>
+
+<p>In the post-war era, historians and archeologists picked up where Naka Michiyo left off, digging into the ancient texts as well as various archeological sites. Between 1955 and 1964, a series of archeological discoveries ignited the debate about the location of Yamatai—including the excavation of a tomb near Kyoto with numerous bronze mirrors possibly dating from the 3rd century. The 1960s through the early 1970s witnessed what the media proclaimed as a "Yamatai boom" as the debate became a national obsession ping-ponging between claims for Kyushu and the Kinai. Suddenly everyone was clamoring to claim Himiko.</p>
+
+<h2 id="himiko-today-town-mascot-role-model-x-rated-fantasy">Himiko Today: Town Mascot, Role Model, X-Rated Fantasy?</h2>
+
+<figure class="figure-middle"><img alt="queen himiko manga" src="https://files.tofugu.com/articles/japan/2015-07-06-queen-himiko/queen-himiko-manga.jpg" /><figcaption>  </figcaption> Source: <a href="https://www.flickr.com/photos/geraldford/5127385873" title="Visit source's website" target="_blank">geraldford</a></figure>
+
+<p>In life Himiko was a religious and political leader. In death she's become just about everything else. As a historical figure, she's turned out to be remarkably pliable, probably because so little is known about her and the little that is known about her creates such fertile soil for the imagination. As a result, she's been repurposed and repackaged in all sorts of ways. For example…</p>
+
+<p>Thanks to the debate over the location of Yamatai, several cities in Japan claim her as a sort of town mascot. In Kyushu, there are statues of her outside Kanzaki Station, near Miyazaki Takachiho Gorge, and on the grounds of the Himiko Shrine in Hayato.</p>
+
+<p>The city of Yoshinogari holds an annual bonfire festival that climaxes with the appearance of a costumed "Himiko" and a Kyushu brewery released "Himiko Fantasia" shochu.</p>
+
+<p>Over in the Kinai region, Sakurai City (where Hashihaka Kofun is located) features the shamaness queen on signs, online, and in person (well, at least a person in a mascot costume). City leaders have created online Himiko-themed anime shorts, and there's a municipal webpage devoted to her called "<a href="http://www.city.sakurai.lg.jp/himiko/">Himiko-chan's Page</a>."</p>
+
+<p>As a role model the shamaness queen can symbolize female power, innate occult abilities, national origins, and even good eating habits. No kidding, she's the <a href="http://www.8020zaidan.or.jp/info/effect8.html">poster girl for a school campaign</a> that urges students "to chew your food as thoroughly Queen Himiko did" in order to improve digestion and tooth health.</p>
+
+<p>You can even be crowned "Queen Himiko" by participating in one of a number of Queen Himiko Contests, which are more or less beauty pageants. Women 18 and older are eligible to compete for a substantial cash prize on the basis of their charm and appearance—which is a bit depressing when you consider Queen Himiko's historical worth probably had nothing to do with her ability to put on eyeliner.</p>
+
+<figure class="figure-right"><img alt="queen himiko mascot" src="https://files.tofugu.com/articles/japan/2015-07-06-queen-himiko/himiko-mascot.jpg" /><figcaption>  </figcaption> Source: <a href="https://twitter.com/himiko__chan" title="Visit source's website" target="_blank">Sakurai City Mascot</a></figure>
+
+<p>Himiko has also served as the inspiration for characters in numerous films, novels, manga, anime, and video games. A powerful and dignified shamaness queen rules with authority and grace in the 1967 bestseller "Maboroshi no Yamatotaikoku." The 2008 film version of the book starred a venerated Japanese actress as the Queen Himiko, and her image in the role was selected for a set of commemorative stamps by the Japanese government.</p>
+
+<p>And then for something entirely different, an irresponsibly promiscuous queen meets her downfall in the 1974 film drama "Himiko" directed by Masahiro Shinoda.</p>
+
+<p>In addition to a symbol of female power (whether for good or ill), Himiko has also been used as a tool for political critique. The first book of manga maven Osamu Tezuka's acclaimed <em>Phoenix</em> series depicts a vain, power-hungry queen as the first of many vain, power-hungry rulers throughout Japanese, and world history—"power leads to corruption" being the main theme that Tezuka pursues throughout the rest of the series. And one of Kobayashi Yoshinori's political cartoons features her in order to argue for changing the imperial succession laws to allow for the throning of an empress.</p>
+
+<p>Himiko pops up all over the place. A clone of the queen appears in the manga Afterschool Charisma and in the anime Shangri-la. The 2013 Tomb Raider video game reboot features a menacing Himiko as its primary antagonist. She's the "Queen of all Nippon" in the Zelda-like video game, Okami. <em>The Legend of Himiko</em> encompasses an anime, manga, and video game series that appeals to pre-teen girl power sensibilities. And for the 18+ set, Taniguchi Chika's erotic manga series aimed at women stars none other than Queen Himiko in various X-rated adventures. So whether you're looking for a despotic villain, a role model, a symbol of national or local identity, a naïve shrine attendant, or a sexual fantasy, there's a Himiko out there for you.</p>
+
+<h2 id="whats-so-great-about-queen-himiko">What's So Great About Queen Himiko?</h2>
+
+<figure class="figure-middle"><img alt="queen himiko book cover" src="https://files.tofugu.com/articles/japan/2015-07-06-queen-himiko/queen-himiko-book-cover.jpg" /><figcaption>  </figcaption> Source: <a href="http://www.amazon.co.jp/%E6%88%A6%E4%B9%B1%E3%81%AE%E9%82%AA%E9%A6%AC%E5%8F%B0%E5%9B%BD-%E9%87%8E%E6%9D%91%E7%AF%A4%E5%8F%B2/dp/4904850041/" title="Visit source's website" target="_blank">皇なつき</a></figure>
+
+<p>Himiko ruled a kingdom 2000 years ago, fuels a bunch of debate about said kingdom, and continues to get a lot of face time in modern Japan in the form of statues and stamps and just about everything else. As impressive as all that is, what makes her noteworthy is that she wasn't unique in her time. In the earliest periods of Japanese history, women more generally had public authority, economic power, and spiritual prestige. The historical figure is merely representative of the heights of the political and religious leadership that women in Japan held prior to the importation of Chinese, Buddhist, and Confucian ideology. And even after these patriarchal influences first took root, it was many decades (centuries, even) before ideology and practice fully merged (if indeed they ever did).</p>
+
+<p>In other words, Himiko was not an anomaly. She was merely the first notable ancestor of a strong tradition of female religious leaders (a la miko priestesses in Shinto) and political leaders (a la empresses) in Japanese history. Over time women's roles may have devolved from active initiators to assistants in both spiritual and secular realms. But Himiko serves as a shining example that symbolically reflects the many other (now anonymous) women who were also leaders in their communities.</p>
+
+<aside class="blog-post-highlight article-sources"><div class="container"><h4>Sources</h4><ul><li>History of the Kingdom of Wei (Wei zhi) ca. 297 C.E. Translated by Tsunoda Ryusaku (Sources of Japanese Tradition: From Earliest Times to 1600; 2001)</li><li>Gendered Interpretations of Female Rule: The Case of Himiko, Ruler of Yamatai by Akiko Yoshie, Hitomi Tonomura, and Azumi Ann Takata (U.S.-Japan Women's Journal; 2013)</li><li>Japan Emerging: Premodern History to 1850 by Karl Friday (2012)</li><li>In Pursuit of Himiko: Postwar Archaeology and the Location of Yamatai by Walter Edwards (Monumenta Nipponica; Spring 1996)</li><li>Rebranding Himiko, the Shaman Queen of Ancient History by Laura Miller (Mechademia; 2014)</li></ul></div></aside>
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-badass-women-in-japanese-history hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2016-02-11-badass-women-in-japanese-history/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='https://www.tofugu.com/series/badass-women-in-japanese-history/' title='View all articles in Series Badass Women in Japanese History'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+Badass Women in Japanese History
+</span>
+</a>
+</li>
+<li class='pager-next'>
+<a href='../higuchi-ichiyo/index.html@series=badass-women-in-japanese-history' title='View Higuchi Ichiyō: Badass Women in Japanese History'>
+<small>
+Next Article in Series
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Higuchi Ichiyō: Badass Women in Japanese History
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles japan-prev japan-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='https://www.tofugu.com/japan/japanese-citizen-study-abroad/' title='View A Japanese Citizen Studying &quot;Abroad&quot; in Her Own Country'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+A Japanese Citizen Studying "Abroad" in Her Own Country
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='https://www.tofugu.com/japan/roppongi-nightlife/' title='View Navigating Roppongi&#39;s Nightlife'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Navigating Roppongi's Nightlife
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japan'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japan' href='https://www.tofugu.com/japan/roppongi-nightlife/' title='View Navigating Roppongi&#39;s Nightlife'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-globe'></i>
+<span aria-label='Older japan' class='older-article-pagination'></span>
+</small>
+Navigating Roppongi's Nightlife
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='https://www.tofugu.com/japan/japanese-citizen-study-abroad/' title='View A Japanese Citizen Studying &quot;Abroad&quot; in Her Own Country'>
+<small>
+<span aria-label='Newer japan' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+A Japanese Citizen Studying "Abroad" in Her Own Country
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/about/' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.1' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs.1' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese.1' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/news/' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/newsletter/' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/master-2164c2ee.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

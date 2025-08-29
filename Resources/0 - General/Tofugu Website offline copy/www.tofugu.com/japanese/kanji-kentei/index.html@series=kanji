@@ -1,0 +1,756 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Koichi' name='author'>
+<meta content='So you&#39;ve passed JLPT 1. You&#39;re a master of Japanese. People point and stare due to your Japanese abilities. You start feeling worthless. There&#39;s an emptiness in your heart. What is there left to do? Is this it? Is this as good as it gets? Hellzno. Enter stage right: Kanji Kentei … the nearly impossible to pass kanji test.' name='description'>
+<meta content='kanji kentei, japanese kanji test, kentei, test, examination, jlpt, kanji' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='So you&#39;ve passed JLPT 1. You&#39;re a master of Japanese. People point and stare due to your Japanese abilities. You start feeling worthless. There&#39;s an emptiness in your heart. What is there left to do? Is this it? Is this as good as it gets? Hellzno. Enter stage right: Kanji Kentei … the nearly impossible to pass kanji test.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2011-04-06-kanji-kentei/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='The Ultimate Kanji Test: Kanji Kentei' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japanese/kanji-kentei/' property='og:url'>
+<meta content='https://www.tofugu.com/japanese/what-is-the-jlpt/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-kids-newspaper-jlpt-study-method/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/best-kanji-learning-programs/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/onyomi-kunyomi/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/japanese-homophones/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/a-guide-to-reading-and-writing-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/the-meaning-of-kuni/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-find-the-kanji-radical/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kanji-study-methods/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/what-i-learned-about-learning-japanese-from-spending-3-weeks-in-taiwan/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/borrowing-language/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/look-up-kanji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/yojijukugo-idioms/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/your-name-in-japanese/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kana-changes-in-history/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/seinfeld-kanji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/forgetting-kanji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/reviews/skritter/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kanji-sonomama/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/how-to-learn-kanji/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kanji-learning-mistakes/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/kanji-history/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/furigana/' property='og:see_also'>
+<meta content='https://www.tofugu.com/japanese/must-use-kanji/' property='og:see_also'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Koichi' property='article:author'>
+<meta content='2011-04-06T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japanese' property='article:section'>
+<meta content='kanji kentei' property='article:tag'>
+<meta content='japanese kanji test' property='article:tag'>
+<meta content='kentei' property='article:tag'>
+<meta content='test' property='article:tag'>
+<meta content='examination' property='article:tag'>
+<meta content='jlpt' property='article:tag'>
+<meta content='kanji' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@tofugu' name='twitter:creator'>
+<meta content='So you&#39;ve passed JLPT 1. You&#39;re a master of Japanese. People point and stare due to your Japanese abilities. You start feeling worthless. There&#39;s an emptiness in your heart. What is there left to do? Is this it? Is this as good as it gets? Hellzno. Enter stage right: Kanji Kentei … the nearly impossible to pass kanji test.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2011-04-06-kanji-kentei/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='The Ultimate Kanji Test: Kanji Kentei' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#d33682' name='twitter:widgets:link-color'>
+<meta content='#d33682' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-koichi-0d7c291b.jpg",
+    "jobTitle": "President",
+    "name": "Koichi",
+    "sameAs": [
+
+    ],
+    "url": "https://www.tofugu.com/about/people/koichi/",
+    "description": "Jaered Koichi Croes is the founder of Tofugu, LLC (we make Tofugu and WaniKani). In his free time, he cheers for the Mariners, plays kendo, and thinks about education.",
+    "email": "koichi@tofugu.com"
+  },
+  "datePublished": "2011-04-06T00:00:00Z",
+  "description": "So you've passed JLPT 1. You're a master of Japanese. People point and stare due to your Japanese abilities. You start feeling worthless. There's an emptiness in your heart. What is there left to do? Is this it? Is this as good as it gets? Hellzno. Enter stage right: Kanji Kentei … the nearly impossible to pass kanji test.",
+  "headline": "The Ultimate Kanji Test: Kanji Kentei",
+  "image": {
+    "@type": "ImageObject",
+    "author": null,
+    "contentURL": "https://files.tofugu.com/articles/japanese/2011-04-06-kanji-kentei/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japanese/2011-04-06-kanji-kentei/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "kanji kentei, japanese kanji test, kentei, test, examination, jlpt, kanji",
+  "name": "The Ultimate Kanji Test: Kanji Kentei",
+  "url": "https://www.tofugu.com/japanese/kanji-kentei/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2011-04-06T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japanese/kanji-kentei/"
+}
+</script>
+
+<title>The Ultimate Kanji Test: Kanji Kentei</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="../../stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='https://www.tofugu.com/japanese/kanji-kentei/' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='../../apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='../../apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='../../apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='../../apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='../../apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='../../favicon.png' rel='shortcut icon'>
+<link href='../../favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japanese japanese_kanji-kentei japanese_kanji-kentei_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='../../index.html'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../index.html' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='../index.html' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='../../japanese-grammar.2' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='../../japanese-learning-resources-database/index.html' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='../../japan/index.html' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='../../japan/index.html' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../series/index.html' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../travel/index.html' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../reviews/index.html' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(../../images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='../../interviews/index.html' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='../../podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@series=kanji#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(../../images/layout/placeholders/articles/japanese/header-2560x-b6dd1c83.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="../../images/layout/placeholders/articles/japanese/header-640x-106fe370.jpg" alt="Header 640x 106fe370" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+The Ultimate Kanji Test: Kanji Kentei
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+You don't have what it takes, trust us.
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2011-04-06T00:00:00Z">April 6, 2011</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/koichi/index.html" rel="author">Koichi</a>
+</span>
+</p>
+<p class='article-series series-kanji hidden-xs-up'>
+<span class='article-highlight'>
+Viewing under
+<i class='fa fa-hashtag'></i>
+<a href="../../series/kanji/index.html">Tofugu's Kanji Knowledge Database
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>So you've passed <a href="../what-is-the-jlpt/index.html">JLPT</a> 1. You're a master of Japanese. People point and stare due to your Japanese abilities. You start feeling worthless. There's an emptiness in your heart. What is there left to do? Is this it? Is this as good as it gets? Hellzno. Enter stage right: Kanji Kentei … the nearly impossible to pass kanji test.</p>
+
+<h2 id="ikanji-kenteii-rubyrprprtrtrprpruby"><i>Kanji Kentei</i> <ruby>漢字検定<rp>（</rp><rt>かんじけんてい</rt><rp>）</rp></ruby></h2>
+
+<p>The kanji Kentei test is the ultimate kanji test. It's made for <em>native Japanese speakers</em> (that means it's tough) and has ten different levels, where level 10 is the easiest, and level 1 is the hardest. Here's a few interesting stat-shots regarding the Kanji Kentei test.</p>
+
+<ul>
+  <li>Fewer than 15% of people who take level 1 are able to pass</li>
+  <li>Native speakers pass levels 10-7 at an 80% rate.</li>
+  <li>It tests the ability to read kanji, write kanji, know the on'yomi, kun'yomi, stroke order, and the ability to use them in sentences.</li>
+  <li>Depending on the level, the test is between 40-60 minutes long</li>
+</ul>
+
+<p>Just from those four points, we can gather a few interesting things. First, passing level 1 is really hard. "Real" tests aren't <em>supposed</em> to have pass rates this low (though, low pass rates for high-end tests seems to be a staple of Japanese test culture).</p>
+
+<p>The really interesting point is the second one: "Native speakers pass levels 10-7 at an 80% rate." You'll see why this is so interesting once we take a look at the different levels. If we look at level 7 alone (the hardest between 10-7), we'll see that you only have to know 640 kanji. 80% of <em>Native Japanese Speakers pass this</em>, meaning 20% <em>do not</em>. Considering 2000 kanji is the amount of kanji Japanese adults are supposed to know, 20% seems high. You'll see that it's actually not, though – this test is <em>really really difficult</em> for a number of reasons (which we'll take a look at in a moment).</p>
+
+<p>The third interesting thing is what is being tested. You have to know a lot about kanji – in fact, the harder tests require you to know more than what's listed above. Anyways, it's time to see what I mean:</p>
+
+<h2 id="kanji-kentei-levels">Kanji Kentei Levels</h2>
+
+<p>There are ten levels to the Kanji Kentei, where ten is the easiest and one is ridiculous kanji guru master. Here's what you have to do for each, with some extra comments.</p>
+
+<h3 id="level-10">Level 10</h3>
+
+<ul>
+  <li>80 kanji</li>
+  <li>Consists of the kanji Japanese first graders learn</li>
+</ul>
+
+<p>So far, not too bad. In fact, I'd venture to say this test is looking easy… so far.</p>
+
+<h3 id="level-9">Level 9</h3>
+
+<ul>
+  <li>240 kanji</li>
+  <li>First through second grade kanji</li>
+</ul>
+
+<h3 id="level-8">Level 8</h3>
+
+<ul>
+  <li>440 kanji</li>
+  <li>Grades 1-3</li>
+  <li>Must know on'yomi, kun'yomi, stroke order, be able to write the kanji, use them in sentences, and know the names of the radicals.</li>
+  <li>Tests you on antonyms (ability to know the opposites of kanji, for example <em>hot vs cold</em>)</li>
+  <li>Must be able to differentiate between homonyms</li>
+</ul>
+
+<p>As you can see, level 8 suddenly gets <em>a lot</em> harder and you have to know a whole lot. 440 kanji almost doubles what you had before, and you have to know a lot about each kanji. Antonyms just add to the fire, and homonyms make it even worse.</p>
+
+<h3 id="level-7">Level 7</h3>
+
+<ul>
+  <li>640 kanji</li>
+  <li>Grades 1-4 in Japanese elementary schools</li>
+  <li>Must know on'yomi, kun'yomi, stroke order, be able to write the kanji, use them in sentences, and know the names of the radicals.</li>
+  <li>Tests you on antonyms (ability to know the opposites of kanji, for example <em>hot vs cold</em>)</li>
+  <li>Must be able to differentiate between homonyms</li>
+  <li>Idiomatic phrases (phrases that have different meanings than the words would normally imply – for example: "tickled pink")</li>
+  <li>Kanji compound words (where multiple kanji are put together to make a single word)</li>
+</ul>
+
+<h3 id="level-6">Level 6</h3>
+
+<ul>
+  <li>825 kanji</li>
+  <li>Grades 1-5 in Japanese elementary school</li>
+  <li>Everything you do in level 7</li>
+  <li>Three-kanji compound words (single words made up of three kanji)</li>
+</ul>
+
+<h3 id="level-5">Level 5</h3>
+
+<ul>
+  <li>1006 kanji</li>
+  <li>Grades 1-6 in Japanese elementary school</li>
+  <li>Everything you do in level 6</li>
+  <li>Four-kanji compound words (single words made up of <em>four</em> kanji… things be getting crazy!)</li>
+</ul>
+
+<h3 id="level-4">Level 4</h3>
+
+<ul>
+  <li>An additional 300 joyo kanji (daily use kanji)</li>
+  <li>On'yomi, kun'yomi</li>
+  <li>Ability to read the kanji in sentences</li>
+  <li>Ability to read 1300 kanji</li>
+  <li>Ability to write 900 kanji</li>
+  <li>Synonyms</li>
+  <li>Antonyms</li>
+  <li>
+    <ul>
+      <li>Homonyms</li>
+    </ul>
+  </li>
+  <li>Idiomatic Phrases</li>
+  <li>Four-kanji compound words</li>
+  <li>Radicals used to use a kanji dictionary</li>
+</ul>
+
+<p>As you can see, things are starting to level up quickly here. Up until level 5, things were ramping up pretty evenly. Now, with level 4, the test has taken a shift and will continue to do so.</p>
+
+<h3 id="level-3">Level 3</h3>
+
+<ul>
+  <li>Grade 6 kanji + 600 joyo kanji</li>
+  <li>Tests everything from Level 4</li>
+  <li>Must be able to read around 1600 kanji</li>
+  <li>Tests "special" / "unusual" kanji readings</li>
+  <li>Tests ateji (phonetic readings of kanji where the meaning of the kanji used don't really have much to do with the meaning of the word being created).</li>
+</ul>
+
+<h3 id="pre-level-2">"Pre" Level 2</h3>
+
+<ul>
+  <li>Tests kanji that people learn before becoming an adult (up to high school level kanji)</li>
+  <li>Tests everything from Level 3</li>
+  <li>Reading of all the joyo kanji (approximately 2000 kanji)</li>
+  <li>Tests on "complex" radicals</li>
+</ul>
+
+<p>In theory, this is where native Japanese speakers "should" be (though of course this isn't the case). Being able to read kanji is one thing… but being able to know all the on'yomi / kun'yomi, as well as being able to write everything is totally another. <a href="../forgetting-kanji/index.html">People don't hand write anything anymore</a>, so it's doubtful that most Japanese people could pass this level of the test… and this isn't even the "real" Level 2 test yet.</p>
+
+<h3 id="level-2">Level 2</h3>
+
+<ul>
+  <li>Tests everything from Pre Level 2</li>
+  <li>Tests the 284 kanji used in names (jinmeiyou kanji)</li>
+  <li>Tests "special" compound kanji words</li>
+</ul>
+
+<p>Level 2 just adds the 284 kanji used in names. Many of these kanji are kanji that people know, but the hard part is knowing the reading of them (or knowing how to write them based off of the reading). For Japanese learners, knowing how to read names is one of the hardest advanced-level challenges (I'd say), and something I still have a ton of trouble with.</p>
+
+<h3 id="pre-level-1">"Pre" Level 1</h3>
+
+<ul>
+  <li>Tests everything from Level 2</li>
+  <li>Ability to read and write around 3000 kanji</li>
+  <li>Tests kanji unique to the Japanese language</li>
+  <li>Tests classical Japanese proverbs</li>
+</ul>
+
+<p>I didn't even know there was kanji unique to the Japanese language. Totally new information to me. This is how you know you're running out of things to test on…</p>
+
+<h3 id="level-1">Level 1</h3>
+
+<ul>
+  <li>Tests everything from Pre Level 1</li>
+  <li>Ability to read and write 6000 kanji</li>
+  <li>Tests special or unusual kanji readings</li>
+  <li>Tests place and country names</li>
+  <li>Tests "the ability to recognize relationship between modern and ancient or old character forms"</li>
+</ul>
+
+<p>And of course, here's the ultimate level. If you can pass level 1 of the Kanji Kentei, then you might as well be a God of Kanji. I haven't studied much along the lines of "old character forms" but I can tell you knowing that kind of thing is pretty epic.</p>
+
+<h2 id="studying-for-the-kanji-kentei">Studying For The Kanji Kentei</h2>
+
+<p>If you want to take the Kanji Kentei, then best of luck to you. No matter what level you take (as long as it's 7 or higher, anyways), it's surely going to be a fun little challenge. This test feels extremely Japanese in that it requires an incredible amount of memorization, and the person who studies the most is going to be the person who passes.</p>
+
+<p><a href="http://www.amazon.co.jp/s/ref=nb_sb_noss?__mk_ja_JP=%83J%83%5E%83J%83i&amp;url=search-alias%3Daps&amp;field-keywords=%8A%BF%8E%9A%8C%9F%92%E8&amp;x=0&amp;y=0">There are a ton of resources for it</a>, of course, including a <a href="http://www.amazon.co.jp/s/ref=nb_sb_noss?__mk_ja_JP=%83J%83%5E%83J%83i&amp;url=search-alias%3Dvideogames&amp;field-keywords=%8A%BF%8C%9F&amp;x=0&amp;y=0">DS game</a> (which I think I actually own one of… I was wondering why it was such a friggin' hard game).</p>
+
+<p>A big part of taking this test will be not just learning the kanji / words in context (that's the easiest and most useful thing to know) but the on'yomi and kun'yomi for all these kanji too. When kanji has multiple on'yomi, this starts adding up big time. Memorization, memorization, memorization.</p>
+
+<p>So – who here has been brave enough to take this exam? I know I'm never going to take it. I say let the native Japanese speakers take the native Japanese speakers' test. Knowing 6,000 kanji, their readings, their writing, usual kanji readings, name kanji, and like a hundred other things doesn't sound like my idea of a fun time. What about you?</p>
+
+
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-series series-kanji hidden-xs-up' style='background-image: url(https://files.tofugu.com/series/2016-04-28-kanji/header-1280x.jpg);'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a href='../../series/kanji/index.html' title='View all articles in Series Tofugu&#39;s Kanji Knowledge Database'>
+<small>
+<span class='pager-highlight'>
+<i class='fa fa-fw fa-hashtag'></i>
+View All Articles in Series
+</span>
+</small>
+<span class='pager-highlight'>
+Tofugu's Kanji Knowledge Database
+</span>
+</a>
+</li>
+<li class='pager-next'>
+<a href='../../reviews/kodansha-kanji-usage-guide/index.html@series=kanji' title='View The Kodansha Kanji Usage Guide'>
+<small>
+Next Article in Series
+<i class='fa fa-fw fa-pencil'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+The Kodansha Kanji Usage Guide
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-articles japanese-prev japan-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='../seinfeld-kanji/index.html' title='View Using “Jerry Seinfeld’s Secret To Productivity” To Learn Kanji'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+Using “Jerry Seinfeld’s Secret To Productivity” To Learn Kanji
+</a>
+</li>
+<li class='pager-next'>
+<a class='japan' href='../../japan/japanese-cartophraphy/index.html' title='View Japanese Cartography'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-globe'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Japanese Cartography
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japanese'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='../pay-services-for-learning-japanese/index.html' title='View The Best Paid Services for Your Japanese Language Learning'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older japanese' class='older-article-pagination'></span>
+</small>
+The Best Paid Services for Your Japanese Language Learning
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='../seinfeld-kanji/index.html' title='View Using “Jerry Seinfeld’s Secret To Productivity” To Learn Kanji'>
+<small>
+<span aria-label='Newer japanese' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Using “Jerry Seinfeld’s Secret To Productivity” To Learn Kanji
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='../../about/index.html' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='../../contact.2' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs/index.html' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese/index.html' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='../../news/index.html' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='../../newsletter/index.html' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='../../podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='../../feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="../../javascripts/master-2164c2ee.js" defer="defer"></script><script src="../../javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>
