@@ -1,0 +1,919 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<!-- Generic meta data -->
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>
+<meta content='notranslate' name='google'>
+<!-- Page meta data -->
+<meta content='Koichi' name='author'>
+<meta content='Learn how to make SRS Japanese learning go faster, and avoid common mistakes that ruin your progress.' name='description'>
+<meta content='spaced repetition, srs' name='keywords'>
+<!-- Facebook data -->
+<meta content='432897016894815' property='fb:app_id'>
+<meta content='TofuguBlog' property='fb:profile_id'>
+<!-- Open Graph data -->
+<meta content='Learn how to make SRS Japanese learning go faster, and avoid common mistakes that ruin your progress.' property='og:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/header-1280x.jpg' property='og:image'>
+<meta content='en_US' property='og:locale'>
+<meta content='Tofugu' property='og:site_name'>
+<meta content='Spaced Repetition and Japanese: The Definitive Guide' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.tofugu.com/japanese/spaced-repetition/' property='og:url'>
+<!-- For video https://developers.facebook.com/docs/reference/opengraph/object-type/video.other/ -->
+<meta content='Koichi' property='article:author'>
+<meta content='2017-07-20T00:00:00Z' property='article:published_time'>
+<meta content='https://www.tofugu.com/' property='article:publisher'>
+<meta content='japanese' property='article:section'>
+<meta content='spaced repetition' property='article:tag'>
+<meta content='srs' property='article:tag'>
+<!-- Pinterest domain verify -->
+<meta content='92c3f4bcc288265479afd643ae8750b5' name='p:domain_verify'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@tofugu' name='twitter:creator'>
+<meta content='Learn how to make SRS Japanese learning go faster, and avoid common mistakes that ruin your progress.' name='twitter:description'>
+<meta content='https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/header-1280x.jpg' name='twitter:image'>
+<meta content='@tofugu' name='twitter:site'>
+<meta content='Spaced Repetition and Japanese: The Definitive Guide' name='twitter:title'>
+<meta content='light' name='twitter:widgets:theme'>
+<meta content='#d33682' name='twitter:widgets:link-color'>
+<meta content='#d33682' name='twitter:widgets:border-color'>
+<!-- Schema.org markup -->
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org/",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Person",
+    "image": "https://www.tofugu.com/images/about/people/avatar-koichi-0d7c291b.jpg",
+    "jobTitle": "President",
+    "name": "Koichi",
+    "sameAs": [
+
+    ],
+    "url": "https://www.tofugu.com/about/people/koichi/",
+    "description": "Jaered Koichi Croes is the founder of Tofugu, LLC (we make Tofugu and WaniKani). In his free time, he cheers for the Mariners, plays kendo, and thinks about education.",
+    "email": "koichi@tofugu.com"
+  },
+  "datePublished": "2017-07-20T00:00:00Z",
+  "description": "Learn how to make SRS Japanese learning go faster, and avoid common mistakes that ruin your progress.",
+  "headline": "Spaced Repetition and Japanese: The Definitive Guide",
+  "image": {
+    "@type": "ImageObject",
+    "author": "aya_francisco",
+    "contentURL": "https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/header-1280x.jpg",
+    "url": "https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/header-1280x.jpg",
+    "width": {
+      "@type": "QuantitativeValue",
+      "maxValue": 1280
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "maxValue": 800
+    }
+  },
+  "keywords": "spaced repetition, srs",
+  "name": "Spaced Repetition and Japanese: The Definitive Guide",
+  "url": "https://www.tofugu.com/japanese/spaced-repetition/",
+  "publisher": {
+    "@type": "Organization",
+    "brand": {
+      "@type": "Brand",
+      "logo": "https://files.tofugu.com/misc/logo.png",
+      "image": "https://files.tofugu.com/misc/logo.png",
+      "name": "Tofugu",
+      "alternateName": "Tofugu LLC",
+      "description": "A Japanese Culture & Language Blog"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "availableLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Japanese"
+        }
+      ],
+      "contactType": "customer service",
+      "email": "hello@tofugu.com",
+      "url": "https://www.tofugu.com/contact/"
+    },
+    "owns": [
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+          "name": "WaniKani,",
+          "description": "A kanji learning application by Tofugu,"
+        },
+        "logo": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "image": "https://files.tofugu.com/misc/wanikani-logo.png",
+        "name": "WaniKani,",
+        "description": "A kanji learning application by Tofugu,",
+        "url": "https://www.wanikani.com/?utm_source=tofugu&utm_medium=article&utm_content=Global-Products"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+          "name": "EtoEto,",
+          "description": "A Japanese online textbook"
+        },
+        "logo": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "image": "https://files.tofugu.com/misc/etoeto-logo.png",
+        "name": "EtoEto,",
+        "description": "A Japanese online textbook",
+        "url": "https://www.etoeto.com"
+      },
+      {
+        "@type": "Product",
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+          "name": "Textfugu,",
+          "description": "Online textbook for self-teaching Japanese"
+        },
+        "logo": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "image": "https://files.tofugu.com/misc/textfugu-logo.jpg",
+        "name": "Textfugu,",
+        "description": "Online textbook for self-teaching Japanese",
+        "url": "http://www.textfugu.com"
+      }
+    ],
+    "description": "A Japanese Culture & Language Blog",
+    "name": "Tofugu",
+    "alternateName": "Tofugu LLC",
+    "email": "hello@tofugu.com",
+    "image": "https://files.tofugu.com/misc/logo.png",
+    "logo": {
+      "@type": "ImageObject",
+      "contentURL": "https://www.tofugu.com",
+      "url": "https://www.tofugu.com",
+      "width": {
+        "@type": "QuantitativeValue",
+        "maxValue": 1280
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "maxValue": 800
+      }
+    },
+    "url": "https://www.tofugu.com/"
+  },
+  "dateModified": "2017-07-20T00:00:00Z",
+  "mainEntityOfPage": "https://www.tofugu.com/japanese/spaced-repetition/"
+}
+</script>
+
+<title>Spaced Repetition and Japanese: The Definitive Guide</title>
+<!-- Generic link data -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://www.tofugu.com/stylesheets/master-1de93200.css" rel="stylesheet" />
+<link href='../spaced-repetition.1.html' rel='canonical'>
+<link href='https://www.tofugu.com/feed.xml' rel='alternate' title='Tofugu RSS' type='application/rss+xml'>
+<!-- Favicon data -->
+<link href='https://www.tofugu.com/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://www.tofugu.com/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://www.tofugu.com/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://www.tofugu.com/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://www.tofugu.com/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+<link href='https://www.tofugu.com/favicon.png' rel='shortcut icon'>
+<link href='https://www.tofugu.com/favicon.ico' rel='icon' type='image/ico'>
+<!-- JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script async='async' type='text/javascript'>
+(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];
+j.async=1;j.src=o;j.dataset.sumoSiteId='ab264fc1b5a4ada0cfe163d661ec871e919b4ea543127224cb8ab593e064d539';
+v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+</script>
+</head>
+
+<body class='japanese japanese_spaced-repetition japanese_spaced-repetition_index'>
+<div class='navbar-dropdown-fade'></div>
+
+<nav class='navbar navbar-fixed-top navbar-light bg-faded'>
+<div class='navbar-elements'>
+<a class='navbar-brand' href='https://www.tofugu.com/'>
+<span class='invisible'>Tofugu</span>
+</a>
+<ul class='nav navbar-nav'><li class='dropdown nav-item japanese'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japanese/' id='dJapanese'>
+Japanese <i class="fa fa-comments"></i><span class="sr-only">(current)</span>
+</a>
+<div aria-labelledby='dJapanese' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japanese'>
+<a href='https://www.tofugu.com/japanese/' title='View Japanese archive'>
+<div>
+<i class='fa fa-comments'></i>
+<br>
+View All
+Japanese
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item japanese-grammar'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-grammar/' id='dJapanese-grammar'>
+Grammar <i class="fa fa-book"></i>
+</a>
+</li><li class='dropdown nav-item japanese-learning-resources-database'>
+<a class='nav-link' href='https://www.tofugu.com/japanese-learning-resources-database/' id='dJapanese-learning-resources-database'>
+Resources <i class="fa fa-folder-open"></i>
+</a>
+</li><li class='dropdown nav-item japan'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' href='https://www.tofugu.com/japan/' id='dJapan'>
+Japan <i class="fa fa-globe"></i>
+</a>
+<div aria-labelledby='dJapan' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail article-thumbnail-archive japan'>
+<a href='https://www.tofugu.com/japan/' title='View Japan archive'>
+<div>
+<i class='fa fa-globe'></i>
+<br>
+View All
+Japan
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='dropdown nav-item more'>
+<a aria-expanded='false' aria-haspopup='true' class='nav-link' data-target='#' data-toggle='dropdown' id='dMore'>
+More <i class="fa fa-hand-peace-o"></i>
+</a>
+<div aria-labelledby='dMore' class='dropdown-menu'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/series-1cdc95cc.svg); background-color: #d33682; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/series/' title='Check out our series page'>
+<div>
+<span class='article-thumbnail-title'>Series</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/travel-26e4f177.svg); background-color: #dc322f; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/travel/' title='Read our travel article'>
+<div>
+<span class='article-thumbnail-title'>Travel</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/reviews-b5e65009.svg); background-color: #859900; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/reviews/' title='Read our product reviews'>
+<div>
+<span class='article-thumbnail-title'>Reviews</span>
+</div>
+</a>
+</div>
+<div class='article-thumbnail more' style='background-image: url(https://www.tofugu.com/images/more/interviews-1a1ade30.svg); background-color: #6c71c4; background-size: 10vw; background-repeat: no-repeat'>
+<a href='https://www.tofugu.com/interviews/' title='Read our interviews'>
+<div>
+<span class='article-thumbnail-title'>Interviews</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li><li class='nav-item'>
+<a class='nav-link' href='https://www.tofugu.com/podcast' title='Check out our podcast channels'>
+<span class='sr-only'></span>
+Podcast
+<i class='fa fa-microphone'></i>
+</a>
+</li>
+<li class='nav-item search'>
+<a class='nav-link search-toggle' data-search='/search-688f9400.json' href='index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#' title='Search articles'>
+<i class='fa fa-fw fa-search'></i>
+<span class='sr-only'>
+Search
+</span>
+</a>
+</li>
+</ul>
+</div>
+<progress class='nav-progressbar' max='100' title='How much of the page you have seen so far. Hold and drag to change page position.' value='0'></progress>
+</nav>
+
+<div class='search-area'>
+<div class='container'>
+<div class='search-area-input'>
+<input placeholder='Search articles' type='text'>
+</div>
+<div class='search-area-results index'>
+<ol class='article-index-list'></ol>
+</div>
+</div>
+</div>
+
+<div class='article'>
+<header class='article-header header-vertical-position-mid' style='background-image: url(https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/header-2560x.jpg);'>
+
+<div class='container'>
+<div class='article-header-elements'>
+<div class='mobile-article-header-img hidden-sm-up'>
+<img width="100%" src="https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/header-640x.jpg" alt="Header 640x" />
+</div>
+<h1 class='article-title'>
+<span class='article-highlight'>
+Spaced Repetition <span class="conjunction">and</span> Japanese: The Definitive Guide
+</span>
+<small class='article-subtitle'>
+<span class='article-highlight'>
+All the best SRS programs and how to use them
+</span>
+</small>
+</h1>
+<p class='article-meta'>
+<span class='article-highlight'>
+<time datetime="2017-07-20T00:00:00Z">July 20, 2017</time>
+•
+<span class='word-count'></span>
+words written by
+<a href="../../about/people/koichi.1.html" rel="author">Koichi</a>
+•
+Art by
+<a href="https://www.tofugu.com/about/people/aya-francisco/">Aya Francisco</a>
+<a href="https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/header-5120x.jpg" title="Download header wallpaper" target="_blank"><i class='fa fa-cloud-download'></i>
+</a></span>
+</p>
+</div>
+</div>
+<div class='bg-angled bg-angled-bottom'></div>
+</header>
+<div class='container'>
+<article>
+<div class='article-content'>
+<div class='container'>
+<p>When you need to learn a lot of Japanese vocabulary, and you want to learn it well, <a href="https://www.tofugu.com/japanese/keyword-mnemonic-method/">a combination of mnemonics</a> and some kind of spaced repetition system ("SRS" from here on) will be the most efficient way to go about it. Even if you're already using an SRS, I'm going to show you how to make it a more efficient and effective tool.</p>
+
+<p>If you're not using an SRS – damn, <em>you need to read this article</em>. You can buy me a thank-you coffee later.</p>
+
+<p>First, for those of you not familiar, what is spaced repetition?</p>
+
+<blockquote>
+  <p>Spaced repetition is a learning technique based on flashcards. If you get a card correct, the interval between now and the next review will get longer. If you get it wrong, the interval gets shorter.</p>
+</blockquote>
+
+<blockquote class="highlight-right">
+  <p>Even if you're already using an SRS, I'm going to show you how to make it a more efficient and effective tool.</p>
+</blockquote>
+
+<p>Basically, an SRS will adjust when you review something based on your performance (did you get it right? Kind of right? Wrong?) using what's called the <a href="https://en.wikipedia.org/wiki/Spacing_effect">spacing effect</a>. You develop a stronger memory when you recall something right before you forget it. A good spaced repetition algorithm will line reviews up in this important window, allowing you to review your flashcards at the most efficient moment possible.</p>
+
+<p>Thankfully, there are many applications out there built on the concept of spaced repetition, though some are better than others. Each have their own secret algorithms. Some include mnemonics (which changes how well you can recall something, thus changing the ideal timing). Others offer multiple choice (bad!), and some make you type in the answer (good!). On top of all this, some systems have communities that make and share decks to be used in the SRS. You can download them, change them, or make your own.</p>
+
+<p>My point is, there are <em>a lot</em> of SRS options out there. Depending on your goals and learning style, one may be better for you than the rest. I'll give you some of my suggestions, along with some additional info, so that you can make an educated decision on what works best for you.</p>
+
+<ul id="markdown-toc">
+  <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#pre-made-spaced-repetition-systems-for-japanese-vocabulary" id="markdown-toc-pre-made-spaced-repetition-systems-for-japanese-vocabulary">Pre-Made Spaced Repetition Systems for Japanese Vocabulary</a>    <ul>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#wanikani" id="markdown-toc-wanikani">WaniKani</a></li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#anki" id="markdown-toc-anki">Anki</a></li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#iknow" id="markdown-toc-iknow">iKnow</a></li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#memrise" id="markdown-toc-memrise">Memrise</a></li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#tinycards" id="markdown-toc-tinycards">Tinycards</a></li>
+    </ul>
+  </li>
+  <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#custom-built-spaced-repetition-decks-for-japanese-vocabulary" id="markdown-toc-custom-built-spaced-repetition-decks-for-japanese-vocabulary">Custom-Built Spaced Repetition Decks for Japanese Vocabulary</a></li>
+  <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#mnemonics--srs-decks" id="markdown-toc-mnemonics--srs-decks">Mnemonics + SRS Decks</a></li>
+  <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#spaced-repetition-for-japanese-sentences" id="markdown-toc-spaced-repetition-for-japanese-sentences">Spaced Repetition for Japanese Sentences</a></li>
+  <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#ways-to-quiz-yourself-with-srs" id="markdown-toc-ways-to-quiz-yourself-with-srs">Ways to Quiz Yourself with SRS</a>    <ul>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#make-sure-you-do-recall" id="markdown-toc-make-sure-you-do-recall">Make Sure You Do Recall</a></li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#be-overly-strict-with-yourself" id="markdown-toc-be-overly-strict-with-yourself">Be (Overly) Strict With Yourself</a></li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#japanese-to-english-reviews" id="markdown-toc-japanese-to-english-reviews">Japanese-to-English Reviews</a></li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#english-to-japanese-reviews" id="markdown-toc-english-to-japanese-reviews">English-to-Japanese Reviews</a></li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#japanese-to-japanese-definition-reviews" id="markdown-toc-japanese-to-japanese-definition-reviews">Japanese-to-Japanese Definition Reviews</a></li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#japanese-audio-to-english-reviews" id="markdown-toc-japanese-audio-to-english-reviews">Japanese Audio-to-English Reviews</a></li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#image-to-japanese-vocabulary-reviews" id="markdown-toc-image-to-japanese-vocabulary-reviews">Image-to-Japanese Vocabulary Reviews</a></li>
+      <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#image-to-japanese-explanation-reviews" id="markdown-toc-image-to-japanese-explanation-reviews">Image-to-Japanese Explanation Reviews</a></li>
+    </ul>
+  </li>
+  <li><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#have-you-started-using-srs-yet" id="markdown-toc-have-you-started-using-srs-yet">Have You Started Using SRS Yet?</a></li>
+</ul>
+
+<h2 id="pre-made-spaced-repetition-systems-for-japanese-vocabulary">Pre-Made Spaced Repetition Systems for Japanese Vocabulary</h2>
+
+<figure class="figure-middle"><img alt="an old man handing a pre-made srs deck to a young man" src="https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/pre-made-deck.gif" /></figure>
+
+<p>Some spaced repetition systems will have proprietary vocabulary lists, as well as their own ideas on how the introduction of new words should be ordered. If you are more a beginner of Japanese, I'd just take this route (and supplement later on with your own self-made decks). All the thinking is done for you, and you only need to worry about sitting down once or twice a day to do your reviews. If you do this, you'll learn and get better. It's that simple.</p>
+
+<p>Another reason you should use a pre-made deck is a lot of people spend too much time preparing their "perfect" decks, only to burn out or waste a lot of time before they even get started. It feels good for our human brains to plan things, but your goal isn't planning; it's learning. So I'd rather you avoid this trap altogether.</p>
+
+<p>As for what pre-made decks/systems are good – I've introduced the good ones to you below; their pros and cons, and how I think you should use them for maximum efficiency. In the end, choose what you believe will work best for your own personal goals, as well as your learning style. Better yet, give them all a try and pick the one that makes you say "Hell yes, this is the one!"</p>
+
+<h3 id="wanikani">WaniKani</h3>
+
+<figure class="figure-middle"><img alt="the crabigator from wanikani kanji learning app" src="https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/wanikani.jpg" /></figure>
+
+<p>WaniKani's method for teaching Japanese vocabulary looks like this:</p>
+
+<ol>
+  <li>First it teaches you kanji, using mnemonics to make memorization "stickier" in your brain.</li>
+  <li>Then, it teaches you vocabulary using the kanji you already know. Vocabulary also uses mnemonics to help you increase your recall rate.</li>
+  <li>Kanji and vocabulary are put in a review queue that runs on a spaced repetition system. You use mnemonics to recall them, until you shed them for more fluent memories. This happens naturally over time, and you don't have to think about it.</li>
+</ol>
+
+<p>The ordering of the vocabulary is based on the ordering of the kanji. Although this naturally gets you some very common vocabulary early on, it's not purely frequency-based vocabulary ordering. Still, by reaching the end you learn just about every kanji and vocabulary word that you'd want to know.</p>
+
+<blockquote class="highlight-left">
+  <p>You use mnemonics to recall kanji and vocabulary, until you shed them for more fluent memories. This happens naturally over time, and you don't have to think about it.</p>
+</blockquote>
+
+<p>That being said, WaniKani is the only spaced repetition system that offers a curated system for teaching both kanji and vocabulary. Kanji knowledge makes acquiring vocabulary much easier, and I think it's a big (though common) mistake to skip kanji learning. It will only make progress more and more difficult for you in the future.</p>
+
+<p>The best part about WaniKani is that it really is efficient. <a href="https://www.tofugu.com/japanese/keyword-mnemonic-method/">Not only does it utilize mnemonics</a>, but it teaches you kanji in an order that gets you to the end goal the fastest (being able to understand ~2,000 kanji and ~6,000 Japanese vocabulary words). If you sit down a couple times a day to do your reviews, you can be done in a little under a year and a half. Most students in classrooms take a decade to do the same thing, if they even make it that far.</p>
+
+<p><strong>Pros:</strong></p>
+
+<ul>
+  <li>Uses mnemonics. This makes memorization feel like magic.</li>
+  <li>You learn kanji and vocabulary at the same time (these two silos of knowledge feed each when combined).</li>
+  <li>Just sit down, do your reviews, and you'll progress. No need to think about anything other than doing your reviews.</li>
+  <li>You <em>have</em> to type in the answer (no multiple choice, no "I felt like I knew it" button). This means you are <em>actually</em> recalling the information in your head. I'm not sure how else to put it, but any other answering method is just cheating.</li>
+  <li>Large number of third party apps and extensions to modify the WaniKani experience to your liking.</li>
+</ul>
+
+<p><strong>Cons:</strong></p>
+
+<ul>
+  <li>You have to learn what WaniKani wants you to learn (it's all pretty good stuff, though).</li>
+  <li>There's no English → Japanese reviews (there are some third party apps built around testing your WaniKani items in this order, though, if you have the time for this).</li>
+  <li>Beginning is slow, since all information builds on previous knowledge. You have to prove you know something before it unlocks something else, and with the "space" in spaced repetition, that means you have to show the system that you can answer something correctly even after some time (spacing) has passed. It speeds up as you add more cards to your review queue, though (approximately a week or two).</li>
+</ul>
+
+<p><strong>Link:</strong> <a href="https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=SRS%20for%20Japanese%20Vocabulary">WaniKani</a></p>
+
+<h3 id="anki">Anki</h3>
+
+<figure class="figure-middle"><img alt="landing page for the anki srs app" src="https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/anki.jpg" /></figure>
+
+<p>Anki is by far the most versatile of the spaced repetition systems out there. If you want to do something, anything really, there's probably a way to do it. With that versatility, though, comes a lot of complication. If you use the default setup, I don't think it's worth using. To make Anki useful, you're going to have to make some changes:</p>
+
+<p>First, you should change your deck <a href="https://www.reddit.com/r/Anki/comments/2gdukp/how_to_enable_typing_in_answers_on_anki/">so that it requires you to actually type in the answer</a>. Second, you should install the <a href="https://ankiweb.net/shared/info/3918629684">Japanese Support add-on</a>. Third… holy crap! There are about a hundred things you <em>should</em> do, and a million things you <em>could</em> do, which sums up the problem with Anki. It can be too much.</p>
+
+<p>But with all this, there is a huge number of user-created decks that you can just download and use. For all-inclusive vocab decks, I'd recommend searching for keywords like "frequency Japanese," "common Japanese," "core Japanese," or even just the name of the textbook you're studying with.</p>
+
+<p>Although Anki takes a bit more work (and tech savvy) to use, it can be great once you get things set up and working. More than pre-made decks, though, I do really recommend using Anki for your custom decks (more on that later on), but its usefulness with pre-made decks can't be ignored either.</p>
+
+<p><strong>Pros:</strong></p>
+
+<ul>
+  <li>Works on just about everything you can imagine. Browser, iOS, Android, MacOS, Windows, and even Linux. You can set up web sync (which is kind of a difficult process, but works when it works) so that you are able to do your reviews anywhere, even without an Internet connection. You'll need to connect to the Internet to sync though.</li>
+  <li>Incredibly customizable. You can do almost anything you want.</li>
+  <li>There are <em>a lot</em> of decks you can download.</li>
+  <li>Large number of add-ons to modify Anki to your liking.</li>
+</ul>
+
+<p><strong>Cons:</strong></p>
+
+<ul>
+  <li>Anki lets you add more items to your review pile manually. People love doing this. The result? People get burned out when all these reviews come back to haunt them later on (after the "space" of spaced repetition happens). Don't do this, and try to limit the number of new items you allow yourself to do every day. Think about future you.</li>
+  <li>When you answer, you tell Anki how well you feel you knew the answer. Do I feel like I did good? I'll hit that button. Do I think I did okay? I'll hit that button. Do I think I did bad? Nobody thinks they did bad. My point is, people always think they did a little better than they actually did. Even though Anki has you recall information (which is good), grading yourself requires you to be strict, and I don't like it. <em>YOU WILL CHEAT, EVEN IF YOU'RE SAYING TO YOURSELF RIGHT NOW THAT YOU WON'T CHEAT</em>. Instead of leaving it to chance, I'd recommend <a href="https://www.reddit.com/r/Anki/comments/2gdukp/how_to_enable_typing_in_answers_on_anki/">customizing Anki so that it requires you to type in your answer</a>. Then you have a black and white way of seeing whether you know something or not.</li>
+  <li>Customization will eat up a lot of your time, and require practice to gain familiarity with the system.</li>
+  <li>Some of the shared decks are gray-area-legal.</li>
+</ul>
+
+<p><strong>Link:</strong> <a href="https://apps.ankiweb.net">Anki</a></p>
+
+<h3 id="iknow">iKnow</h3>
+
+<figure class="figure-middle"><img alt="landing page for the iknow spaced repetition app" src="https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/iknow.jpg" /></figure>
+
+<p>This spaced repetition app has a built-in course that teaches you the 6,000 most common Japanese words, six giant chunks at a time. When studying, you're served ten items at a time, which you can review in <em>one of four ways</em>. In the study sessions, you're shown the same items in a variety of question types: multiple choice, audio quizzes, type-in-the-answer, sentence questions, and more.</p>
+
+<p>At this point you may be able to see iKnow's biggest problem: too many options, not enough structure. With so much information to cover and so many ways to study, you spend a lot of extra time reviewing items over and over without space in between (this is s<em>paced</em> repetition, isn't it?). You'd have to put in a lot of time and effort to figure out how much study is too much and tailor your routine.</p>
+
+<p>Despite its shortcomings, iKnow has some some nice features. First, it's polished and professional. The content itself is good, with high quality audio, memorable example sentences, and pictures (stock photos though they are) that help aid memorization.</p>
+
+<p>But the best thing about iKnow is the analytics. There are charts and graphs that show your progress, timing of upcoming reviews, and the difficulty of individual words (to you). There's even a calendar that records when you studied and for how long. The data you're given is very robust and this alone may make the service worth it for you.</p>
+
+<p><strong>Pros:</strong></p>
+
+<ul>
+  <li>iKnow has a built-in course, Japanese Core 6000, that teaches you the 6,000 most common words in Japanese.</li>
+  <li>The example audio is high quality.</li>
+  <li>Words are taught in context with sentences.</li>
+  <li>Pictures help with memorization.</li>
+  <li>There is a lot of data and analytics, so you get a clear picture of your actual knowledge.</li>
+</ul>
+
+<p><strong>Cons:</strong></p>
+
+<ul>
+  <li>The accompanying pictures are run-of-the-mill stock photos.</li>
+  <li>The app lets you keep studying as long as you want, which means you'll burn out faster.</li>
+  <li>The Japanese course only teaches vocabulary and nothing else. Grammar and kanji have to be learned separately or through trial and error, which isn't very efficient.</li>
+  <li>iKnow lessons are long. You're taught a chunk of new words, then served questions with audio clips, example sentences, Japanese-English, English-Japanese, and on and on. The vocabulary is pounded into your short-term memory, which will disappear quickly because it's <em>short-term</em>.</li>
+</ul>
+
+<p><strong>Link:</strong> <a href="http://iknow.jp">iKnow</a></p>
+
+<h3 id="memrise">Memrise</h3>
+
+<figure class="figure-middle"><img alt="logo for memrise srs" src="https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/memrise.jpg" /></figure>
+
+<blockquote class="highlight-right">
+  <p>Thankfully, Memrise lets you disable "tap questions," which forces you type in answers. This instantly changes the game and makes the app worthwhile.</p>
+</blockquote>
+
+<p>Memrise is more than just a flashcard review app. It also has learning tools that help you study new items before they're added to your review queue. As you learn, you're offered mnemonics, which memrise calls "mems," to help you learn. Unfortunately, you're served five to seven mems created by the Memrise community. This means you never know the quality of the mnemonic you're getting and you have to take time to choose which one you want to focus on.</p>
+
+<p>When it comes to lessons and reviews, the setup is similar to iKnow. You're given new words mixed with various types of multiple choice questions; Japanese-English, English-Japanese, audio, and kana-construct to name a few. But the multiple choice really hurts the experience. Thankfully, Memrise does let you disable "tap questions," which forces you type in answers. This instantly changes the game and makes the app worthwhile, allowing you to enjoy the large selection of shared decks and excellent UI. As long as you avoid multiple choice and questionable "mems," Memrise is a solid SRS choice.</p>
+
+<p><strong>Pros:</strong></p>
+
+<ul>
+  <li>There's a big, active community that makes decks and supports each other.</li>
+  <li>The user experience is excellent. Great design and gamification will make you look forward to your reviews.</li>
+</ul>
+
+<p><strong>Cons:</strong></p>
+
+<ul>
+  <li>Multiple choice is default, so make sure you turn it off and type in your answers. Multiple choice makes this app useless.</li>
+  <li>The Community-made mnemonics vary greatly in quality and Memrise serves you several at a time, which might muddle the target concept in your brain.</li>
+</ul>
+
+<p><strong>Link:</strong> <a href="https://www.memrise.com">Memrise</a></p>
+
+<h3 id="tinycards">Tinycards</h3>
+
+<figure class="figure-middle"><img alt="landing page for tinycards by duolingo" src="https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/tiny-cards.jpg" /></figure>
+
+<p><mark><i>Update: Unfortunately, <a href="https://support.duolingo.com/hc/en-us/articles/360043909772-Tinycards-Announcement">Tinycards is no longer available</a> as of September, 2020.</i></mark><br /></p>
+
+<p>Tinycards is Duolingo's entry into the SRS flashcard scene. They've had a good language learning app for years, and it's great to see their flashcard app has the same excellence in its DNA. Its user interface is miles ahead of Anki; it's simple and easy-to-use. But even with the Duolingo customer base feeding into Tinycards, its community is small. This means the number of shared decks is low (for Japanese learning anyway).</p>
+
+<p>On the plus side, Tinycards gives you get a basic, functional SRS flashcard app without the headaches that come with Anki. No desktop app, no syncing between devices. Just sign up for an account, use the service, and that's it!</p>
+
+<p>But with simplicity comes a lack of features, and this is where Tinycards becomes a problem. Just like Memrise and iKnow, your study sessions introduce new words and immediately quiz you on material with (sigh) multiple choice. Sure, sometimes you're asked to type in the answer but there is no setting which completely excludes multiple choice. Worse yet, if you get an answer wrong, a little box appears that says "I was right." Click that and you can cheat yourself out of progress any time you want.</p>
+
+<p>I would love to recommend Tinycards, because it's so pretty, simple, and functional. But until it offers a setting that disables multiple choice, the app isn't worth your time.</p>
+
+<p><strong>Pros:</strong></p>
+
+<ul>
+  <li>A beautiful, simple user interface. It's so easy to sign up, get shared decks, add cards, review cards, and just <em>start studying.</em> The exact opposite of Anki.</li>
+  <li>Cards aren't very customizable, which means you won't be tempted to tweak decks into perfection.</li>
+</ul>
+
+<p><strong>Cons:</strong></p>
+
+<ul>
+  <li>Some questions require you to type the answer, but very few. Most of the time, questions are multiple choice which does not help you learn.</li>
+  <li>There aren't many shared decks right now, but that will likely change.</li>
+  <li>No Android app available.</li>
+</ul>
+
+<p><strong>Link:</strong> <a href="https://tinycards.duolingo.com/">Tinycards</a></p>
+
+<p>Those are the main players (in my mind) when it comes to Japanese vocabulary SRS. They aren't the <em>only</em> players out there, but they do have some of the biggest infrastructures built around them in terms of content and usability.</p>
+
+<p>Although I think it's fine to try them all out, at some point you should choose one (or two, I'd suggest a combination of WaniKani and something else, as they will have very different advantages) and stick with it. The power of SRS is in the spacing, and if you keep starting over you'll never use anything long enough to get to those long (and important) memory intervals. Once you find one you like, try to stick with it for at least three months to see results. After that, you'll probably want to keep using it anyway, purely because of the good progress you're making.</p>
+
+<h2 id="custom-built-spaced-repetition-decks-for-japanese-vocabulary">Custom-Built Spaced Repetition Decks for Japanese Vocabulary</h2>
+
+<figure class="figure-middle"><img alt="young man copying kanji out of a dictionary" src="https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/custom-built-srs-decks.gif" /></figure>
+
+<p>Although I think a pre-made deck or system makes the most sense for beginners, intermediate-and-above learners should consider making their own custom decks.</p>
+
+<p>At this point in your Japanese language learning journey, you should be coming in contact with real Japanese. That could be movies, TV, anime, manga, books, tweets, etc. Or, you could be talking with someone in Japanese. Whatever it is, you're naturally – and consistently – coming across new words you want to memorize. When this happens, add them to your study deck. For most people, I'd recommend Anki for these "custom" cards.</p>
+
+<p>The most important thing is making it easy to add new words. You have to come up with a system – or a trigger – so that you develop an "if _____ then _____" reaction.</p>
+
+<p><em>If</em> you see a new word you don't know, <em>then</em> you add it to your deck via your smartphone.</p>
+
+<p><em>If</em> you see a sentence you want to learn in a magazine, <em>then</em> you take a picture with your phone, and check your photos every night before bed, adding words to your deck.</p>
+
+<p>See what I'm saying? If you work on building a good system, you'll be able to grow your deck naturally. If you don't have a system in place, your deck will be dead in the water.</p>
+
+<p>As for <em>what</em> you add? That's up to you. You're probably a more advanced learner if you're doing this, so you should know what you want to study and why. The main thing is to add new items consistently, trickling them into your deck over time. Then, you can sit back and let the SRS take care of the rest.</p>
+
+<h2 id="mnemonics--srs-decks">Mnemonics + SRS Decks</h2>
+
+<figure class="figure-middle"><img alt="man thinking of himself being eaten by a table" src="https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/mnemonics-srs-deck.gif" /></figure>
+
+<p>I've mentioned mnemonics a couple of times in this article already and I personally think they are an important part of the SRS equation. What mnemonics do is help you recall otherwise difficult (or impossible) to remember information early on in a card's SRS progress. You learn a word, make a mnemonic for it (making it stickier in your mind), and then it comes up quickly in your SRS. Using the mnemonic you struggle, but you're able to recall the card's answer without looking it up (and cheating). That means you can mark it as correct, and it goes back into your review queue.</p>
+
+<p>Then, the interval gets longer, and eventually you see the card again. You use the mnemonic again, but this time it's not as much of a struggle. This goes on a few more times until you no longer use the mnemonic, and you're left only with the ability to recall the answer without it. This gets faster and faster with each recall, until the item reaches a "fluent" state.</p>
+
+<p>Without a mnemonic, many of the words you learn will be stuck in low-level purgatory. They'll eventually get out thanks to you beating your proverbial head against the wall, but in the long run it's much slower, and you'll have to use more of your time re-studying the same items over and over. If you keep adding new items to your deck, this process gets heavier and heavier, until you feel buried.</p>
+
+<blockquote class="highlight-left">
+  <p>What mnemonics do is help you recall otherwise difficult to remember information early on in a card's SRS progress.</p>
+</blockquote>
+
+<p>Mnemonics help you to keep moving items forward in the system, and I highly recommend you use them. I originally thought mnemonics were snake oil, but now I think they're actually one of the most important learning techniques ever created. Use them. We've written an article <a href="https://www.tofugu.com/japanese/keyword-mnemonic-method/">showing you how to make your own mnemonics to study Japanese</a>.</p>
+
+<p>Even if you are using a pre-made deck, there are plenty of mnemonic-filled options out there. For example, people have made decks from <a href="https://ankiweb.net/shared/decks/heisig">Heisig's Remembering the Kanji</a>. The community at <a href="https://kanji.koohii.com">Kanji Koohii</a> makes their own mnemonics (which often show up in public Anki decks, as well). Memrise has a community of people making mnemonics for every item imaginable which you can use. <a href="https://www.tofugu.com/japanese/keyword-mnemonic-method/">You can even make your own mnemonics</a>.</p>
+
+<p>And of course, <a href="https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Spaced%20Repetition%20and%20Japanese">WaniKani</a> has mnemonics built straight into the system for both kanji and vocabulary.</p>
+
+<p>Add the mnemonics step to your SRS, and you'll find yourself memorizing words much more quickly in the long run.</p>
+
+<h2 id="spaced-repetition-for-japanese-sentences">Spaced Repetition for Japanese Sentences</h2>
+
+<figure class="figure-middle"><img alt="young man and old man skipping" src="https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/sentences.jpg" /></figure>
+
+<p>At a certain level, it's necessary to graduate from vocabulary cards to sentence cards. Sentences help you to understand vocabulary in context (ideally, it will contain vocabulary you already know from previous SRS study), allow you to study grammar, and increase your inventory of things that you can use in conversation/writing. You need this to advance your Japanese out of the intermediate plateau.</p>
+
+<p>In general, I recommend making sentence cards via the following methods:</p>
+
+<ul>
+  <li>If you are studying vocabulary words, go find sentences that use that word and add them to your decks.</li>
+  <li>When you study a sentence in a textbook, add those sentences to your decks.</li>
+  <li>If your study includes Japanese paragraphs (textbooks included), add each individual sentence to an individual card (I would <em>not</em> recommend studying paragraphs on a single card, as that slows down the momentum).</li>
+  <li>You can also grab sentences from pre-made decks. Anki has a lot of them. Just search for "Japanese sentences" (though I think if you have a good system for adding sentences to your deck consistently, doing this yourself is going to be more personal, interesting, and effective).</li>
+</ul>
+
+<p>I recommend intermediate-and-above level Japanese learners use the sentences SRS method. If you're not yet intermediate, you can add some (easy) sentences, but in general the best bang for your buck will be in vocabulary. The context part is hard until you hit intermediate levels.</p>
+
+<h2 id="ways-to-quiz-yourself-with-srs">Ways to Quiz Yourself with SRS</h2>
+
+<figure class="figure-middle"><img alt="young man practicing kanji with a ghost" src="https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/quiz-yourself.gif" /></figure>
+
+<p>Spaced repetition is all about the intervals between reviews. Even though spacing isn't necessarily the same between systems, there's another factor to consider: <em>how</em> you should do those reviews. It's not as simple as:</p>
+
+<ol>
+  <li>Side A is the Japanese word.</li>
+  <li>Side B is the English answer.</li>
+</ol>
+
+<p>There are so many ways to organize "the question" and "the answer<sup id="fnref:1"><a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#fn:1" class="footnote">1</a></sup>," which can change depending on how well you know a word or sentence. On top of this, there are multiple ways to answer questions, regardless of what's on Side A or Side B. Let's start with some general tips:</p>
+
+<h3 id="make-sure-you-do-recall">Make Sure You Do Recall</h3>
+
+<p>Don't use any resources that uses multiple choice! If you follow this rule, you're probably going to be okay. Multiple choice is barely better than not studying at all. It <em>feels</em> so good, because it makes it easy to figure out the answer.</p>
+
+<p><em>Do these three options sound wrong? Okay, then this last one is probably right!</em></p>
+
+<p>You'll do better in terms of your "correct answer percentage" but it means very little if you're not <em>recalling</em>.</p>
+
+<p>Recalling requires you to pull the answer out of your brain, on your own, without looking at an answer. If you're doing multiple choice, <em>you're looking at the answer</em>. That's not helping you at all.</p>
+
+<p>Mnemonics, on the other hand, feel like cheating too. Despite this, mnemonics are actually quite effective, and don't hurt your learning (they help it). You're still going through the process of recalling an answer, which is the important part, even though you're taking a shortcut to get there. Using a mnemonic is great in the early stages of learning, and eventually you'll discard it and the word will become (fluently) yours.</p>
+
+<h3 id="be-overly-strict-with-yourself">Be (Overly) Strict With Yourself</h3>
+
+<blockquote class="highlight-right">
+  <p>If you say you knew the answer "well" or "perfect" when it was only okay, you're cheating yourself.</p>
+</blockquote>
+
+<p>If your SRS application has you do self-assessment (meaning it asks "how did you do?") then make sure you are overly strict. A couple of common ways people cheat themselves:</p>
+
+<ul>
+  <li>If you struggled to recall an answer, but you did manage to recall it without looking it up in any way, you still knew the answer. I think that's "so-so" or even "good." That struggle actually pins the memory as more important to your brain. If you say you knew the answer "well" or "perfect" when it was only okay, you're cheating yourself.</li>
+  <li>If you didn't know the answer, revealed the answer in your SRS, saw the answer, and thought "oh wait, I <em>did</em> know that!" … that means you <em>didn't</em> know it. In these situations, always mark yourself as wrong. Your memory didn't get stronger.</li>
+</ul>
+
+<p>If you're unsure, just lean toward the more conservative option. SRS is a long term game, and it's better to play it safe than to make yourself feel good or smart.</p>
+
+<h3 id="japanese-to-english-reviews">Japanese-to-English Reviews</h3>
+
+<p>Now let's look at some issues surrounding flashcard sides. Japanese-to-English is almost certainly the most common, and I think it's a good first step. The reason is you already have the English definition solidly in your brain somewhere. The Japanese is in your brain too, but it's not as strong. So, when you see the Japanese side, you are using that as your trigger to remember the Japanese. Then, all you need to do is pull the English side out. Once you do, you've made a connection between the two memories. Over time, this memory will get stronger.</p>
+
+<figure class="figure-middle"><img alt="japanese to english srs review cards" src="https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/japanese-word-english-definition.gif" /></figure>
+
+<p>When you are learning a new word, or new sentence, I would recommend the Japanese-to-English card pattern. It's easier in the beginning, and acts as a great stepping stone for English-to-Japanese, or just reading practice in general.</p>
+
+<h3 id="english-to-japanese-reviews">English-to-Japanese Reviews</h3>
+
+<p>English-to-Japanese is a little more difficult (compared to Japanese-to-English). As you can probably guess, the reason is the Japanese portion of the memory in your head isn't as strong as the English one. Say you have <i></i> <ruby>犬<rp>（</rp><rt>いぬ</rt><rp>）</rp></ruby> and "dog" in your brain. Obviously, the "dog" version is going to have more connections to it, and said connections will be stronger – easier to recall. So, if you see "dog" on a card, and have to recall 犬, it's going to be a little tougher because you're pulling out a weaker memory.</p>
+
+<figure class="figure-middle"><img alt="english to japanese srs review cards" src="https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/english-word-japanese-defintion.gif" /></figure>
+
+<p>But, if you study 犬 and "dog" in a Japanese-to-English pattern <em>first</em>, you'll build up the strength of that 犬 memory. It will have a stronger connection to "dog" and your ability to recall it will have gotten better. So, I recommend you study words and sentences as Japanese-to-English first. Then, you can add the English-to-Japanese version to your SRS later. Alternatively, you could start reading Japanese texts (blogs, articles, tweets, manga, books, etc) at or around your level. This has similar results to English-to-Japanese cards. Studying with sentences is good too.</p>
+
+<h3 id="japanese-to-japanese-definition-reviews">Japanese-to-Japanese Definition Reviews</h3>
+
+<p>If you are an advanced learner, or just want to take English-to-Japanese <em>another</em> step forward, you may want to consider Japanese-to-Japanese flashcards. This means Japanese on one side and the definition on the other side is (twist!) <em>in Japanese</em>.</p>
+
+<figure class="figure-middle"><img alt="japanese to japanese spaced repetition review cards" src="https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/japanese-word-japanese-definition.gif" /></figure>
+
+<p>When you do this, you are basically compounding your Japanese language interest. I wouldn't recommend it until you are at a more advanced level though. You might want to check out <a href="https://www.tofugu.com/japanese/best-japanese-dictionary/">Kim Ahlstrom's article on dictionaries</a>, or <a href="https://www.tofugu.com/japanese/japanese-learning-stack-james/">James' "What I Use to Study Japanese" article</a>, because they both offer some suggestions on this (along with simpler dictionaries that are great for learners).</p>
+
+<h3 id="japanese-audio-to-english-reviews">Japanese Audio-to-English Reviews</h3>
+
+<p>Of course you could make your own, but there are some decks out there that have the audio piece in place, and you can rearrange them to play the audio for you, sans any text. Then you answer in English after you hear the Japanese.</p>
+
+<figure class="figure-middle"><img alt="japanese audio spaced repetition system cards" src="https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/audio-icon-english-def.gif" /></figure>
+
+<p>There are some problems with this method, though, namely <a href="https://www.tofugu.com/japanese/japanese-homophones/">there are a lot of homonyms in Japanese</a>. Differentiating between different words that sound exactly, or nearly exactly the same, is going to be a problem. But if you're making your own deck, or modifying a deck, you can tackle those instances as they come up. It also may be a great way to <a href="https://www.tofugu.com/japanese/japanese-learning-stack-dogen/">differentiate between pitch accents</a>, for example <i></i> <ruby>酒<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby> and <i></i> <ruby>鮭<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>.</p>
+
+<h3 id="image-to-japanese-vocabulary-reviews">Image-to-Japanese Vocabulary Reviews</h3>
+
+<p>This is a cool option, but it takes a bit of work. I'm sure there are shared decks out there that do this too, but I think finding your own images works better. That way when you see a picture of a dude eating food, you know that the definition is 食べる (to eat) and not the many other things in the picture (food, apples, dude, table, etc).</p>
+
+<figure class="figure-middle"><img alt="image of boy eating an apple on an srs card" src="https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/eating-an-apple.gif" /></figure>
+
+<p>Using this method allows you to think less in terms of <em>words</em> and more in terms of <em>ideas and concepts</em>. People are visual beasts, so for some this may be a much more effective learning method. For others not so much. That being said, I'd recommend doing this for words that you kind of already know, preferably through some kind of <a href="https://www.tofugu.com/series/japanese-mnemonics/">mnemonic method</a>. At this level, it will be a little more effective.</p>
+
+<h3 id="image-to-japanese-explanation-reviews">Image-to-Japanese Explanation Reviews</h3>
+
+<p>Finally, there is image-to-Japanese explanation. This is a sentence you create, or a sentence you find, that <em>describes</em> the scene. How descriptive your sentence is will depend on you and your level. But if you have a picture of someone eating an octopus, you could say the "answer" is 彼はタコを食べてる.</p>
+
+<figure class="figure-middle"><img alt="image of a boy eating an octopus on an srs review card" src="https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/eating-an-octopus.gif" /></figure>
+
+<p>This is definitely one of the most advanced card combinations you can do, and quite time consuming to set up. But it's really effective for expanding your Japanese in many different situations.</p>
+
+<hr />
+
+<p>Whatever you end up doing, the most important thing is to make sure you do your SRS reviews every day. Try to make it as easy as possible for yourself to actually do the reviews. Even if it's only for five minutes.</p>
+
+<h2 id="have-you-started-using-srs-yet">Have You Started Using SRS Yet?</h2>
+
+<figure class="figure-middle"><img alt="young man and ghost handing spaced repetition cards to a girl" src="https://files.tofugu.com/articles/japanese/2017-07-20-spaced-repetition/trying-srs.gif" /></figure>
+
+<p>No matter how you study Japanese, and no matter what you're studying, I believe that using an SRS is key if you want to advance efficiently. Let the system do the timing for you, so that the only thing you need to worry about is feeding it new cards and sitting down to study them. There's no way you can do something like this without an application/algorithm helping you along (<a href="https://en.wikipedia.org/wiki/Leitner_system">though the Leitner System</a> certainly tries, and kind of works).</p>
+
+<p>When all the extraneous thinking is taken away, you can put your remaining focus into what's important. That's what SRS enables you to do, and I hope you give it a try.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>42 <a href="index.html@utm_source=Tofugu&amp;utm_medium=Article&amp;utm_campaign=Learn&#32;Japanese.html#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+
+
+</div>
+</div>
+</article>
+</div>
+<nav class='page-pagination'>
+<div class='pager-articles japanese-prev japanese-next'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='https://www.tofugu.com/japanese/best-japanese-dictionary/' title='View How Kim Ahlstrom, Creator of Jisho.org, Uses Dictionaries to Learn Japanese'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older Article' class='older-article-pagination'></span>
+</small>
+How Kim Ahlstrom, Creator of Jisho.org, Uses Dictionaries to Learn Japanese
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='https://www.tofugu.com/japanese/japanese-learning-resources-june-2017/' title='View New Japanese Learning Resources: June 2017'>
+<small>
+<span aria-label='Newer Article' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+New Japanese Learning Resources: June 2017
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='pager-category japanese'>
+<div class='container'>
+<ul class='pager'>
+<li class='pager-prev'>
+<a class='japanese' href='https://www.tofugu.com/japanese/japanese-learning-resources-june-2017/' title='View New Japanese Learning Resources: June 2017'>
+<small>
+<i class='fa fa-angle-left'></i>
+<i class='fa fa-fw fa-comments'></i>
+<span aria-label='Older japanese' class='older-article-pagination'></span>
+</small>
+New Japanese Learning Resources: June 2017
+</a>
+</li>
+<li class='pager-next'>
+<a class='japanese' href='https://www.tofugu.com/japanese/keyword-mnemonic-method/' title='View Using the Keyword Mnemonic Method to Learn Japanese Vocabulary'>
+<small>
+<span aria-label='Newer japanese' class='newer-article-pagination'></span>
+<i class='fa fa-fw fa-comments'></i>
+<i class='fa fa-angle-right'></i>
+</small>
+Using the Keyword Mnemonic Method to Learn Japanese Vocabulary
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</div>
+<script>
+  $(document).ready(function() {
+    var $text = $('.article-content')[0]
+    Countable.once($text, function(counter) {
+      $('.word-count').text(counter.words);
+    }, { ignoreReturns: true, stripTags: true });
+  });
+</script>
+
+<div class='footer-articles'>
+<div class='article-thumbnail-container'>
+<div class='article-thumbnail-row'></div>
+</div>
+</div>
+<footer class='document'>
+<div class='container'>
+<div class='row'>
+<div class='footer-left col-xs-6 col-md-4 col-md-offset-4'>
+<ul>
+<li class='heading'>
+<span>Additional Links</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/about/' title='What is Tofugu and the people behind it'>About</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/contact/' title='Get in touch with us'>Contact</a>
+</li>
+<li>
+<a href='../../jobs.1.html' title='Work for Tofugu'>Jobs</a>
+</li>
+<li>
+<a href='../../learn-japanese.1.html' title='Want to learn Japanese? Check out these resources'>Learn Japanese</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/news/' title='Announcements by yours truly'>News</a>
+</li>
+<li class='heading'>
+<span>Learn kanji</span>
+</li>
+<li>
+<a href='https://www.wanikani.com/?utm_source=tofugu&amp;utm_medium=article&amp;utm_campaign=Tofugu_Footer' title='Learn kanji effectively by using our tool'>WaniKani</a>
+</li>
+</ul>
+</div>
+<div class='footer-right col-xs-6 col-md-4'>
+<ul>
+<li class='heading'>
+<span>More Tofugu</span>
+</li>
+<li>
+<a href='https://www.tofugu.com/newsletter/' target='_blank' title='Sign up for our newsletter'>
+<i class='fa fa-fw fa-social-newsletter-square'></i>
+Newsletter
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/podcast' target='_blank' title='Listen to our podcast'>
+<i class='fa fa-fw fa-podcast'></i>
+Podcast
+</a>
+</li>
+<li>
+<a href='https://www.tofugu.com/feed.xml' target='_blank' title='Add Tofugu to your RSS feed'>
+<i class='fa fa-fw fa-social-rss-square'></i>
+RSS
+</a>
+</li>
+<li>
+<a href='https://twitter.com/tofugu/' target='_blank' title='Visit our Twitter @tofugu'>
+<i class='fa fa-fw fa-social-twtr-square'></i>
+Twitter
+</a>
+</li>
+<li>
+<a href='https://www.youtube.com/user/tofugu/' target='_blank' title='Visit our YouTube channel'>
+<i class='fa fa-fw fa-social-ytube-square'></i>
+YouTube
+</a>
+</li>
+<li class='copyright'>
+<span>Copyright <i class="copyright-symbol">&copy;</i> Tofugu LLC</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/master-2164c2ee.js" defer="defer"></script><script src="https://www.tofugu.com/javascripts/article-thumbnails-c4c03c86.js" defer="defer"></script>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1960021-29', 'tofugu.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>
