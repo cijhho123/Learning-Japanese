@@ -111,11 +111,36 @@ In other words, if you wanted to test whether you have kanji fluency, you could 
   
 If you could easily pass the test then that means you have kanji fluency. It means just by looking at a kanji you can remember it. Maybe you don't remember its exact strokes, maybe you don't remember its readings, maybe you don't remember its meanings, but you can still tell characters apart and recall which kanji you saw the other day. Of course, you don't have to do this test. It's just an imaginary algorithm that demonstrates what kanji fluency is.
 
+**Resources:**
+
+| Name | Link | Notes |
+| :--- | :--- | :--- |
+| **WaniKani** | [**Link**](https://www.wanikani.com/) | A highly effective, web-based Spaced Repetition System (SRS) focused on teaching kanji readings and vocabulary through mnemonic devices. (Free for the first three levels.) |
+| **Kanji Damage** | [**Link**](https://www.kanjidamage.com/) | An aggressive, highly opinionated, and often humorous site that teaches kanji using component-based mnemonics. Best used as a supplemental tool. |
+| **Learning Kanji in Two Weeks** | [**Link**](https://tatsumoto.neocities.org/blog/learning-kanji) | A detailed blog post outlining an immersion-style approach to rapidly acquiring kanji knowledge, often recommending Anki and a specific learning order. |
+| **Remembering the Kanji (RTK)** | [Local File](<./Resources/Kanji/Remembering the Kanji>) | Refers to the renowned book by James Heisig, which teaches kanji meanings and writing through mnemonic stories and focuses on separating the study of meaning from the study of readings. |
 
 * More content and offline copies are available [here](./Resources/Kanji)
 
-## Vocabulary
 
+## Vocabulary
+Vocabulary is the foundation upon which all other language skills are built. A strong vocabulary is crucial for understanding texts, following conversations, and expressing your own thoughts clearly. Learning vocabulary often goes hand-in-hand with studying kanji and grammar, as words are encountered and reinforced in context.
+
+**Effective Vocabulary Strategies:**
+* **Contextual Learning:** Instead of memorizing isolated words, learn vocabulary within full sentences or short phrases. This helps you understand natural usage and grammar structures simultaneously.
+* **Spaced Repetition (SRS):** Tools based on Spaced Repetition Systems (SRS), like Anki, are highly effective for long-term retention. They track your progress and present words just before you are likely to forget them.
+* **Sentence Mining:** As you read or watch Japanese content, extract unfamiliar but useful words and their associated sentences. This active process creates personal, memorable learning material.
+
+**Resources:**
+
+| Name                                   | Link                                                 | Notes                                                                                                                                                                                                                           |
+| :------------------------------------- | :--------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Anki** | [**Link**](https://apps.ankiweb.net/)                | The most popular free, open-source SRS software. Essential for creating and using custom or pre-made flashcards for vocabulary, kanji, and grammar.                                                                                 |
+| **Jisho** | [**Link**](https://jisho.org/)                       | A powerful online Japanese-English dictionary that provides multiple readings, pitch accents, example sentences, and kanji information, making it excellent for sentence mining.                                                |
+| **Core 2k/6k/10k Anki Deck** | *(Search for "Anki Core 2k/6k")* | A widely-used series of pre-made Anki decks that teach the most common Japanese words in order of frequency, complete with audio and example sentences.                                                                         |
+| **WaniKani** | [**Link**](https://www.wanikani.com/)                | A web-based SRS tool specifically designed to teach the Jōyō Kanji and associated vocabulary. It focuses on meaning and reading for long-term recall using mnemonics. (Free for the first three levels) |
+
+* More content and offline copies are available [here](./Resources/Vocabulary)
 
 
 ## Listening & Speaking Practice
