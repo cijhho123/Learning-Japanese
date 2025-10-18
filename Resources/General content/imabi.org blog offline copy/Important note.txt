@@ -1,0 +1,6 @@
+imabi.org
+
+The website is continously updated, and is currently (2025/10) undergoes "SITE REMODEL", at the time of saving this snapshot of the website only 54% of the pages have been remodeled.
+
+The snapshot will be updated in the future, in case you notice significant update to the site since this snapshot's last update - please open an issue on github or content me via email.
+Thanks.
