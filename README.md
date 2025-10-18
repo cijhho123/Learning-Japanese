@@ -71,6 +71,8 @@ Grammar is the framework of a language, including the rules for how words are fo
 * More content and offline copies are available [here](./Resources/Grammer)
 
 ## Kanji
+![Kanji Logo](<./Assets/Kanji-logo.jpg>)
+
 Kanji are logographic characters originating from China that are used in the Japanese writing system alongside the phonetic scripts hiragana and katakana. Each kanji character represents a meaning or an idea, and they are primarily used for nouns, verb stems, and adjective stems. While there are tens of thousands of kanji, the Jōyō kanji set of about 2,136 characters is considered the everyday core used in Japanese.
   
 **Kanji composition**  
@@ -124,6 +126,9 @@ If you could easily pass the test then that means you have kanji fluency. It mea
 
 
 ## Vocabulary
+
+![vocab Logo](<./Assets/Vocabulary-logo.jpg>)
+
 Vocabulary is the foundation upon which all other language skills are built. A strong vocabulary is crucial for understanding texts, following conversations, and expressing your own thoughts clearly. Learning vocabulary often goes hand-in-hand with studying kanji and grammar, as words are encountered and reinforced in context.
 
 **Effective Vocabulary Strategies:**
@@ -144,6 +149,9 @@ Vocabulary is the foundation upon which all other language skills are built. A s
 
 
 ## Listening & Speaking Practice
+
+<img src="./Assets/Listening-Speaking-logo.png" alt="listening and speaking Logo" height="300"/>
+
 Engaging in regular listening and speaking exercises is crucial for reinforcing grammar and vocabulary in context. This practice helps bridge the gap between theoretical knowledge and practical application. Incorporate the following activities into your routine:
 
 * **Listening Practice**: Immerse yourself in Japanese audio materials such as podcasts, news broadcasts, and language learning platforms. This will enhance your ability to understand spoken Japanese and familiarize you with various accents and speaking speeds.
@@ -157,16 +165,25 @@ Engaging in regular listening and speaking exercises is crucial for reinforcing 
 
 
 ## Reading Practice
+
+<img src="./Assets/Reading-logo.webp" alt="reading Logo" height="500"/>
+
 Building on your knowledge of kana, grammar, and kanji, it's time to enhance your reading skills. Engaging with Japanese texts not only reinforces vocabulary and grammar but also immerses you in the language's natural flow. Start with materials tailored to your proficiency level and gradually challenge yourself with more complex content.
 
 * More content and offline copies are available [here](./Resources/Reading)
 
 ## Writing Practice
+
+<img src="./Assets/Writing-logo.jpg" alt="writing Logo" height="500"/>
+
 Writing in Japanese helps solidify your understanding of grammar structures, vocabulary, and kanji. It also enhances your ability to organize thoughts and communicate effectively in the language.
 
 * More content and offline copies are available [here](./Resources/Writing)
 
 ## Cultural Immersion (AJATT)
+
+<img src="./Assets/AJATT-logo.jpg" alt="AJATT Logo" />
+
 **AJATT (All Japanese All The Time)** is an immersion-based language learning method that emphasizes surrounding yourself with Japanese content in your daily life. By integrating the language into various aspects of your routine, you can accelerate your learning process and develop a more intuitive understanding of Japanese.&#x20;
 
 **Key Components:**
@@ -179,3 +196,14 @@ Writing in Japanese helps solidify your understanding of grammar structures, voc
 
 * **Consistency:** Regular and consistent exposure to Japanese is crucial. Aim to incorporate the language into your daily life as much as possible.
 
+**Resources:**
+
+| Category | Resource Name | Description | Link |
+| :--- | :--- | :--- | :--- |
+| **Reading** | **Tadoku Books** | Beginner-friendly stories with simple grammar. | [Link](https://tadoku.org/) |
+| **Dictionary** | **Jisho.org** | Powerful online Japanese-English dictionary. | [Link](https://jisho.org/) |
+| **Anime Subtitles** | **kitsunekko** | Repository for Japanese and bilingual subtitles. | [Link](https://kitsunekko.net/) |
+| **Manga/Novels** | **JPDB** | A site for generating vocabulary lists from media. | [Link](https://jpdb.io/) |
+| **General** | **AJATT subreddit** | The subreddit r/ajatt for discussing AJATT and a lot of helpful resources | [Link](https://www.reddit.com/r/ajatt/) |
+
+* More content and offline copies are available [here](./Resources/AJATT)
